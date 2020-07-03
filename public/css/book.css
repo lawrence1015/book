@@ -1,0 +1,16 @@
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+  .uppertable {
+    border: 0px solid #dddddd;
+    text-align: left; padding: 8px;
+    vertical-align:top;
+    width: 0%;
+  }
+
+  .lowertable {
+  border: 0px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+  overflow-wrap: break-word;
+  width: 100%;
+  }
+}

@@ -1,0 +1,38 @@
+/**Internet Explore**/
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+  .uppertable {
+    border: 0px solid #dddddd;
+    text-align: left; padding: 8px;
+    vertical-align:top;
+    width: 0%;
+  }
+
+  .lowertable {
+  border: 0px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+  overflow-wrap: break-word;
+  width: 100%;
+  }
+
+  .paragraph {
+    flex: 1;
+    flex-basis: 100%;
+    flex-wrap: wrap;
+  }
+
+}
+/**Google Chrome**/
+.uppertable {
+  border: 0px solid #dddddd;
+  text-align: left; padding: 8px;
+  vertical-align:top;
+  width: 5%;
+  white-space: nowrap;
+}
+
+.lowertable {
+  border: 0px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}

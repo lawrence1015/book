@@ -108,6 +108,15 @@
         <p>
           <b>069</b> 하룻밤 묵고 가는 것에 대해 어떻게 생각해? ( stop for the night ) <br />
         </p>
+        <p>
+          <b>070</b> 코로나 바이러스에 대해 어떻게 생각하세요? ( corona virus ) <br />
+        </p>
+        <p>
+          <b>071</b> 새로운 휴가 계획에 대해 어떻게 생각하세요? ( vacation, plan ) <br />
+        </p>
+        <p>
+          <b>072</b> 그 뉴스에 대해 어떻게 생각하세요? ( news ) <br />
+        </p>
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
 
@@ -120,6 +129,9 @@
               067 What do you think about her new hairstyle?<br />
               068 What do you think about leaving early?<br />
               069 What do you think about stopping for the night?<br />
+              070 What do you think about the Corona Virus?<br />
+              071 What do you think about the new vacation plan?<br />
+              072 What do you think about the news?<br />
             </v-card-text>
           </v-card>
         </v-flex>

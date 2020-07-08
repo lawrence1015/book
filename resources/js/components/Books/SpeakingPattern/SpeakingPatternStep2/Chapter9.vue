@@ -94,19 +94,28 @@
         <br />
 
         <p>
-          <b>165</b> 옷 갈아입을 시간이 없어. ( change ) <br />
+          <b>225</b> 옷 갈아입을 시간이 없어. ( change ) <br />
         </p>
         <p>
-          <b>166</b> 말싸움할 시간 없어. ( argue ) <br />
+          <b>226</b> 말싸움할 시간 없어. ( argue ) <br />
         </p>
         <p>
-          <b>167</b> 휴식을 취할 시간도 없어. ( relax ) <br />
+          <b>227</b> 휴식을 취할 시간도 없어. ( relax ) <br />
         </p>
         <p>
-          <b>168</b> 저녁 먹을 시간이 없어. ( dinner ) <br />
+          <b>228</b> 저녁 먹을 시간이 없어. ( dinner ) <br />
         </p>
         <p>
-          <b>169</b> 영화 볼 시간이 없어.( see, movie ) <br />
+          <b>229</b> 영화 볼 시간이 없어.( see, movie ) <br />
+        </p>
+        <p>
+          <b>230</b> <br />
+        </p>
+        <p>
+          <b>231</b> <br />
+        </p>
+        <p>
+          <b>232</b> <br />
         </p>
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
@@ -115,11 +124,14 @@
           <v-flex xs12>
           <v-card light color="#a7d7c5">
             <v-card-text class="px-10" style="color:#d9e7cd;">
-              165 There’s no time to change.<br />
-              166 There’s no time to argue.<br />
-              167 There’s no time to relax.<br />
-              168 There’s no time to have dinner.<br />
-              169 There’s no time to see a movie.<br />
+              225 There’s no time to change.<br />
+              226 There’s no time to argue.<br />
+              227 There’s no time to relax.<br />
+              228 There’s no time to have dinner.<br />
+              229 There’s no time to see a movie.<br />
+              230 <br />
+              231 <br />
+              232 <br />
             </v-card-text>
           </v-card>
         </v-flex>

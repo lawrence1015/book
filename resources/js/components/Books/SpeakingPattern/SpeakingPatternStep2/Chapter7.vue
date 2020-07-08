@@ -1,4 +1,4 @@
-<template>
+5<template>
 
 <div :style = "{fontSize: fontSize + 'px'}">
 
@@ -94,19 +94,28 @@
         <br />
 
         <p>
-          <b>155</b> 난 아무 문제 없어. ( wrong ) <br />
+          <b>209</b> 난 아무 문제 없어. ( wrong ) <br />
         </p>
         <p>
-          <b>156</b> 할 일이 하나도 안 남았어. ( left ) <br />
+          <b>210</b> 할 일이 하나도 안 남았어. ( left ) <br />
         </p>
         <p>
-          <b>157</b> 무서워할 거 하나도 없어. ( be afraid of ) <br />
+          <b>211</b> 무서워할 거 하나도 없어. ( be afraid of ) <br />
         </p>
         <p>
-          <b>158</b> 걱정할 거 하나도 없어. ( worry, about ) <br />
+          <b>212</b> 걱정할 거 하나도 없어. ( worry, about ) <br />
         </p>
         <p>
-          <b>159</b> 그 녀석은 마음에 드는 구석이 하나도 없어. ( like, about ) <br />
+          <b>213</b> 그 녀석은 마음에 드는 구석이 하나도 없어. ( like, about ) <br />
+        </p>
+        <p>
+          <b>214</b>  <br />
+        </p>
+        <p>
+          <b>215</b>  <br />
+        </p>
+        <p>
+          <b>216</b>  <br />
         </p>
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
@@ -115,11 +124,14 @@
           <v-flex xs12>
           <v-card light color="#a7d7c5">
             <v-card-text class="px-10" style="color:#d9e7cd;">
-              155 There’s nothing wrong with me.<br />
-              156 There’s nothing left to do.<br />
-              157 There’s nothing to be afraid of.<br />
-              158 There’s nothing to worry about.<br />
-              159 There’s nothing to like about him.<br />
+              209 There’s nothing wrong with me.<br />
+              210 There’s nothing left to do.<br />
+              211 There’s nothing to be afraid of.<br />
+              212 There’s nothing to worry about.<br />
+              213 There’s nothing to like about him.<br />
+              214 <br />
+              215 <br />
+              216 <br />
             </v-card-text>
           </v-card>
         </v-flex>

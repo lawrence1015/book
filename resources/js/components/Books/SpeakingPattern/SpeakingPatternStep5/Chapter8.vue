@@ -94,20 +94,29 @@
         <br />
 
         <p>
-          <b>460</b> 우리 딸한테 관심 있어요? ( daughter ) <br />
+          <b>697</b> 우리 딸한테 관심 있어요? ( daughter ) <br />
         </p>
         <p>
-          <b>461</b> 이런 종류의 영화에 관심 있어? ( kind of, movie ) <br />
+          <b>698</b> 이런 종류의 영화에 관심 있어? ( kind of, movie ) <br />
         </p>
         <p>
-          <b>462</b> 우리랑 저녁 같이 할래? ( join. dinner ) <br />
+          <b>699</b> 우리랑 저녁 같이 할래? ( join. dinner ) <br />
         </p>
         <p>
-          <b>463</b> 비용을 나누는 거 어때요? ( split the cost ) <br />
+          <b>700</b> 비용을 나누는 거 어때요? ( split the cost ) <br />
                   *split the cost 비용을 분담하다. <br />
         </p>
         <p>
-          <b>464</b> 소설 읽는 거에 관심 있니? ( read, novel ) <br />
+          <b>701</b> 소설 읽는 거에 관심 있니? ( read, novel ) <br />
+        </p>
+        <p>
+          <b>702</b>  <br />
+        </p>
+        <p>
+          <b>703</b>  <br />
+        </p>
+        <p>
+          <b>704</b>  <br />
         </p>
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
@@ -116,11 +125,14 @@
           <v-flex xs12>
           <v-card light color="#a7d7c5">
             <v-card-text class="px-10" style="color:#d9e7cd;">
-              460 Are you interested in my daughter?<br />
-              461 Are you interested in this kind of movie?<br />
-              462 Are you interested in joining us for dinner?<br />
-              463 Are you interested in splitting the cost?<br />
-              464 Are you interested in reading a novel?<br />
+              697 Are you interested in my daughter?<br />
+              698 Are you interested in this kind of movie?<br />
+              699 Are you interested in joining us for dinner?<br />
+              700 Are you interested in splitting the cost?<br />
+              701 Are you interested in reading a novel?<br />
+              702 <br />
+              703 <br />
+              704 <br />
             </v-card-text>
           </v-card>
         </v-flex>

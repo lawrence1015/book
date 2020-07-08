@@ -94,20 +94,30 @@
         <br />
 
         <p>
-          <b>135</b> 사고가 났어. ( accident ) <br />
+          <b>177</b> 사고가 났어. ( accident ) <br />
         </p>
         <p>
-          <b>136</b> 바뀐 게 좀 있어. ( change ) <br />
+          <b>178</b> 바뀐 게 좀 있어. ( change ) <br />
         </p>
         <p>
-          <b>137</b> 준비할 시간이 별로 없었어. ( prepare ) <br />
+          <b>179</b> 준비할 시간이 별로 없었어. ( prepare ) <br />
         </p>
         <p>
-          <b>138</b> 오해가 있었어요. ( misunderstanding ) <br />
+          <b>180</b> 오해가 있었어요. ( misunderstanding ) <br />
         </p>
         <p>
-          <b>139</b> 계획에 변경이 생겼어 ( change, plan ) <br />
+          <b>181</b> 계획에 변경이 생겼어 ( change, plan ) <br />
         </p>
+        <p>
+          <b>182</b>  <br />
+        </p>
+        <p>
+          <b>183</b>  <br />
+        </p>
+        <p>
+          <b>184</b>  <br />
+        </p>
+
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
 
@@ -115,11 +125,14 @@
           <v-flex xs12>
           <v-card light color="#a7d7c5">
             <v-card-text class="px-10" style="color:#d9e7cd;">
-              135 There has been an accident.<br />
-              136 There has been some changes.<br />
-              137 There has been little time to prepare.<br />
-              138 There has been a misunderstanding. <br />
-              139 There has been a change in the plan.<br />
+              177 There has been an accident.<br />
+              178 There has been some changes.<br />
+              179 There has been little time to prepare.<br />
+              180 There has been a misunderstanding. <br />
+              181 There has been a change in the plan.<br />
+              182 <br />
+              183 <br />
+              184 <br />
             </v-card-text>
           </v-card>
         </v-flex>

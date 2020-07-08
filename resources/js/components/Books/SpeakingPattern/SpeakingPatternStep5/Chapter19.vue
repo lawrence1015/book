@@ -94,19 +94,28 @@
         <br />
 
         <p>
-          <b>515</b> 그렇게 말해주셔서 정말 감사합니다. ( say, so ) <br />
+          <b>785</b> 그렇게 말해주셔서 정말 감사합니다. ( say, so ) <br />
         </p>
         <p>
-          <b>516</b> 저를 초대해주셔서 정말 감사드려요. ( invite ) <br />
+          <b>786</b> 저를 초대해주셔서 정말 감사드려요. ( invite ) <br />
         <p>
-          <b>517</b> 배웅해주셔서 정말 감사드려요. ( send off ) <br />
+          <b>787</b> 배웅해주셔서 정말 감사드려요. ( send off ) <br />
                     *see~off  ~를 배웅하다.<br />
         </p>
         <p>
-          <b>518</b> 꽃을 보내주시다니 정말 사려 깊으세요. ( send, flower ) <br />
+          <b>788</b> 꽃을 보내주시다니 정말 사려 깊으세요. ( send, flower ) <br />
         </p>
         <p>
-          <b>519</b> 그 노부인을 도와드리다니 정말 생각이 깊구나. ( help, old woman ) <br />
+          <b>789</b> 그 노부인을 도와드리다니 정말 생각이 깊구나. ( help, old woman ) <br />
+        </p>
+        <p>
+          <b>790</b>  <br />
+        </p>
+        <p>
+          <b>791</b>  <br />
+        </p>
+        <p>
+          <b>792</b>  <br />
         </p>
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
@@ -115,11 +124,14 @@
           <v-flex xs12>
           <v-card light color="#a7d7c5">
             <v-card-text class="px-10" style="color:#d9e7cd;">
-              515 It’s very kind of you to say so.<br />
-              516 It’s very nice of you to invite me.<br />
-              517 It’s very good of you to see me off.<br />
-              518 It’s very thoughtful of you to send flowers.<br />
-              519 It’s very thoughtful of you to help the old woman.<br />
+              785 It’s very kind of you to say so.<br />
+              786 It’s very nice of you to invite me.<br />
+              787 It’s very good of you to see me off.<br />
+              788 It’s very thoughtful of you to send flowers.<br />
+              789 It’s very thoughtful of you to help the old woman.<br />
+              790 <br />
+              791 <br />
+              792 <br />
             </v-card-text>
           </v-card>
         </v-flex>

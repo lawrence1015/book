@@ -94,20 +94,29 @@
         <br />
 
         <p>
-          <b>315</b> 우리 그 프로젝트를 같이 검토했으면 해. ( go over ) <br />
+          <b>465</b> 우리 그 프로젝트를 같이 검토했으면 해. ( go over ) <br />
                 *Go over  검토하다.<br />
         </p>
         <p>
-          <b>316</b> 그 사람을 혼자 있게 내버려두자. ( leave, alone ) <br />
+          <b>466</b> 그 사람을 혼자 있게 내버려두자. ( leave, alone ) <br />
         <p>
-          <b>317</b> 우리 상사에게는 말하지 말자. ( tell, boss ) <br />
+          <b>467</b> 우리 상사에게는 말하지 말자. ( tell, boss ) <br />
         </p>
         <p>
-          <b>318</b> 우리 파티를 열자.( throw a party ) <br />
+          <b>468</b> 우리 파티를 열자.( throw a party ) <br />
                 *Throw a party 파티를 열다.<br />
         </p>
         <p>
-          <b>319</b> 우리 디저트 먹을 배는 남겨두자. ( save, room, dessert ) <br />
+          <b>469</b> 우리 디저트 먹을 배는 남겨두자. ( save, room, dessert ) <br />
+        </p>
+        <p>
+          <b>470</b>  <br />
+        </p>
+        <p>
+          <b>471</b>  <br />
+        </p>
+        <p>
+          <b>472</b>  <br />
         </p>
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
@@ -116,11 +125,14 @@
           <v-flex xs12>
           <v-card light color="#a7d7c5">
             <v-card-text class="px-10" style="color:#d9e7cd;">
-              315 I suggest we go over the project together.<br />
-              316 I suggest we leave him alone.<br />
-              317 I suggest we don’t tell our boss.<br />
-              318 I suggest we throw a party.<br />
-              319 I suggest we save room for dessert.<br />
+              465 I suggest we go over the project together.<br />
+              466 I suggest we leave him alone.<br />
+              467 I suggest we don’t tell our boss.<br />
+              468 I suggest we throw a party.<br />
+              469 I suggest we save room for dessert.<br />
+              470 <br />
+              471 <br />
+              472 <br />
             </v-card-text>
           </v-card>
         </v-flex>

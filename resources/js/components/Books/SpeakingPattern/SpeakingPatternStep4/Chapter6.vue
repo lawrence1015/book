@@ -94,19 +94,28 @@
         <br />
 
         <p>
-          <b>350</b> 그 성과에 만족하고 있어. ( outcome ) <br />
+          <b>521</b> 그 성과에 만족하고 있어. ( outcome ) <br />
         </p>
         <p>
-          <b>351</b> 난 새로 하게 된 일이 맘에 들어. ( new job ) <br />
+          <b>522</b> 난 새로 하게 된 일이 맘에 들어. ( new job ) <br />
         </p>
         <p>
-          <b>352</b> 난 결과에 만족해. ( result ) <br />
+          <b>523</b> 난 결과에 만족해. ( result ) <br />
         </p>
         <p>
-          <b>353</b> 너희들 모두한테 만족해. ( all of you ) <br />
+          <b>524</b> 너희들 모두한테 만족해. ( all of you ) <br />
         </p>
         <p>
-          <b>354</b> 자네의 실적에 만족하고 있네. ( performance ) <br />
+          <b>525</b> 자네의 실적에 만족하고 있네. ( performance ) <br />
+        </p>
+        <p>
+          <b>526</b>  <br />
+        </p>
+        <p>
+          <b>527</b>  <br />
+        </p>
+        <p>
+          <b>528</b>  <br />
         </p>
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
@@ -115,11 +124,14 @@
           <v-flex xs12>
           <v-card light color="#a7d7c5">
             <v-card-text class="px-10" style="color:#d9e7cd;">
-              350 I’m happy with the outcome<br />
-              351 I’m happy with my new job.<br />
-              352 I’m happy with the result.<br />
-              353 I’m happy with all of you.<br />
-              354 I’m happy with your performance.<br />
+              521 I’m happy with the outcome<br />
+              522 I’m happy with my new job.<br />
+              523 I’m happy with the result.<br />
+              524 I’m happy with all of you.<br />
+              525 I’m happy with your performance.<br />
+              526 <br />
+              527 <br />
+              528 <br />
             </v-card-text>
           </v-card>
         </v-flex>

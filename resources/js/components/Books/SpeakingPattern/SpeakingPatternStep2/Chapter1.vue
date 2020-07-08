@@ -94,19 +94,28 @@
         <br />
 
         <p>
-          <b>125</b> 가능성이 있어. ( possibility ) <br />
+          <b>161</b> 가능성이 있어. ( possibility ) <br />
         </p>
         <p>
-          <b>126</b> 문제가 생겼어. ( problem ) <br />
+          <b>162</b> 문제가 생겼어. ( problem ) <br />
         </p>
         <p>
-          <b>127</b> 차가 막혀. ( traffic jam ) <br />
+          <b>163</b> 차가 막혀. ( traffic jam ) <br />
         </p>
         <p>
-          <b>128</b> 바람이 세게 불어.  ( strong, wind ) <br />
+          <b>164</b> 바람이 세게 불어.  ( strong, wind ) <br />
         </p>
         <p>
-          <b>129</b> 방법은 한 가지뿐이야. ( only, way ) <br />
+          <b>165</b> 방법은 한 가지뿐이야. ( only, way ) <br />
+        </p>
+        <p>
+          <b>167</b>  <br />
+        </p>
+        <p>
+          <b>168</b>  <br />
+        </p>
+        <p>
+          <b>169</b>  <br />
         </p>
 
         <v-container grid-list-md text-xs-left>
@@ -116,11 +125,14 @@
           <v-flex xs12>
           <v-card light color="#a7d7c5">
             <v-card-text class="px-10" style="color:#d9e7cd;">
-              125 There’s a possibility.<br />
-              126 There’s a problem.<br />
-              127 There’s a traffic jam.<br />
-              128 There’s a strong wind.<br />
-              129 There’s a only one way.<br />
+              161 There’s a possibility.<br />
+              162 There’s a problem.<br />
+              163 There’s a traffic jam.<br />
+              164 There’s a strong wind.<br />
+              165 There’s a only one way.<br />
+              166 <br />
+              167 <br />
+              168 <br />
             </v-card-text>
           </v-card>
         </v-flex>

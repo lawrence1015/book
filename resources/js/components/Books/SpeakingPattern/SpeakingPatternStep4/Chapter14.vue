@@ -94,19 +94,28 @@
         <br />
 
         <p>
-          <b>390</b> 그 스캔들을 알고는 충격 받았어. ( find out, scandal ) <br />
+          <b>585</b> 그 스캔들을 알고는 충격 받았어. ( find out, scandal ) <br />
         </p>
         <p>
-          <b>391</b> 내가 F를 받다니 충격적이었어.  ( shocked ) <br />
+          <b>586</b> 내가 F를 받다니 충격적이었어.  ( shocked ) <br />
         </p>
         <p>
-          <b>392</b> 그 애가 그 말을 했을 때 난 충격 받았어. ( shocked ) <br />
+          <b>587</b> 그 애가 그 말을 했을 때 난 충격 받았어. ( shocked ) <br />
         </p>
         <p>
-          <b>393</b> 그 여자에게 아이가 있었다니 충격적이었어. ( have, baby ) <br />
+          <b>588</b> 그 여자에게 아이가 있었다니 충격적이었어. ( have, baby ) <br />
         </p>
         <p>
-          <b>394</b> 아무도 이걸 몰랐다니 충격적이었어. ( no one, know about ) <br />
+          <b>589</b> 아무도 이걸 몰랐다니 충격적이었어. ( no one, know about ) <br />
+        </p>
+        <p>
+          <b>590</b>  <br />
+        </p>
+        <p>
+          <b>591</b>  <br />
+        </p>
+        <p>
+          <b>592</b>  <br />
         </p>
 
         <v-container grid-list-md text-xs-left>
@@ -116,11 +125,14 @@
           <v-flex xs12>
           <v-card light color="#a7d7c5">
             <v-card-text class="px-10" style="color:#d9e7cd;">
-              390 I was shocked to find out about the scandal.<br />
-              391 I was shocked that I got an F.<br />
-              392 I was shocked when she told me that.<br />
-              393 I was shocked that she had a baby.<br />
-              394 I was shocked no one knew about that.<br />
+              585 I was shocked to find out about the scandal.<br />
+              586 I was shocked that I got an F.<br />
+              587 I was shocked when she told me that.<br />
+              588 I was shocked that she had a baby.<br />
+              589 I was shocked no one knew about that.<br />
+              590 <br />
+              591 <br />
+              592 <br />
             </v-card-text>
           </v-card>
         </v-flex>

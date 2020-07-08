@@ -92,19 +92,28 @@
         <br />
 
         <p>
-          <b>285</b> 영화 보자 ( see , movie ) <br />
+          <b>417</b> 영화 보자 ( see , movie ) <br />
         </p>
         <p>
-          <b>286</b> 저녁 먹으러 나가자. ( go out , dinner ) <br />
+          <b>418</b> 저녁 먹으러 나가자. ( go out , dinner ) <br />
         </p>
         <p>
-          <b>287</b> 그건 우리 둘만 알고 있자. ( keep , to ourselves ) <br />
+          <b>419</b> 그건 우리 둘만 알고 있자. ( keep , to ourselves ) <br />
         </p>
         <p>
-          <b>288</b> 어젯밤 일은 잊읍시다. ( forget, last night. ) <br />
+          <b>420</b> 어젯밤 일은 잊읍시다. ( forget, last night. ) <br />
         </p>
         <p>
-          <b>289</b> 우리 만나서 놀자. ( hang out ) <br />
+          <b>421</b> 우리 만나서 놀자. ( hang out ) <br />
+        </p>
+        <p>
+          <b>422</b>  <br />
+        </p>
+        <p>
+          <b>423</b>  <br />
+        </p>
+        <p>
+          <b>424</b>  <br />
         </p>
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
@@ -113,11 +122,14 @@
           <v-flex xs12>
           <v-card light color="#a7d7c5">
             <v-card-text class="px-10" style="color:#d9e7cd;">
-              261 Let’s see a movie.<br />
-              262 Let’s go out for dinner.<br />
-              263 Let’s keep it to ourselves.<br />
-              264 Let’s forget about last night.<br />
-              265 Let’s hang out.<br />
+              417 Let’s see a movie.<br />
+              418 Let’s go out for dinner.<br />
+              419 Let’s keep it to ourselves.<br />
+              420 Let’s forget about last night.<br />
+              421 Let’s hang out.<br />
+              422 <br />
+              423 <br />
+              424 <br />
             </v-card-text>
           </v-card>
         </v-flex>

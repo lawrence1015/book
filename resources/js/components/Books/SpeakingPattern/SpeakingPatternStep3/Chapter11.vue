@@ -94,19 +94,28 @@
         <br />
 
         <p>
-          <b>275</b> 점심 먹을래? ( lunch ) <br />
+          <b>401</b> 점심 먹을래? ( lunch ) <br />
         </p>
         <p>
-          <b>276</b> 게임 한판 더 할까? ( another, game ) <br />
+          <b>402</b> 게임 한판 더 할까? ( another, game ) <br />
         </p>
         <p>
-          <b>277</b> 금요일에 만날까? ( meet, Friday ) <br />
+          <b>403</b> 금요일에 만날까? ( meet, Friday ) <br />
         </p>
         <p>
-          <b>278</b> 파마하는 게 어때요? ( get, perm ) <br />
+          <b>404</b> 파마하는 게 어때요? ( get, perm ) <br />
         </p>
         <p>
-          <b>279</b> 영화 보러 가는 거 어때? ( go, movie ) <br />
+          <b>405</b> 영화 보러 가는 거 어때? ( go, movie ) <br />
+        </p>
+        <p>
+          <b>406</b>  <br />
+        </p>
+        <p>
+          <b>407</b>  <br />
+        </p>
+        <p>
+          <b>408</b>  <br />
         </p>
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
@@ -115,11 +124,14 @@
           <v-flex xs12>
           <v-card light color="#a7d7c5">
             <v-card-text class="px-10" style="color:#d9e7cd;">
-              275 How about lunch?<br />
-              276 How about another game?<br />
-              277 How about meeting on Friday?<br />
-              278 How about getting a perm?<br />
-              279 How about going to the movie?<br />
+              401 How about lunch?<br />
+              402 How about another game?<br />
+              403 How about meeting on Friday?<br />
+              404 How about getting a perm?<br />
+              405 How about going to the movie?<br />
+              406 <br />
+              407 <br />
+              408 <br />
             </v-card-text>
           </v-card>
         </v-flex>

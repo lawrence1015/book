@@ -96,18 +96,27 @@
         <br />
 
         <p>
-          <b>415</b> 우리가 져서 실망했어. ( lose ) <br />
+          <b>625</b> 우리가 져서 실망했어. ( lose ) <br />
         </p>
         <p>
-          <b>416</b> 그 애가 나에게 거짓말을 했다는 게 실망스러워. ( lie ) <br />
+          <b>626</b> 그 애가 나에게 거짓말을 했다는 게 실망스러워. ( lie ) <br />
         <p>
-          <b>417</b> 네가 그런 식으로 생각하다니 실망이야. ( feel, that way ) <br />
+          <b>627</b> 네가 그런 식으로 생각하다니 실망이야. ( feel, that way ) <br />
         </p>
         <p>
-          <b>418</b> 우리가 휴가를 못 갈 거라니 실망이야. ( get, vacation ) <br />
+          <b>628</b> 우리가 휴가를 못 갈 거라니 실망이야. ( get, vacation ) <br />
         </p>
         <p>
-          <b>419</b> 난 그게 충분히 좋지 않아서 실망스러워. ( good enough ) <br />
+          <b>629</b> 난 그게 충분히 좋지 않아서 실망스러워. ( good enough ) <br />
+        </p>
+        <p>
+          <b>630</b>  <br />
+        </p>
+        <p>
+          <b>631</b>  <br />
+        </p>
+        <p>
+          <b>632</b>  <br />
         </p>
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
@@ -116,11 +125,14 @@
           <v-flex xs12>
           <v-card light color="#a7d7c5">
             <v-card-text class="px-10" style="color:#d9e7cd;">
-              415 I’m disappointed that we lost.<br />
-              416 I’m disappointed that he lied to me.<br />
-              417 I’m disappointed that you feel that way.<br />
-              418 I’m disappointed that we won’t get a vacation.<br />
-              419 I’m disappointed that it is not good enough.<br />
+              625 I’m disappointed that we lost.<br />
+              626 I’m disappointed that he lied to me.<br />
+              627 I’m disappointed that you feel that way.<br />
+              628 I’m disappointed that we won’t get a vacation.<br />
+              629 I’m disappointed that it is not good enough.<br />
+              630 <br />
+              631 <br />
+              632 <br />
             </v-card-text>
           </v-card>
         </v-flex>

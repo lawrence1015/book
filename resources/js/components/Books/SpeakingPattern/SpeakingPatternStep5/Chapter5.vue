@@ -94,19 +94,28 @@
         <br />
 
         <p>
-          <b>445</b> 그 사람 말투가 마음에 안 들어. ( talk ) <br />
+          <b>673</b> 그 사람 말투가 마음에 안 들어. ( talk ) <br />
         </p>
         <p>
-          <b>446</b> 그 애가 널 쳐다보는 시선이 마음에 안 들어. (look at ) <br />
+          <b>674</b> 그 애가 널 쳐다보는 시선이 마음에 안 들어. (look at ) <br />
         </p>
         <p>
-          <b>447</b> 그 녀석이 자기 아내를 대하는 태도가 마음에 안들어. ( treat, wife ) <br />
+          <b>675</b> 그 녀석이 자기 아내를 대하는 태도가 마음에 안들어. ( treat, wife ) <br />
         </p>
         <p>
-          <b>448</b> 이 가구가 배치된 방식이 마음에 안 들어. ( furniture, arrange ) <br />
+          <b>676</b> 이 가구가 배치된 방식이 마음에 안 들어. ( furniture, arrange ) <br />
         </p>
         <p>
-          <b>449</b> 난 그 사람들이 우리를 이용하는 방식이 마음에 안 들어. ( take advantage of ) <br />
+          <b>677</b> 난 그 사람들이 우리를 이용하는 방식이 마음에 안 들어. ( take advantage of ) <br />
+        </p>
+        <p>
+          <b>678</b>  <br />
+        </p>
+        <p>
+          <b>679</b>  <br />
+        </p>
+        <p>
+          <b>680</b>  <br />
         </p>
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
@@ -115,24 +124,25 @@
           <v-flex xs12>
           <v-card light color="#a7d7c5">
             <v-card-text class="px-10" style="color:#d9e7cd;">
-              445 I don’t like the way he talks.<br />
-              446 I don’t like the way she’s looking at you.<br />
-              447 I don’t like the way he treats his wife.<br />
-              448 I don’t like the way this furniture is arranged.<br />
-              449 I don’t like the way they take advantage of us.<br />
+              673 I don’t like the way he talks.<br />
+              674 I don’t like the way she’s looking at you.<br />
+              675 I don’t like the way he treats his wife.<br />
+              676 I don’t like the way this furniture is arranged.<br />
+              677 I don’t like the way they take advantage of us.<br />
+              678 <br />
+              679 <br />
+              680 <br />
             </v-card-text>
           </v-card>
         </v-flex>
       </v-layout>
   </v-container>
-  
-</div>
 
 </div>
 
+</div>
 
-       </v-layout>
-     </v-container>
+
   </v-layout>
   </v-container>
 </div>

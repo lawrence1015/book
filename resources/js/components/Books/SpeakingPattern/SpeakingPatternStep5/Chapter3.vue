@@ -94,19 +94,25 @@
         <br />
 
         <p>
-          <b>435</b> 난 빵,과자 굽는 것에 빠졌어. ( baking ) <br />
+          <b>657</b> 난 빵,과자 굽는 것에 빠졌어. ( baking ) <br />
         </p>
         <p>
-          <b>436</b> 난 영어 공부에 빠졌어. ( study, English ) <br />
+          <b>658</b> 난 영어 공부에 빠졌어. ( study, English ) <br />
         </p>
         <p>
-          <b>437</b> 난 얼터너티브 록 음악에 빠졌어. ( alternative, rock music ) <br />
+          <b>659</b> 난 얼터너티브 록 음악에 빠졌어. ( alternative, rock music ) <br />
         </p>
         <p>
-          <b>438</b> 난 르네상스 예술에 빠졌어. ( Renaissance art ) <br />
+          <b>660</b> 난 르네상스 예술에 빠졌어. ( Renaissance art ) <br />
         </p>
         <p>
-          <b>439</b> 난 스쿠버 다이빙에 빠졌어. ( scuba diving ) <br />
+          <b>661</b> 난 스쿠버 다이빙에 빠졌어. ( scuba diving ) <br />
+        </p><p>
+          <b>662</b>  <br />
+        </p><p>
+          <b>663</b>  <br />
+        </p><p>
+          <b>664</b>  <br />
         </p>
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
@@ -115,11 +121,14 @@
           <v-flex xs12>
           <v-card light color="#a7d7c5">
             <v-card-text class="px-10" style="color:#d9e7cd;">
-              435 I’m into baking.<br />
-              436 I’m into studying English.<br />
-              437 I’m into alternative rock music.<br />
-              438 I’m into Renaissance art. <br />
-              439 I’m into scuba diving.<br />
+              657 I’m into baking.<br />
+              658 I’m into studying English.<br />
+              659 I’m into alternative rock music.<br />
+              660 I’m into Renaissance art. <br />
+              661 I’m into scuba diving.<br />
+              662 <br />
+              663 <br />
+              664 <br />
             </v-card-text>
           </v-card>
         </v-flex>

@@ -94,20 +94,29 @@
         <br />
 
         <p>
-          <b>455</b> 네가 그런 식으로 말하면 너무 싫어. ( talk ) <br />
+          <b>689</b> 네가 그런 식으로 말하면 너무 싫어. ( talk ) <br />
         </p>
         <p>
-          <b>456</b> 그 여자애가 나한테 이래라 저래라 하면 진짜 싫어. ( tell, what to do ) <br />
+          <b>690</b> 그 여자애가 나한테 이래라 저래라 하면 진짜 싫어. ( tell, what to do ) <br />
         </p>
         <p>
-          <b>457</b> 난 내 차가 시동이 안 걸릴 때 정말 짜증나. ( car, start ) <br />
+          <b>691</b> 난 내 차가 시동이 안 걸릴 때 정말 짜증나. ( car, start ) <br />
         </p>
         <p>
-          <b>458</b> 난 네가 내 생각에 반대할 때 기분이 나빠. ( disagree with ) <br />
+          <b>692</b> 난 네가 내 생각에 반대할 때 기분이 나빠. ( disagree with ) <br />
                   *disagree with ~와 의견이 맞지 않다. 동의하지 않다.<br />
         </p>
         <p>
-          <b>459</b> 난 서둘러야 할 때가 싫어 ( have to , hurry ) <br />
+          <b>693</b> 난 서둘러야 할 때가 싫어 ( have to , hurry ) <br />
+        </p>
+        <p>
+          <b>694</b>  <br />
+        </p>
+        <p>
+          <b>695</b>  <br />
+        </p>
+        <p>
+          <b>696</b>  <br />
         </p>
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
@@ -116,11 +125,14 @@
           <v-flex xs12>
           <v-card light color="#a7d7c5">
             <v-card-text class="px-10" style="color:#d9e7cd;">
-              455 I hate it when you talk like that.<br />
-              456 I hate it when she tells me what to do.<br />
-              457 I hate it when my car won’t start.<br />
-              458 I hate it when you disagree with me.<br />
-              459 I hate it when I have to hurry.
+              689 I hate it when you talk like that.<br />
+              690 I hate it when she tells me what to do.<br />
+              691 I hate it when my car won’t start.<br />
+              692 I hate it when you disagree with me.<br />
+              693 I hate it when I have to hurry.<br />
+              694 <br />
+              695 <br />
+              696 <br />
             </v-card-text>
           </v-card>
         </v-flex>

@@ -94,20 +94,29 @@
         <br />
 
         <p>
-          <b>320</b> 제가 와인을 하나 추천해도 될까요? ( wine ) <br />
+          <b>473</b> 제가 와인을 하나 추천해도 될까요? ( wine ) <br />
         </p>
         <p>
-          <b>321</b> 제가 다른 것을 제안해도 될까요? ( something else ) <br />
+          <b>474</b> 제가 다른 것을 제안해도 될까요? ( something else ) <br />
         </p>
         <p>
-          <b>322</b> 제가 전문가 한 분 추천할까요? ( specialist ) <br />
+          <b>475</b> 제가 전문가 한 분 추천할까요? ( specialist ) <br />
         </p>
         <p>
-          <b>323</b> 제가 대안을 하나 제안해도 될까요? ( alternative ) <br />
+          <b>476</b> 제가 대안을 하나 제안해도 될까요? ( alternative ) <br />
               *alternative  대안 <br />
         </p>
         <p>
-          <b>324</b> 제가 투자를 제안해도 될까요? ( investment ) <br />
+          <b>477</b> 제가 투자를 제안해도 될까요? ( investment ) <br />
+        </p>
+        <p>
+          <b>478</b>  <br />
+        </p>
+        <p>
+          <b>479</b>  <br />
+        </p>
+        <p>
+          <b>480</b>  <br />
         </p>
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
@@ -116,11 +125,14 @@
           <v-flex xs12>
           <v-card light color="#a7d7c5">
             <v-card-text class="px-10" style="color:#d9e7cd;">
-              320 May I suggest a wine?<br />
-              321 May I suggest something else?<br />
-              322 May I suggest a specialist?<br />
-              323 May I suggest an alternative?<br />
-              324 May I suggest an investment?<br />
+              473 May I suggest a wine?<br />
+              474 May I suggest something else?<br />
+              475 May I suggest a specialist?<br />
+              476 May I suggest an alternative?<br />
+              477 May I suggest an investment?<br />
+              478 <br />
+              479 <br />
+              480 <br />
             </v-card-text>
           </v-card>
         </v-flex>

@@ -94,19 +94,28 @@
         <br />
 
         <p>
-          <b>185</b> 텔레비전에서 뭐 재미있는 거 하니? ( good, on TV ) <br />
+          <b>257</b> 텔레비전에서 뭐 재미있는 거 하니? ( good, on TV ) <br />
         </p>
         <p>
-          <b>186</b> 더 이른 것은 없나요? ( earlier ) <br />
+          <b>258</b> 더 이른 것은 없나요? ( earlier ) <br />
         </p>
         <p>
-          <b>187</b> 뭐 필요한 거 있어? ( need ) <br />
+          <b>259</b> 뭐 필요한 거 있어? ( need ) <br />
         </p>
         <p>
-          <b>188</b> 내가 널 위해 할 수 있는 게 뭐 없을까? ( can, do ) <br />
+          <b>260</b> 내가 널 위해 할 수 있는 게 뭐 없을까? ( can, do ) <br />
         </p>
         <p>
-          <b>189</b> 더 치워야 할 것들이 있어? ( left, clean up ) <br />
+          <b>261</b> 더 치워야 할 것들이 있어? ( left, clean up ) <br />
+        </p>
+        <p>
+          <b>262</b> <br />
+        </p>
+        <p>
+          <b>263</b> <br />
+        </p>
+        <p>
+          <b>264</b> <br />
         </p>
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
@@ -115,17 +124,20 @@
           <v-flex xs12>
           <v-card light color="#a7d7c5">
             <v-card-text class="px-10" style="color:#d9e7cd;">
-              185 Is there anything good on TV?<br />
-              186 Is there anything earlier?<br />
-              187 Is there anything you need?<br />
-              188 Is there anything I can do for you?<br />
-              189 Is there anything left to clean up?<br />
+              257 Is there anything good on TV?<br />
+              258 Is there anything earlier?<br />
+              259 Is there anything you need?<br />
+              260 Is there anything I can do for you?<br />
+              261 Is there anything left to clean up?<br />
+              262 <br />
+              263 <br />
+              264 <br />
             </v-card-text>
           </v-card>
         </v-flex>
       </v-layout>
   </v-container>
-    
+
 </div>
 
 </div>

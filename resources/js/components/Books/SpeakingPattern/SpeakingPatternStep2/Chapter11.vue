@@ -94,19 +94,28 @@
         <br />
 
         <p>
-          <b>175</b> 근처에 은행이 있어? ( bank, nearby ) <br />
+          <b>241</b> 근처에 은행이 있어? ( bank, nearby ) <br />
         </p>
         <p>
-          <b>176</b> 여기 의사 있나요? ( doctor, here )<br />
+          <b>242</b> 여기 의사 있나요? ( doctor, here )<br />
         </p>
         <p>
-          <b>177</b> 이 근처에 버스 정류장 있나요? ( bus stop, around ) <br />
+          <b>243</b> 이 근처에 버스 정류장 있나요? ( bus stop, around ) <br />
         </p>
         <p>
-          <b>178</b> 뭐 문제가 있어? ( problem ) <br />
+          <b>244</b> 뭐 문제가 있어? ( problem ) <br />
         </p>
         <p>
-          <b>179</b> 벽장에 우산 있니? (umbrella, closet) <br />
+          <b>245</b> 벽장에 우산 있니? (umbrella, closet) <br />
+        </p>
+        <p>
+          <b>246</b> <br />
+        </p>
+        <p>
+          <b>247</b> <br />
+        </p>
+        <p>
+          <b>248</b> <br />
         </p>
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
@@ -115,11 +124,14 @@
           <v-flex xs12>
           <v-card light color="#a7d7c5">
             <v-card-text class="px-10" style="color:#d9e7cd;">
-              175 Is there a bank nearby?<br />
-              176 Is there a doctor here?<br />
-              177 Is there a bus stop around here<br />
-              178 Is there a problem?<br />
-              179 Is there an umbrella in the closet?<br />
+              241 Is there a bank nearby?<br />
+              242 Is there a doctor here?<br />
+              243 Is there a bus stop around here<br />
+              244 Is there a problem?<br />
+              245 Is there an umbrella in the closet?<br />
+              246 <br />
+              247 <br />
+              248 <br />
             </v-card-text>
           </v-card>
         </v-flex>

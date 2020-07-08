@@ -94,20 +94,29 @@
         <br />
 
         <p>
-          <b>440</b> 난 기름진 음식을 안좋아해. ( greasy ) <br />
+          <b>665</b> 난 기름진 음식을 안좋아해. ( greasy ) <br />
                 *greasy 기름진, 기름기많은<br />
         </p>
         <p>
-          <b>441</b> 난 맥주 마시는 걸 좋아하지 않아. ( beer )  <br />
+          <b>666</b> 난 맥주 마시는 걸 좋아하지 않아. ( beer )  <br />
         </p>
         <p>
-          <b>442</b> 그 애가 입은 옷이 마음에 안 들어. ( wear ) <br />
+          <b>667</b> 그 애가 입은 옷이 마음에 안 들어. ( wear ) <br />
         </p>
         <p>
-          <b>443</b> 난 밖에 나가는 걸 좋아하지 않아. ( go out ) <br />
+          <b>668</b> 난 밖에 나가는 걸 좋아하지 않아. ( go out ) <br />
         </p>
         <p>
-          <b>444</b> 우리가 해야 되는 일이 마음에 안 들어. ( what, have to ) <br />
+          <b>669</b> 우리가 해야 되는 일이 마음에 안 들어. ( what, have to ) <br />
+        </p>
+        <p>
+          <b>670</b>  <br />
+        </p>
+        <p>
+          <b>671</b>  <br />
+        </p>
+        <p>
+          <b>672</b>  <br />
         </p>
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
@@ -116,11 +125,14 @@
           <v-flex xs12>
           <v-card light color="#a7d7c5">
             <v-card-text class="px-10" style="color:#d9e7cd;">
-              440 I don’t like greasy food.<br />
-              441 I don’t like drinking beer.<br />
-              442 I don’t like what she’s wearing.<br />
-              443 I don’t like going out.<br />
-              444 I don’t like what we have to do.<br />
+              665 I don’t like greasy food.<br />
+              666 I don’t like drinking beer.<br />
+              667 I don’t like what she’s wearing.<br />
+              668 I don’t like going out.<br />
+              669 I don’t like what we have to do.<br />
+              670 <br />
+              671 <br />
+              672 <br />
             </v-card-text>
           </v-card>
         </v-flex>

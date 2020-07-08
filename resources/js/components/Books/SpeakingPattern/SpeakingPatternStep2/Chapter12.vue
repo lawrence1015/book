@@ -94,19 +94,28 @@
         <br />
 
         <p>
-          <b>180</b> 희망이 조금이라도 있는 거야? ( hope ) <br />
+          <b>249</b> 희망이 조금이라도 있는 거야? ( hope ) <br />
         </p>
         <p>
-          <b>181</b> 다른 점이라도 있어? ( difference ) <br />
+          <b>250</b> 다른 점이라도 있어? ( difference ) <br />
         </p>
         <p>
-          <b>182</b> 팝콘이 남은 게 좀 있니? ( popcorn, left ) <br />
+          <b>251</b> 팝콘이 남은 게 좀 있니? ( popcorn, left ) <br />
         </p>
         <p>
-          <b>183</b> 스티브를 의심할 만한 이유가 있는 거야? ( reason, doubt)  <br />
+          <b>252</b> 스티브를 의심할 만한 이유가 있는 거야? ( reason, doubt)  <br />
         </p>
         <p>
-          <b>184</b> 식용유 좀 있니? (cooking oil) <br />
+          <b>253</b> 식용유 좀 있니? (cooking oil) <br />
+        </p>
+        <p>
+          <b>254</b>  <br />
+        </p>
+        <p>
+          <b>255</b>  <br />
+        </p>
+        <p>
+          <b>256</b>  <br />
         </p>
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
@@ -115,17 +124,20 @@
           <v-flex xs12>
           <v-card light color="#a7d7c5">
             <v-card-text class="px-10" style="color:#d9e7cd;">
-              180 Is there any hope?<br />
-              181 Is there any difference?<br />
-              182 Is there any popcorn left?<br />
-              183 Is there any reason to doubt Steve?<br />
-              184 Is there any cooking oil?<br />
+              249 Is there any hope?<br />
+              250 Is there any difference?<br />
+              251 Is there any popcorn left?<br />
+              252 Is there any reason to doubt Steve?<br />
+              253 Is there any cooking oil?<br />
+              254 <br />
+              255 <br />
+              256 <br />
             </v-card-text>
           </v-card>
         </v-flex>
       </v-layout>
   </v-container>
-      
+
 </div>
 
 </div>
@@ -133,8 +145,6 @@
 
        </v-layout>
      </v-container>
-  </v-layout>
-  </v-container>
 </div>
 
 

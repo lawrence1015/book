@@ -94,21 +94,30 @@
         <br />
 
         <p>
-          <b>370</b> 기꺼이 모든 것을 포기하겠어. ( give up ) <br />
+          <b>553</b> 기꺼이 모든 것을 포기하겠어. ( give up ) <br />
         </p>
         <p>
-          <b>371</b> 널 위해서라면 뭐든지 할 거야. ( anything ) <br />
+          <b>554</b> 널 위해서라면 뭐든지 할 거야. ( anything ) <br />
         </p>
         <p>
-          <b>372</b> 그 위험을 무릅쓸 용의가 있어. ( take, risk ) <br />
+          <b>555</b> 그 위험을 무릅쓸 용의가 있어. ( take, risk ) <br />
               *take a risk  위험을 무릅쓰다.<br />
         </p>
         <p>
-          <b>373</b> 한번 시도해볼게. ( give, try ) <br />
+          <b>556</b> 한번 시도해볼게. ( give, try ) <br />
               * Give it a try  시도하다, 한번 해보다.
         </p>
         <p>
-          <b>374</b> 너를 위해서라면 뭐든지 할 거야. ( anything, you ) <br />
+          <b>557</b> 너를 위해서라면 뭐든지 할 거야. ( anything, you ) <br />
+        </p>
+        <p>
+          <b>558</b>  <br />
+        </p>
+        <p>
+          <b>559</b>  <br />
+        </p>
+        <p>
+          <b>560</b>  <br />
         </p>
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
@@ -117,17 +126,20 @@
           <v-flex xs12>
           <v-card light color="#a7d7c5">
             <v-card-text class="px-10" style="color:#d9e7cd;">
-              370 I’m willing to give up everything.<br />
-              371 I’m willing to do anything for you.<br />
-              372 I’m willing to take that risk.<br />
-              373 I’m willing to give it a try.<br />
-              374 I’m willing to do anything for you.<br />
+              553 I’m willing to give up everything.<br />
+              554 I’m willing to do anything for you.<br />
+              555 I’m willing to take that risk.<br />
+              556 I’m willing to give it a try.<br />
+              557 I’m willing to do anything for you.<br />
+              558 <br />
+              559 <br />
+              560 <br />
             </v-card-text>
           </v-card>
         </v-flex>
       </v-layout>
   </v-container>
-  
+
 </div>
 
 </div>

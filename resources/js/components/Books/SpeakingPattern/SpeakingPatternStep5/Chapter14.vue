@@ -94,19 +94,28 @@
         <br />
 
         <p>
-          <b>490</b> 요리를 잘하시네요. ( cook ) <br />
+          <b>745</b> 요리를 잘하시네요. ( cook ) <br />
         </p>
         <p>
-          <b>491</b> 넌 남의 말을 잘 들어줘. ( listener ) <br />
+          <b>746</b> 넌 남의 말을 잘 들어줘. ( listener ) <br />
         </p>
         <p>
-          <b>492</b> 넌 글을 잘 써. ( writer ) <br />
+          <b>747</b> 넌 글을 잘 써. ( writer ) <br />
         </p>
         <p>
-          <b>493</b> 넌 말을 잘해. ( talker ) <br />
+          <b>748</b> 넌 말을 잘해. ( talker ) <br />
         </p>
         <p>
-          <b>494</b> 너는 좋은 학생이야. ( student ) <br />
+          <b>749</b> 너는 좋은 학생이야. ( student ) <br />
+        </p>
+        <p>
+          <b>750</b>  <br />
+        </p>
+        <p>
+          <b>751</b>  <br />
+        </p>
+        <p>
+          <b>752</b>  <br />
         </p>
 
         <v-container grid-list-md text-xs-left>
@@ -116,11 +125,14 @@
           <v-flex xs12>
           <v-card light color="#a7d7c5">
             <v-card-text class="px-10" style="color:#d9e7cd;">
-              490 You’re a good cook<br />
-              491 You’re a good listener.<br />
-              492 You’re a good writer.<br />
-              493 You’re a good talker.<br />
-              494 You’re a good student.<br />
+              745 You’re a good cook<br />
+              746 You’re a good listener.<br />
+              747 You’re a good writer.<br />
+              748 You’re a good talker.<br />
+              749 You’re a good student.<br />
+              750 <br />
+              751 <br />
+              752 <br />
             </v-card-text>
           </v-card>
         </v-flex>

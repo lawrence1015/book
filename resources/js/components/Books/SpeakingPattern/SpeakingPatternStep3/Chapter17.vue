@@ -94,22 +94,32 @@
         <br />
 
         <p>
-          <b>305</b> 우리 드라이브 갈까? ( go for, drive ) <br />
+          <b>449</b> 우리 드라이브 갈까? ( go for, drive ) <br />
         </p>
         <p>
-          <b>305</b> 우리 식당에서 만날까요? ( meet ) <br />
+          <b>450</b> 우리 식당에서 만날까요? ( meet ) <br />
         </p>
         <p>
-          <b>307</b> 회의를 미루는 게 어때요? ( adjourn, meeting ) <br />
+          <b>451</b> 회의를 미루는 게 어때요? ( adjourn, meeting ) <br />
               *adjourn 연기하다, 휴회하다<br />
         </p>
         <p>
-          <b>308</b> (하룻밤 자며) 신중히 생각해보는 게 어때요? ( sleep on ) <br />
+          <b>452</b> (하룻밤 자며) 신중히 생각해보는 게 어때요? ( sleep on ) <br />
               *sleep on  하룻밤 자며 신중히 생각하다. <br />
         </p>
         <p>
-          <b>309</b> 그 여자에게 기회를 한 번 더 주는 게 어때?  ( give, chance ) <br />
+          <b>453</b> 그 여자에게 기회를 한 번 더 주는 게 어때?  ( give, chance ) <br />
         </p>
+        <p>
+          <b>454</b>  <br />
+        </p>
+        <p>
+          <b>455</b>  <br />
+        </p>
+        <p>
+          <b>456</b>  <br />
+        </p>
+
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
 
@@ -117,11 +127,14 @@
           <v-flex xs12>
           <v-card light color="#a7d7c5">
             <v-card-text class="px-10" style="color:#d9e7cd;">
-              305 Why don’t we go for a drive?<br />
-              306 Why don’t we meet at the restaurant?<br />
-              307 Why don’t we adjourn the meeting?<br />
-              308 Why don’t we sleep on it?<br />
-              309 Why don't you give her another chance?<br />
+              449 Why don’t we go for a drive?<br />
+              450 Why don’t we meet at the restaurant?<br />
+              451 Why don’t we adjourn the meeting?<br />
+              452 Why don’t we sleep on it?<br />
+              453 Why don't you give her another chance?<br />
+              454 <br />
+              455 <br />
+              456 <br />
             </v-card-text>
           </v-card>
         </v-flex>

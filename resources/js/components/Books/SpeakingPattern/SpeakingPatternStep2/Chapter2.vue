@@ -94,19 +94,28 @@
         <br />
 
         <p>
-          <b>130</b> 자동차 몇 대가 주차되어 있어. ( party ) <br />
+          <b>169</b> 자동차 몇 대가 주차되어 있어. ( party ) <br />
         </p>
         <p>
-          <b>131</b> 남은 표가 별로 없어. ( left ) <br />
+          <b>170</b> 남은 표가 별로 없어. ( left ) <br />
         </p>
         <p>
-          <b>132</b> 오늘 할 일이 무척 많거든. ( things ) <br />
+          <b>171</b> 오늘 할 일이 무척 많거든. ( things ) <br />
         </p>
         <p>
-          <b>133</b> 이건 문제가 너무 많아.  ( problem, this ) <br />
+          <b>172</b> 이건 문제가 너무 많아.  ( problem, this ) <br />
         </p>
         <p>
-          <b>134</b> 여기는 볼 것이 참 많아. ( things, see, here ) <br />
+          <b>173</b> 여기는 볼 것이 참 많아. ( things, see, here ) <br />
+        </p>
+        <p>
+          <b>174</b>  <br />
+        </p>
+        <p>
+          <b>175</b>  <br />
+        </p>
+        <p>
+          <b>176</b>  <br />
         </p>
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
@@ -115,11 +124,14 @@
           <v-flex xs12>
           <v-card light color="#a7d7c5">
             <v-card-text class="px-10" style="color:#d9e7cd;">
-              130 There are a few cars parked.<br />
-              131 There are only a few tickets left.<br />
-              132 There are so many things to do today.<br />
-              133 There are too many problems with this.<br />
-              134 There are so many things to see here.<br />
+              169 There are a few cars parked.<br />
+              170 There are only a few tickets left.<br />
+              171 There are so many things to do today.<br />
+              172 There are too many problems with this.<br />
+              173 There are so many things to see here.<br />
+              174 <br />
+              175 <br />
+              176 <br />
             </v-card-text>
           </v-card>
         </v-flex>

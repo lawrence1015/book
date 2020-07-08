@@ -96,19 +96,28 @@
         <br />
 
         <p>
-          <b>505</b> 도와주셔서 감사드려요. ( help ) <br />
+          <b>769</b> 도와주셔서 감사드려요. ( help ) <br />
         </p>
         <p>
-          <b>506</b> 전화 주셔서 감사드립니다. ( call ) <br />
+          <b>770</b> 전화 주셔서 감사드립니다. ( call ) <br />
         </p>
         <p>
-          <b>507</b> 친절하게 대해줘서 고마워. ( kindness ) <br />
+          <b>771</b> 친절하게 대해줘서 고마워. ( kindness ) <br />
         </p>
         <p>
-          <b>509</b> 걱정해주셔서 감사드려요. ( concern ) <br />
+          <b>772</b> 걱정해주셔서 감사드려요. ( concern ) <br />
         </p>
         <p>
-          <b>509</b> 시간 내주셔서 감사드립니다. ( time ) <br />
+          <b>773</b> 시간 내주셔서 감사드립니다. ( time ) <br />
+        </p>
+        <p>
+          <b>774</b>  <br />
+        </p>
+        <p>
+          <b>775</b>  <br />
+        </p>
+        <p>
+          <b>776</b>  <br />
         </p>
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
@@ -117,11 +126,14 @@
           <v-flex xs12>
           <v-card light color="#a7d7c5">
             <v-card-text class="px-10" style="color:#d9e7cd;">
-              505 I appreciate your help.<br />
-              506 I appreciate your call.<br />
-              507 I appreciate your kindness.<br />
-              508 I appreciate your concern.<br />
-              509 I appreciate your time.<br />
+              769 I appreciate your help.<br />
+              770 I appreciate your call.<br />
+              771 I appreciate your kindness.<br />
+              772 I appreciate your concern.<br />
+              773 I appreciate your time.<br />
+              774 <br />
+              775 <br />
+              776 <br />
             </v-card-text>
           </v-card>
         </v-flex>

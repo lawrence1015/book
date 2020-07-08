@@ -95,20 +95,29 @@
         <br />
 
         <p>
-          <b>310</b> 우리가 그걸 다시 생각해야 될지도 모르겠어. ( think over ) <br />
+          <b>457</b> 우리가 그걸 다시 생각해야 될지도 모르겠어. ( think over ) <br />
         </p>
         <p>
-          <b>311</b> 다시 시작해야 할지도 모르겠어. ( start over ) <br />
+          <b>458</b> 다시 시작해야 할지도 모르겠어. ( start over ) <br />
               * Start over  처음부터 다시 하다.<br />
         </p>
         <p>
-          <b>312</b> 우리 얘기 좀 해야 할 것 같아. ( talk ) <br />
+          <b>459</b> 우리 얘기 좀 해야 할 것 같아. ( talk ) <br />
         </p>
         <p>
-          <b>313</b> 우리 그 강연에 가야 할 것 같아. ( go, lecture ) <br />
+          <b>460</b> 우리 그 강연에 가야 할 것 같아. ( go, lecture ) <br />
         </p>
         <p>
-          <b>314</b> 지금 당장 떠나야 할 것 같아. ( leave, right now ) <br />
+          <b>461</b> 지금 당장 떠나야 할 것 같아. ( leave, right now ) <br />
+        </p>
+        <p>
+          <b>462</b>  <br />
+        </p>
+        <p>
+          <b>463</b>  <br />
+        </p>
+        <p>
+          <b>464</b>  <br />
         </p>
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
@@ -117,11 +126,14 @@
           <v-flex xs12>
           <v-card light color="#a7d7c5">
             <v-card-text class="px-10" style="color:#d9e7cd;">
-              310 Maybe we should think it over.<br />
-              311 Maybe we should start over.<br />
-              312 Maybe we should talk.<br />
-              313 Maybe we should go to the lecture.<br />
-              314 Maybe we should leave right now.<br />
+              457 Maybe we should think it over.<br />
+              458 Maybe we should start over.<br />
+              459 Maybe we should talk.<br />
+              460 Maybe we should go to the lecture.<br />
+              461 Maybe we should leave right now.<br />
+              462 <br />
+              463 <br />
+              464 <br />
             </v-card-text>
           </v-card>
         </v-flex>

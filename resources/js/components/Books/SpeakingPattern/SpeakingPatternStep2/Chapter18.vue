@@ -95,19 +95,28 @@
         <br />
 
         <p>
-          <b>210</b> 내가 제시간에 거기에 가는 건 불가능해. ( be there, on time ) <br />
+          <b>297</b> 내가 제시간에 거기에 가는 건 불가능해. ( be there, on time ) <br />
         </p>
         <p>
-          <b>211</b> 난 그거 절대 못 먹어. ( eat ) <br />
+          <b>298</b> 난 그거 절대 못 먹어. ( eat ) <br />
         </p>
         <p>
-          <b>212</b> 나는 절대 그 사람을 용서할 수 없어.( forgive ) <br />
+          <b>299</b> 나는 절대 그 사람을 용서할 수 없어.( forgive ) <br />
         </p>
         <p>
-          <b>213</b> 난 이거 절대 못 해. ( do, this ) <br />
+          <b>300</b> 난 이거 절대 못 해. ( do, this ) <br />
         </p>
         <p>
-          <b>214</b> 이걸 오늘 밤까지 끝내는 건 불가능해. ( finish, tonight ) <br />
+          <b>301</b> 이걸 오늘 밤까지 끝내는 건 불가능해. ( finish, tonight ) <br />
+        </p>
+        <p>
+          <b>302</b>  <br />
+        </p>
+        <p>
+          <b>303</b>  <br />
+        </p>
+        <p>
+          <b>304</b>  <br />
         </p>
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
@@ -116,11 +125,14 @@
           <v-flex xs12>
           <v-card light color="#a7d7c5">
             <v-card-text class="px-10" style="color:#d9e7cd;">
-              186 There’s no way I can be there on time.<br />
-              187 There’s no way I can eat them.<br />
-              188 There’s no way I can forgive him.<br />
-              189 There’s no way I can do this.<br />
-              190 There’s no way I can finish it by tonight.<br />
+              297 There’s no way I can be there on time.<br />
+              298 There’s no way I can eat them.<br />
+              299 There’s no way I can forgive him.<br />
+              300 There’s no way I can do this.<br />
+              301 There’s no way I can finish it by tonight.<br />
+              302 <br />
+              303 <br />
+              304 <br />
             </v-card-text>
           </v-card>
         </v-flex>

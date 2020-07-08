@@ -136,16 +136,16 @@
           </v-card>
         </v-flex>
       </v-layout>
-  </v-container>
+  </v-container
         <br />
-        
+
 </div>
+
+
 </div>
 </v-layout>
 </v-container>
 </div>
-
-
 </template>
 
 

@@ -95,19 +95,28 @@
         <br />
 
         <p>
-          <b>470</b> 누가 뭐라고 하든 난 신경 안 써. ( anybody, say ) <br />
+          <b>713</b> 누가 뭐라고 하든 난 신경 안 써. ( anybody, say ) <br />
         </p>
         <p>
-          <b>471</b> 다른 사람들이 어떻게 생각하는지 난 신경 안 써 ( others, think ) <br />
+          <b>714</b> 다른 사람들이 어떻게 생각하는지 난 신경 안 써 ( others, think ) <br />
         </p>
         <p>
-          <b>472</b> 그게 사실이든 아니든 난 상관 없어요. ( true or not ) <br />
+          <b>715</b> 그게 사실이든 아니든 난 상관 없어요. ( true or not ) <br />
         </p>
         <p>
-          <b>473</b> 돈이 얼마 들든 난 신경 안 써. ( how much. cost ) <br />
+          <b>716</b> 돈이 얼마 들든 난 신경 안 써. ( how much. cost ) <br />
         </p>
         <p>
-          <b>474</b> 네가 하는 말은 신경 안 써. ( what, say ) <br />
+          <b>717</b> 네가 하는 말은 신경 안 써. ( what, say ) <br />
+        </p>
+        <p>
+          <b>718</b>  <br />
+        </p>
+        <p>
+          <b>719</b>  <br />
+        </p>
+        <p>
+          <b>720</b>  <br />
         </p>
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
@@ -116,24 +125,26 @@
           <v-flex xs12>
           <v-card light color="#a7d7c5">
             <v-card-text class="px-10" style="color:#d9e7cd;">
-              470 I don’t care what anybody says.<br />
-              471 I don’t care what others think.<br />
-              472 I don’t care whether it is true or not.<br />
-              473 I don’t care how much it costs.<br />
-              474 I don’t care what you say.<br />
+              713 I don’t care what anybody says.<br />
+              714 I don’t care what others think.<br />
+              715 I don’t care whether it is true or not.<br />
+              716 I don’t care how much it costs.<br />
+              717 I don’t care what you say.<br />
+              718 <br />
+              719 <br />
+              720 <br />
             </v-card-text>
           </v-card>
         </v-flex>
       </v-layout>
   </v-container>
-  
-</div>
 
 </div>
 
+</div>
 
-       </v-layout>
-     </v-container>
+
+
   </v-layout>
   </v-container>
 </div>

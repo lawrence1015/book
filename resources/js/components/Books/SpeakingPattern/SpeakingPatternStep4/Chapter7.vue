@@ -94,20 +94,29 @@
         <br />
 
         <p>
-          <b>355</b> 네가 그럴 해내서 정말 기뻐. ( made it ) <br />
+          <b>529</b> 네가 그럴 해내서 정말 기뻐. ( made it ) <br />
         </p>
         <p>
-          <b>356</b> 여기 오게 돼서 정말 기분이 좋아. ( here ) <br />
+          <b>530</b> 여기 오게 돼서 정말 기분이 좋아. ( here ) <br />
         </p>
         <p>
-          <b>357</b> 그게 끝나서 너무 좋아. ( over ) <br />
+          <b>531</b> 그게 끝나서 너무 좋아. ( over ) <br />
                 *be over 끝나다 <br />
         </p>
         <p>
-          <b>358</b> 그 말을 들으니까 정말 기뻐. ( hear ) <br />
+          <b>532</b> 그 말을 들으니까 정말 기뻐. ( hear ) <br />
         </p>
         <p>
-          <b>359</b> 오늘 화창해서 정말 좋구나. ( sunny ) <br />
+          <b>533</b> 오늘 화창해서 정말 좋구나. ( sunny ) <br />
+        </p>
+        <p>
+          <b>534</b>  <br />
+        </p>
+        <p>
+          <b>535</b>  <br />
+        </p>
+        <p>
+          <b>536</b>  <br />
         </p>
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
@@ -116,11 +125,14 @@
           <v-flex xs12>
           <v-card light color="#a7d7c5">
             <v-card-text class="px-10" style="color:#d9e7cd;">
-              355 I’m so glad you made it.<br />
-              356 I’m so glad to be here.<br />
-              357 I’m so glad that’s over<br />
-              358 I’m so glad to hear that.<br />
-              359 I’m so glad that it's sunny today.
+              529 I’m so glad you made it.<br />
+              530 I’m so glad to be here.<br />
+              531 I’m so glad that’s over<br />
+              532 I’m so glad to hear that.<br />
+              533 I’m so glad that it's sunny today.<br />
+              534 <br />
+              535 <br />
+              536 <br />
             </v-card-text>
           </v-card>
         </v-flex>

@@ -94,19 +94,28 @@
         <br />
 
         <p>
-          <b>160</b> 남은 사람은 아무도 없어. ( left ) <br />
+          <b>217</b> 남은 사람은 아무도 없어. ( left ) <br />
         </p>
         <p>
-          <b>161</b> 믿을 수 있는 사람이 전혀 없어요. ( trust ) <br />
+          <b>218</b> 믿을 수 있는 사람이 전혀 없어요. ( trust ) <br />
         </p>
         <p>
-          <b>162</b> 데이트하고 싶은 사람이 한 명도 없어요. ( want, date ) <br />
+          <b>219</b> 데이트하고 싶은 사람이 한 명도 없어요. ( want, date ) <br />
         </p>
         <p>
-          <b>163</b> 그런 이름 가진 사람 여기 없는데요. ( here, by that name ) <br />
+          <b>220</b> 그런 이름 가진 사람 여기 없는데요. ( here, by that name ) <br />
         </p>
         <p>
-          <b>164</b> 그 일에 더 적합한 사람은 아무도 없어요. (better, job) <br />
+          <b>221</b> 그 일에 더 적합한 사람은 아무도 없어요. ( better, job ) <br />
+        </p>
+        <p>
+          <b>222</b>  <br />
+        </p>
+        <p>
+          <b>223</b>  <br />
+        </p>
+        <p>
+          <b>224</b>  <br />
         </p>
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
@@ -115,11 +124,14 @@
           <v-flex xs12>
           <v-card light color="#a7d7c5">
             <v-card-text class="px-10" style="color:#d9e7cd;">
-              160 There’s no one left.<br />
-              161 There’s no one I can trust.<br />
-              162 There’s no one I want to date.<br />
-              163 There’s no one here by that name.<br />
-              164 There’s no one better than that job.<br />
+              217 There’s no one left.<br />
+              218 There’s no one I can trust.<br />
+              219 There’s no one I want to date.<br />
+              220 There’s no one here by that name.<br />
+              221 There’s no one better than that job.<br />
+              222 <br />
+              223 <br />
+              224 <br />
             </v-card-text>
           </v-card>
         </v-flex>

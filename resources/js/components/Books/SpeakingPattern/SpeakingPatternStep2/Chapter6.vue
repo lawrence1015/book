@@ -94,20 +94,30 @@
         <br />
 
         <p>
-          <b>150</b> 서두를 필요 없어. ( rush ) <br />
+          <b>201</b> 서두를 필요 없어. ( rush ) <br />
         </p>
         <p>
-          <b>151</b> 선택의 여지가 없네. ( choice ) <br />
+          <b>202</b> 선택의 여지가 없네. ( choice ) <br />
         </p>
         <p>
-          <b>152</b> 의심의 여지가 없군. ( doubt ) <br />
+          <b>203</b> 의심의 여지가 없군. ( doubt ) <br />
         </p>
         <p>
-          <b>153</b> 그렇다는 증거가 없잖아. ( proof ) <br />
+          <b>204</b> 그렇다는 증거가 없잖아. ( proof ) <br />
         </p>
         <p>
-          <b>154</b> 희망이 없어. ( hope ) <br />
+          <b>205</b> 희망이 없어. ( hope ) <br />
         </p>
+        <p>
+          <b>206</b> 희망이 없어. ( hope ) <br />
+        </p>
+        <p>
+          <b>207</b> 희망이 없어. ( hope ) <br />
+        </p>
+        <p>
+          <b>208</b> 희망이 없어. ( hope ) <br />
+        </p>
+
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
 
@@ -115,17 +125,20 @@
           <v-flex xs12>
           <v-card light color="#a7d7c5">
             <v-card-text class="px-10" style="color:#d9e7cd;">
-              150 There’s no rush.<br />
-              151 There’s no choice.<br />
-              152 There’s no doubt about it.<br />
-              153 There’s no proof of that.<br />
-              154 There’s no hope.<br />
+              201 There’s no rush.<br />
+              202 There’s no choice.<br />
+              203 There’s no doubt about it.<br />
+              204 There’s no proof of that.<br />
+              205 There’s no hope.<br />
+              206 There’s no hope.<br />
+              207 There’s no hope.<br />
+              208 There’s no hope.<br />
             </v-card-text>
           </v-card>
         </v-flex>
       </v-layout>
     </v-container>
-      
+
 </div>
 
 </div>
@@ -133,11 +146,7 @@
 
        </v-layout>
      </v-container>
-  </v-layout>
-  </v-container>
 </div>
-
-
 
 </template>
 

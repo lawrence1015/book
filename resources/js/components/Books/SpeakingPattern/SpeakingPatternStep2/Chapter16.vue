@@ -65,7 +65,7 @@
           <p style="line-height: 2;">
             A : 필 집에 있어요?<br />
             B : 아뇨, 없는데요.<br />
-            A : <mark style="background-color: #a7d7c5; color: #d9e7cd;">Is there any way I can reach him?</b></mark><br />
+            A : <mark style="background-color: #a7d7c5; color: #d9e7cd;">Is there any way I can reach him?</mark><br />
             B : 휴대폰으로 전화해보세요.
           </p>
           <br />
@@ -94,19 +94,28 @@
         <br />
 
         <p>
-          <b>200</b> 제가 도와드릴 방법이 뭐 없을까요? ( place, to shop )  <br />
+          <b>281</b> 제가 도와드릴 방법이 뭐 없을까요? ( place, to shop )  <br />
         </p>
         <p>
-          <b>201</b> 그 사람이랑 연락할 방법이 뭐 없을까요? (  site, to see ) <br />
+          <b>282</b> 그 사람이랑 연락할 방법이 뭐 없을까요? (  site, to see ) <br />
         </p>
         <p>
-          <b>202</b> 알아낼 방법이 뭐 없을까요? ( students, class ) <br />
+          <b>283</b> 알아낼 방법이 뭐 없을까요? ( students, class ) <br />
         </p>
         <p>
-          <b>203</b> 그것을 개선시킬 수 있는 방법이 뭐 없을까요? ( bills, to pay ) <br />
+          <b>284</b> 그것을 개선시킬 수 있는 방법이 뭐 없을까요? ( bills, to pay ) <br />
         </p>
         <p>
-          <b>204</b> 나를 도와주실 방법이 없겠습니까? ( help ) <br />
+          <b>285</b> 나를 도와주실 방법이 없겠습니까? ( help ) <br />
+        </p>
+        <p>
+          <b>286</b>  <br />
+        </p>
+        <p>
+          <b>287</b>  <br />
+        </p>
+        <p>
+          <b>288</b>  <br />
         </p>
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
@@ -115,17 +124,20 @@
           <v-flex xs12>
           <v-card light color="#a7d7c5">
             <v-card-text class="px-10" style="color:#d9e7cd;">
-              200 Is there any way I can help?<br />
-              201 Is there any way I can reach him?<br />
-              202 Is there any way to find out?<br />
-              203 Is there any way to make it better?<br />
-              204 Is there any way to help me?<br />
+              281 Is there any way I can help?<br />
+              282 Is there any way I can reach him?<br />
+              283 Is there any way to find out?<br />
+              284 Is there any way to make it better?<br />
+              285 Is there any way to help me?<br />
+              286 <br />
+              287 <br />
+              288 <br />
             </v-card-text>
           </v-card>
         </v-flex>
       </v-layout>
   </v-container>
-    
+
 </div>
 
 </div>

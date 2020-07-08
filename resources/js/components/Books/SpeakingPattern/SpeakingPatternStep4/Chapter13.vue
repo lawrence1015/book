@@ -93,20 +93,29 @@
         <br />
 
         <p>
-          <b>385</b> 내가 오늘 누굴 봤는지 넌 못 믿을 거야. ( saw ) <br />
+          <b>577</b> 내가 오늘 누굴 봤는지 넌 못 믿을 거야. ( saw ) <br />
         </p>
         <p>
-          <b>386</b> 방금 무슨 일이 있었는지 넌 못 믿을 거야. ( happened ) <br />
+          <b>578</b> 방금 무슨 일이 있었는지 넌 못 믿을 거야. ( happened ) <br />
         </p>
         <p>
-          <b>387</b> 내가 방금 무슨 얘기를 들었는지 넌 못 믿을 거야. ( heard ) <br />
+          <b>579</b> 내가 방금 무슨 얘기를 들었는지 넌 못 믿을 거야. ( heard ) <br />
         </p>
         <p>
-          <b>388</b> 넌 잭의 성질을 못 믿을 거야. ( temper ) <br />
+          <b>580</b> 넌 잭의 성질을 못 믿을 거야. ( temper ) <br />
                 *temper  성질, 화<br />
         </p>
         <p>
-          <b>389</b> 넌 내가 오늘 뭘 해야 했는지 못 믿을 거야. ( what, have to ) <br />
+          <b>581</b> 넌 내가 오늘 뭘 해야 했는지 못 믿을 거야. ( what, have to ) <br />
+        </p>
+        <p>
+          <b>582</b>  <br />
+        </p>
+        <p>
+          <b>583</b>  <br />
+        </p>
+        <p>
+          <b>584</b>  <br />
         </p>
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
@@ -115,11 +124,14 @@
           <v-flex xs12>
           <v-card light color="#a7d7c5">
             <v-card-text class="px-10" style="color:#d9e7cd;">
-              385 You wouldn’t believe who I saw today.<br />
-              386 You wouldn’t believe what just happened.<br />
-              387 You wouldn’t believe what I just heard.<br />
-              388 You wouldn’t believe Jack’s temper.<br />
-              389 You wouldn’t believe what I had to do.<br />
+              577 You wouldn’t believe who I saw today.<br />
+              578 You wouldn’t believe what just happened.<br />
+              579 You wouldn’t believe what I just heard.<br />
+              580 You wouldn’t believe Jack’s temper.<br />
+              581 You wouldn’t believe what I had to do.<br />
+              582 <br />
+              583 <br />
+              584 <br />
             </v-card-text>
           </v-card>
         </v-flex>

@@ -96,19 +96,28 @@
         <br />
 
         <p>
-          <b>495</b> 너 유머감각이 제법인데 ( humor ) <br />
+          <b>753</b> 너 유머감각이 제법인데 ( humor ) <br />
         </p>
         <p>
-          <b>496</b> 넌 패션감각이 좋구나. ( style ) <br />
+          <b>754</b> 넌 패션감각이 좋구나. ( style ) <br />
         </p>
         <p>
-          <b>497</b> 방향감각이 뛰어난데 ( direction ) <br />
+          <b>755</b> 방향감각이 뛰어난데 ( direction ) <br />
         </p>
         <p>
-          <b>498</b> 넌 냄새를 잘 맡는구나. ( smell ) <br />
+          <b>756</b> 넌 냄새를 잘 맡는구나. ( smell ) <br />
         </p>
         <p>
-          <b>499</b> 넌 시간관념이 뛰어나구나. ( timing ) <br />
+          <b>757</b> 넌 시간관념이 뛰어나구나. ( timing ) <br />
+        </p>
+        <p>
+          <b>758</b>  <br />
+        </p>
+        <p>
+          <b>759</b>  <br />
+        </p>
+        <p>
+          <b>760</b>  <br />
         </p>
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
@@ -117,11 +126,14 @@
           <v-flex xs12>
           <v-card light color="#a7d7c5">
             <v-card-text class="px-10" style="color:#d9e7cd;">
-              495 You have a good sense of humor.<br />
-              496 You have a good sense of style.<br />
-              497 You have a good sense of direction<br />
-              498 You have a good sense of smell.<br />
-              499 You have a good sense of timing.<br />
+              753 You have a good sense of humor.<br />
+              754 You have a good sense of style.<br />
+              755 You have a good sense of direction<br />
+              756 You have a good sense of smell.<br />
+              757 You have a good sense of timing.<br />
+              758 You have a good sense of timing.<br />
+              759 You have a good sense of timing.<br />
+              760 You have a good sense of timing.<br />
             </v-card-text>
           </v-card>
         </v-flex>

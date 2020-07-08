@@ -1,4 +1,4 @@
-<template>
+ <template>
 
 <div :style = "{fontSize: fontSize + 'px'}">
 
@@ -95,19 +95,28 @@
         <br />
 
         <p>
-          <b>170</b> 긴장할 필요 없어. ( nervous ) <br />
+          <b>233</b> 긴장할 필요 없어. ( nervous ) <br />
         </p>
         <p>
-          <b>171</b> 허둥지둥할 거 없어. ( panic ) <br />
+          <b>234</b> 허둥지둥할 거 없어. ( panic ) <br />
         </p>
         <p>
-          <b>172</b> 나한테 고마워할 거 없어. ( thank ) <br />
+          <b>235</b> 나한테 고마워할 거 없어. ( thank ) <br />
         </p>
         <p>
-          <b>173</b> 줄리에 대해 걱정할 필요 없어. ( worry ) <br />
+          <b>236</b> 줄리에 대해 걱정할 필요 없어. ( worry ) <br />
         </p>
         <p>
-          <b>174</b> 사과할 거 없어. ( apologize ) <br />
+          <b>237</b> 사과할 거 없어. ( apologize ) <br />
+        </p>
+        <p>
+          <b>238</b>  <br />
+        </p>
+        <p>
+          <b>239</b>  <br />
+        </p>
+        <p>
+          <b>240</b>  <br />
         </p>
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
@@ -116,17 +125,20 @@
           <v-flex xs12>
           <v-card light color="#a7d7c5">
             <v-card-text class="px-10" style="color:#d9e7cd;">
-              170 There’s no need to be nervous.<br />
-              171 There’s no need to panic.<br />
-              172 There’s no need to thank me.<br />
-              173 There’s no need to worry about Julie.<br />
-              174 There’s no need to apologize.<br />
+              233 There’s no need to be nervous.<br />
+              234 There’s no need to panic.<br />
+              235 There’s no need to thank me.<br />
+              236 There’s no need to worry about Julie.<br />
+              237 There’s no need to apologize.<br />
+              238 <br />
+              239 <br />
+              240 <br />
             </v-card-text>
           </v-card>
         </v-flex>
       </v-layout>
   </v-container>
-        
+
 </div>
 
 </div>

@@ -80,9 +80,25 @@ routes: [
 {path: '/freetalking/beginner/Unit3Chapter13', name: 'freetalking_beginner', component: require('./components/Books/FreetalkingAdult/Beginner/Unit3Chapter13.vue').default},
 
 {path: '/freetalking/beginner/chapter14', name: 'freetalking_beginner', component: require('./components/Books/FreetalkingAdult/Beginner/Chapter14.vue').default},
+{path: '/freetalking/beginner/Unit1Chapter14', name: 'freetalking_beginner', component: require('./components/Books/FreetalkingAdult/Beginner/Unit1Chapter14.vue').default },
+{path: '/freetalking/beginner/Unit2Chapter14', name: 'freetalking_beginner', component: require('./components/Books/FreetalkingAdult/Beginner/Unit2Chapter14.vue').default },
+{path: '/freetalking/beginner/Unit3Chapter14', name: 'freetalking_beginner', component: require('./components/Books/FreetalkingAdult/Beginner/Unit3Chapter14.vue').default },
+
 {path: '/freetalking/beginner/chapter15', name: 'freetalking_beginner', component: require('./components/Books/FreetalkingAdult/Beginner/Chapter15.vue').default},
+{path: '/freetalking/beginner/Unit1Chapter15', name: 'freetalking_beginner', component: require('./components/Books/FreetalkingAdult/Beginner/Unit1Chapter15.vue').default },
+{path: '/freetalking/beginner/Unit2Chapter15', name: 'freetalking_beginner', component: require('./components/Books/FreetalkingAdult/Beginner/Unit2Chapter15.vue').default },
+{path: '/freetalking/beginner/Unit3Chapter15', name: 'freetalking_beginner', component: require('./components/Books/FreetalkingAdult/Beginner/Unit3Chapter15.vue').default },
+
 {path: '/freetalking/beginner/chapter16', name: 'freetalking_beginner', component: require('./components/Books/FreetalkingAdult/Beginner/Chapter16.vue').default},
+{path: '/freetalking/beginner/Unit1Chapter16', name: 'freetalking_beginner', component: require('./components/Books/FreetalkingAdult/Beginner/Unit1Chapter16.vue').default },
+{path: '/freetalking/beginner/Unit2Chapter16', name: 'freetalking_beginner', component: require('./components/Books/FreetalkingAdult/Beginner/Unit2Chapter16.vue').default },
+{path: '/freetalking/beginner/Unit3Chapter16', name: 'freetalking_beginner', component: require('./components/Books/FreetalkingAdult/Beginner/Unit3Chapter16.vue').default },
+
 {path: '/freetalking/beginner/chapter17', name: 'freetalking_beginner', component: require('./components/Books/FreetalkingAdult/Beginner/Chapter17.vue').default},
+{path: '/freetalking/beginner/Unit1Chapter17', name: 'freetalking_beginner', component: require('./components/Books/FreetalkingAdult/Beginner/Unit1Chapter17.vue').default },
+{path: '/freetalking/beginner/Unit2Chapter17', name: 'freetalking_beginner', component: require('./components/Books/FreetalkingAdult/Beginner/Unit2Chapter17.vue').default },
+{path: '/freetalking/beginner/Unit3Chapter17', name: 'freetalking_beginner', component: require('./components/Books/FreetalkingAdult/Beginner/Unit3Chapter17.vue').default },
+
 {path: '/freetalking/beginner/chapter18', name: 'freetalking_beginner', component: require('./components/Books/FreetalkingAdult/Beginner/Chapter18.vue').default},
 {path: '/freetalking/beginner/chapter19', name: 'freetalking_beginner', component: require('./components/Books/FreetalkingAdult/Beginner/Chapter19.vue').default},
 {path: '/freetalking/beginner/chapter20', name: 'freetalking_beginner', component: require('./components/Books/FreetalkingAdult/Beginner/Chapter20.vue').default},

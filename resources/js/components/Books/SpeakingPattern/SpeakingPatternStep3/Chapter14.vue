@@ -94,21 +94,30 @@
         <br />
 
         <p>
-          <b>290</b> 그 얘기는 더 이상 하지 말자. ( talk about, it ) <br />
+          <b>425</b> 그 얘기는 더 이상 하지 말자. ( talk about, it ) <br />
         </p>
         <p>
-          <b>291</b> 이거 가지고 질질 끌지 말자. ( drag out ) <br />
+          <b>426</b> 이거 가지고 질질 끌지 말자. ( drag out ) <br />
               *drag out 질질 끌다. 오래 끌다.<br />
         </p>
         <p>
-          <b>292</b> 우리 넘겨짚지 말자. ( jump to conclusions ) <br />
+          <b>427</b> 우리 넘겨짚지 말자. ( jump to conclusions ) <br />
               *jump to conclusions 성급하게 단정하다, 속단하다.. <br />
         </p>
         <p>
-          <b>293</b> 에너지를 낭비하지 말자. ( waste , energy ) <br />
+          <b>428</b> 에너지를 낭비하지 말자. ( waste , energy ) <br />
         </p>
         <p>
-          <b>294</b> 너무 무리해서 하지 말자. ( overdo ) <br />
+          <b>429</b> 너무 무리해서 하지 말자. ( overdo ) <br />
+        </p>
+        <p>
+          <b>430</b>  <br />
+        </p>
+        <p>
+          <b>431</b>  <br />
+        </p>
+        <p>
+          <b>432</b>  <br />
         </p>
 
         <v-container grid-list-md text-xs-left>
@@ -118,11 +127,14 @@
           <v-flex xs12>
           <v-card light color="#a7d7c5">
             <v-card-text class="px-10" style="color:#d9e7cd;">
-              290 Let’s not talk about it anymore.<br />
-              291 Let’s not drag this out?<br />
-              292 Let’s not jump to conclusions.<br />
-              293 Let’s not waste energy.<br />
-              294 Let’s not overdo.<br />
+              425 Let’s not talk about it anymore.<br />
+              426 Let’s not drag this out?<br />
+              427 Let’s not jump to conclusions.<br />
+              428 Let’s not waste energy.<br />
+              429 Let’s not overdo.<br />
+              430 <br />
+              431 <br />
+              432 <br />
             </v-card-text>
           </v-card>
         </v-flex>

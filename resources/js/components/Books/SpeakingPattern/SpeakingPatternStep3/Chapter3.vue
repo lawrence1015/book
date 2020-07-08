@@ -94,19 +94,28 @@
         <br />
 
         <p>
-          <b>235</b> 혼자 가고 싶지 않아. ( go, alone ) <br />
+          <b>337</b> 혼자 가고 싶지 않아. ( go, alone ) <br />
         </p>
         <p>
-          <b>236</b> 그 얘기는 하고 싶지 않아. ( talk, about ) <br />
+          <b>338</b> 그 얘기는 하고 싶지 않아. ( talk, about ) <br />
         </p>
         <p>
-          <b>237</b> 난 헬스클럽에 가고 싶지 않아. ( go, gym ) <br />
+          <b>339</b> 난 헬스클럽에 가고 싶지 않아. ( go, gym ) <br />
         </p>
         <p>
-          <b>238</b> 난 그 여자랑 일하고 싶지 않아. ( work, her ) <br />
+          <b>340</b>난 그 여자랑 일하고 싶지 않아. ( work, her ) <br />
         </p>
         <p>
-          <b>239</b> 난 그 여자애와 얘기하고 싶지 않아.  ( talk to, the girl ) <br />
+          <b>341</b> 난 그 여자애와 얘기하고 싶지 않아.  ( talk to, the girl ) <br />
+        </p>
+        <p>
+          <b>342</b>  <br />
+        </p>
+        <p>
+          <b>343</b>  <br />
+        </p>
+        <p>
+          <b>344</b>  <br />
         </p>
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
@@ -115,17 +124,20 @@
           <v-flex xs12>
           <v-card light color="#a7d7c5">
             <v-card-text class="px-10" style="color:#d9e7cd;">
-              235 I don’t want to go alone.<br />
-              236 I don’t want to talk about it.<br />
-              237 I don’t want to go to the gym.<br />
-              238 I don’t want to work with her. <br />
-              239 I don’t want to talk to the girl.<br />
+              337 I don’t want to go alone.<br />
+              338 I don’t want to talk about it.<br />
+              339 I don’t want to go to the gym.<br />
+              340 I don’t want to work with her. <br />
+              341 I don’t want to talk to the girl.<br />
+              342 <br />
+              343 <br />
+              344 <br />
             </v-card-text>
           </v-card>
         </v-flex>
       </v-layout>
   </v-container>
-    
+
 </div>
 
 </div>

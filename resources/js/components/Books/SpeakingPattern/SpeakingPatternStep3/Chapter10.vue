@@ -96,19 +96,28 @@
         <br />
 
         <p>
-          <b>270</b> 언제 오고 싶어?( come ) <br />
+          <b>393</b> 언제 오고 싶어?( come ) <br />
         </p>
         <p>
-          <b>271</b> 언제 먹고 싶니? ( eat ) <br />
+          <b>394</b> 언제 먹고 싶니? ( eat ) <br />
         </p>
         <p>
-          <b>272</b> 언제 떠나고 싶은데? ( leave ) <br />
+          <b>395</b> 언제 떠나고 싶은데? ( leave ) <br />
         </p>
         <p>
-          <b>273</b> 언제 만날까? ( meet ) <br />
+          <b>396</b> 언제 만날까? ( meet ) <br />
         </p>
         <p>
-          <b>274</b> 저녁 먹으러 언제 갈래? ( go, dinner ) <br />
+          <b>397</b> 저녁 먹으러 언제 갈래? ( go, dinner ) <br />
+        </p>
+        <p>
+          <b>398</b>  <br />
+        </p>
+        <p>
+          <b>399</b>  <br />
+        </p>
+        <p>
+          <b>400</b>  <br />
         </p>
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
@@ -117,11 +126,14 @@
           <v-flex xs12>
           <v-card light color="#a7d7c5">
             <v-card-text class="px-10" style="color:#d9e7cd;">
-              270 When do you want to come?<br />
-              271 When do you want to eat?<br />
-              272 When do you want to leave<br />
-              273 When do you want to meet?<br />
-              274 When do you want to go to dinner?<br />
+              393 When do you want to come?<br />
+              394 When do you want to eat?<br />
+              395 When do you want to leave<br />
+              396 When do you want to meet?<br />
+              397 When do you want to go to dinner?<br />
+              398 <br />
+              399 <br />
+              400 <br />
             </v-card-text>
           </v-card>
         </v-flex>
@@ -133,8 +145,7 @@
 </div>
 
 
-       </v-layout>
-     </v-container>
+
   </v-layout>
   </v-container>
 </div>

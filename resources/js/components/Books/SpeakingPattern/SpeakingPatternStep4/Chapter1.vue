@@ -94,20 +94,29 @@
         <br />
 
         <p>
-          <b>325</b> 좀 피곤하네. ( tired ) <br />
+          <b>481</b> 좀 피곤하네. ( tired ) <br />
         </p>
         <p>
-          <b>326</b> 좀 배고파. ( hungry ) <br />
+          <b>482</b> 좀 배고파. ( hungry ) <br />
         </p>
         <p>
-          <b>327</b> 좀 우울해. ( depressed ) <br />
+          <b>483</b> 좀 우울해. ( depressed ) <br />
               *depressed.  우울한, 낙담한. <br />
         </p>
         <p>
-          <b>328</b> 그 사람한테 좀 미안하네. ( feel sorry ) <br />
+          <b>484</b> 그 사람한테 좀 미안하네. ( feel sorry ) <br />
         </p>
         <p>
-          <b>329</b> 좀 급해서요. ( in a hurry ) <br />
+          <b>485</b> 좀 급해서요. ( in a hurry ) <br />
+        </p>
+        <p>
+          <b>486</b>  <br />
+        </p>
+        <p>
+          <b>487</b>  <br />
+        </p>
+        <p>
+          <b>488</b>  <br />
         </p>
 
         <v-container grid-list-md text-xs-left>
@@ -117,11 +126,14 @@
           <v-flex xs12>
           <v-card light color="#a7d7c5">
             <v-card-text class="px-10" style="color:#d9e7cd;">
-              325 I’m kind of tired.<br />
-              326 I’m kind of hungry.<br />
-              327 I’m kind of depressed.<br />
-              328 I’m kind of feeling sorry for him.<br />
-              329 I’m kind of being in a hurry.<br />
+              481 I’m kind of tired.<br />
+              482 I’m kind of hungry.<br />
+              483 I’m kind of depressed.<br />
+              484 I’m kind of feeling sorry for him.<br />
+              485 I’m kind of being in a hurry.<br />
+              486 <br />
+              487 <br />
+              488 <br />
             </v-card-text>
           </v-card>
         </v-flex>

@@ -94,19 +94,28 @@
         <br />
 
         <p>
-          <b>115</b> 그분이 언제 도착했는지 알아요? ( arrive ) <br />
+          <b>145</b> 그분이 언제 도착했는지 알아요? ( arrive ) <br />
         </p>
         <p>
-          <b>116</b> 이게 언제 끝날지 알아요? ( will, over ) <br />
+          <b>146</b> 이게 언제 끝날지 알아요? ( will, over ) <br />
         </p>
         <p>
-          <b>117</b> 언제 불꽃놀이가 시작되는지 알아? ( fireworks, start ) <br />
+          <b>147</b> 언제 불꽃놀이가 시작되는지 알아? ( fireworks, start ) <br />
         </p>
         <p>
-          <b>118</b> 그 애 생일이 언제인지 알아? ( birthday ) <br />
+          <b>148</b> 그 애 생일이 언제인지 알아? ( birthday ) <br />
         </p>
         <p>
-          <b>119</b> 우리 숙제가 언제까지인지 아니? ( assignment, due ) <br />
+          <b>149</b> 우리 숙제가 언제까지인지 아니? ( assignment, due ) <br />
+        </p>
+        <p>
+          <b>150</b>  <br />
+        </p>
+        <p>
+          <b>151</b>  <br />
+        </p>
+        <p>
+          <b>152</b>  <br />
         </p>
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
@@ -115,11 +124,14 @@
           <v-flex xs12>
           <v-card light color="#a7d7c5">
             <v-card-text class="px-10" style="color:#d9e7cd;">
-              115 Do you know when he arrived?<br />
-              116 Do you know when this will be over?<br />
-              117 Do you know when the fireworks start?<br />
-              118 Do you know when his Birthday is<br />
-              119 Do you know when our assignment is due?<br />
+              145 Do you know when he arrived?<br />
+              146 Do you know when this will be over?<br />
+              147 Do you know when the fireworks start?<br />
+              148 Do you know when his Birthday is<br />
+              149 Do you know when our assignment is due?<br />
+              150 <br />
+              151 <br />
+              152 <br />
             </v-card-text>
           </v-card>
         </v-flex>

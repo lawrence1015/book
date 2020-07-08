@@ -94,19 +94,28 @@
         <br />
 
         <p>
-          <b>195</b> 쇼핑할 곳이 많나요? ( place, to shop ) <br />
+          <b>273</b> 쇼핑할 곳이 많나요? ( place, to shop ) <br />
         </p>
         <p>
-          <b>196</b> 볼 곳이 많나요? (  site, to see ) <br />
+          <b>274</b> 볼 곳이 많나요? (  site, to see ) <br />
         </p>
         <p>
-          <b>197</b> 이 수업에 학생들이 많나요? ( students, class ) <br />
+          <b>275</b> 이 수업에 학생들이 많나요? ( students, class ) <br />
         </p>
         <p>
-          <b>198</b> 이번 달에 낼 청구서가 많아요? ( bills, to pay ) <br />
+          <b>276</b> 이번 달에 낼 청구서가 많아요? ( bills, to pay ) <br />
         </p>
         <p>
-          <b>199</b> 한국에는 직장을 옮기는 사람이 많나요? ( job-hoppers ) <br />
+          <b>277</b> 한국에는 직장을 옮기는 사람이 많나요? ( job-hoppers ) <br />
+        </p>
+        <p>
+          <b>278</b>  <br />
+        </p>
+        <p>
+          <b>279</b>  <br />
+        </p>
+        <p>
+          <b>280</b>  <br />
         </p>
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
@@ -115,11 +124,14 @@
           <v-flex xs12>
           <v-card light color="#a7d7c5">
             <v-card-text class="px-10" style="color:#d9e7cd;">
-              195 Are there many places to shop?<br />
-              196 Are there many sites to see?<br />
-              197 Are there many students in this class?<br />
-              198 Are there many bills to pay this month?<br />
-              199 Are there many job-hoppers in Korea?<br />
+              273 Are there many places to shop?<br />
+              274 Are there many sites to see?<br />
+              275 Are there many students in this class?<br />
+              276 Are there many bills to pay this month?<br />
+              278 Are there many job-hoppers in Korea?<br />
+              279 <br />
+              280 <br />
+              281 <br />
             </v-card-text>
           </v-card>
         </v-flex>

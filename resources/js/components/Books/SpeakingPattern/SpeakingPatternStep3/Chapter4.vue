@@ -94,22 +94,32 @@
         <br />
 
         <p>
-          <b>240</b> 그것을 입어보고 싶은데요. ( try on ) <br />
+          <b>345</b> 그것을 입어보고 싶은데요. ( try on ) <br />
               *try on 입어보다, 신어보다.<br />
         </p>
         <p>
-          <b>241</b> 머리 스타일을 바꾸고 싶어요. ( change, hairdo ) <br />
+          <b>346</b> 머리 스타일을 바꾸고 싶어요. ( change, hairdo ) <br />
         </p>
         <p>
-          <b>242</b> 이 사진을 확대하고 싶어요. ( enlarge, picture ) <br />
+          <b>347</b> 이 사진을 확대하고 싶어요. ( enlarge, picture ) <br />
               *enlarge 확대하다.<br />
         </p>
         <p>
-          <b>243</b> 사과하고 싶어요. ( apologize ) <br />
+          <b>348</b> 사과하고 싶어요. ( apologize ) <br />
         </p>
         <p>
-          <b>244</b> 난 일기를 쓰고 싶어. ( keep a journal ) <br />
+          <b>349</b> 난 일기를 쓰고 싶어. ( keep a journal ) <br />
         </p>
+        <p>
+          <b>350</b>  <br />
+        </p>
+        <p>
+          <b>351</b>  <br />
+        </p>
+        <p>
+          <b>352</b>  <br />
+        </p>
+
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
 
@@ -117,11 +127,14 @@
           <v-flex xs12>
           <v-card light color="#a7d7c5">
             <v-card-text class="px-10" style="color:#d9e7cd;">
-              240 I’d like to try it on.<br />
-              241 I’d like to change my hairdo.<br />
-              242 I’d like to enlarge this picture.<br />
-              243 I’d like to apologize.<br />
-              244 I’d like to  keep a journal.<br />
+              345 I’d like to try it on.<br />
+              346 I’d like to change my hairdo.<br />
+              347 I’d like to enlarge this picture.<br />
+              348 I’d like to apologize.<br />
+              349 I’d like to  keep a journal.<br />
+              350 <br />
+              351 <br />
+              352 <br />
             </v-card-text>
           </v-card>
         </v-flex>

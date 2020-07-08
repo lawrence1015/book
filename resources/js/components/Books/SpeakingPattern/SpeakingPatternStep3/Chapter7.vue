@@ -94,19 +94,28 @@
         <br />
 
         <p>
-          <b>255</b> 우리랑 같이 하지 않을래? ( join ) <br />
+          <b>369</b> 우리랑 같이 하지 않을래? ( join ) <br />
         </p>
         <p>
-          <b>256</b> 더 알고 싶지 않니? ( know , anything ) <br />
+          <b>370</b> 더 알고 싶지 않니? ( know , anything ) <br />
         </p>
         <p>
-          <b>257</b> 운전하는 거 배우지 않을래? ( learn , how to ) <br />
+          <b>371</b> 운전하는 거 배우지 않을래? ( learn , how to ) <br />
         </p>
         <p>
-          <b>258</b> 선글라스 쓰지 그래? ( wear ) <br />
+          <b>372</b> 선글라스 쓰지 그래? ( wear ) <br />
         </p>
         <p>
-          <b>259</b> 거기에 가고 싶지 않니?  ( go there ) <br />
+          <b>373</b> 거기에 가고 싶지 않니?  ( go there ) <br />
+        </p>
+        <p>
+          <b>374</b>  <br />
+        </p>
+        <p>
+          <b>375</b>  <br />
+        </p>
+        <p>
+          <b>376</b>  <br />
         </p>
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
@@ -115,11 +124,14 @@
           <v-flex xs12>
           <v-card light color="#a7d7c5">
             <v-card-text class="px-10" style="color:#d9e7cd;">
-              255 Don’t you wanna join us?<br />
-              256 Don’t you wanna know anything more?<br />
-              257 Don’t you wanna learn how to drive?<br />
-              258 Don’t you wanna wear your sunglasses?<br />
-              259 Don’t you wanna go there?
+              369 Don’t you wanna join us?<br />
+              370 Don’t you wanna know anything more?<br />
+              371 Don’t you wanna learn how to drive?<br />
+              372 Don’t you wanna wear your sunglasses?<br />
+              373 Don’t you wanna go there?<br />
+              374 <br />
+              375 <br />
+              376 <br />
             </v-card-text>
           </v-card>
         </v-flex>

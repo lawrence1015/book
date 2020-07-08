@@ -94,19 +94,25 @@
         <br />
 
         <p>
-          <b>480</b> 난 네가 그렇게 웃는 게 좋아. ( laugh ) <br />
+          <b>729</b> 난 네가 그렇게 웃는 게 좋아. ( laugh ) <br />
         </p>
         <p>
-          <b>481</b> 난 네 사고방식이 마음에 들어. ( think ) <br />
+          <b>730</b> 난 네 사고방식이 마음에 들어. ( think ) <br />
         </p>
         <p>
-          <b>482</b> 난 네가 나를 대하는 방식이 마음에 들어. ( treat ) <br />
+          <b>731</b> 난 네가 나를 대하는 방식이 마음에 들어. ( treat ) <br />
         </p>
         <p>
-          <b>483</b> 난 네가 그렇게 노래하는 것 좋아해. ( sing )  <br />
+          <b>732</b> 난 네가 그렇게 노래하는 것 좋아해. ( sing )  <br />
         </p>
         <p>
-          <b>484</b> 난 네가 이 상황을 처리한 방식이 마음에 들어 ( handle, situation ) <br />
+          <b>733</b> 난 네가 이 상황을 처리한 방식이 마음에 들어 ( handle, situation ) <br />
+        </p><p>
+          <b>734</b>   <br />
+        </p><p>
+          <b>735</b>  <br />
+        </p><p>
+          <b>736</b>  <br />
         </p>
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
@@ -115,17 +121,20 @@
           <v-flex xs12>
           <v-card light color="#a7d7c5">
             <v-card-text class="px-10" style="color:#d9e7cd;">
-              480 I like the way you laugh.<br />
-              481 I like the way you think.<br />
-              482 I like the way you treat me.<br />
-              483 I like the way you sing.<br />
-              484 I like the way you handle this situation.<br />
+              729 I like the way you laugh.<br />
+              730 I like the way you think.<br />
+              731 I like the way you treat me.<br />
+              732 I like the way you sing.<br />
+              733 I like the way you handle this situation.<br />
+              734 <br />
+              735 <br />
+              736 <br />
             </v-card-text>
           </v-card>
         </v-flex>
       </v-layout>
   </v-container>
-  
+
 </div>
 
 </div>

@@ -94,19 +94,28 @@
         <br />
 
         <p>
-          <b>420</b> 새로운 언어를 배우는 것은 정말 답답하고 힘들어. ( learn, language ) <br />
+          <b>633</b> 새로운 언어를 배우는 것은 정말 답답하고 힘들어. ( learn, language ) <br />
         </p>
         <p>
-          <b>421</b> 부모님이랑 사는 게 가끔은 정말 답답해. ( live, parents ) <br />
+          <b>634</b> 부모님이랑 사는 게 가끔은 정말 답답해. ( live, parents ) <br />
         </p>
         <p>
-          <b>422</b> 면접 보러 다니는 거 너무 짜증나! ( job interview ) <br />
+          <b>635</b> 면접 보러 다니는 거 너무 짜증나! ( job interview ) <br />
         </p>
         <p>
-          <b>423</b> 돈이 얼마 없다는 게 정말 속상해. ( much money ) <br />
+          <b>636</b> 돈이 얼마 없다는 게 정말 속상해. ( much money ) <br />
         </p>
         <p>
-          <b>424</b> 그 사람이 나를 이해하지 못하는 게 너무 답답해. ( understand ) <br />
+          <b>637</b> 그 사람이 나를 이해하지 못하는 게 너무 답답해. ( understand ) <br />
+        </p>
+        <p>
+          <b>638</b>  <br />
+        </p>
+        <p>
+          <b>639</b>  <br />
+        </p>
+        <p>
+          <b>640</b>  <br />
         </p>
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
@@ -115,11 +124,14 @@
           <v-flex xs12>
           <v-card light color="#a7d7c5">
             <v-card-text class="px-10" style="color:#d9e7cd;">
-              420 It’s so frustrating to learn a new language.<br />
-              421 It’s so frustrating to live with my parents sometimes.<br />
-              422 It’s so frustrating to go on job interviews!<br />
-              423 It’s so frustrating that I don’t have much money.<br />
-              424 It’s so frustrating he didn't understand me.<br />
+              633 It’s so frustrating to learn a new language.<br />
+              634 It’s so frustrating to live with my parents sometimes.<br />
+              635 It’s so frustrating to go on job interviews!<br />
+              636 It’s so frustrating that I don’t have much money.<br />
+              637 It’s so frustrating he didn't understand me.<br />
+              638 <br />
+              639 <br />
+              640 <br />
             </v-card-text>
           </v-card>
         </v-flex>

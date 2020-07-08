@@ -94,19 +94,28 @@
         <br />
 
         <p>
-          <b>140</b> 이번 주 금요일에 시험이 있을 거예요. ( test ) <br />
+          <b>185</b> 이번 주 금요일에 시험이 있을 거예요. ( test ) <br />
         </p>
         <p>
-          <b>141</b> 파티에 사람들이 많이 올 거야. ( party ) <br />
+          <b>186</b> 파티에 사람들이 많이 올 거야. ( party ) <br />
         </p>
         <p>
-          <b>142</b> 행사에 경품이 많을 거야. ( prize, event ) <br />
+          <b>187</b> 행사에 경품이 많을 거야. ( prize, event ) <br />
         </p>
         <p>
-          <b>143</b> 이번만 봐주는 거야. ( no, next time ) <br />
+          <b>188</b> 이번만 봐주는 거야. ( no, next time ) <br />
         </p>
         <p>
-          <b>144</b> 4시에 회의를 할 거예요. ( meeting, four o’clock ) <br />
+          <b>189</b> 4시에 회의를 할 거예요. ( meeting, four o’clock ) <br />
+        </p>
+        <p>
+          <b>190</b>  <br />
+        </p>
+        <p>
+          <b>191</b>  <br />
+        </p>
+        <p>
+          <b>192</b>  <br />
         </p>
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
@@ -115,11 +124,14 @@
           <v-flex xs12>
           <v-card light color="#a7d7c5">
             <v-card-text class="px-10" style="color:#d9e7cd;">
-              140 There will be a test this Friday.<br />
-              141 There will be many people at the party.<br />
-              142 There will be many prizes at the event.<br />
-              143 There will be no next time.<br />
-              144 There will be a meeting at four o’clock.<br />
+              185 There will be a test this Friday.<br />
+              186 There will be many people at the party.<br />
+              187 There will be many prizes at the event.<br />
+              188 There will be no next time.<br />
+              189 There will be a meeting at four o’clock.<br />
+              190 <br />
+              191 <br />
+              192 <br />
             </v-card-text>
           </v-card>
         </v-flex>

@@ -94,22 +94,31 @@
         <br />
 
         <p>
-          <b>510</b> 내 부탁을 들어준다면 정말 감사하겠어요. ( do, favor ) <br />
+          <b>777</b> 내 부탁을 들어준다면 정말 감사하겠어요. ( do, favor ) <br />
                   *do~favor  ~의 부탁을 들어주다, 도와주다.<br />
         </p>
         <p>
-          <b>511</b> 네가 이걸 해준다면 정말 고맙겠어. ( do, for ) <br />
+          <b>778</b> 네가 이걸 해준다면 정말 고맙겠어. ( do, for ) <br />
         </p>
         <p>
-          <b>512</b> 여기에 들러준다면 정말 고맙겠어. ( stop by ) <br />
+          <b>779</b> 여기에 들러준다면 정말 고맙겠어. ( stop by ) <br />
                     *Stop by 들르다.<br />
         </p>
         <p>
-          <b>513</b> 이걸 비밀로 지켜준다면 정말 감사하겠어요 ( keep, quiet ). <br />
+          <b>780</b> 이걸 비밀로 지켜준다면 정말 감사하겠어요 ( keep, quiet ). <br />
                     *keep ~quiet  ~를 비밀로 해두다<br />
         </p>
         <p>
-          <b>514</b> 네가 그걸 물어봐 준다면 정말 고맙겠어. ( ask, questions ) <br />
+          <b>781</b> 네가 그걸 물어봐 준다면 정말 고맙겠어. ( ask, questions ) <br />
+        </p>
+        <p>
+          <b>782</b>  <br />
+        </p>
+        <p>
+          <b>783</b>  <br />
+        </p>
+        <p>
+          <b>784</b>  <br />
         </p>
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
@@ -118,11 +127,14 @@
           <v-flex xs12>
           <v-card light color="#a7d7c5">
             <v-card-text class="px-10" style="color:#d9e7cd;">
-              510 I’d really appreciate it if you could do me a favor<br />
-              511 I’d really appreciate it if you could do this for me.<br />
-              512 I’d really appreciate it if you could stop by here.<br />
-              513 I’d really appreciate it if you could keep this quiet.<br />
-              514 I’d really appreciate it if you could ask me questions.<br />
+              777 I’d really appreciate it if you could do me a favor<br />
+              778 I’d really appreciate it if you could do this for me.<br />
+              779 I’d really appreciate it if you could stop by here.<br />
+              780 I’d really appreciate it if you could keep this quiet.<br />
+              781 I’d really appreciate it if you could ask me questions.<br />
+              782 <br />
+              783 <br />
+              784 <br />
             </v-card-text>
           </v-card>
         </v-flex>

@@ -94,19 +94,28 @@
         <br />
 
         <p>
-          <b>380</b> 네가 저걸 먹었다니 믿을 수 없어. ( believe, ate ) <br />
+          <b>569</b> 네가 저걸 먹었다니 믿을 수 없어. ( believe, ate ) <br />
         </p>
         <p>
-          <b>381</b> 오늘이 벌써 금요일이라니 믿기지 않아. ( today, Friday ) <br />
+          <b>570</b> 오늘이 벌써 금요일이라니 믿기지 않아. ( today, Friday ) <br />
         </p>
         <p>
-          <b>382</b> 이런 일이 일어나다니 말도 안 돼. ( happening ) <br />
+          <b>571</b> 이런 일이 일어나다니 말도 안 돼. ( happening ) <br />
         </p>
         <p>
-          <b>383</b> 우리 사이가 끝났다는 게 믿어지지 않아. ( over, between )  <br />
+          <b>572</b> 우리 사이가 끝났다는 게 믿어지지 않아. ( over, between )  <br />
         </p>
         <p>
-          <b>384</b> 그 사람이 너에게 그런 말을 했다니 믿기지가 않아. ( say that ) <br />
+          <b>573</b> 그 사람이 너에게 그런 말을 했다니 믿기지가 않아. ( say that ) <br />
+        </p>
+        <p>
+          <b>574</b>  <br />
+        </p>
+        <p>
+          <b>575</b>  <br />
+        </p>
+        <p>
+          <b>576</b>  <br />
         </p>
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
@@ -115,11 +124,14 @@
           <v-flex xs12>
           <v-card light color="#a7d7c5">
             <v-card-text class="px-10" style="color:#d9e7cd;">
-              380 I can’t believe you ate that.<br />
-              381 I can’t believe today is already Friday.<br />
-              382 I can’t believe this is happening.<br />
-              383 I can’t believe it’s over between us.<br />
-              384 I can’t believe he said that.<br />
+              569 I can’t believe you ate that.<br />
+              570 I can’t believe today is already Friday.<br />
+              571 I can’t believe this is happening.<br />
+              572 I can’t believe it’s over between us.<br />
+              573 I can’t believe he said that.<br />
+              574 <br />
+              575 <br />
+              576 <br />
             </v-card-text>
           </v-card>
         </v-flex>

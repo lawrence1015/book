@@ -93,19 +93,28 @@
         <br />
 
         <p>
-          <b>485</b> 넌 참 똑똑하구나. ( smart ) <br />
+          <b>737</b> 넌 참 똑똑하구나. ( smart ) <br />
         </p>
         <p>
-          <b>486</b> 넌 참 귀여워. ( cute ) <br />
+          <b>738</b> 넌 참 귀여워. ( cute ) <br />
         </p>
         <p>
-          <b>487</b> 넌 참 재능이 많구나. ( talented ) <br />
+          <b>739</b> 넌 참 재능이 많구나. ( talented ) <br />
         </p>
         <p>
-          <b>488</b> 넌 참 창의력이 뛰어나구나. ( creative ) <br />
+          <b>740</b> 넌 참 창의력이 뛰어나구나. ( creative ) <br />
         </p>
         <p>
-          <b>489</b> 너 참 웃긴다. ( funny ) <br />
+          <b>741</b> 너 참 웃긴다. ( funny ) <br />
+        </p>
+        <p>
+          <b>742</b>  <br />
+        </p>
+        <p>
+          <b>743</b>  <br />
+        </p>
+        <p>
+          <b>744</b>  <br />
         </p>
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
@@ -114,11 +123,14 @@
           <v-flex xs12>
           <v-card light color="#a7d7c5">
             <v-card-text class="px-10" style="color:#d9e7cd;">
-              485 You’re so smart.<br />
-              486 You’re so cute.<br />
-              487 You’re so talented.<br />
-              488 You’re so creative.<br />
-              489 You’re so funny.<br />
+              737 You’re so smart.<br />
+              738 You’re so cute.<br />
+              739 You’re so talented.<br />
+              740 You’re so creative.<br />
+              741 You’re so funny.<br />
+              742 <br />
+              743 <br />
+              744 <br />
             </v-card-text>
           </v-card>
         </v-flex>

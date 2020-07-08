@@ -95,20 +95,29 @@
         <br />
 
         <p>
-          <b>395</b> 네가 화낼 만도 하네 ( mad ) <br />
+          <b>593</b> 네가 화낼 만도 하네 ( mad ) <br />
         </p>
         <p>
-          <b>396</b> 그 애가 그 남자를 싫어하는 건 당연해. ( hate ) <br />
+          <b>594</b> 그 애가 그 남자를 싫어하는 건 당연해. ( hate ) <br />
         </p>
         <p>
-          <b>397</b> 제니가 시험에 낙제한 건 당연한 일이야. ( flunk, test ) <br />
+          <b>595</b> 제니가 시험에 낙제한 건 당연한 일이야. ( flunk, test ) <br />
                 *flunk 실패하다, 낙제하다. <br />
         </p>
         <p>
-          <b>398</b> 네가 안 갔을 만도 하네. ( go ) <br />
+          <b>596</b> 네가 안 갔을 만도 하네. ( go ) <br />
         </p>
         <p>
-          <b>399</b> 경찰이 그 남자를 체포한 건 놀랄 일도 아니야. ( police, arrest ) <br />
+          <b>597</b> 경찰이 그 남자를 체포한 건 놀랄 일도 아니야. ( police, arrest ) <br />
+        </p>
+        <p>
+          <b>598</b>  <br />
+        </p>
+        <p>
+          <b>599</b>  <br />
+        </p>
+        <p>
+          <b>600</b>  <br />
         </p>
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
@@ -117,11 +126,14 @@
           <v-flex xs12>
           <v-card light color="#a7d7c5">
             <v-card-text class="px-10" style="color:#d9e7cd;">
-              395 No wonder you’re mad.<br />
-              396 No wonder she hates him.<br />
-              397 No wonder Jenny flunked the test.<br />
-              398 No wonder you didn’t go.<br />
-              399 No wonder the police arrested him.<br />
+              593 No wonder you’re mad.<br />
+              594 No wonder she hates him.<br />
+              595 No wonder Jenny flunked the test.<br />
+              596 No wonder you didn’t go.<br />
+              597 No wonder the police arrested him.<br />
+              598 <br />
+              599 <br />
+              600 <br />
             </v-card-text>
           </v-card>
         </v-flex>

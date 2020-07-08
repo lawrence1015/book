@@ -94,19 +94,28 @@
         <br />
 
         <p>
-          <b>110</b> 왜 여기가 추운지 알아? ( cold, here ) <br />
+          <b>137</b> 왜 여기가 추운지 알아? ( cold, here ) <br />
         </p>
         <p>
-          <b>111</b> 그 애가 왜 안 왔는지 아니? ( did, come ) <br />
+          <b>138</b> 그 애가 왜 안 왔는지 아니? ( did, come ) <br />
         </p>
         <p>
-          <b>112</b> 그 남자애가 화가 난 이유를 알고 있어? ( angry ) <br />
+          <b>139</b> 그 남자애가 화가 난 이유를 알고 있어? ( angry ) <br />
         </p>
         <p>
-          <b>113</b> 그 애가 왜 회사를 그만뒀는지 알아?( left, company ) <br />
+          <b>140</b> 그 애가 왜 회사를 그만뒀는지 알아?( left, company ) <br />
         </p>
         <p>
-          <b>114</b> 왜 바닥이 젖었는지 아니? ( floor, wet ) <br />
+          <b>141</b> 왜 바닥이 젖었는지 아니? ( floor, wet ) <br />
+        </p>
+        <p>
+          <b>142</b>  <br />
+        </p>
+        <p>
+          <b>143</b>  <br />
+        </p>
+        <p>
+          <b>144</b>  <br />
         </p>
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
@@ -115,11 +124,14 @@
           <v-flex xs12>
           <v-card light color="#a7d7c5">
             <v-card-text class="px-10" style="color:#d9e7cd;">
-              086 Do you know why it’s cold in here?<br />
-              087 Do you know why she didn’t come?<br />
-              088 Do you know why he’s angry?<br />
-              089 Do you know why she left the company?<br />
-              090 Do you know why the floor is wet?<br />
+              137 Do you know why it’s cold in here?<br />
+              138 Do you know why she didn’t come?<br />
+              139 Do you know why he’s angry?<br />
+              140 Do you know why she left the company?<br />
+              141 Do you know why the floor is wet?<br />
+              142 <br />
+              143 <br />
+              144 <br />
             </v-card-text>
           </v-card>
         </v-flex>

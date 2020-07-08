@@ -94,19 +94,28 @@
         <br />
 
         <p>
-          <b>410</b> 난 데이트 때문에 긴장돼. ( date ) <br />
+          <b>617</b> 난 데이트 때문에 긴장돼. ( date ) <br />
         </p>
         <p>
-          <b>411</b> 난 그 발표 때문에 긴장돼. ( presentation ) <br />
+          <b>618</b> 난 그 발표 때문에 긴장돼. ( presentation ) <br />
         </p>
         <p>
-          <b>412</b> 사람들 앞에서 말하는 것 때문에 긴장돼. ( speak in public ) <br />
+          <b>619</b> 사람들 앞에서 말하는 것 때문에 긴장돼. ( speak in public ) <br />
         </p>
         <p>
-          <b>413</b> 제시간에 끝낼 수 있을지 초조해. ( finish, in time ) <br />
+          <b>620</b> 제시간에 끝낼 수 있을지 초조해. ( finish, in time ) <br />
         </p>
         <p>
-          <b>414</b> 난 증언하는 게 긴장돼. ( testify ) <br />
+          <b>621</b> 난 증언하는 게 긴장돼. ( testify ) <br />
+        </p>
+        <p>
+          <b>622</b>  <br />
+        </p>
+        <p>
+          <b>623</b>  <br />
+        </p>
+        <p>
+          <b>624</b>  <br />
         </p>
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
@@ -115,23 +124,25 @@
           <v-flex xs12>
           <v-card light color="#a7d7c5">
             <v-card-text class="px-10" style="color:#d9e7cd;">
-              410 I’m nervous about my date.<br />
-              411 I’m nervous about the presentation.<br />
-              412 I’m nervous about speaking in public.<br />
-              413 I’m nervous about finishing in time.<br />
-              414 I’m nervous about testifying.<br />
+              617 I’m nervous about my date.<br />
+              618 I’m nervous about the presentation.<br />
+              619 I’m nervous about speaking in public.<br />
+              620 I’m nervous about finishing in time.<br />
+              621 I’m nervous about testifying.<br />
+              622 <br />
+              623 <br />
+              624 <br />
             </v-card-text>
           </v-card>
         </v-flex>
       </v-layout>
   </v-container>
 
-
 </div>
 </div>
 
-       </v-layout>
-     </v-container>
+
+
   </v-layout>
   </v-container>
 </div>

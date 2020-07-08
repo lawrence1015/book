@@ -93,19 +93,28 @@
         <br />
 
         <p>
-          <b>075</b> 내가 이 지역은 꽉 잡고 있지 ( area, well ) <br />
+          <b>081</b> 내가 이 지역은 꽉 잡고 있지 ( area, well ) <br />
         </p>
         <p>
-          <b>076</b> 내가 무슨 짓을 했는지 다 알아 ( what, do ) <br />
+          <b>082</b> 내가 무슨 짓을 했는지 다 알아 ( what, do ) <br />
         </p>
         <p>
-          <b>077</b> 어떻게 해야 톰을 웃길 수 있는지 알아. ( how, laugh ) <br />
+          <b>083</b> 어떻게 해야 톰을 웃길 수 있는지 알아. ( how, laugh ) <br />
         </p>
         <p>
-          <b>078</b> 네 기분이 어떤지 알아. ( how, feel ) <br />
+          <b>084</b> 네 기분이 어떤지 알아. ( how, feel ) <br />
         </p>
         <p>
-          <b>079</b> 난 네가 내 여동생을 사랑했다는 거 알아. (love, sister) <br />
+          <b>085</b> 난 네가 내 여동생을 사랑했다는 거 알아. (love, sister) <br />
+        </p>
+        <p>
+          <b>086</b> 커피는 어떠세요? ( like, coffee ) <br />
+        </p>
+        <p>
+          <b>087</b> 이 양복 어떠세요? ( like, suit ) <br />
+        </p>
+        <p>
+          <b>088</b> 결혼 생활은 어떠세요? ( like, being married ) <br />
         </p>
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
@@ -114,11 +123,14 @@
           <v-flex xs12>
           <v-card light color="#a7d7c5">
             <v-card-text class="px-10" style="color:#d9e7cd;">
-              075 I know this area very well<br />
-              076 I know what you did.<br />
-              077 I know how to make Tom laugh.<br />
-              078 I know how you feel.<br />
-              079 I know that you loved my sister.<br />
+              081 I know this area very well<br />
+              082 I know what you did.<br />
+              083 I know how to make Tom laugh.<br />
+              084 I know how you feel.<br />
+              085 I know that you loved my sister.<br />
+              086 How do you like your coffee?<br />
+              087 How do you like this suit?<br />
+              088 How do you like married life?<br />
             </v-card-text>
           </v-card>
         </v-flex>

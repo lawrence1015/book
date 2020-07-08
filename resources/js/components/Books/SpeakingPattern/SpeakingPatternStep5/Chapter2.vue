@@ -94,20 +94,29 @@
         <br />
 
         <p>
-          <b>430</b> 난 재즈를 좋아해. ( jazz ) <br />
+          <b>649</b> 난 재즈를 좋아해. ( jazz ) <br />
         </p>
         <p>
-          <b>431</b> 난 새로 온 상사가 마음에 들어. ( new boss ) <br />
+          <b>650</b> 난 새로 온 상사가 마음에 들어. ( new boss ) <br />
         </p>
         <p>
-          <b>432</b> 난 게임하는 걸 좋아해 ( palt, game ) <br />
+          <b>651</b> 난 게임하는 걸 좋아해 ( palt, game ) <br />
         </p>
         <p>
-          <b>433</b> 난 친구들 만나서 노는 걸 좋아해. ( hang out with ) <br />
+          <b>652</b> 난 친구들 만나서 노는 걸 좋아해. ( hang out with ) <br />
                 *hang out with ~와 어울리다.<br />
         </p>
         <p>
-          <b>434</b> 난 바닐라보다 초콜릿이 더 좋아. ( better than, vanilla ) <br />
+          <b>653</b> 난 바닐라보다 초콜릿이 더 좋아. ( better than, vanilla ) <br />
+        </p>
+        <p>
+          <b>654</b>  <br />
+        </p>
+        <p>
+          <b>655</b>  <br />
+        </p>
+        <p>
+          <b>656</b>  <br />
         </p>
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
@@ -116,11 +125,14 @@
           <v-flex xs12>
           <v-card light color="#a7d7c5">
             <v-card-text class="px-10" style="color:#d9e7cd;">
-              430 I like jazz.<br />
-              431 I like the new boss.<br />
-              432 I like to play games.<br />
-              433 I like hanging out with my friends.<br />
-              434 I like vanilla better than chocolate.<br />
+              649 I like jazz.<br />
+              650 I like the new boss.<br />
+              651 I like to play games.<br />
+              652 I like hanging out with my friends.<br />
+              653 I like vanilla better than chocolate.<br />
+              654 <br />
+              655 <br />
+              656 <br />
             </v-card-text>
           </v-card>
         </v-flex>

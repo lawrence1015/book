@@ -94,19 +94,28 @@
         <br />
 
         <p>
-          <b>070</b> 그거 마음에 드니? ( it ) <br />
+          <b>073</b> 그거 마음에 드니? ( it ) <br />
         </p>
         <p>
-          <b>071</b> 그 음악 어때? ( 마음에 드니? ) <br />
+          <b>074</b> 그 음악 어때? ( 마음에 드니? ) <br />
         </p>
         <p>
-          <b>072</b> 그 와인은 어떤 것 같아? ( 괜찮아? ) <br />
+          <b>075</b> 그 와인은 어떤 것 같아? ( 괜찮아? ) <br />
         </p>
         <p>
-          <b>73</b> 계란을 어떻게 요리해줄까? ( egg ) <br />
+          <b>76</b> 계란을 어떻게 요리해줄까? ( egg ) <br />
         </p>
         <p>
-          <b>074</b> 내 머리 스타일 어때? ( hair ) <br />
+          <b>077</b> 내 머리 스타일 어때? ( hair ) <br />
+        </p>
+        <p>
+          <b>078</b> 커피는 어떻습니까? ( coffee ) <br />
+        </p>
+        <p>
+          <b>079</b> 이 양복 어때요? ( suit ) <br />
+        </p>
+        <p>
+          <b>080</b> 결혼 생활은 어때요? ( marriage ) <br />
         </p>
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
@@ -115,17 +124,20 @@
           <v-flex xs12>
           <v-card light color="#a7d7c5">
             <v-card-text class="px-10" style="color:#d9e7cd;">
-              070  How do you like it?<br />
-              071  How do you like the music?<br />
-              072  How do you like the wine<br />
-              073  How do you like your egg?<br />
-              074  How do you like my hairstyle?<br />
+              073  How do you like it?<br />
+              074  How do you like the music?<br />
+              075  How do you like the wine<br />
+              076  How do you like your egg?<br />
+              077  How do you like my hairstyle?<br />
+              078  How do you like your coffee?<br />
+              079  How do you like this suit?<br />
+              080  How do you like your marriage?<br />
             </v-card-text>
           </v-card>
         </v-flex>
       </v-layout>
   </v-container>
-  
+
 </div>
 
 </div>

@@ -94,19 +94,28 @@
         <br />
 
         <p>
-          <b>105</b> 무슨 일이 일어났는지 아니? ( happened ) <br />
+          <b>129</b> 무슨 일이 일어났는지 아니? ( happened ) <br />
         </p>
         <p>
-          <b>106</b> 그 애 이름이 뭔지 알아? ( his, name ) <br />
+          <b>130</b> 그 애 이름이 뭔지 알아? ( his, name ) <br />
         </p>
         <p>
-          <b>107</b> 이게 무슨 뜻인지 알아? ( engage ) <br />
+          <b>131</b> 이게 무슨 뜻인지 알아? ( engage ) <br />
         </p>
         <p>
-          <b>108</b> 리디아가 뭐라고 했는지 알아? ( said ) <br />
+          <b>132</b> 리디아가 뭐라고 했는지 알아? ( said ) <br />
         </p>
         <p>
-          <b>109</b> 지금 몇시인지 알아? ( time, it ) <br />
+          <b>133</b> 지금 몇시인지 알아? ( time, it ) <br />
+        </p>
+        <p>
+          <b>134</b>  <br />
+        </p>
+        <p>
+          <b>135</b>  <br />
+        </p>
+        <p>
+          <b>136</b>  <br />
         </p>
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
@@ -115,11 +124,14 @@
           <v-flex xs12>
           <v-card light color="#a7d7c5">
             <v-card-text class="px-10" style="color:#d9e7cd;">
-              105 Do you know what happened?<br />
-              106 Do you know what his name is?<br />
-              107 Do you know what this means<br />
-              108 Do you know what Lydia said<br />
-              109 Do you know what time is it now?<br />
+              129 Do you know what happened?<br />
+              130 Do you know what his name is?<br />
+              131 Do you know what this means<br />
+              132 Do you know what Lydia said<br />
+              133 Do you know what time is it now?<br />
+              134 <br />
+              135 <br />
+              136 <br />
             </v-card-text>
           </v-card>
         </v-flex>

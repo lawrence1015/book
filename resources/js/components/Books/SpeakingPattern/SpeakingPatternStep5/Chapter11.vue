@@ -93,19 +93,28 @@
         <br />
 
         <p>
-          <b>475</b> 네 지갑 예쁘다. ( purse ) <br />
+          <b>721</b> 네 지갑 예쁘다. ( purse ) <br />
         </p>
         <p>
-          <b>476</b> 네 휴대폰 예쁘다. ( cell phone ) <br />
+          <b>722</b> 네 휴대폰 예쁘다. ( cell phone ) <br />
         </p>
         <p>
-          <b>477</b> 새로운 헤어스타일 멋진데. ( new. hairstyle ) <br />
+          <b>723</b> 새로운 헤어스타일 멋진데. ( new. hairstyle ) <br />
         </p>
         <p>
-          <b>478</b> 억양이 멋지네요. ( accent ) <br />
+          <b>724</b> 억양이 멋지네요. ( accent ) <br />
         </p>
         <p>
-          <b>479</b> 난 네 태도가 좋아. ( attitude ) <br />
+          <b>725</b> 난 네 태도가 좋아. ( attitude ) <br />
+        </p>
+        <p>
+          <b>726</b>  <br />
+        </p>
+        <p>
+          <b>727</b>  <br />
+        </p>
+        <p>
+          <b>728</b>  <br />
         </p>
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
@@ -114,11 +123,14 @@
           <v-flex xs12>
           <v-card light color="#a7d7c5">
             <v-card-text class="px-10" style="color:#d9e7cd;">
-              475 I like your purse.<br />
-              476 I like your cell phone.<br />
-              477 I like your new hairstyle.<br />
-              478 I like your accent.<br />
-              479 I like your attitude.<br />
+              721 I like your purse.<br />
+              722 I like your cell phone.<br />
+              723 I like your new hairstyle.<br />
+              724 I like your accent.<br />
+              725 I like your attitude.<br />
+              726 <br />
+              727 <br />
+              728 <br />
             </v-card-text>
           </v-card>
         </v-flex>

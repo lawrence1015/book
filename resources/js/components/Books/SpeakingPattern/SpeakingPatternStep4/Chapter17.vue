@@ -94,19 +94,28 @@
         <br />
 
         <p>
-          <b>405</b> 난 직장을 잃을까봐 걱정돼. ( lose, my job ) <br />
+          <b>609</b> 난 직장을 잃을까봐 걱정돼. ( lose, my job ) <br />
         </p>
         <p>
-          <b>406</b> 난 상처받는 게 걱정돼. ( get hurt ) <br />
+          <b>610</b> 난 상처받는 게 걱정돼. ( get hurt ) <br />
         </p>
         <p>
-          <b>407</b> 난 내 성적이 걱정돼. ( grade ) <br />
+          <b>611</b> 난 내 성적이 걱정돼. ( grade ) <br />
         </p>
         <p>
-          <b>408</b> 난 환경이 걱정돼. ( environment ) <br />
+          <b>612</b> 난 환경이 걱정돼. ( environment ) <br />
         </p>
         <p>
-          <b>409</b> 난 면접이 걱정돼. ( job interview ) <br />
+          <b>613</b> 난 면접이 걱정돼. ( job interview ) <br />
+        </p>
+        <p>
+          <b>614</b>  <br />
+        </p>
+        <p>
+          <b>615</b>  <br />
+        </p>
+        <p>
+          <b>616</b>  <br />
         </p>
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
@@ -115,11 +124,14 @@
           <v-flex xs12>
           <v-card light color="#a7d7c5">
             <v-card-text class="px-10" style="color:#d9e7cd;">
-              405 I’m worried about losing my job.<br />
-              406 I’m worried about getting hurt.<br />
-              407 I’m worried about my grade.<br />
-              408 I’m worried about the environment.<br />
-              409 I’m worried about my job interview.<br />
+              609 I’m worried about losing my job.<br />
+              610 I’m worried about getting hurt.<br />
+              611 I’m worried about my grade.<br />
+              612 I’m worried about the environment.<br />
+              613 I’m worried about my job interview.<br />
+              614 <br />
+              615 <br />
+              616 <br />
             </v-card-text>
           </v-card>
         </v-flex>

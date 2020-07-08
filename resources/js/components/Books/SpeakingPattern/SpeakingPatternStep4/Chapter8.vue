@@ -94,19 +94,28 @@
         <br />
 
         <p>
-          <b>360</b> 다시 보게 돼서 기쁘다. <br />
+          <b>537</b> 다시 보게 돼서 기쁘다. <br />
         </p>
         <p>
-          <b>361</b> 가족들이 모이니 좋구나. <br />
+          <b>538</b> 가족들이 모이니 좋구나. <br />
         </p>
         <p>
-          <b>362</b> 네 목소리를 다시 들어서 기뻐. <br />
+          <b>539</b> 네 목소리를 다시 들어서 기뻐. <br />
         </p>
         <p>
-          <b>363</b> 집에 돌아와서 좋아. <br />
+          <b>540</b> 집에 돌아와서 좋아. <br />
         </p>
         <p>
-          <b>364</b> 네가 날 위해 거기 있다는 걸 알게 돼서 정말 기뻐. ( know, there,for me ) <br />
+          <b>541</b> 네가 날 위해 거기 있다는 걸 알게 돼서 정말 기뻐. ( know, there,for me ) <br />
+        </p>
+        <p>
+          <b>542</b>   <br />
+        </p>
+        <p>
+          <b>543</b>  <br />
+        </p>
+        <p>
+          <b>544</b>  <br />
         </p>
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
@@ -115,11 +124,14 @@
           <v-flex xs12>
           <v-card light color="#a7d7c5">
             <v-card-text class="px-10" style="color:#d9e7cd;">
-              360 It’s nice to see you again.<br />
-              361 It’s nice to have the family together.<br />
-              362 It’s nice to hear your voice again.<br />
-              363 It’s nice to be back home.<br />
-              364 It’s nice to know that you are there for me.<br />
+              537 It’s nice to see you again.<br />
+              538 It’s nice to have the family together.<br />
+              539 It’s nice to hear your voice again.<br />
+              540 It’s nice to be back home.<br />
+              541 It’s nice to know that you are there for me.<br />
+              542 <br />
+              543 <br />
+              544 <br />
             </v-card-text>
           </v-card>
         </v-flex>

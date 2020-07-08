@@ -94,19 +94,28 @@
         <br />
 
         <p>
-          <b>400</b> 난 거미라면 질색이야. ( spiders )  <br />
+          <b>601</b> 난 거미라면 질색이야. ( spiders )  <br />
         </p>
         <p>
-          <b>401</b> 난 높은 곳이 무서워. ( heights ) <br />
+          <b>602</b> 난 높은 곳이 무서워. ( heights ) <br />
         </p>
         <p>
-          <b>402</b> 밤에 혼자 밖에 나가는 게 무서워. ( go out, night ) <br />
+          <b>603</b> 밤에 혼자 밖에 나가는 게 무서워. ( go out, night ) <br />
         </p>
         <p>
-          <b>403</b> 난 내 감정을 보여주는 게 무서워요. ( show, feelings )<br />
+          <b>604</b> 난 내 감정을 보여주는 게 무서워요. ( show, feelings )<br />
         </p>
         <p>
-          <b>404</b> 난 유령이 무서워요. ( ghost ) <br />
+          <b>605</b> 난 유령이 무서워요. ( ghost ) <br />
+        </p>
+        <p>
+          <b>606</b>  <br />
+        </p>
+        <p>
+          <b>607</b>  <br />
+        </p>
+        <p>
+          <b>608</b>  <br />
         </p>
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
@@ -115,11 +124,14 @@
           <v-flex xs12>
           <v-card light color="#a7d7c5">
             <v-card-text class="px-10" style="color:#d9e7cd;">
-              400 I’m afraid of spiders.<br />
-              401 I’m afraid of heights.<br />
-              402 I’m afraid of going out alone at night.<br />
-              403 I’m afraid of showing my feelings.<br />
-              404 I’m afraid of ghosts.<br />
+              601 I’m afraid of spiders.<br />
+              602 I’m afraid of heights.<br />
+              603 I’m afraid of going out alone at night.<br />
+              604 I’m afraid of showing my feelings.<br />
+              605 I’m afraid of ghosts.<br />
+              606 <br />
+              607 <br />
+              608 <br />
             </v-card-text>
           </v-card>
         </v-flex>

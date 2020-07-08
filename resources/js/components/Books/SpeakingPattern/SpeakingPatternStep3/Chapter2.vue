@@ -94,20 +94,30 @@
         <br />
 
         <p>
-          <b>230</b> 난 단지 새것을 써보고 싶었어. ( try, something new ) <br />
+          <b>329</b> 난 단지 새것을 써보고 싶었어. ( try, something new ) <br />
         </p>
         <p>
-          <b>231</b> 난 단지 너에게 고맙다고 하고 싶었어. ( thank ) <br />
+          <b>330</b> 난 단지 너에게 고맙다고 하고 싶었어. ( thank ) <br />
         </p>
         <p>
-          <b>232</b> 그냥 안부 인사를 하고 싶었어. ( say hi ) <br />
+          <b>331</b> 그냥 안부 인사를 하고 싶었어. ( say hi ) <br />
         </p>
         <p>
-          <b>233</b> 난 단지 너를 놀라게 해주고 싶었을 뿐이야. ( surprise ) <br />
+          <b>332</b> 난 단지 너를 놀라게 해주고 싶었을 뿐이야. ( surprise ) <br />
         </p>
         <p>
-          <b>234</b> 난 단지 거기에서 나오고 싶었어요. ( get out of ) <br />
+          <b>333</b> 난 단지 거기에서 나오고 싶었어요. ( get out of ) <br />
         </p>
+        <p>
+          <b>334</b>  <br />
+        </p>
+        <p>
+          <b>335</b>  <br />
+        </p>
+        <p>
+          <b>336</b>  <br />
+        </p>
+
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
 
@@ -115,17 +125,20 @@
           <v-flex xs12>
           <v-card light color="#a7d7c5">
             <v-card-text class="px-10" style="color:#d9e7cd;">
-              230 I just wanted to try something new.<br />
-              231 I just wanted to thank you.<br />
-              232 I just wanted to say hi.<br />
-              233 I just wanted to surprise you.<br />
-              234 I just wanted to get out of there.<br />
+              329 I just wanted to try something new.<br />
+              330 I just wanted to thank you.<br />
+              331 I just wanted to say hi.<br />
+              332 I just wanted to surprise you.<br />
+              333 I just wanted to get out of there.<br />
+              334 <br />
+              335 <br />
+              336 <br />
             </v-card-text>
           </v-card>
         </v-flex>
       </v-layout>
   </v-container>
-      
+
 </div>
 
 </div>

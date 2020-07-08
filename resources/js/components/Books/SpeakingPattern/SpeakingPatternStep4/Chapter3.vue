@@ -94,20 +94,29 @@
         <br />
 
         <p>
-          <b>335</b> 완전 짜릿해. ( thrill ) <br />
+          <b>497</b> 완전 짜릿해. ( thrill ) <br />
         </p>
         <p>
-          <b>336</b> 정말로 확실하다니까. ( sure ) <br />
+          <b>498</b> 정말로 확실하다니까. ( sure ) <br />
         </p>
         <p>
-          <b>337</b> 완전히 지쳐버렸어. ( exhaust ) <br />
+          <b>499</b> 완전히 지쳐버렸어. ( exhaust ) <br />
         </p>
         <p>
-          <b>338</b> 이것에 대해선 전적으로 네 편이야. ( behind on you, this ) <br />
+          <b>500</b> 이것에 대해선 전적으로 네 편이야. ( behind on you, this ) <br />
               *be behind~  ~를 지지하다.<br />
         </p>
         <p>
-          <b>339</b> 난 단것에 완전히 빠져 있어. ( crazy about, sweets ) <br />
+          <b>501</b> 난 단것에 완전히 빠져 있어. ( crazy about, sweets ) <br />
+        </p>
+        <p>
+          <b>502</b>  <br />
+        </p>
+        <p>
+          <b>503</b>  <br />
+        </p>
+        <p>
+          <b>504</b>  <br />
         </p>
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>

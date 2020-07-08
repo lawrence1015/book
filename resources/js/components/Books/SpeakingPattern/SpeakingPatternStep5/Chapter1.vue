@@ -94,21 +94,31 @@
         <br />
 
         <p>
-          <b>425</b> 아이 쇼핑 좋아해? ( window shopping ) <br />
+          <b>641</b> 아이 쇼핑 좋아해? ( window shopping ) <br />
                 *window shopping  (사지 않고 구경만 하는) 아이 쇼핑 <br />
         </p>
         <p>
-          <b>426</b> 클래식 음악 좋아하니? ( classical music ) <br />
+          <b>642</b> 클래식 음악 좋아하니? ( classical music ) <br />
         </p>
         <p>
-          <b>427</b> 외식 좋아해? ( eat out ) <br />
+          <b>643</b> 외식 좋아해? ( eat out ) <br />
         </p>
         <p>
-          <b>428</b> 다른 사람들을 돕는 걸 좋아하니? ( help, others ) <br />
+          <b>644</b> 다른 사람들을 돕는 걸 좋아하니? ( help, others ) <br />
         </p>
         <p>
-          <b>429</b> 샤워하면서 노래하는 걸 좋아하니? ( sing, shower ) <br />
+          <b>645</b> 샤워하면서 노래하는 걸 좋아하니? ( sing, shower ) <br />
         </p>
+        <p>
+          <b>646</b>  <br />
+        </p>
+        <p>
+          <b>647</b>  <br />
+        </p>
+        <p>
+          <b>648</b>  <br />
+        </p>
+        
 
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
@@ -117,11 +127,14 @@
           <v-flex xs12>
           <v-card light color="#a7d7c5">
             <v-card-text class="px-10" style="color:#d9e7cd;">
-              425 Do you like window shopping?<br />
-              426 Do you like classical music?<br />
-              427 Do you like eating out?<br />
-              428 Do you like helping others?<br />
-              429 Do you like singing in the shower?<br />
+              641 Do you like window shopping?<br />
+              642 Do you like classical music?<br />
+              643 Do you like eating out?<br />
+              644 Do you like helping others?<br />
+              645 Do you like singing in the shower?<br />
+              646 <br />
+              647 <br />
+              648 <br />
             </v-card-text>
           </v-card>
         </v-flex>

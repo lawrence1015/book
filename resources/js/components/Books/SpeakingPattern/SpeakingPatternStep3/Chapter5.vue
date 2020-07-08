@@ -96,20 +96,30 @@
         <br />
 
         <p>
-          <b>245</b> 난 정말 그 영화 보고 싶어. ( see , movie ) <br />
+          <b>353</b> 난 정말 그 영화 보고 싶어. ( see , movie ) <br />
         </p>
         <p>
-          <b>246</b> 난 정말 유럽여행을 하고 싶어. ( go on , trip ) <br />
+          <b>354</b> 난 정말 유럽여행을 하고 싶어. ( go on , trip ) <br />
         </p>
         <p>
-          <b>247</b> 난 얼른 시작하고 싶어. ( get started ) <br />
+          <b>355</b> 난 얼른 시작하고 싶어. ( get started ) <br />
         </p>
         <p>
-          <b>248</b> 난 그 소식을 듣고 싶어 미치겠어. ( hear , news ) <br />
+          <b>356</b> 난 그 소식을 듣고 싶어 미치겠어. ( hear , news ) <br />
         </p>
         <p>
-          <b>249</b> 그 여자의 아기를 정말 보고 싶은데. ( see, baby ) <br />
+          <b>357</b> 그 여자의 아기를 정말 보고 싶은데. ( see, baby ) <br />
         </p>
+        <p>
+          <b>358</b>  <br />
+        </p>
+        <p>
+          <b>359</b>  <br />
+        </p>
+        <p>
+          <b>360</b>  <br />
+        </p>
+
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
 
@@ -117,17 +127,20 @@
           <v-flex xs12>
           <v-card light color="#a7d7c5">
             <v-card-text class="px-10" style="color:#d9e7cd;">
-              221 I’m dying to see that movie.<br />
-              222 I’m dying to go on a trip to Europe.<br />
-              223 I’m dying to get started.<br />
-              224 I’m dying to hear the news<br />
-              225 I’m dying to see her baby.<br />
+              353 I’m dying to see that movie.<br />
+              354 I’m dying to go on a trip to Europe.<br />
+              355 I’m dying to get started.<br />
+              356 I’m dying to hear the news<br />
+              357 I’m dying to see her baby.<br />
+              358 <br />
+              359 <br />
+              360 <br />
             </v-card-text>
           </v-card>
         </v-flex>
       </v-layout>
   </v-container>
-        
+
 
 </div>
 
@@ -136,8 +149,7 @@
 
        </v-layout>
      </v-container>
-  </v-layout>
-  </v-container>
+
 </div>
 
 

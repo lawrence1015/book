@@ -94,19 +94,28 @@
         <br />
 
         <p>
-          <b>085</b> 내가 이걸 할 수 있을지 모르겠어 ( can, do ) <br />
+          <b>097</b> 내가 이걸 할 수 있을지 모르겠어 ( can, do ) <br />
         </p>
         <p>
-          <b>086</b> 그 애가 너에게 이야기했는지 모르겠구나. ( told, you ) <br />
+          <b>098</b> 그 애가 너에게 이야기했는지 모르겠구나. ( told, you ) <br />
         </p>
         <p>
-          <b>087</b> 우리가 갈 수 있을지 모르겠어. ( can, come ) <br />
+          <b>099</b> 우리가 갈 수 있을지 모르겠어. ( can, come ) <br />
         </p>
         <p>
-          <b>088</b> 그 사람이 그걸 좋아할지 모르겠다. ( will, like ) <br />
+          <b>100</b> 그 사람이 그걸 좋아할지 모르겠다. ( will, like ) <br />
         </p>
         <p>
-          <b>089</b> 우리에게 와인이 충분히 있는지 모르겠네. ( enough wine ) <br />
+          <b>101</b> 우리에게 와인이 충분히 있는지 모르겠네. ( enough wine ) <br />
+        </p>
+        <p>
+          <b>102</b> 인내심을 가질 수 있을지 모르겠다. ( patience ) <br />
+        </p>
+        <p>
+          <b>103</b> 더 이상 기다릴 수 있을지 모르겠어. ( stand, any longer ) <br />
+        </p>
+        <p>
+          <b>104</b> 그 그림이 진품인지 모르겠다. ( authentic ) <br />
         </p>
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
@@ -115,11 +124,14 @@
           <v-flex xs12>
           <v-card light color="#a7d7c5">
             <v-card-text class="px-10" style="color:#d9e7cd;">
-              085 I don’t know if I can do this.<br />
-              086 I don’t know if she told you.<br />
-              087 I don’t know if we can come.<br />
-              088 I don’t know if he’ll like it.<br />
-              089 I don’t know if we have enough wine.<br />
+              097 I don’t know if I can do this.<br />
+              098 I don’t know if she told you.<br />
+              099 I don’t know if we can come.<br />
+              100 I don’t know if he’ll like it.<br />
+              101 I don’t know if we have enough wine.<br />
+              102 I don't know if I'll have the patience.<br />
+              103 I don't know if I can stand the waiting any longer. <br />
+              104 I don't know if the painting is authentic.<br />
             </v-card-text>
           </v-card>
         </v-flex>

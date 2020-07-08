@@ -94,20 +94,29 @@
         <br />
 
         <p>
-          <b>250</b> 디저트 좀 먹을래? ( have , dessert ) <br />
+          <b>361</b> 디저트 좀 먹을래? ( have , dessert ) <br />
         </p>
         <p>
-          <b>251</b> 내 사진 볼래? ( see , pictures ) <br />
+          <b>362</b> 내 사진 볼래? ( see , pictures ) <br />
         </p>
         <p>
-          <b>252</b> 나랑 같이 갈래? ( come with ) <br />
+          <b>363</b> 나랑 같이 갈래? ( come with ) <br />
         </p>
         <p>
-          <b>253</b> 간단히 뭐 좀 먹을까? ( grab a bite ) <br />
+          <b>364</b> 간단히 뭐 좀 먹을까? ( grab a bite ) <br />
               *Grab a bite  간단히 먹다. <br />
         </p>
         <p>
-          <b>254</b> 내 이야기를 듣고 싶니? ( listen to, story ) <br />
+          <b>365</b> 내 이야기를 듣고 싶니? ( listen to, story ) <br />
+        </p>
+        <p>
+          <b>366</b>  <br />
+        </p>
+        <p>
+          <b>367</b>  <br />
+        </p>
+        <p>
+          <b>368</b>  <br />
         </p>
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
@@ -116,11 +125,14 @@
           <v-flex xs12>
           <v-card light color="#a7d7c5">
             <v-card-text class="px-10" style="color:#d9e7cd;">
-              250 Do you want to have some dessert?<br />
-              251 Do you want to see my pictures?<br />
-              252 Do you want to come with me?<br />
-              253 Do you want to grab a bite?<br />
-              254 Do you want to hear my story?<br />
+              361 Do you want to have some dessert?<br />
+              362 Do you want to see my pictures?<br />
+              363 Do you want to come with me?<br />
+              364 Do you want to grab a bite?<br />
+              365 Do you want to hear my story?<br />
+              366 <br />
+              367 <br />
+              368 <br />
             </v-card-text>
           </v-card>
         </v-flex>

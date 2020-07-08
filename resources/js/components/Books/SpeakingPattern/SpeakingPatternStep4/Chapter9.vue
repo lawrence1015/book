@@ -94,22 +94,31 @@
         <br />
 
         <p>
-          <b>365</b> 기꺼이 널 따라갈게. ( accompany ) <br />
+          <b>545</b> 기꺼이 널 따라갈게. ( accompany ) <br />
                *accompany 동행하다, 함께 가다. <br />
         </p>
         <p>
-          <b>366</b> 기꺼이 안내해 드릴게요. ( show, around ) <br />
+          <b>546</b> 기꺼이 안내해 드릴게요. ( show, around ) <br />
                 *show ~around  ~를 관광시키다, 안내하다. <br />
         </p>
         <p>
-          <b>367</b> 기꺼이 네 드레스를 만들어줄게. (make) <br />
+          <b>547</b> 기꺼이 네 드레스를 만들어줄게. ( make ) <br />
         </p>
         <p>
-          <b>368</b> 기꺼이 내일 너 대신 해줄게. (cover for) <br />
+          <b>548</b> 기꺼이 내일 너 대신 해줄게. ( cover for ) <br />
                 *cover for ~의 일을 대신 처리하다.<br />
         </p>
         <p>
-          <b>369</b> 기꺼이 당신을 도와드리죠. (help) <br />
+          <b>549</b> 기꺼이 당신을 도와드리죠. ( help ) <br />
+        </p>
+        <p>
+          <b>550</b>  <br />
+        </p>
+        <p>
+          <b>551</b>  <br />
+        </p>
+        <p>
+          <b>552</b>  <br />
         </p>
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
@@ -118,11 +127,14 @@
           <v-flex xs12>
           <v-card light color="#a7d7c5">
             <v-card-text class="px-10" style="color:#d9e7cd;">
-              365 I’d be happy to accompany you.<br />
-              366 I’d be happy to show you around<br />
-              367 I’d be happy to make your dress.<br />
-              368 I’d be happy to cover for you tomorrow.<br />
-              369 I’d be happy to help you.<br />
+              545 I’d be happy to accompany you.<br />
+              546 I’d be happy to show you around<br />
+              547 I’d be happy to make your dress.<br />
+              548 I’d be happy to cover for you tomorrow.<br />
+              549 I’d be happy to help you.<br />
+              550 <br />
+              551 <br />
+              552 <br />
             </v-card-text>
           </v-card>
         </v-flex>

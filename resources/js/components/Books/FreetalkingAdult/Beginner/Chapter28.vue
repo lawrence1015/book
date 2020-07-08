@@ -334,8 +334,6 @@ margin-bottom: -10px;">
 
        </v-layout>
      </v-container>
-  </v-layout>
-  </v-container>
 </div>
 </template>
 

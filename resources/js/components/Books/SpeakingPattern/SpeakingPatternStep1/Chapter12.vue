@@ -94,19 +94,28 @@
         <br />
 
         <p>
-          <b>080</b> 난 10년 전부터 그 여자를 알고 있었어. ( her, for 10 years ) <br />
+          <b>089</b> 난 10년 전부터 그 여자를 알고 있었어. ( her, for 10 years ) <br />
         </p>
         <p>
-          <b>081</b> 나는 오랫동안 Phil을 알고 지냈어. ( for a long time ) <br />
+          <b>090</b> 나는 오랫동안 Phil을 알고 지냈어. ( for a long time ) <br />
         </p>
         <p>
-          <b>082</b> 난 그 사람이 어렸을 때부터 알아왔어. ( since, kid ) <br />
+          <b>091</b> 난 그 사람이 어렸을 때부터 알아왔어. ( since, kid ) <br />
         </p>
         <p>
-          <b>083</b> 난 일주일 전부터 이걸 알고 있었지. ( about, for a week ) <br />
+          <b>092</b> 난 일주일 전부터 이걸 알고 있었지. ( about, for a week ) <br />
         </p>
         <p>
-          <b>084</b> 난 전부터 괜찮은 남자들을 많이 알아왔어. ( many, nice ) <br />
+          <b>093</b> 난 전부터 괜찮은 남자들을 많이 알아왔어. ( many, nice ) <br />
+        </p>
+        <p>
+          <b>094</b> 저는 그녀를 아주 오랫동안 알고 지냈어요.( great ) <br />
+        </p>
+        <p>
+          <b>095</b> 저는 당신보다 그녀를 더 오래 알고 있었어요. ( longer ) <br />
+        </p>
+        <p>
+          <b>096</b> 저는 그를 5살 때부터 쭉 알고 지냈어요. ( ever since ) <br />
         </p>
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
@@ -115,11 +124,14 @@
           <v-flex xs12>
           <v-card light color="#a7d7c5">
             <v-card-text class="px-10" style="color:#d9e7cd;">
-              080 I’ve known her for 10 years.<br />
-              081 I’ve known Phil for a long time.<br />
-              082 I’ve known him since he was a kid.<br />
-              083 I’ve known about this for a week.<br />
-              084 I’ve known many nice men before.<br />
+              089 I’ve known her for 10 years.<br />
+              090 I’ve known Phil for a long time.<br />
+              091 I’ve known him since he was a kid.<br />
+              092 I’ve known about this for a week.<br />
+              093 I’ve known many nice men before.<br />
+              094 I've known her for a great many years.<br />
+              095 I've known her longer than you have.<br />
+              096 I've known him ever since he was in 5.<br />
             </v-card-text>
           </v-card>
         </v-flex>

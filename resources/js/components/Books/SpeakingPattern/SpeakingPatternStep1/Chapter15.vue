@@ -94,19 +94,28 @@
         <br />
 
         <p>
-          <b>095</b> 그것에 대해서는 전혀 몰라. ( it ) <br />
+          <b>113</b> 그것에 대해서는 전혀 몰라. ( it ) <br />
         </p>
         <p>
-          <b>096</b> 난 너에 대해 아는 게 하나도 없어. ( you ) <br />
+          <b>114</b> 난 너에 대해 아는 게 하나도 없어. ( you ) <br />
         </p>
         <p>
-          <b>097</b> 정치에 대해서는 전혀 몰라요. ( politics ) <br />
+          <b>115</b> 정치에 대해서는 전혀 몰라요. ( politics ) <br />
         </p>
         <p>
-          <b>098</b> 칼라의 연애생활에 대해서는 아무것도 몰라. ( love life ) <br />
+          <b>116</b> 칼라의 연애생활에 대해서는 아무것도 몰라. ( love life ) <br />
         </p>
         <p>
-          <b>099</b> 난 그 사람의 과거에 대해 아무것도 몰라. ( past ) <br />
+          <b>117</b> 난 그 사람의 과거에 대해 아무것도 몰라. ( past ) <br />
+        </p>
+        <p>
+          <b>118</b> 나는 축구에 대해 아무것도 모른다. ( football ) <br />
+        </p>
+        <p>
+          <b>119</b> 나는 운전하는 것에 대해 아무것도 모른다.( driving ) <br />
+        </p>
+        <p>
+          <b>120</b> 나는 컴퓨터에 대해 아무것도 모른다.( computers ) <br />
         </p>
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
@@ -115,17 +124,20 @@
           <v-flex xs12>
           <v-card light color="#a7d7c5">
             <v-card-text class="px-10" style="color:#d9e7cd;">
-              071 I don’t know anything about it.<br />
-              072 I don’t know anything about you.<br />
-              073 I don’t know anything about politics.<br />
-              074 I don’t know anything about Carla’s love life.<br />
-              075 I don’t know anything about his past.<br />
+              113 I don’t know anything about it.<br />
+              114 I don’t know anything about you.<br />
+              115 I don’t know anything about politics.<br />
+              116 I don’t know anything about Carla’s love life.<br />
+              117 I don’t know anything about his past.<br />
+              118 I don't know anything about football.<br />
+              119 I don't know anything about driving.<br />
+              120 I don't know anything about computers.<br />
             </v-card-text>
           </v-card>
         </v-flex>
       </v-layout>
   </v-container>
-      
+
 </div>
 
 </div>

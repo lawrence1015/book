@@ -94,20 +94,29 @@
         <br />
 
         <p>
-          <b>345</b> 이거 완전 최고야. ( awesome ) <br />
+          <b>513</b> 이거 완전 최고야. ( awesome ) <br />
               *awesome  굉장한, 아주 멋진 <br />
         </p>
         <p>
-          <b>346</b> 이건 완전히 생각지도 못한 거야. ( unexpected ) <br />
+          <b>514</b> 이건 완전히 생각지도 못한 거야. ( unexpected ) <br />
         </p>
         <p>
-          <b>347</b> 이건 정말 내가 원하던 거예요. ( what, want ) <br />
+          <b>515</b> 이건 정말 내가 원하던 거예요. ( what, want ) <br />
         </p>
         <p>
-          <b>348</b> 이거 완전 바보 같아. ( stupid ) <br />
+          <b>516</b> 이거 완전 바보 같아. ( stupid ) <br />
         </p>
         <p>
-          <b>349</b> 이건 완전히 말도 안 된다고. (ridiculous) <br />
+          <b>517</b> 이건 완전히 말도 안 된다고. ( ridiculous ) <br />
+        </p>
+        <p>
+          <b>518</b>  <br />
+        </p>
+        <p>
+          <b>519</b>  <br />
+        </p>
+        <p>
+          <b>520</b>  <br />
         </p>
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
@@ -116,17 +125,20 @@
           <v-flex xs12>
           <v-card light color="#a7d7c5">
             <v-card-text class="px-10" style="color:#d9e7cd;">
-              345 This is totally awesome.<br />
-              346 This is totally unexpected.<br />
-              347 This is totally what I wanted.<br />
-              348 This is totally stupid.<br />
-              349 This is totally ridiculous.<br />
+              513 This is totally awesome.<br />
+              514 This is totally unexpected.<br />
+              515 This is totally what I wanted.<br />
+              516 This is totally stupid.<br />
+              517 This is totally ridiculous.<br />
+              518 <br />
+              519 <br />
+              520 <br />
             </v-card-text>
           </v-card>
         </v-flex>
       </v-layout>
   </v-container>
-  
+
 </div>
 
 </div>

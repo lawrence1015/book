@@ -96,19 +96,28 @@
         <br />
 
         <p>
-          <b>330</b> 정말 감동받았어. ( impressed ) <br />
+          <b>489</b> 정말 감동받았어. ( impressed ) <br />
         </p>
         <p>
-          <b>331</b> 정말 스트레스 받아. ( stressed out ) <br />
+          <b>490</b> 정말 스트레스 받아. ( stressed out ) <br />
         </p>
         <p>
-          <b>332</b> 배고파 죽겠어. ( starve ) <br />
+          <b>491</b> 배고파 죽겠어. ( starve ) <br />
         </p>
         <p>
-          <b>333</b> 너한테 무지 화났거든. ( mad ) <br />
+          <b>492</b> 너한테 무지 화났거든. ( mad ) <br />
         </p>
         <p>
-          <b>334</b> 너무 졸려.  ( sleepy ) <br />
+          <b>493</b> 너무 졸려.  ( sleepy ) <br />
+        </p>
+        <p>
+          <b>494</b>  <br />
+        </p>
+        <p>
+          <b>495</b>  <br />
+        </p>
+        <p>
+          <b>496</b>  <br />
         </p>
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
@@ -117,11 +126,14 @@
           <v-flex xs12>
           <v-card light color="#a7d7c5">
             <v-card-text class="px-10" style="color:#d9e7cd;">
-              330 I’m really impressed.<br />
-              331 I’m really stressed out.<br />
-              332 I’m really starving.<br />
-              333 I’m really mad at you.<br />
-              334 I’m really sleepy.<br />
+              489 I’m really impressed.<br />
+              490 I’m really stressed out.<br />
+              491 I’m really starving.<br />
+              492 I’m really mad at you.<br />
+              493 I’m really sleepy.<br />
+              494 <br />
+              495 <br />
+              496 <br />
             </v-card-text>
           </v-card>
         </v-flex>

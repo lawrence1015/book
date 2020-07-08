@@ -94,19 +94,28 @@
         <br />
 
         <p>
-          <b>190</b> 이거 고칠 수 있는 사람 있나요? ( fix ) <br />
+          <b>265</b> 이거 고칠 수 있는 사람 있나요? ( fix ) <br />
         </p>
         <p>
-          <b>191</b> 거기에 어떻게 가는지 아는 사람 있어? ( know, get ) <br />
+          <b>266</b> 거기에 어떻게 가는지 아는 사람 있어? ( know, get ) <br />
         </p>
         <p>
-          <b>192</b> 이탈리아에 가본 사람 있니? ( has been to ) <br />
+          <b>267</b> 이탈리아에 가본 사람 있니? ( has been to ) <br />
         </p>
         <p>
-          <b>193</b> 일본어 할 줄 아는 사람 있어요? ( speak, Japanese ) <br />
+          <b>268</b> 일본어 할 줄 아는 사람 있어요? ( speak, Japanese ) <br />
         </p>
         <p>
-          <b>194</b> 무슨 일이 일어났는지 본 사람 있나요? ( see, what happened ) <br />
+          <b>269</b> 무슨 일이 일어났는지 본 사람 있나요? ( see, what happened ) <br />
+        </p>
+        <p>
+          <b>270</b>  <br />
+        </p>
+        <p>
+          <b>271</b>  <br />
+        </p>
+        <p>
+          <b>272</b>  <br />
         </p>
 
         <v-container grid-list-md text-xs-left>
@@ -116,11 +125,14 @@
           <v-flex xs12>
           <v-card light color="#a7d7c5">
             <v-card-text class="px-10" style="color:#d9e7cd;">
-              190 Is there anyone who can fix this?<br />
-              191 Is there anyone who knows how to get there?<br />
-              192 Is there anyone who has been to Italy?<br />
-              193 Is there anyone who can speak Japanese?<br />
-              194 Is there anyone who has seen what happened?<br />
+              265 Is there anyone who can fix this?<br />
+              266 Is there anyone who knows how to get there?<br />
+              267 Is there anyone who has been to Italy?<br />
+              268 Is there anyone who can speak Japanese?<br />
+              269 Is there anyone who has seen what happened?<br />
+              270 <br />
+              271 <br />
+              272 <br />
             </v-card-text>
           </v-card>
         </v-flex>

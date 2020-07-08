@@ -94,21 +94,30 @@
         <br />
 
         <p>
-          <b>295</b> 준비를 하는 게 좋겠어. ( get prepared ) <br />
+          <b>433</b> 준비를 하는 게 좋겠어. ( get prepared ) <br />
         </p>
         <p>
-          <b>296</b> 예약을 하는 게 좋겠어. ( make a reservation ) <br />
+          <b>434</b> 예약을 하는 게 좋겠어. ( make a reservation ) <br />
               *make a reservation  예약하다. <br />
         </p>
         <p>
-          <b>297</b> 줄을 서는 게 좋을 것 같아. ( get in line ) <br />
+          <b>435</b> 줄을 서는 게 좋을 것 같아. ( get in line ) <br />
               *get in line 줄을 서다.<br />
         </p>
         <p>
-          <b>298</b> 두 눈 똑바로 뜨고 있는 게 좋겠어.( keep our eyes open ) <br />
+          <b>436</b> 두 눈 똑바로 뜨고 있는 게 좋겠어.( keep our eyes open ) <br />
         </p>
         <p>
-          <b>299</b> 우리 이제 서로 만나지 않는 게 좋겠어. ( stop, see, each, other ) <br />
+          <b>437</b> 우리 이제 서로 만나지 않는 게 좋겠어. ( stop, see, each, other ) <br />
+        </p>
+        <p>
+          <b>438</b>  <br />
+        </p>
+        <p>
+          <b>439</b>  <br />
+        </p>
+        <p>
+          <b>440</b>  <br />
         </p>
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
@@ -117,11 +126,14 @@
           <v-flex xs12>
           <v-card light color="#a7d7c5">
             <v-card-text class="px-10" style="color:#d9e7cd;">
-              295 We’d better get prepared.<br />
-              296 We’d better make a reservation.<br />
-              297 We’d better get in line.<br />
-              298 We’d better keep our eyes open.<br />
-              299 We’d better stop seeing each other.<br />
+              433 We’d better get prepared.<br />
+              434 We’d better make a reservation.<br />
+              435 We’d better get in line.<br />
+              436 We’d better keep our eyes open.<br />
+              437 We’d better stop seeing each other.<br />
+              438 <br />
+              439 <br />
+              440 <br />
             </v-card-text>
           </v-card>
         </v-flex>

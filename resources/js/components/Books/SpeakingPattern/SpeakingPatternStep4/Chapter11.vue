@@ -93,19 +93,28 @@
         <br />
 
         <p>
-          <b>375</b> 그 소식 듣고 놀랐어 <br />
+          <b>561</b> 그 소식 듣고 놀랐어 <br />
         </p>
         <p>
-          <b>376</b> 그 사람이 거기 있는 걸 알고 놀랐지. <br />
+          <b>562</b> 그 사람이 거기 있는 걸 알고 놀랐지. <br />
         </p>
         <p>
-          <b>377</b> 결과를 보고 놀라버렸어 <br />
+          <b>563</b> 결과를 보고 놀라버렸어 <br />
         </p>
         <p>
-          <b>378</b> 제가 선택돼서 놀랐습니다. <br />
+          <b>564</b> 제가 선택돼서 놀랐습니다. <br />
         </p>
         <p>
-          <b>379</b> 나는 그 애가 여자랑 함께 있는 것으로 보고 놀랐어. ( see, girl ) <br />
+          <b>565</b> 나는 그 애가 여자랑 함께 있는 것으로 보고 놀랐어. ( see, girl ) <br />
+        </p>
+        <p>
+          <b>566</b>  <br />
+        </p>
+        <p>
+          <b>567</b>  <br />
+        </p>
+        <p>
+          <b>568</b>  <br />
         </p>
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
@@ -114,11 +123,14 @@
           <v-flex xs12>
           <v-card light color="#a7d7c5">
             <v-card-text class="px-10" style="color:#d9e7cd;">
-              375 I was surprised to hear the news.<br />
-              376 I was surprised to find him there.<br />
-              377 I was surprised to see the results.<br />
-              378 I was surprised to be selected.<br />
-              379 I was surprised to see you with a girl.<br />
+              561 I was surprised to hear the news.<br />
+              562 I was surprised to find him there.<br />
+              563 I was surprised to see the results.<br />
+              564 I was surprised to be selected.<br />
+              565 I was surprised to see you with a girl.<br />
+              566 <br />
+              567 <br />
+              568 <br />
             </v-card-text>
           </v-card>
         </v-flex>

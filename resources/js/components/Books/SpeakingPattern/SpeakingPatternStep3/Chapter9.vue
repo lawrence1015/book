@@ -64,7 +64,7 @@
           </p>
           <p style="line-height: 2;">
             A : 우린 개를 한 마리 살 거야.<br />
-            B : 정말? <b><mark style="background-color: #a7d7c5; color: #d9e7cd;"></mark></b><br />
+            B : 정말? <mark style="background-color: #a7d7c5; color: #d9e7cd;"></mark><br />
             A : 개는 좋은 친구잖아.<br />
             B : 하지만 동시에 손이 많이 가기도 하지.
           </p>
@@ -94,21 +94,31 @@
         <br />
 
         <p>
-          <b>265</b> 개를 왜 키우고 싶은데? ( have , dog ) <br />
+          <b>385</b> 개를 왜 키우고 싶은데? ( have , dog ) <br />
         </p>
         <p>
-          <b>266</b> 왜 부산으로 이사 가고 싶은 거야? ( move  to ) <br />
+          <b>386</b> 왜 부산으로 이사 가고 싶은 거야? ( move  to ) <br />
         </p>
         <p>
-          <b>267</b> 왜 여기에서 파티를 하고 싶은데? ( have , party ) <br />
+          <b>387</b> 왜 여기에서 파티를 하고 싶은데? ( have , party ) <br />
         </p>
         <p>
-          <b>268</b> 넌 왜 문제를 일으키려고 하는 거야? ( stir up trouble ) <br />
+          <b>388</b> 넌 왜 문제를 일으키려고 하는 거야? ( stir up trouble ) <br />
               *Stir up trouble 분란을 일으키다. 문제를 일으키다. <br />
         </p>
         <p>
-          <b>269</b> 왜 그걸 알고 싶은 거니? ( know about ) <br />
+          <b>389</b> 왜 그걸 알고 싶은 거니? ( know about ) <br />
         </p>
+        <p>
+          <b>390</b>  <br />
+        </p>
+        <p>
+          <b>391</b>  <br />
+        </p>
+        <p>
+          <b>392</b>  <br />
+        </p>
+
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
 
@@ -116,11 +126,14 @@
           <v-flex xs12>
           <v-card light color="#a7d7c5">
             <v-card-text class="px-10" style="color:#d9e7cd;">
-              265 Why do you want to have a dog?<br />
-              266 Why do you want to move to Busan?<br />
-              267 Why do you want to have the party here?<br />
-              268 Why do you want to stir up trouble?<br />
-              269 Why do you want to know about it?<br />
+              385 Why do you want to have a dog?<br />
+              386 Why do you want to move to Busan?<br />
+              387 Why do you want to have the party here?<br />
+              388 Why do you want to stir up trouble?<br />
+              389 Why do you want to know about it?<br />
+              390 <br />
+              391 <br />
+              392 <br />
             </v-card-text>
           </v-card>
         </v-flex>

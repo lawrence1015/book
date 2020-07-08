@@ -94,19 +94,28 @@
         <br />
 
         <p>
-          <b>465</b> 난 당신 의견에는 관심 없어요. ( opinion ) <br />
+          <b>705</b> 난 당신 의견에는 관심 없어요. ( opinion ) <br />
         </p>
         <p>
-          <b>466</b> 난 그 남자한테는 관심 없거든. ( him ) <br />
+          <b>706</b> 난 그 남자한테는 관심 없거든. ( him ) <br />
         </p>
         <p>
-          <b>467</b> 난 아기 봐주는 일에는 관심 없어요. ( babysitting ) <br />
+          <b>707</b> 난 아기 봐주는 일에는 관심 없어요. ( babysitting ) <br />
         </p>
         <p>
-          <b>468</b> 난 비밀 지키는 것에는 관심 없어. ( keep, secret ) <br />
+          <b>708</b> 난 비밀 지키는 것에는 관심 없어. ( keep, secret ) <br />
         </p>
         <p>
-          <b>469</b> 난 더 이상 너한테 관심 없어. ( any more ) <br />
+          <b>709</b> 난 더 이상 너한테 관심 없어. ( any more ) <br />
+        </p>
+        <p>
+          <b>710</b>  <br />
+        </p>
+        <p>
+          <b>711</b>  <br />
+        </p>
+        <p>
+          <b>712</b>  <br />
         </p>
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
@@ -115,11 +124,14 @@
           <v-flex xs12>
           <v-card light color="#a7d7c5">
             <v-card-text class="px-10" style="color:#d9e7cd;">
-              465 I’m not interested in your opinion.<br />
-              466 I’m not interested in him.<br />
-              467 I’m not interested in babysitting.<br />
-              468 I’m not interested in keeping secrets.<br />
-              469 I’m not interested in you anymore.<br />
+              705 I’m not interested in your opinion.<br />
+              706 I’m not interested in him.<br />
+              707 I’m not interested in babysitting.<br />
+              708 I’m not interested in keeping secrets.<br />
+              709 I’m not interested in you anymore.<br />
+              710 <br />
+              711 <br />
+              712 <br />
             </v-card-text>
           </v-card>
         </v-flex>

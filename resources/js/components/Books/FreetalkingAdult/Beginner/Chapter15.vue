@@ -23,7 +23,7 @@
     </v-img>
 
 
-          <h3 style="background-color: #a7d7c5;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Reading Practice</h3>
+          <h3 style="background-color: #a7d7c5;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Reading Practice <span style="font-size:18px">( 선생님의 안내에 따라 문장을 읽어 주세요 )</span></h3>
                <div style="padding : 16px;">
 
 <p>Unfortunately, a lot of animal species are now on the verge of extinction.  The main reason of course are human activities like hunting and deforestation.  Many hunters kill animals for their meat and other body parts which are used for   commercial purposes like leather, fur and medicines. Conversion of forests and valleys into cities and buildings forces animals out of their habitats, causing them to die.
@@ -35,31 +35,20 @@
 
 
 
-<li style="list-style-type: none;"><u>Fauna(n)</u> - all animal life
+<li style="list-style-type: none;"><u>Fauna(n)</u> - all animal life <span style="font-size:16px">동물상</span>
 </li>
 
-<li style="list-style-type: none;"><u>Species(n)</u> -  a group or kind of the same kind
+<li style="list-style-type: none;"><u>Species(n)</u> -  a group or kind of the same kind<span style="font-size:16px">종</span>
 </li>
 
-<li style="list-style-type: none;"><u>Verge(n)</u> -  point; edge
+<li style="list-style-type: none;"><u>Verge(n)</u> -  point; edge<span style="font-size:16px">길가[도로변], 가장자리</span>
 </li>
 
-<li style="list-style-type: none;"><u>Extinction(n)</u> -  the process when related organisms die out
+<li style="list-style-type: none;"><u>Extinction(n)</u> -  the process when related organisms die out<span style="font-size:16px">멸종, 절멸, 소멸</span>
 </li>
 
-<li style="list-style-type: none;"><u>Deforestation(n)</u> - removing trees in an area
+<li style="list-style-type: none;"><u>Deforestation(n)</u> - removing trees in an area<span style="font-size:16px">삼림 벌채[파괴]</span>
 </li>
-
-
-
-
-</div>
-
-
-
-
-<h3  style="padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 10px; margin-top: 10px; background-color: #a7d7c5;">Vocabulary Stop</h3>
-<div style="padding : 16px;">
 
 
 <p>Fill in the blanks using the words above.
@@ -86,51 +75,33 @@
 </div>
 
 <h3  style="padding-top: 7px;  margin-left: -18px; margin-right: -18px;  padding-bottom: 10px;  padding-top: 10px; padding-left: 10px; background-color: #a7d7c5; ">Comprehension</h3>
-
 <div style="padding : 16px;">
 
-<li style="list-style-type: none;">What does it mean when an animal is extinct?
+<ol style="margin: 12px;">
+<li>What does it mean when an animal is extinct?
 </li>
 
-<li style="list-style-type: none;">What is the main cause of animal extinction?
+<li>What is the main cause of animal extinction?
 </li>
 
-<li style="list-style-type: none;">Why are animals hunted?
+<li>Why are animals hunted?
 </li>
 
-<li style="list-style-type: none;">What does deforestation do?
+<li>What does deforestation do?
 </li>
-
-
+</ol>
 
 
 </div>
 
-
-
-
-<h3  style="padding-top: 7px;  margin-left: -18px; margin-right: -18px;  padding-bottom: 10px;  padding-top: 10px; padding-left: 10px; background-color: #a7d7c5; ">Conversation Samples</h3>
-
+<h3  style="padding-top: 7px;  margin-left: -18px; margin-right: -18px;  padding-bottom: 10px;  padding-top: 10px; padding-left: 10px; background-color: #a7d7c5; ">Translation</h3>
 <div style="padding : 16px;">
 
-<p>
-<b>A.</b>
-<br>
-<b>F</b>:  Do you know what "endangered species" are?
-<br>
-<b>M</b>:  Yes. These are animals that are on the verge of near extinction, right?
-<br>
-<b>F</b>:   Yes, you are absolutely right. It is quite a sad thing you know. When a kind of animal ceases to exist it is like we have failed to protect it.
-<br>
-<b>M</b>:  That is true. That also means imbalance in nature.  Do you know the Siberian Tiger? I have heard that from a population of 100,000 they have now become only 4,200.
-<br>
-<b>F</b>:  Oh no' Why have they become so few? If we don't take   care of them, they will all be gone. Children in the future will only see them in pictures!
-<br>
-<b>M</b>:   They have become so few because they are hunted down. Even if they are animals, they serve a purpose in keeping the environment balanced!
+<p>불행히도 많은 동물 종들이 현재 멸종 위기에 처해 있다. 물론 주된 이유는 사냥과 삼림 벌채와 같은 인간의 활동 때문이다. 많은 사냥꾼들은 가죽, 털, 약과 같은 상업적인 목적으로 사용되는 고기와 다른 신체 부위를 위해 동물들을 죽인다. 숲과 계곡을 도시와 건물로 개조하면 동물들이 서식지에서 쫓겨나 죽게 된다.
 </p>
 
-
 </div>
+
 
 <div style="margin-left: -18px;
 margin-right: -18px;
@@ -140,7 +111,8 @@ margin-bottom: -10px;">
 </div>
 
 
-<h3  style="padding-top: 7px; margin-left: -18px; margin-right: -18px; padding-left: 10px; margin-top: 10px; padding-bottom: 10px; margin-bottom: 12px;  padding-top: 10px; background-color: #a7d7c5;">Reading Practice
+<h3  style="padding-top: 7px; margin-left: -18px; margin-right: -18px; padding-left: 10px; margin-top: 10px; padding-bottom: 10px; margin-bottom: 12px;  padding-top: 10px; background-color: #a7d7c5;">Reading Practice <span style="font-size:18px"> ( 선생님의 안내에 따라 문장을 읽어 주세요 )
+</span>
 </h3>
 
 <div style="padding : 16px;">
@@ -148,13 +120,7 @@ margin-bottom: -10px;">
 <p>Have you ever heard of the Galapagos Giant Turtle? It has been aptly named because it is indeed a giant! It is bigger than an adult dog! It lives in the Island of Galapagos. From a number of more than a hundred thousand, only 15,000 are said to exist now which made them to be considered as threatened species. For many years they have been eaten by humans and their eggs have been destroyed by rats and cats brought by humans to their island. These are the reasons why their number dwindled.
 </p>
 
-
-
-
 </div>
-
-
-
 
 
 <h3 style="padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 10px;margin-top: 10px; background-color: #a7d7c5;">Vocabulary Review</h3>
@@ -163,30 +129,20 @@ margin-bottom: -10px;">
 
 
 
-<li style="list-style-type: none;"><u>Aptly(adv)</u> - appropriate
+<li style="list-style-type: none;"><u>Aptly(adv)</u> - appropriate <span style="font-size:16px">적절히</span>
 </li>
 
-<li style="list-style-type: none;"><u>Indeed(adv)</u> -  word to give emphasis; really
+<li style="list-style-type: none;"><u>Indeed(adv)</u> -  word to give emphasis; really <span style="font-size:16px">정말[확실히], 정말[참으로]</span>
 </li>
 
-<li style="list-style-type: none;"><u>Threatened(adj)</u> -  likely to become extinct
+<li style="list-style-type: none;"><u>Threatened(adj)</u> -  likely to become extinct <span style="font-size:16px">&lt;야생 동물의 종이&gt; 멸종할 위기에 직면한</span>
 </li>
 
-<li style="list-style-type: none;"><u>Exist(v)</u> -  to live
+<li style="list-style-type: none;"><u>Exist(v)</u> -  to live <span style="font-size:16px">존재[실재/현존]하다, 살아가다</span>
 </li>
 
-<li style="list-style-type: none;"><u>Dwindle(v)</u> - to decrease little by little
+<li style="list-style-type: none;"><u>Dwindle(v)</u> - to decrease little by little <span style="font-size:16px">줄어들다</span>
 </li>
-
-
-
-
-</div>
-
-
-<h3  style="padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 10px; margin-top: 10px; background-color: #a7d7c5;">Vocabulary Stop</h3>
-<div style="padding : 16px;">
-
 
 <p>Fill in the blanks using the words above.
 </p>
@@ -212,33 +168,58 @@ margin-bottom: -10px;">
 </div>
 
 <h3  style="padding-top: 7px;  margin-left: -18px; margin-right: -18px;  padding-bottom: 10px;  padding-top: 10px; padding-left: 10px; background-color: #a7d7c5; ">Comprehension</h3>
-
 <div style="padding : 16px;">
 
-<li style="list-style-type: none;">What is special about the Galapagos giant turtles?
+<ol style="margin: 12px;">
+<li>What is special about the Galapagos giant turtles?
 </li>
 
-<li style="list-style-type: none;">Where can they be found?
+<li>Where can they be found?
 </li>
 
-<li style="list-style-type: none;">Why are they considered endangered species?
+<li>Why are they considered endangered species?
 </li>
 
-<li style="list-style-type: none;">What caused their number to dwindle?
+<li>What caused their number to dwindle?
 </li>
 
-<li style="list-style-type: none;">How many are left now?
+<li>How many are left now?
 </li>
-
+</ol>
 
 </div>
 
+<h3  style="padding-top: 7px;  
+            margin-left: -18px; 
+            margin-right: -18px;  
+            padding-bottom: 10px;  
+            padding-top: 10px; 
+            padding-left: 10px; 
+            background-color: #a7d7c5; ">Translation</h3>
+<div style="padding : 16px;">
+<p>갈라파고스 거대 거북이에 대해 들어본 적이 있는가? 그것은 정말 거인이기 때문에 적절한 이름이 붙여졌다! 그것은 성견 보다 더 크다! 갈라파고스 섬에 산다. 10만 마리가 넘는 개체수에서 지금은 1만5000마리만이 존재한다고 알려져 있어 멸종위기에 처한 종으로 간주되고 있다. 수년 동안 그들은 인간에게 잡아 먹혔고 그들의 알은 인간이 그들의 섬으로 데려온 쥐와 고양이들에 의해 파괴되었다. 이들의 수가 줄어든 이유들이다.
+</p>
+</div>
 
+<h3  style="padding-top: 7px;  margin-left: -18px; margin-right: -18px;  padding-bottom: 10px;  padding-top: 10px; padding-left: 10px; background-color: #a7d7c5; ">Conversation Samples <span style="font-size:18px">(선생님과 역할을 나눠서 연습해보세요)</span>
+</h3>
 
+<div style="padding : 16px;">
 
+<p>
+<b>A.</b>
+</p>
 
+<table style = "border-collapse: collapse;">
 
+    <tr v-for="dialog in dialogs" :key="dialog">
+      <td class = "uppertable" ><b>{{dialog.name}}</b></td>
+      <td class = "lowertable" >{{dialog.speech}}</td>
+    </tr>
 
+  </table>
+
+</div>
 
 
 <h3  style="padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 10px; margin-top: 10px; background-color: #a7d7c5;">You're on the Limelight!</h3>
@@ -282,18 +263,24 @@ margin-bottom: -10px;">
   <li>Should animals be kept in the zoos? Why or why not?
   </li>
 
-
-
-
 </ol>
 
 </div>
 
+<h3  style="padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 10px; margin-top: 10px; background-color: #a7d7c5;">Translation
+</h3>
+<div style="padding : 16px;">
 
+  <table style = "border-collapse: collapse;">
 
+        <tr v-for="translation in translations" :key="translation">
+          <td class = "uppertable" ><b>{{translation.name}}</b></td>
+          <td class = "lowertable" >{{translation.speech}}</td>
+        </tr>
 
+      </table>
 
-
+  </div>
 
 
 
@@ -302,21 +289,12 @@ margin-bottom: -10px;">
 
 
 
-
-
-
-
-
-
-
        </v-layout>
      </v-container>
-  </v-layout>
-  </v-container>
 </div>
 </template>
-
 <script>
+
 export default {
 
   props: ['fontSize'],
@@ -324,6 +302,59 @@ export default {
   data(){
 
     return{
+
+      dialogs:[
+        {
+          name:'F :',
+          speech:'Do you know what "endangered species" are?'
+        },
+        {
+          name:'M :',
+          speech:"Yes. These are animals that are on the verge of near extinction, right?"
+        },
+        {
+          name:'F :',
+          speech:"Yes, you are absolutely right. It is quite a sad thing you know. When a kind of animal ceases to exist it is like we have failed to protect it"
+        },
+        {
+          name:'M :',
+          speech:"That is true. That also means imbalance in nature. Do you know the Siberian Tiger? I have heard that from a population of 100,000 they have now become only 4,200."
+        },
+        {
+          name:'F :',
+          speech:"Oh no' Why have they become so few? If we don't take care of them, they will all be gone. Children in the future will only see them in pictures!"
+        },
+        {
+          name:'M :',
+          speech:"They have become so few because they are hunted down. Even if they are animals, they serve a purpose in keeping the environment balanced!"
+        },
+      ],
+       translations:[
+        {
+          name:'F :',
+          speech:' "멸종위기종"이 뭔지 알아?'
+        },
+        {
+          name:'M :',
+          speech:"응. 멸종 위기에 처한 동물들이지?"
+        },
+        {
+          name:'F :',
+          speech:"그래, 네 말이 맞아. 꽤 슬픈 일이야. 어떤 종류의 동물이 더 이상 존재하지 않을 때 그것은 우리가 그것을 보호하는데 실패한 것과 같다."
+        },
+        {
+          name:'M :',
+          speech:"그건 사실이야. 그것은 또한 자연의 불균형을 의미해. 시베리아 호랑이를 아니? 나는 10만 명의 인구로부터 이제 겨우 4,200명 밖에 되지 않았다고 들었어."
+        },
+        {
+          name:'F :',
+          speech:"이런, 왜 이렇게 수가 적어졌지? 우리가 그들을 돌보지 않으면, 그들은 모두 사라질 거야. 미래의 아이들은 사진으로만 그들을 볼 거야!"
+        },
+        {
+          name:'M :',
+          speech:"그들은 사냥을 당했기 때문에 그렇게 수가 적어졌어. 비록 그들이 동물일지라도, 그들은 환경을 균형 있게 유지하는 목적을 제공하지!"
+        },
+       ]
 
 
     }
@@ -366,10 +397,7 @@ h3{
 
 }
 
-li{
 
-
-}
 
 body{
 

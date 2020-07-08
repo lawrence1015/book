@@ -94,20 +94,29 @@
         <br />
 
         <p>
-          <b>340</b> 좀 이상해. ( weird )<br />
+          <b>505</b> 좀 이상해. ( weird )<br />
         </p>
         <p>
-          <b>341</b> 좀 복잡해요. ( complicated ) <br />
+          <b>506</b> 좀 복잡해요. ( complicated ) <br />
         </p>
         <p>
-          <b>342</b> 좀 어색해. ( awkward ) <br />
+          <b>507</b> 좀 어색해. ( awkward ) <br />
               *awkward  어색한, 거북한.<br />
         </p>
         <p>
-          <b>343</b> 걷기에는 좀 멀어요.( far, walk ) <br />
+          <b>508</b> 걷기에는 좀 멀어요.( far, walk ) <br />
         </p>
         <p>
-          <b>344</b> 좀 으스스하다.  (spooky) <br />
+          <b>509</b> 좀 으스스하다.  ( spooky ) <br />
+        </p>
+        <p>
+          <b>510</b>  <br />
+        </p>
+        <p>
+          <b>511</b>  <br />
+        </p>
+        <p>
+          <b>512</b>  <br />
         </p>
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
@@ -116,11 +125,14 @@
           <v-flex xs12>
           <v-card light color="#a7d7c5">
             <v-card-text class="px-10" style="color:#d9e7cd;">
-              340 It’s a little weird.<br />
-              341 It’s a little complicated.<br />
-              342 It’s a little awkward.<br />
-              343 It’s a little far to walk.<br />
-              344 It’s a little spooky.<br />
+              505 It’s a little weird.<br />
+              506 It’s a little complicated.<br />
+              507 It’s a little awkward.<br />
+              508 It’s a little far to walk.<br />
+              509 It’s a little spooky.<br />
+              510 <br />
+              511 <br />
+              512 <br />
             </v-card-text>
           </v-card>
         </v-flex>

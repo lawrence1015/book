@@ -136,7 +136,7 @@
         </v-flex>
       </v-layout>
   </v-container>
-  
+
 </div>
 
 </div>
@@ -144,12 +144,7 @@
 
        </v-layout>
      </v-container>
-  </v-layout>
-  </v-container>
 </div>
-
-
-
 </template>
 
 

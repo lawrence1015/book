@@ -94,19 +94,28 @@
         <br />
 
         <p>
-          <b>145</b> 맥주가 분명히 더 있을 텐데. ( more ) <br />
+          <b>193</b> 맥주가 분명히 더 있을 텐데. ( more ) <br />
         </p>
         <p>
-          <b>146</b> 분명 더 나은 방법이 있을 거야. ( better way ) <br />
+          <b>194</b> 분명 더 나은 방법이 있을 거야. ( better way ) <br />
         </p>
         <p>
-          <b>147</b> 거기에 사람들이 분명 많이 올 거야. ( a lot of, there ) <br />
+          <b>195</b> 거기에 사람들이 분명 많이 올 거야. ( a lot of, there ) <br />
         </p>
         <p>
-          <b>148</b> 담당자가 분명히 있을 거야. ( someone, in charge  ) <br />
+          <b>196</b> 담당자가 분명히 있을 거야. ( someone, in charge  ) <br />
         </p>
         <p>
-          <b>149</b> 볼륨을 조절할 방법이 분명히 있을 거야. ( way, control, volume ) <br />
+          <b>197</b> 볼륨을 조절할 방법이 분명히 있을 거야. ( way, control, volume ) <br />
+        </p>
+        <p>
+          <b>198</b>  <br />
+        </p>
+        <p>
+          <b>199</b>  <br />
+        </p>
+        <p>
+          <b>200</b>  <br />
         </p>
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
@@ -115,17 +124,20 @@
           <v-flex xs12>
           <v-card light color="#a7d7c5">
             <v-card-text class="px-10" style="color:#d9e7cd;">
-              145 There must be more beer.<br />
-              146 There must be a better way.<br />
-              147 There must be a lot of people there.<br />
-              148 There must be someone in charge. <br />
-              149 There must be a way to control the volume.<br />
+              193 There must be more beer.<br />
+              194 There must be a better way.<br />
+              195 There must be a lot of people there.<br />
+              196 There must be someone in charge. <br />
+              197 There must be a way to control the volume.<br />
+              198 <br />
+              199 <br />
+              200 <br />
             </v-card-text>
           </v-card>
         </v-flex>
       </v-layout>
   </v-container>
-      
+
 </div>
 
 </div>

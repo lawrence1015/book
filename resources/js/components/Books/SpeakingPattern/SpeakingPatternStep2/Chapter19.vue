@@ -94,19 +94,28 @@
         <br />
 
         <p>
-          <b>215</b> 거기 가는 더 빠른 길이 있어. ( get, there ) <br />
+          <b>305</b> 거기 가는 더 빠른 길이 있어. ( get, there ) <br />
         </p>
         <p>
-          <b>216</b> 이것을 더 쉽게 요리하는 방법이 있어. ( cook ) <br />
+          <b>306</b> 이것을 더 쉽게 요리하는 방법이 있어. ( cook ) <br />
         </p>
         <p>
-          <b>217</b> 그런 말을 더 듣기 좋게 하는 방법이 있단다. ( say, that ) <br />
+          <b>307</b> 그런 말을 더 듣기 좋게 하는 방법이 있단다. ( say, that ) <br />
         </p>
         <p>
-          <b>218</b> 그 남자의 관심을 끌 더 좋은 방법이 있어. (  get, attention ) <br />
+          <b>308</b> 그 남자의 관심을 끌 더 좋은 방법이 있어. (  get, attention ) <br />
         </p>
         <p>
-          <b>219</b> 더 빨리 물을 끓일 방법이 있어. ( boil, water ) <br />
+          <b>309</b> 더 빨리 물을 끓일 방법이 있어. ( boil, water ) <br />
+        </p>
+        <p>
+          <b>310</b>  <br />
+        </p>
+        <p>
+          <b>311</b>  <br />
+        </p>
+        <p>
+          <b>312</b>  <br />
         </p>
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
@@ -115,11 +124,14 @@
           <v-flex xs12>
           <v-card light color="#a7d7c5">
             <v-card-text class="px-10" style="color:#d9e7cd;">
-              215 There’s a faster way to get there.<br />
-              216 There’s an easier way to cook this.<br />
-              217 There’s a nicer way to say that.<br />
-              218 There’s a better way to get his attention.<br />
-              219 There’s a quicker way to boil water.<br />
+              305 There’s a faster way to get there.<br />
+              306 There’s an easier way to cook this.<br />
+              307 There’s a nicer way to say that.<br />
+              308 There’s a better way to get his attention.<br />
+              309 There’s a quicker way to boil water.<br />
+              310 <br />
+              311 <br />
+              312 <br />
             </v-card-text>
           </v-card>
         </v-flex>

@@ -94,20 +94,29 @@
         <br />
 
         <p>
-          <b>450</b> 난 비 올 때가 좋아. ( rain ) <br />
+          <b>681</b> 난 비 올 때가 좋아. ( rain ) <br />
         </p>
         <p>
-          <b>451</b> 그 애가 날 보고 웃으면 좋아. ( smile ) <br />
+          <b>682</b> 그 애가 날 보고 웃으면 좋아. ( smile ) <br />
         </p>
         <p>
-          <b>452</b> 난 매운 게 좋더라. ( spicy )<br />
+          <b>683</b> 난 매운 게 좋더라. ( spicy )<br />
                  *spicy 양념을 넣은, 매콤한.<br />
         </p>
         <p>
-          <b>453</b> 난 커피가 뜨거울 때가 좋아. ( coffee, hot ) <br />
+          <b>684</b> 난 커피가 뜨거울 때가 좋아. ( coffee, hot ) <br />
         </p>
         <p>
-          <b>454</b> 난 네가 나한테 친절할 때가 좋아. ( kind, me ) <br />
+          <b>685</b> 난 네가 나한테 친절할 때가 좋아. ( kind, me ) <br />
+        </p>
+        <p>
+          <b>686</b>  <br />
+        </p>
+        <p>
+          <b>687</b>  <br />
+        </p>
+        <p>
+          <b>688</b>  <br />
         </p>
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
@@ -116,11 +125,14 @@
           <v-flex xs12>
           <v-card light color="#a7d7c5">
             <v-card-text class="px-10" style="color:#d9e7cd;">
-              450 I like it when it rains.<br />
-              451 I like it when she smiles at me.<br />
-              452 I like it when it’s spicy.<br />
-              453 I like it when my coffee is hot.<br />
-              454 I like it when you're kind to me.<br />
+              681 I like it when it rains.<br />
+              682 I like it when she smiles at me.<br />
+              683 I like it when it’s spicy.<br />
+              684 I like it when my coffee is hot.<br />
+              685 I like it when you're kind to me.<br />
+              686 <br />
+              687 <br />
+              688 <br />
             </v-card-text>
           </v-card>
         </v-flex>

@@ -94,20 +94,29 @@
         <br />
 
         <p>
-          <b>520</b> 와줘서 정말 고마워! ( come ) <br />
+          <b>793</b> 와줘서 정말 고마워! ( come ) <br />
         </p>
         <p>
-          <b>521</b> 제안해주셔서 정말 감사드려요! ( offer ) <br />
+          <b>794</b> 제안해주셔서 정말 감사드려요! ( offer ) <br />
         </p>
         <p>
-          <b>522</b> 그런 말을 해줘서 정말 고마워! ( say so ) <br />
+          <b>795</b> 그런 말을 해줘서 정말 고마워! ( say so ) <br />
         </p>
         <p>
-          <b>523</b> 전부 계산하다니 너 정말 착하구나! ( pay for, everything ) <br />
+          <b>796</b> 전부 계산하다니 너 정말 착하구나! ( pay for, everything ) <br />
                   *pay for~ ~에 대한 값을 치르다, 지불하다<br />
         </p>
         <p>
-          <b>524</b> 나를 위해 저녁 준비해줘서 정말 고마워! ( prepare, dinner ) <br />
+          <b>797</b> 나를 위해 저녁 준비해줘서 정말 고마워! ( prepare, dinner ) <br />
+        </p>
+        <p>
+          <b>798</b>  <br />
+        </p>
+        <p>
+          <b>799</b>  <br />
+        </p>
+        <p>
+          <b>800</b>  <br />
         </p>
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
@@ -116,11 +125,14 @@
           <v-flex xs12>
           <v-card light color="#a7d7c5">
             <v-card-text class="px-10" style="color:#d9e7cd;">
-              520 How nice of you to come!<br />
-              521 How nice of you to offer!<br />
-              522 How nice of you to say so!<br />
-              523 How nice of you to pay for everything.<br />
-              524 How nice of you to prepare the dinner for me.<br />
+              793 How nice of you to come!<br />
+              794 How nice of you to offer!<br />
+              795 How nice of you to say so!<br />
+              796 How nice of you to pay for everything.<br />
+              797 How nice of you to prepare the dinner for me.<br />
+              798 <br />
+              799 <br />
+              800 <br />
             </v-card-text>
           </v-card>
         </v-flex>

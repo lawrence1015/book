@@ -94,19 +94,28 @@
         <br />
 
         <p>
-          <b>090</b> 뭘 골라야 할지 모르겠어. ( choose ) <br />
+          <b>105</b> 뭘 골라야 할지 모르겠어. ( choose ) <br />
         </p>
         <p>
-          <b>091</b> 어디에서 시작해야 할지 모르겠어. ( where, start ) <br />
+          <b>106</b> 어디에서 시작해야 할지 모르겠어. ( where, start ) <br />
         </p>
         <p>
-          <b>092</b> 이 문제를 어떻게 푸는지 모르겠어. ( how, solve ) <br />
+          <b>107</b> 이 문제를 어떻게 푸는지 모르겠어. ( how, solve ) <br />
         </p>
         <p>
-          <b>093</b> 어느 길로 가야 할지 모르겠어. ( which, way ) <br />
+          <b>108</b> 어느 길로 가야 할지 모르겠어. ( which, way ) <br />
         </p>
         <p>
-          <b>094</b> 그 사람이 왜 그런 말을 했는지 모르겠어. ( say so ) <br />
+          <b>109</b> 그 사람이 왜 그런 말을 했는지 모르겠어. ( say so ) <br />
+        </p>
+        <p>
+          <b>110</b> 나는 시험에서 무슨 일이 일어났는지 모른다. ( happened, exam ) <br />
+        </p>
+        <p>
+          <b>111</b> 어떤 색을 골라야 할지 모르겠어. ( color, pick ) <br />
+        </p>
+        <p>
+          <b>112</b> 내 돈이 어디로 가는지 모르겠어, 그냥 녹는 것 같아. ( goes, melt ) <br />
         </p>
 
         <v-container grid-list-md text-xs-left>
@@ -116,11 +125,14 @@
           <v-flex xs12>
           <v-card light color="#a7d7c5">
             <v-card-text class="px-10" style="color:#d9e7cd;">
-              090 I don’t know what to choose.<br />
-              091 I don’t know where to start.<br />
-              092 I don’t know how to solve this problem.<br />
-              093 I don’t know which way to go.<br />
-              094 I don’t know why he says so.<br />
+              105 I don’t know what to choose.<br />
+              106 I don’t know where to start.<br />
+              107 I don’t know how to solve this problem.<br />
+              108 I don’t know which way to go.<br />
+              109 I don’t know why he says so.<br />
+              110 I don't know what happened in the exams.<br />
+              111 I don't know which color to pick.<br />
+              112 I don't know where my money goes, it just seems to melt.<br />
             </v-card-text>
           </v-card>
         </v-flex>

@@ -94,20 +94,29 @@
         <br />
 
         <p>
-          <b>500</b> 기다려줘서 고마워. ( wait )  <br />
+          <b>761</b> 기다려줘서 고마워. ( wait )  <br />
         </p>
         <p>
-          <b>501</b> 늦게까지 있어줘서 고마워 ( stay, late ) <br />
+          <b>762</b> 늦게까지 있어줘서 고마워 ( stay, late ) <br />
         </p>
         <p>
-          <b>502</b> 칭찬 고마워. ( compliment ) <br />
+          <b>763</b> 칭찬 고마워. ( compliment ) <br />
                 *compliment  칭찬, 듣기 좋은 말<br />
         </p>
         <p>
-          <b>503</b> (차) 태워줘서 고마워. ( ride )<br />
+          <b>764</b> (차) 태워줘서 고마워. ( ride )<br />
         </p>
         <p>
-          <b>504</b> 담배 피우지 않아 줘서 고마워. ( smoke ) <br />
+          <b>765</b> 담배 피우지 않아 줘서 고마워. ( smoke ) <br />
+        </p>
+        <p>
+          <b>766</b>  <br />
+        </p>
+        <p>
+          <b>767</b>  <br />
+        </p>
+        <p>
+          <b>768</b>  <br />
         </p>
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
@@ -116,11 +125,14 @@
           <v-flex xs12>
           <v-card light color="#a7d7c5">
             <v-card-text class="px-10" style="color:#d9e7cd;">
-              500 Thank you for waiting.<br />
-              501 Thank you for staying late.<br />
-              502 Thank you for the compliment.<br />
-              503 Thank you for the ride.<br />
-              504 Thank you for not smoking.<br />
+              761 Thank you for waiting.<br />
+              762 Thank you for staying late.<br />
+              763 Thank you for the compliment.<br />
+              764 Thank you for the ride.<br />
+              765 Thank you for not smoking.<br />
+              766 <br />
+              767 <br />
+              768 <br />
             </v-card-text>
           </v-card>
         </v-flex>

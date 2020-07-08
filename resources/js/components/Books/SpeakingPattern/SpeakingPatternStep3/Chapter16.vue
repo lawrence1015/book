@@ -94,19 +94,28 @@
         <br />
 
         <p>
-          <b>300</b> 여기로 오는 게 어때? ( come over )  <br />
+          <b>441</b> 여기로 오는 게 어때? ( come over )  <br />
         </p>
         <p>
-          <b>301</b> 한번 입어보지 그래? ( try on ) <br />
+          <b>442</b> 한번 입어보지 그래? ( try on ) <br />
         </p>
         <p>
-          <b>302</b> 그 여자한테 전화하지 그래? ( call ) <br />
+          <b>443</b> 그 여자한테 전화하지 그래? ( call ) <br />
         </p>
         <p>
-          <b>303</b> 사진기를 새로 사는 게 어때? ( get, camera ) <br />
+          <b>444</b> 사진기를 새로 사는 게 어때? ( get, camera ) <br />
         </p>
         <p>
-          <b>304</b> 오늘 여기에 들르지 그래? ( stop by ) <br />
+          <b>445</b> 오늘 여기에 들르지 그래? ( stop by ) <br />
+        </p>
+        <p>
+          <b>446</b>  <br />
+        </p>
+        <p>
+          <b>447</b>   <br />
+        </p>
+        <p>
+          <b>448</b>  <br />
         </p>
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
@@ -115,11 +124,14 @@
           <v-flex xs12>
           <v-card light color="#a7d7c5">
             <v-card-text class="px-10" style="color:#d9e7cd;">
-              300 Why don’t you come over?<br />
-              301 Why don’t you try it on?<br />
-              302 Why don’t you call her?<br />
-              303 Why don’t you get a new camera?<br />
-              304 Why don't you stop by here today<br />
+              441 Why don’t you come over?<br />
+              442 Why don’t you try it on?<br />
+              443 Why don’t you call her?<br />
+              444 Why don’t you get a new camera?<br />
+              445 Why don't you stop by here today<br />
+              446 <br />
+              447 <br />
+              448 <br /> 
             </v-card-text>
           </v-card>
         </v-flex>

@@ -94,19 +94,28 @@
         <br />
 
         <p>
-          <b>100</b> 내 휴대폰 번호 알아? ( cell phone number )  <br />
+          <b>121</b> 내 휴대폰 번호 알아? ( cell phone number )  <br />
         </p>
         <p>
-          <b>101</b> 서로 아는 사이야? ( each other ) <br />
+          <b>122</b> 서로 아는 사이야? ( each other ) <br />
         </p>
         <p>
-          <b>102</b> 그 남자 약혼한 거 알고 있어? ( engage ) <br />
+          <b>123</b> 그 남자 약혼한 거 알고 있어? ( engage ) <br />
         </p>
         <p>
-          <b>103</b> 그 사람에 대해 아는 게 좀 있니? ( anything, about ) <br />
+          <b>124</b> 그 사람에 대해 아는 게 좀 있니? ( anything, about ) <br />
         </p>
         <p>
-          <b>104</b> 너 내 이메일 주소 알아? ( e-mail address ) <br />
+          <b>125</b> 너 내 이메일 주소 알아? ( e-mail address ) <br />
+        </p>
+        <p>
+          <b>126</b>  <br />
+        </p>
+        <p>
+          <b>127</b>  <br />
+        </p>
+        <p>
+          <b>128</b>  <br />
         </p>
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
@@ -115,11 +124,14 @@
           <v-flex xs12>
           <v-card light color="#a7d7c5">
             <v-card-text class="px-10" style="color:#d9e7cd;">
-              100 Do you know my cell phone number?<br />
-              101 Do you know each other?<br />
-              102 Do you know he’s engaged?<br />
-              103 Do you know anything about him?<br />
-              104 Do you know my e-mail address?<br />
+              121 Do you know my cell phone number?<br />
+              122 Do you know each other?<br />
+              123 Do you know he’s engaged?<br />
+              124 Do you know anything about him?<br />
+              125 Do you know my e-mail address?<br />
+              126 <br />
+              127 <br />
+              128 <br />
             </v-card-text>
           </v-card>
         </v-flex>

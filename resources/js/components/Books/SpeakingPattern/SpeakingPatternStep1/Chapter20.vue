@@ -94,19 +94,28 @@
         <br />
 
         <p>
-          <b>120</b> 우리 월급이 인상될지 알고 있니? ( get, raise ) <br />
+          <b>153</b> 우리 월급이 인상될지 알고 있니? ( get, raise ) <br />
         </p>
         <p>
-          <b>121</b> 제인이 올지 안 올지 아니? ( come ) <br />
+          <b>154</b> 제인이 올지 안 올지 아니? ( come ) <br />
         </p>
         <p>
-          <b>122</b> 혹시 그 프로가 7시에 시작하니? ( the show, start ) <br />
+          <b>155</b> 혹시 그 프로가 7시에 시작하니? ( the show, start ) <br />
         </p>
         <p>
-          <b>123</b> 혹시 짐이 알레르기가 있니? ( any, allergy ) <br />
+          <b>156</b> 혹시 짐이 알레르기가 있니? ( any, allergy ) <br />
         </p>
         <p>
-          <b>124</b> 이 영화 재미있는지 아닌지 알아? ( movie, interesting ) <br />
+          <b>157</b> 이 영화 재미있는지 아닌지 알아? ( movie, interesting ) <br />
+        </p>
+        <p>
+          <b>158</b>  <br />
+        </p>
+        <p>
+          <b>159</b>  <br />
+        </p>
+        <p>
+          <b>160</b>  <br />
         </p>
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
@@ -115,11 +124,14 @@
           <v-flex xs12>
           <v-card light color="#a7d7c5">
             <v-card-text class="px-10" style="color:#d9e7cd;">
-              096 Do you know if we’re getting raises?<br />
-              097 Do you know if Jane’s coming?<br />
-              098 Do you know if the show starts at 7:00<br />
-              099 Do you know if Jim has any allergies?<br />
-              100 Do you know if this movie is interesting or not<br />
+              153 Do you know if we’re getting raises?<br />
+              154 Do you know if Jane’s coming?<br />
+              155 Do you know if the show starts at 7:00<br />
+              156 Do you know if Jim has any allergies?<br />
+              157 Do you know if this movie is interesting or not<br />
+              158 <br />
+              159 <br />
+              160 <br />
             </v-card-text>
           </v-card>
         </v-flex>

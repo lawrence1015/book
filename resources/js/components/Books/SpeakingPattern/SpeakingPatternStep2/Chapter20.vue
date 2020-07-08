@@ -94,19 +94,28 @@
         <br />
 
         <p>
-          <b>220</b> 살을 빼려면 어떤 방법이 가장 좋을까요? ( lose weight ) <br />
+          <b>313</b> 살을 빼려면 어떤 방법이 가장 좋을까요? ( lose weight ) <br />
         </p>
         <p>
-          <b>221</b> 돈을 어떻게 관리하는 게 가장 좋을까요? ( manage ) <br />
+          <b>314</b> 돈을 어떻게 관리하는 게 가장 좋을까요? ( manage ) <br />
         </p>
         <p>
-          <b>222</b> 거기까지 가려면 어떤 방법이 가장 좋을까요? ( get, there ) <br />
+          <b>315</b> 거기까지 가려면 어떤 방법이 가장 좋을까요? ( get, there ) <br />
         </p>
         <p>
-          <b>223</b> 당신에게 연락하려면 어떻게 하는 게 가장 좋나요? (  get in touch ) <br />
+          <b>316</b> 당신에게 연락하려면 어떻게 하는 게 가장 좋나요? (  get in touch ) <br />
         </p>
         <p>
-          <b>224</b> 더 빨리 물을 끓일 방법이 있어. (boil, water) <br />
+          <b>317</b> 더 빨리 물을 끓일 방법이 있어. (boil, water) <br />
+        </p>
+        <p>
+          <b>318</b>  <br />
+        </p>
+        <p>
+          <b>319</b>  <br />
+        </p>
+        <p>
+          <b>320</b>  <br />
         </p>
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
@@ -115,11 +124,14 @@
           <v-flex xs12>
           <v-card light color="#a7d7c5">
             <v-card-text class="px-10" style="color:#d9e7cd;">
-              196 What’s the best way to lose weight?<br />
-              197 What’s the best way to manage money?<br />
-              198 What’s the best way to get there?<br />
-              199 What’s the best way to get in touch with you?<br />
-              200 What’s the best way to make them laugh?<br />
+              313 What’s the best way to lose weight?<br />
+              314 What’s the best way to manage money?<br />
+              315 What’s the best way to get there?<br />
+              316 What’s the best way to get in touch with you?<br />
+              317 What’s the best way to make them laugh?<br />
+              318 <br />
+              319 <br />
+              320 <br />
             </v-card-text>
           </v-card>
         </v-flex>

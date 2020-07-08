@@ -95,19 +95,28 @@
         <br />
 
         <p>
-          <b>205</b> 그걸 고치는 건 불가능해. ( fix ) <br />
+          <b>289</b> 그걸 고치는 건 불가능해. ( fix ) <br />
         </p>
         <p>
-          <b>206</b> 그 게임을 이길 방법이 없어. ( win, the game ) <br />
+          <b>290</b> 그 게임을 이길 방법이 없어. ( win, the game ) <br />
         </p>
         <p>
-          <b>207</b> 그 애가 이걸 알고 있을 리 없어. ( know ) <br />
+          <b>291</b> 그 애가 이걸 알고 있을 리 없어. ( know ) <br />
         </p>
         <p>
-          <b>208</b> 그 여자가 고작 스물다섯일 리가 없어. ( only ) <br />
+          <b>292</b> 그 여자가 고작 스물다섯일 리가 없어. ( only ) <br />
         </p>
         <p>
-          <b>209</b> 금요일까지 거기에 가는 건 불가능해. (get there, Friday) <br />
+          <b>293</b> 금요일까지 거기에 가는 건 불가능해. (get there, Friday) <br />
+        </p>
+        <p>
+          <b>294</b>  <br />
+        </p>
+        <p>
+          <b>295</b>  <br />
+        </p>
+        <p>
+          <b>296</b>  <br />
         </p>
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
@@ -116,11 +125,14 @@
           <v-flex xs12>
           <v-card light color="#a7d7c5">
             <v-card-text class="px-10" style="color:#d9e7cd;">
-              205 There’s no way to fix it.<br />
-              206 There’s no way to win the game<br />
-              207 There’s no way she knows about this.<br />
-              208 There’s no way she’s only 25.<br />
-              209 There’s no way to get there by Friday.<br />
+              289 There’s no way to fix it.<br />
+              290 There’s no way to win the game<br />
+              291 There’s no way she knows about this.<br />
+              292 There’s no way she’s only 25.<br />
+              293 There’s no way to get there by Friday.<br />
+              294 <br />
+              295 <br />
+              296 <br />
             </v-card-text>
           </v-card>
         </v-flex>

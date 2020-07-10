@@ -6,7 +6,7 @@
 
   <v-layout column>
     <v-img
-           src="https://media-public.canva.com/MADQ4w39aME/1/screen.jpg">
+           src="https://image.freepik.com/free-photo/nervous-stressed-female-student-feeling-headache-studying-cafe_1163-5168.jpg">
 
         <v-layout
         align-end

@@ -58,15 +58,15 @@
 
         <ol style="margin: 12px;">
           <li>
-            1. 저는 중국인이 아닙니다. 저는 한국인입니다.<br />
+              저는 중국인이 아닙니다. 저는 한국인입니다.<br />
                 I'm <u> &emsp; &emsp; &emsp; </u> Chinese, <u> &emsp; &emsp; &emsp; </u>. <br />
           </li>
           <li>
-            2. 도쿄는 일본에 있습니다.<br />
+              도쿄는 일본에 있습니다.<br />
                 Tokyo <u> &emsp; &emsp; &emsp; </u> in Japan.<br />
           </li>
           <li>
-            3. 당신은 필리핀 사람입니까?<br />
+              당신은 필리핀 사람입니까?<br />
                 <u> &emsp; &emsp; &emsp; </u> you Filipino?<br />
           </li>
         </ol>

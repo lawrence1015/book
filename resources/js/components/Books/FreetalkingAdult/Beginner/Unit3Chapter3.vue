@@ -6,14 +6,14 @@
      <div style="padding : 16px;">
 
 <p>
-<b>A.</b> Use “DOES” for singular (only one) subject in present tense except for “I” and "You."
+<b>A.</b> Use “DOES” for singular (only one) subject in the present tense except for “I” and "You."
 <br>
 <li style="list-style-type: none;">She does not want to go there.
 </li>
 <li style="list-style-type: none;">He does his homework every night. Does Jack like spicy food?
 </li>
 <br>
-<b>B.</b> Use “DO” for plural (two or more) in present tense as well as “I" and "You."
+<b>B.</b> Use “DO” for plural (two or more) in the present tense as well as “I" and "You."
 <br>
 <br>
 <li style="list-style-type: none;">You do look like Tom Cruise a bit.
@@ -25,7 +25,7 @@
 <li style="list-style-type: none;">My classmates do want to have a cultural festival.
 </li>
 <br>
-<b>C.</b> Use “DID” for singular or plural subjects in past tense. It is followed by the base or singular present form of the verb.
+<b>C.</b> Use “DID” for singular or plural subjects in the past tense. It is followed by the base or singular present form of the verb.
 <br>
 <br>
 <li style="list-style-type: none;">Did she know about this last month?

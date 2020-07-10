@@ -85,10 +85,6 @@
 <h3  style="padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 10px; margin-top: 10px; background-color: #a7d7c5;">Translation</h3>
 <div style="padding : 16px;">
 
-<p>
-<b>B.</b>
-</p>
-
   <table style = "border-collapse: collapse;">
 
         <tr v-for="translation in translations" :key="translation">

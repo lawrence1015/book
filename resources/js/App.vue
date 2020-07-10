@@ -113,8 +113,7 @@
               </p>
               <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/chapter' + 18)">Ch. 18 Movies</v-list-tile>
               <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit1Chapter18')">- Unit 1</v-list-tile>
-              <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit2Chapter18')">- Unit 2</v-list-tile>
-              <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit3Chapter18')">- Unit 3</v-list-tile>
+              <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit2Chapter18')">- Unit 2</v-list-tile>   
               <p>
                 <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/chapter' + 19)">Ch. 19 Pets</v-list-tile>
                 <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit1Chapter19')">- Unit 1</v-list-tile>
@@ -241,7 +240,7 @@
                   </v-col>
                   <v-spacer></v-spacer>
                   <v-col cols="4">
-                    <v-icon @click.native="stopSpeech()" large color="black">stop</v-icon>
+                    <v-icon @click.native="stopSound()" large color="black">stop</v-icon>
                   </v-col>
                   <v-spacer></v-spacer>
                   <v-col cols="4">
@@ -335,7 +334,7 @@
               </v-col>
               <v-spacer></v-spacer>
               <v-col cols="4">
-                <v-icon @click="stopSpeech()" large color="black">stop</v-icon>
+                <v-icon @click="stopSound()" large color="black">stop</v-icon>
               </v-col>
               <v-spacer></v-spacer>
               <v-col cols="4">
@@ -441,7 +440,7 @@
               </v-col>
               <v-spacer></v-spacer>
               <v-col cols="4">
-                <v-icon @click="stopSpeech()" large color="black">stop</v-icon>
+                <v-icon @click="stopSound()" large color="black">stop</v-icon>
               </v-col>
               <v-spacer></v-spacer>
               <v-col cols="4">
@@ -528,7 +527,7 @@
               </v-col>
               <v-spacer></v-spacer>
               <v-col cols="4">
-                <v-icon @click="stopSpeech()" large color="black">stop</v-icon>
+                <v-icon @click="stopSound()" large color="black">stop</v-icon>
               </v-col>
               <v-spacer></v-spacer>
               <v-col cols="4">
@@ -638,7 +637,7 @@
               </v-col>
               <v-spacer></v-spacer>
               <v-col cols="4">
-                <v-icon @click="stopSpeech()" large color="black">stop</v-icon>
+                <v-icon @click="stopSound()" large color="black">stop</v-icon>
               </v-col>
               <v-spacer></v-spacer>
               <v-col cols="4">
@@ -744,7 +743,7 @@
               </v-col>
               <v-spacer></v-spacer>
               <v-col cols="4">
-                <v-icon @click="stopSpeech()" large color="black">stop</v-icon>
+                <v-icon @click="stopSound()" large color="black">stop</v-icon>
               </v-col>
               <v-spacer></v-spacer>
               <v-col cols="4">
@@ -832,7 +831,7 @@
               </v-col>
               <v-spacer></v-spacer>
               <v-col cols="4">
-                <v-icon @click="stopSpeech()" large color="black">stop</v-icon>
+                <v-icon @click="stopSound()" large color="black">stop</v-icon>
               </v-col>
               <v-spacer></v-spacer>
               <v-col cols="4">
@@ -919,7 +918,7 @@
               </v-col>
               <v-spacer></v-spacer>
               <v-col cols="4">
-                <v-icon @click="stopSpeech()" large color="black">stop</v-icon>
+                <v-icon @click="stopSound()" large color="black">stop</v-icon>
               </v-col>
               <v-spacer></v-spacer>
               <v-col cols="4">
@@ -1006,7 +1005,7 @@
               </v-col>
               <v-spacer></v-spacer>
               <v-col cols="4">
-                <v-icon @click="stopSpeech()" large color="black">stop</v-icon>
+                <v-icon @click="stopSound()" large color="black">stop</v-icon>
               </v-col>
               <v-spacer></v-spacer>
               <v-col cols="4">
@@ -1118,12 +1117,15 @@
         <v-container>
           <v-row>
             <v-toolbar-items>
-              <v-col cols="4">
-                <v-icon @click="playSound()" class="ml-5" large color="black">{{icon}}</v-icon>
+              <v-col cols="4" v-if = "playArrow">
+                <v-icon @click="playSound()" class="ml-5" large color="black">play_arrow</v-icon>
+              </v-col>
+              <v-col cols="4" v-if = "audioPlaying">
+                <v-icon @click="pauseSound()" class="ml-5" large color="black">pause</v-icon>
               </v-col>
               <v-spacer></v-spacer>
               <v-col cols="4">
-                <v-icon @click="stopSpeech()" large color="black">stop</v-icon>
+                <v-icon @click="stopSound()" large color="black">stop</v-icon>
               </v-col>
               <v-spacer></v-spacer>
               <v-col cols="4">
@@ -1210,7 +1212,7 @@
               </v-col>
               <v-spacer></v-spacer>
               <v-col cols="4">
-                <v-icon @click="stopSpeech()" large color="black">stop</v-icon>
+                <v-icon @click="stopSound()" large color="black">stop</v-icon>
               </v-col>
               <v-spacer></v-spacer>
               <v-col cols="4">
@@ -1420,12 +1422,15 @@
         <v-container>
           <v-row>
             <v-toolbar-items>
-              <v-col cols="4">
-                <v-icon @click="playSound()" class="ml-5" large color="black">{{icon}}</v-icon>
+              <v-col cols="4" v-if = "playArrow">
+                <v-icon @click="playSound()" class="ml-5" large color="black">play_arrow</v-icon>
+              </v-col>
+              <v-col cols="4" v-if = "audioPlaying">
+                <v-icon @click="pauseSound()" class="ml-5" large color="black">pause</v-icon>
               </v-col>
               <v-spacer></v-spacer>
               <v-col cols="4">
-                <v-icon @click="stopSpeech()" large color="black">stop</v-icon>
+                <v-icon @click="stopSound()" large color="black">stop</v-icon>
               </v-col>
               <v-spacer></v-spacer>
               <v-col cols="4">
@@ -1526,12 +1531,15 @@
         <v-container>
           <v-row>
             <v-toolbar-items>
-              <v-col cols="4">
-                <v-icon @click="playSound()" class="ml-5" large color="black">{{icon}}</v-icon>
+              <v-col cols="4" v-if = "playArrow">
+                <v-icon @click="playSound()" class="ml-5" large color="black">play_arrow</v-icon>
+              </v-col>
+              <v-col cols="4" v-if = "audioPlaying">
+                <v-icon @click="pauseSound()" class="ml-5" large color="black">pause</v-icon>
               </v-col>
               <v-spacer></v-spacer>
               <v-col cols="4">
-                <v-icon @click="stopSpeech()" large color="black">stop</v-icon>
+                <v-icon @click="stopSound()" large color="black">stop</v-icon>
               </v-col>
               <v-spacer></v-spacer>
               <v-col cols="4">
@@ -1632,12 +1640,15 @@
         <v-container>
           <v-row>
             <v-toolbar-items>
-              <v-col cols="4">
-                <v-icon @click="playSound()" class="ml-5" large color="black">{{icon}}</v-icon>
+              <v-col cols="4" v-if = "playArrow">
+                <v-icon @click="playSound()" class="ml-5" large color="black">play_arrow</v-icon>
+              </v-col>
+              <v-col cols="4" v-if = "audioPlaying">
+                <v-icon @click="pauseSound()" class="ml-5" large color="black">pause</v-icon>
               </v-col>
               <v-spacer></v-spacer>
               <v-col cols="4">
-                <v-icon @click="stopSpeech()" large color="black">stop</v-icon>
+                <v-icon @click="stopSound()" large color="black">stop</v-icon>
               </v-col>
               <v-spacer></v-spacer>
               <v-col cols="4">
@@ -1743,7 +1754,7 @@
               </v-col>
               <v-spacer></v-spacer>
               <v-col cols="4">
-                <v-icon @click="stopSpeech()" large color="black">stop</v-icon>
+                <v-icon @click="stopSound()" large color="black">stop</v-icon>
               </v-col>
               <v-spacer></v-spacer>
               <v-col cols="4">
@@ -1849,7 +1860,7 @@
               </v-col>
               <v-spacer></v-spacer>
               <v-col cols="4">
-                <v-icon @click="stopSpeech()" large color="black">stop</v-icon>
+                <v-icon @click="stopSound()" large color="black">stop</v-icon>
               </v-col>
               <v-spacer></v-spacer>
               <v-col cols="4">
@@ -1955,7 +1966,7 @@
               </v-col>
               <v-spacer></v-spacer>
               <v-col cols="4">
-                <v-icon @click="stopSpeech()" large color="black">stop</v-icon>
+                <v-icon @click="stopSound()" large color="black">stop</v-icon>
               </v-col>
               <v-spacer></v-spacer>
               <v-col cols="4">
@@ -2061,7 +2072,7 @@
               </v-col>
               <v-spacer></v-spacer>
               <v-col cols="4">
-                <v-icon @click="stopSpeech()" large color="black">stop</v-icon>
+                <v-icon @click="stopSound()" large color="black">stop</v-icon>
               </v-col>
               <v-spacer></v-spacer>
               <v-col cols="4">
@@ -2167,7 +2178,7 @@
               </v-col>
               <v-spacer></v-spacer>
               <v-col cols="4">
-                <v-icon @click="stopSpeech()" large color="black">stop</v-icon>
+                <v-icon @click="stopSound()" large color="black">stop</v-icon>
               </v-col>
               <v-spacer></v-spacer>
               <v-col cols="4">
@@ -2210,7 +2221,7 @@
     </v-toolbar>
   </v-layout>
 </div>
-<div v-if="$route.name === 'JDEP_SR'">
+<div v-if="$route.name === 'Freetalking_Description'">
   <v-layout>
     <v-navigation-drawer v-model="drawer" :mini-variant="mini" absolute style="background-color:#ff6363; position:fixed; top:0; left:0; overflow-y:scroll;" temporary>
       <v-list class="pa-1">
@@ -2237,56 +2248,56 @@
           <v-list-tile>
             <h2>Table of Contents</h2>
           </v-list-tile>
-          <v-list-tile @click="$router.push('/JDEP-SR/JDEP-SR-Level1/chapter' + 1)">[Unit 1] Family</v-list-tile>
-          <v-list-tile @click="$router.push('/JDEP-SR/JDEP-SR-Level1/chapter' + 2)">[Unit 2] Zoo</v-list-tile>
-          <v-list-tile @click="$router.push('/JDEP-SR/JDEP-SR-Level1/chapter' + 3)">[Unit 3] Fruits</v-list-tile>
-          <v-list-tile @click="$router.push('/JDEP-SR/JDEP-SR-Level1/chapter' + 4)">[Unit 4] Mountain</v-list-tile>
-          <v-list-tile @click="$router.push('/JDEP-SR/JDEP-SR-Level1/chapter' + 5)">[Unit 5] Building</v-list-tile>
-          <v-list-tile @click="$router.push('/JDEP-SR/JDEP-SR-Level1/chapter' + 6)">[Unit 6] Beach</v-list-tile>
-          <v-list-tile @click="$router.push('/JDEP-SR/JDEP-SR-Level1/chapter' + 7)">[Unit 7] Subway</v-list-tile>
-          <v-list-tile @click="$router.push('/JDEP-SR/JDEP-SR-Level1/chapter' + 8)">[Unit 8] At the office</v-list-tile>
-          <v-list-tile @click="$router.push('/JDEP-SR/JDEP-SR-Level1/chapter' + 9)">[Unit 9] Business meeting</v-list-tile>
-          <v-list-tile @click="$router.push('/JDEP-SR/JDEP-SR-Level1/chapter' + 10)">[Unit 10] Military Training</v-list-tile>
-          <v-list-tile @click="$router.push('/JDEP-SR/JDEP-SR-Level1/chapter' + 11)">[Unit 11] Fashion Runway</v-list-tile>
-          <v-list-tile @click="$router.push('/JDEP-SR/JDEP-SR-Level1/chapter' + 12)">[Unit 12] Electronic gadget</v-list-tile>
-          <v-list-tile @click="$router.push('/JDEP-SR/JDEP-SR-Level1/chapter' + 13)">[Unit 13] Apartment</v-list-tile>
-          <v-list-tile @click="$router.push('/JDEP-SR/JDEP-SR-Level1/chapter' + 14)">[Unit 14] Amusement Park</v-list-tile>
-          <v-list-tile @click="$router.push('/JDEP-SR/JDEP-SR-Level1/chapter' + 15)">[Unit 15] Shopping mall</v-list-tile>
-          <v-list-tile @click="$router.push('/JDEP-SR/JDEP-SR-Level1/chapter' + 16)">[Unit 16] Business Establishment</v-list-tile>
-          <v-list-tile @click="$router.push('/JDEP-SR/JDEP-SR-Level1/chapter' + 17)">[Unit 17] Humanoid Robot</v-list-tile>
-          <v-list-tile @click="$router.push('/JDEP-SR/JDEP-SR-Level1/chapter' + 18)">[Unit 18] Scuba diving</v-list-tile>
-          <v-list-tile @click="$router.push('/JDEP-SR/JDEP-SR-Level1/chapter' + 19)">[Unit 19] South Africa</v-list-tile>
-          <v-list-tile @click="$router.push('/JDEP-SR/JDEP-SR-Level1/chapter' + 20)">[Unit 20] Working People</v-list-tile>
-          <v-list-tile @click="$router.push('/JDEP-SR/JDEP-SR-Level1/chapter' + 21)">[Unit 21] Friends</v-list-tile>
-          <v-list-tile @click="$router.push('/JDEP-SR/JDEP-SR-Level1/chapter' + 22)">[Unit 22] University Students</v-list-tile>
-          <v-list-tile @click="$router.push('/JDEP-SR/JDEP-SR-Level1/chapter' + 23)">[Unit 23] Babies</v-list-tile>
-          <v-list-tile @click="$router.push('/JDEP-SR/JDEP-SR-Level1/chapter' + 24)">[Unit 24] Family</v-list-tile>
-          <v-list-tile @click="$router.push('/JDEP-SR/JDEP-SR-Level1/chapter' + 25)">[Unit 25] Family</v-list-tile>
-          <v-list-tile @click="$router.push('/JDEP-SR/JDEP-SR-Level1/chapter' + 26)">[Unit 26] Family</v-list-tile>
-          <v-list-tile @click="$router.push('/JDEP-SR/JDEP-SR-Level1/chapter' + 27)">[Unit 27] Family</v-list-tile>
-          <v-list-tile @click="$router.push('/JDEP-SR/JDEP-SR-Level1/chapter' + 28)">[Unit 28] Family</v-list-tile>
-          <v-list-tile @click="$router.push('/JDEP-SR/JDEP-SR-Level1/chapter' + 29)">[Unit 29] Family</v-list-tile>
-          <v-list-tile @click="$router.push('/JDEP-SR/JDEP-SR-Level1/chapter' + 30)">[Unit 30] Family</v-list-tile>
-          <v-list-tile @click="$router.push('/JDEP-SR/JDEP-SR-Level1/chapter' + 31)">[Unit 31] Family</v-list-tile>
-          <v-list-tile @click="$router.push('/JDEP-SR/JDEP-SR-Level1/chapter' + 32)">[Unit 32] Family</v-list-tile>
-          <v-list-tile @click="$router.push('/JDEP-SR/JDEP-SR-Level1/chapter' + 33)">[Unit 33] Family</v-list-tile>
-          <v-list-tile @click="$router.push('/JDEP-SR/JDEP-SR-Level1/chapter' + 34)">[Unit 34] Family</v-list-tile>
-          <v-list-tile @click="$router.push('/JDEP-SR/JDEP-SR-Level1/chapter' + 35)">[Unit 35] Family</v-list-tile>
-          <v-list-tile @click="$router.push('/JDEP-SR/JDEP-SR-Level1/chapter' + 36)">[Unit 36] Family</v-list-tile>
-          <v-list-tile @click="$router.push('/JDEP-SR/JDEP-SR-Level1/chapter' + 37)">[Unit 37] Family</v-list-tile>
-          <v-list-tile @click="$router.push('/JDEP-SR/JDEP-SR-Level1/chapter' + 38)">[Unit 38] Family</v-list-tile>
-          <v-list-tile @click="$router.push('/JDEP-SR/JDEP-SR-Level1/chapter' + 39)">[Unit 39] Family</v-list-tile>
-          <v-list-tile @click="$router.push('/JDEP-SR/JDEP-SR-Level1/chapter' + 40)">[Unit 40] Family</v-list-tile>
-          <v-list-tile @click="$router.push('/JDEP-SR/JDEP-SR-Level1/chapter' + 41)">[Unit 41] Family</v-list-tile>
-          <v-list-tile @click="$router.push('/JDEP-SR/JDEP-SR-Level1/chapter' + 42)">[Unit 42] Family</v-list-tile>
-          <v-list-tile @click="$router.push('/JDEP-SR/JDEP-SR-Level1/chapter' + 43)">[Unit 43] Family</v-list-tile>
-          <v-list-tile @click="$router.push('/JDEP-SR/JDEP-SR-Level1/chapter' + 44)">[Unit 44] Family</v-list-tile>
-          <v-list-tile @click="$router.push('/JDEP-SR/JDEP-SR-Level1/chapter' + 45)">[Unit 45] Family</v-list-tile>
-          <v-list-tile @click="$router.push('/JDEP-SR/JDEP-SR-Level1/chapter' + 46)">[Unit 46] Family</v-list-tile>
-          <v-list-tile @click="$router.push('/JDEP-SR/JDEP-SR-Level1/chapter' + 47)">[Unit 47] Family</v-list-tile>
-          <v-list-tile @click="$router.push('/JDEP-SR/JDEP-SR-Level1/chapter' + 48)">[Unit 48] Family</v-list-tile>
-          <v-list-tile @click="$router.push('/JDEP-SR/JDEP-SR-Level1/chapter' + 49)">[Unit 49] Family</v-list-tile>
-          <v-list-tile @click="$router.push('/JDEP-SR/JDEP-SR-Level1/chapter' + 50)">[Unit 50] Family</v-list-tile>
+          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 1)">[Unit 1] Family</v-list-tile>
+          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 2)">[Unit 2] Zoo</v-list-tile>
+          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 3)">[Unit 3] Fruits</v-list-tile>
+          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 4)">[Unit 4] Mountain</v-list-tile>
+          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 5)">[Unit 5] Building</v-list-tile>
+          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 6)">[Unit 6] Beach</v-list-tile>
+          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 7)">[Unit 7] Subway</v-list-tile>
+          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 8)">[Unit 8] At the office</v-list-tile>
+          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 9)">[Unit 9] Business meeting</v-list-tile>
+          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 10)">[Unit 10] Military Training</v-list-tile>
+          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 11)">[Unit 11] Fashion Runway</v-list-tile>
+          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 12)">[Unit 12] Electronic gadget</v-list-tile>
+          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 13)">[Unit 13] Apartment</v-list-tile>
+          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 14)">[Unit 14] Amusement Park</v-list-tile>
+          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 15)">[Unit 15] Shopping mall</v-list-tile>
+          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 16)">[Unit 16] Business Establishment</v-list-tile>
+          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 17)">[Unit 17] Humanoid Robot</v-list-tile>
+          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 18)">[Unit 18] Scuba diving</v-list-tile>
+          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 19)">[Unit 19] South Africa</v-list-tile>
+          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 20)">[Unit 20] Working People</v-list-tile>
+          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 21)">[Unit 21] Friends</v-list-tile>
+          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 22)">[Unit 22] University Students</v-list-tile>
+          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 23)">[Unit 23] Babies</v-list-tile>
+          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 24)">[Unit 24] Family</v-list-tile>
+          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 25)">[Unit 25] Family</v-list-tile>
+          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 26)">[Unit 26] Family</v-list-tile>
+          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 27)">[Unit 27] Family</v-list-tile>
+          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 28)">[Unit 28] Family</v-list-tile>
+          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 29)">[Unit 29] Family</v-list-tile>
+          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 30)">[Unit 30] Family</v-list-tile>
+          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 31)">[Unit 31] Family</v-list-tile>
+          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 32)">[Unit 32] Family</v-list-tile>
+          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 33)">[Unit 33] Family</v-list-tile>
+          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 34)">[Unit 34] Family</v-list-tile>
+          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 35)">[Unit 35] Family</v-list-tile>
+          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 36)">[Unit 36] Family</v-list-tile>
+          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 37)">[Unit 37] Family</v-list-tile>
+          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 38)">[Unit 38] Family</v-list-tile>
+          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 39)">[Unit 39] Family</v-list-tile>
+          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 40)">[Unit 40] Family</v-list-tile>
+          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 41)">[Unit 41] Family</v-list-tile>
+          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 42)">[Unit 42] Family</v-list-tile>
+          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 43)">[Unit 43] Family</v-list-tile>
+          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 44)">[Unit 44] Family</v-list-tile>
+          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 45)">[Unit 45] Family</v-list-tile>
+          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 46)">[Unit 46] Family</v-list-tile>
+          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 47)">[Unit 47] Family</v-list-tile>
+          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 48)">[Unit 48] Family</v-list-tile>
+          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 49)">[Unit 49] Family</v-list-tile>
+          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 50)">[Unit 50] Family</v-list-tile>
         </v-list>
       </v-list>
     </v-navigation-drawer>
@@ -2303,7 +2314,7 @@
               </v-col>
               <v-spacer></v-spacer>
               <v-col cols="4">
-                <v-icon @click="stopSpeech()" large color="black">stop</v-icon>
+                <v-icon @click="stopSound()" large color="black">stop</v-icon>
               </v-col>
               <v-spacer></v-spacer>
               <v-col cols="4">
@@ -2396,6 +2407,26 @@
           <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 21)">[Unit 21] Should Recycling Be Mandatory?</v-list-tile></p>
           <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 22)">[Unit 22] Should Plastic Bags Be Banned ?</v-list-tile></p>
           <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 23)">[Unit 23] Are Multivitamins Important for Good Health?</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 24)">[Unit 24] Are Multivitamins Important for Good Health?</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 25)">[Unit 25] Are Multivitamins Important for Good Health?</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 26)">[Unit 26] Are Multivitamins Important for Good Health?</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 27)">[Unit 27] Are Multivitamins Important for Good Health?</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 28)">[Unit 28] Are Multivitamins Important for Good Health?</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 29)">[Unit 29] Are Multivitamins Important for Good Health?</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 30)">[Unit 30] Are Multivitamins Important for Good Health?</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 31)">[Unit 31] Are Multivitamins Important for Good Health?</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 32)">[Unit 32] Are Multivitamins Important for Good Health?</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 33)">[Unit 33] Are Multivitamins Important for Good Health?</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 34)">[Unit 34] Are Multivitamins Important for Good Health?</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 35)">[Unit 35] Are Multivitamins Important for Good Health?</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 36)">[Unit 36] Are Multivitamins Important for Good Health?</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 37)">[Unit 37] Are Multivitamins Important for Good Health?</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 38)">[Unit 38] Are Multivitamins Important for Good Health?</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 39)">[Unit 39] Are Multivitamins Important for Good Health?</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 40)">[Unit 40] Are Multivitamins Important for Good Health?</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 41)">[Unit 41] Are Multivitamins Important for Good Health?</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 42)">[Unit 42] Are Multivitamins Important for Good Health?</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 43)">[Unit 43] Are Multivitamins Important for Good Health?</v-list-tile></p>       
         </v-list>
       </v-list>
     </v-navigation-drawer>
@@ -2407,12 +2438,15 @@
         <v-container>
           <v-row>
             <v-toolbar-items>
-              <v-col cols="4">
-                <v-icon @click="textToSpeech()" class="ml-5" large color="black">{{icon}}</v-icon>
+              <v-col cols="4" v-if = "playArrow">
+                <v-icon @click="playSound()" class="ml-5" large color="black">play_arrow</v-icon>
+              </v-col>
+              <v-col cols="4" v-if = "audioPlaying">
+                <v-icon @click="pauseSound()" class="ml-5" large color="black">pause</v-icon>
               </v-col>
               <v-spacer></v-spacer>
               <v-col cols="4">
-                <v-icon @click="stopSpeech()" large color="black">stop</v-icon>
+                <v-icon @click="stopSound()" large color="black">stop</v-icon>
               </v-col>
               <v-spacer></v-spacer>
               <v-col cols="4">
@@ -2499,7 +2533,7 @@
               </v-col>
               <v-spacer></v-spacer>
               <v-col cols="4">
-                <v-icon @click="stopSpeech()" large color="black">stop</v-icon>
+                <v-icon @click="stopSound()" large color="black">stop</v-icon>
               </v-col>
               <v-spacer></v-spacer>
               <v-col cols="4">
@@ -2569,13 +2603,36 @@
           <v-list-tile>
             <h2>Table of Contents</h2>
           </v-list-tile>
-          <v-list-tile @click="$router.push('/InterviewExample/InterviewExampleStep1/chapter' + 1)">[Unit 1] Tell me about yourself</v-list-tile>
-          <v-list-tile @click="$router.push('/InterviewExample/InterviewExampleStep1/chapter' + 2)">[Unit 2] What is your major?</v-list-tile>
-          <v-list-tile @click="$router.push('/InterviewExample/InterviewExampleStep1/chapter' + 3)">[Unit 3] What made you choose your university?</v-list-tile>
-          <v-list-tile @click="$router.push('/InterviewExample/InterviewExampleStep1/chapter' + 4)">[Unit 4] What are your work experiences?</v-list-tile>
-          <v-list-tile @click="$router.push('/InterviewExample/InterviewExampleStep1/chapter' + 5)">[Unit 5] What interests you about this job?</v-list-tile>
-          <v-list-tile @click="$router.push('/InterviewExample/InterviewExampleStep1/chapter' + 6)">[Unit 6] What can you do for this company?</v-list-tile>
-          <v-list-tile @click="$router.push('/InterviewExample/InterviewExampleStep1/chapter' + 7)">[Unit 7] What interest you about this job?</v-list-tile>
+          <p><v-list-tile @click="$router.push('/Interview-English/Interview-EnglishStep1/chapter' + 1)">[Unit 1] Tell me about yourself</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/Interview-English/Interview-EnglishStep1/chapter' + 2)">[Unit 2] What is your major?</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/Interview-English/Interview-EnglishStep1/chapter' + 3)">[Unit 3] What made you choose your university?</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/Interview-English/Interview-EnglishStep1/chapter' + 4)">[Unit 4] What are your work experiences?</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/Interview-English/Interview-EnglishStep1/chapter' + 5)">[Unit 5] What interests you about this job?</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/Interview-English/Interview-EnglishStep1/chapter' + 6)">[Unit 6] What can you do for this company?</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/Interview-English/Interview-EnglishStep1/chapter' + 7)">[Unit 7] What interest you about this job?</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/Interview-English/Interview-EnglishStep1/chapter' + 8)">[Unit 8] How long do you expect to remain employed with this company?</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/Interview-English/Interview-EnglishStep1/chapter' + 9)">[Unit 9] Do you prefer to work independently or on a team?</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/Interview-English/Interview-EnglishStep1/chapter' + 10)">[Unit 10] What applicable attributes/experiences do you have?</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/Interview-English/Interview-EnglishStep1/chapter' + 11)">[Unit 11] What is your greatest strength?</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/Interview-English/Interview-EnglishStep1/chapter' + 12)">[Unit 12] What type of work environment do you prefer?</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/Interview-English/Interview-EnglishStep1/chapter' + 13)">[Unit 13] What are your salary expectations?</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/Interview-English/Interview-EnglishStep1/chapter' + 14)">[Unit 14] Are you a self motivator?</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/Interview-English/Interview-EnglishStep1/chapter' + 15)">[Unit 15] Where do you see yourself five years from now?</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/Interview-English/Interview-EnglishStep1/chapter' + 16)">[Unit 16] What are your goals for the next three or five years?</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/Interview-English/Interview-EnglishStep1/chapter' + 17)">[Unit 17] What are you passionate about?</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/Interview-English/Interview-EnglishStep1/chapter' + 18)">[Unit 18] What has been the greatest disappointment in your life?</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/Interview-English/Interview-EnglishStep1/chapter' + 19)">[Unit 19] What will you do if you don’t get this position?</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/Interview-English/Interview-EnglishStep1/chapter' + 20)">[Unit 20] What did you like or dislike about your previous job?</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/Interview-English/Interview-EnglishStep1/chapter' + 21)">[Unit 21] What challenges are you looking for?</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/Interview-English/Interview-EnglishStep1/chapter' + 22)">[Unit 22] What is your philosophy towards work?</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/Interview-English/Interview-EnglishStep1/chapter' + 23)">[Unit 23] What is more important to you : money or work?</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/Interview-English/Interview-EnglishStep1/chapter' + 24)">[Unit 24] What do your previous co-workers say about you?</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/Interview-English/Interview-EnglishStep1/chapter' + 25)">[Unit 25] What motivates you to do your best on the job?</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/Interview-English/Interview-EnglishStep1/chapter' + 26)">[Unit 26] What qualities do you look for in a boss?</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/Interview-English/Interview-EnglishStep1/chapter' + 27)">[Unit 27] How would you know you were successful on this job?</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/Interview-English/Interview-EnglishStep1/chapter' + 28)">[Unit 28] What have you learned from mistakes on the job?</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/Interview-English/Interview-EnglishStep1/chapter' + 29)">[Unit 29] If you were hiring a person for this job, what would you look for?</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/Interview-English/Interview-EnglishStep1/chapter' + 30)">[Unit 30] How do you handle criticism?</v-list-tile></p>
         </v-list>
       </v-list>
     </v-navigation-drawer>
@@ -2592,7 +2649,7 @@
               </v-col>
               <v-spacer></v-spacer>
               <v-col cols="4">
-                <v-icon @click="stopSpeech()" large color="black">stop</v-icon>
+                <v-icon @click="stopSound()" large color="black">stop</v-icon>
               </v-col>
               <v-spacer></v-spacer>
               <v-col cols="4">
@@ -2685,7 +2742,7 @@
               </v-col>
               <v-spacer></v-spacer>
               <v-col cols="4">
-                <v-icon @click="stopSpeech()" large color="black">stop</v-icon>
+                <v-icon @click="stopSound()" large color="black">stop</v-icon>
               </v-col>
               <v-spacer></v-spacer>
               <v-col cols="4">
@@ -2776,7 +2833,7 @@
               </v-col>
               <v-spacer></v-spacer>
               <v-col cols="4">
-                <v-icon @click="stopSpeech()" large color="black">stop</v-icon>
+                <v-icon @click="stopSound()" large color="black">stop</v-icon>
               </v-col>
               <v-spacer></v-spacer>
               <v-col cols="4">
@@ -2868,12 +2925,16 @@ watch: {
 },
 mounted() {
   this.speech.cancel()
-  console.log(this.$router.history.current.fullPath)
 },
 methods: {
   playSound() {
-    if(this.$router.history.current.fullPath.indexOf('/FreeTalking-QnA/FreeTalking-STEP1') != -1){
-      for(var i = 0; i < 20; i++){
+    console.log(this.audio.paused, 'hi')
+    if(this.audio.paused && !this.audioPlaying){
+      this.audio.play(); 
+      this.playArrow = false
+    }else{
+        if(this.$router.history.current.fullPath.indexOf('/FreeTalking-QnA/FreeTalking-STEP1') != -1){
+      for(var i = 0; i < 21; i++){
         if(this.$router.history.current.fullPath === '/FreeTalking-QnA/FreeTalking-STEP1/chapter' + i){
           this.audio = new Audio('../../audio/FreeTalkingQ&A/White/Unit' +i+ '.mp3')
           this.icon = "pause";
@@ -2883,47 +2944,79 @@ methods: {
       }
     }
     if(this.$router.history.current.fullPath.indexOf('/FreeTalking-QnA/FreeTalking-STEP2') != -1){
-      for(var i = 0; i < 20; i++){
+      for(var i = 0; i < 21; i++){
         if(this.$router.history.current.fullPath === '/FreeTalking-QnA/FreeTalking-STEP2/chapter' + i){
           this.audio = new Audio('../../audio/FreeTalkingQ&A/Yellow/Unit' +i+ '.mp3')
+          this.icon = "pause";
+          this.audioPlaying = true;
+          this.playArrow = false;
         }
       }
     }
     if(this.$router.history.current.fullPath.indexOf('/FreeTalking-QnA/FreeTalking-STEP3') != -1){
-      for(var i = 0; i < 20; i++){
+      for(var i = 0; i < 21; i++){
         if(this.$router.history.current.fullPath === '/FreeTalking-QnA/FreeTalking-STEP3/chapter' + i){
           this.audio = new Audio('../../audio/FreeTalkingQ&A/Green/Unit' +i+ '.mp3')
+          this.icon = "pause";
+          this.audioPlaying = true;
+          this.playArrow = false;
         }
       }
     }
     if(this.$router.history.current.fullPath.indexOf('/FreeTalking-QnA/FreeTalking-STEP4') != -1){
-      for(var i = 0; i < 20; i++){
+      for(var i = 0; i < 21; i++){
         if(this.$router.history.current.fullPath === '/FreeTalking-QnA/FreeTalking-STEP4/chapter' + i){
           this.audio = new Audio('../../audio/FreeTalkingQ&A/Red/Unit' +i+ '.mp3')
+          this.icon = "pause";
+          this.audioPlaying = true;
+          this.playArrow = false;
         }
       }
     }
     if(this.$router.history.current.fullPath.indexOf('/DialogueBooks/DialogueLevel1') != -1){
-      for(var i = 0; i < 20; i++){
+      for(var i = 0; i < 21; i++){
         if(this.$router.history.current.fullPath === '/DialogueBooks/DialogueLevel1/chapter' + i){
           this.audio = new Audio('../../audio/DialogueBooks/White/Unit' +i+ '.mp3')
+          this.icon = "pause";
+          this.audioPlaying = true;
+          this.playArrow = false;
         }
       }
+    }
+    if(this.$router.history.current.fullPath.indexOf('/FreeTalkingOpinion/FreeTalkingOpinion1') != -1){
+      for(var i = 0; i < 45; i++){
+        if(this.$router.history.current.fullPath === '/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + i){
+          this.audio = new Audio('../../audio/FreeTalking-Opinion/Unit' +i+ '.mp3')
+          this.icon = "pause";
+          this.audioPlaying = true;
+          this.playArrow = false;
+        }
+      }
+    }
+
+
     }
     this.audio.play()
     this.audioPlaying = true
   },
+
   pauseSound() {
     this.audio.pause()
     this.audioPlaying = false;
     this.playArrow = true;
   },
+
   stopSound() {
+    console.log('hello')
     this.audio.pause()
     this.audio.currentTime = 0;
     this.playArrow = true;
     this.audioPlaying = false;
   },
+
+  
+  
+ 
   textToSpeech() {
     var string = this.$el.innerText
     var string2

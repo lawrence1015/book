@@ -6,7 +6,7 @@
 
   <v-layout column>
     <v-img
-           src="https://media-public.canva.com/MADQ4w39aME/1/screen.jpg">
+           src="https://image.freepik.com/free-photo/young-beautiful-couple-holding-wash-clothes-grey-wall_176420-3346.jpg">
 
         <v-layout
         align-end

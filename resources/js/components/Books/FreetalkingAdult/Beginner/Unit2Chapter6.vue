@@ -19,7 +19,7 @@ margin-bottom: -10px;">
 <h3 style="padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 10px; margin-top: 10px; background-color: #a7d7c5;">Reading Practice <span style="font-size:18px">( 선생님의 안내에 따라 문장을 읽어 주세요 )</span></h3>
      <div style="padding : 16px;">
 
-<p>Do you know what halo-halo is? It is a delicious and colorful dessert that I tried during my stay in the Philippines last summer vacation. It is a very delightful and nutritious food. First, you have to prepare   crushed ice and put it in a glass or a bowl. Second, you just add a variety of ingredients like sweetened     banana, beans, coconut and melon strips, yam paste, sugar and others. Third, to boost the flavor, milk is poured and a scoop of ice cream is added on the top! It is called halo-halo because the word "halo" means “mix" and to enjoy it, all you have to do is mix the ingredients with your spoon! Isn't it very simple and easy to make?
+<p>Do you know what halo-halo is? It is a delicious and colorful dessert that I tried during my stay in the Philippines last summer vacation. It is very delightful and nutritious food. First, you have to prepare crushed ice and put it in a glass or a bowl. Second, you just add a variety of ingredients like sweetened banana, beans, coconut and melon strips, yam paste, sugar, and others. Third, to boost the flavor, milk is poured and a scoop of ice cream is added on the top! It is called halo-halo because the word "halo" means “mix" and to enjoy it, all you have to do is mix the ingredients with your spoon! Isn't it very simple and easy to make?
 </p>
 
 </div>

@@ -58,16 +58,16 @@
 
         <ol style="margin: 12px;">
           <li>
-            1. I <u> &emsp; &emsp; &emsp; </u> a big family. <u> &emsp; &emsp; &emsp; </u> family is big. <br />
-            (저는 큰 가족을 갖고 있습니다. 저의 가족은 큽니다.)
+              I <u> &emsp; &emsp; &emsp; </u> a big family. <u> &emsp; &emsp; &emsp; </u> family is big. <br />
+                (저는 큰 가족을 갖고 있습니다. 저의 가족은 큽니다.)
           </li>
           <li>
-            2. John <u> &emsp; &emsp; &emsp; </u> a wife and two children. <u> &emsp; &emsp; &emsp; </u> wife is very attractive. <br />
-            (John은 부인과 두 명의 아이들이 있습니다. 그의 부인은 매우 매력적입니다.)
+              John <u> &emsp; &emsp; &emsp; </u> a wife and two children. <u> &emsp; &emsp; &emsp; </u> wife is very attractive. <br />
+                (John은 부인과 두 명의 아이들이 있습니다. 그의 부인은 매우 매력적입니다.)
           </li>
           <li>
-            3. Jim and Jack <u> &emsp; &emsp; &emsp; </u> a van <u> &emsp; &emsp; &emsp; </u> use it for &emsp; &emsp; &emsp; </u> business. <br />
-            (Jim과 Jack은 벤이 있습니다. 그들은 그것을 그들의 일을 위해 사용합니다.)
+              Jim and Jack <u> &emsp; &emsp; &emsp; </u> a van <u> &emsp; &emsp; &emsp; </u> use it for &emsp; &emsp; &emsp; </u> business. <br />
+                (Jim과 Jack은 벤이 있습니다. 그들은 그것을 그들의 일을 위해 사용합니다.)
           </li>
         </ol>
 

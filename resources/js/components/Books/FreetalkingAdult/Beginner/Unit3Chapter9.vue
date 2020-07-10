@@ -199,7 +199,7 @@ Study the sentences on the right box.
   <li>What is your least favorite day? Why not?
   </li>
 
-  <li>What is usually the weather during March? September? December?
+  <li>What is usually the weather in March? September? December?
   </li>
 
   <li>What do you wear on a sunny weather?
@@ -211,7 +211,7 @@ Study the sentences on the right box.
   <li>What do you wear on a chilly weather?
   </li>
 
-  <li>Do you like to eat a certain food at a certain weather?
+  <li>Do you like to eat certain food at a certain weather?
   </li>
 
   <li>Do you think the weather affects the way people feel?

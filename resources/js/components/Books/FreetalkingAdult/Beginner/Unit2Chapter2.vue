@@ -21,7 +21,7 @@ margin-bottom: -10px;">
      <div style="padding : 16px;">
 
 
-<p>My best friend and I went to New York last summer vacation. We went there because we wanted to see the Statue of Liberty. When we finally saw it, it was bigger than we expected! It was gigantic! We bought mini­-replicas as souvenirs. We also ate a lot of Western food like hamburger and pizza. During our last day, our new American friend named Mary gave us a free tour of the City. It was a fantastic trip!
+<p>My best friend and I went to New York last summer vacation. We went there because we wanted to see the Statue of Liberty. When we finally saw it, it was bigger than we expected! It was gigantic! We bought mini­-replicas as souvenirs. We also ate a lot of Western food like hamburgers and pizza. During our last day, our new American friend named Mary gave us a free tour of the City. It was a fantastic trip!
 </p>
 
 </div>
@@ -78,24 +78,25 @@ margin-bottom: -10px;">
 
 
 
-
-<li style="list-style-type: none;">Where did they go?
+<ol style="margin: 12px;">
+<li>Where did they go?
 </li>
 
-<li style="list-style-type: none;">When did they go there?
+<li>When did they go there?
 </li>
 
-<li style="list-style-type: none;">Why did they want to visit New York?
+<li>Why did they want to visit New York?
 </li>
 
-<li style="list-style-type: none;">How did the Statue of Liberty look like?
+<li>How did the Statue of Liberty look like?
 </li>
 
-<li style="list-style-type: none;">What did they eat?
+<li>What did they eat?
 </li>
 
-<li style="list-style-type: none;">What did they do on their last day?
+<li>What did they do on their last day?
 </li>
+</ol>
 
 </div>
 

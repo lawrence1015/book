@@ -58,14 +58,14 @@
 
         <ol style="margin: 12px;">
           <li>
-            1. Some people <u> &emsp; &emsp; &emsp; </u> waiting <u> &emsp; &emsp; &emsp; </u> a bus on a chair.<br />
+              Some people <u> &emsp; &emsp; &emsp; </u> waiting <u> &emsp; &emsp; &emsp; </u> a bus on a chair.<br />
           </li>
           <li>
-            2. He <u> &emsp; &emsp; &emsp; </u> <u> &emsp; &emsp; &emsp; </u> coffee into a small white cup. <br />
+              He <u> &emsp; &emsp; &emsp; </u> <u> &emsp; &emsp; &emsp; </u> coffee into a small white cup. <br />
                 (pour) <br />
           </li>
           <li>
-            3. We <u> &emsp; &emsp; &emsp; </u> <u> &emsp; &emsp; &emsp; </u> Kimchi in November or December. <br />
+              We <u> &emsp; &emsp; &emsp; </u> <u> &emsp; &emsp; &emsp; </u> Kimchi in November or December. <br />
                 (make) <br />
           </li>
         </ol>

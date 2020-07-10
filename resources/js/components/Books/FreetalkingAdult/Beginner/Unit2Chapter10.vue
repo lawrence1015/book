@@ -15,14 +15,7 @@ margin-bottom: -10px;">
            src="images/perfect-reading-chapter10.jpg"></v-img>
 </div>
 
-<h3 style="padding-top: 7px;
-margin-left: -18px;
-margin-right: -18px;
-padding-left: 10px;
-padding-bottom: 10px;
-padding-top: 15px;
-margin-top: 40px;
-background-color: #a7d7c5;">Tips</h3>
+<h3 style="padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 10px; margin-top: 10px; background-color: #a7d7c5;">Conversation Samples <span style="font-size:18px">(선생님과 역할을 나눠서 연습해보세요)</span></h3>
 <div style="padding : 16px;">
 
 <p>
@@ -32,7 +25,7 @@ background-color: #a7d7c5;">Tips</h3>
 <br>
 <b>M</b>:  Yes it is. You can borrow it but promise me that you'll take good care of it.
 <br>
-<b>F</b>:  Sure. It sounds that this has a deep sentimental value to you.
+<b>F</b>:  Sure. It sounds that this has deep sentimental value to you.
 <br>
 <b>M</b>:  Sentimental? You mean it’s marked by tender and warm emotions?
 <br>

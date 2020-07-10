@@ -26,7 +26,7 @@
           <h3 style="background-color: #a7d7c5;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Reading Practice <span style="font-size:18px">( 선생님의 안내에 따라 문장을 읽어 주세요 )</span></h3>
                <div style="padding : 16px;">
 
-   <p>My family had a memorable trip to Jeju Island in the autumn of 2010.  I was twenty years old at that time.  We rode an airplane from Seoul and it took us about an hour to get there.   The wind was strong   and fresh. The land was green with grass. We climbed the Halla Mountain. I was very thrilled. We also swam in a beach.  The water was very clear. We ate black pigs and a special orange   fruit. My trip to Jeju Island is unforgettable!
+   <p>My family had a memorable trip to Jeju Island in the autumn of 2010. I was twenty years old at that time. We rode an airplane from Seoul and it took us about an hour to get there. The wind was strong and fresh. The land was green with grass. We climbed the Halla Mountain. I was very thrilled. We also swam on a beach. The water was very clear. We ate black pigs and special orange fruit. My trip to Jeju Island is unforgettable!
 </p>
 
 
@@ -75,24 +75,26 @@
 
 
 
-
-<li style="list-style-type: none;">What is the reading about?
+<ol style="margin: 12px;">
+<li>What is the reading about?
 </li>
 
-<li style="list-style-type: none;">When did they go there?
+<li>When did they go there?
 </li>
 
-<li style="list-style-type: none;">How did they get there?
+<li>How did they get there?
 </li>
 
-<li style="list-style-type: none;">What was the wind in Jeju like?
+<li>What was the wind in Jeju like?
 </li>
 
-<li style="list-style-type: none;">What did the writer do there?
+<li>What did the writer do there?
 </li>
 
-<li style="list-style-type: none;">What did they eat?
+<li>What did they eat?
 </li>
+</ol>
+
 </div>
 
 <h3 style="padding-top: 7px;
@@ -136,7 +138,7 @@ margin-bottom: -10px;">
      <div style="padding : 16px;">
 
 
-<p>My best friend and I went to New York last summer vacation. We went there because we wanted to see the Statue of Liberty. When we finally saw it, it was bigger than we expected! It was gigantic! We bought mini­-replicas as souvenirs. We also ate a lot of Western food like hamburger and pizza. During our last day, our new American friend named Mary gave us a free tour of the City. It was a fantastic trip!
+<p>My best friend and I went to New York last summer vacation. We went there because we wanted to see the Statue of Liberty. When we finally saw it, it was bigger than we expected! It was gigantic! We bought mini­-replicas as souvenirs. We also ate a lot of Western food like hamburgers and pizza. During our last day, our new American friend named Mary gave us a free tour of the City. It was a fantastic trip!
 </p>
 
 </div>
@@ -194,27 +196,29 @@ margin-bottom: -10px;">
 
 
 
-<li style="list-style-type: none;">Where did they go?
+<ol style="margin: 12px;">
+<li>Where did they go?
 </li>
 
-<li style="list-style-type: none;">When did they go there?
+<li>When did they go there?
 </li>
 
-<li style="list-style-type: none;">Why did they want to visit New York?
+<li>Why did they want to visit New York?
 </li>
 
-<li style="list-style-type: none;">How did the Statue of Liberty look like?
+<li>How did the Statue of Liberty look like?
 </li>
 
-<li style="list-style-type: none;">What did they eat?
+<li>What did they eat?
 </li>
 
-<li style="list-style-type: none;">What did they do on their last day?
+<li>What did they do on their last day?
 </li>
+</ol>
 
 </div>
 
-<h3 style="padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 10px; margin-top: 10px; background-color: #a7d7c5;">Comprehension</h3>
+<h3 style="padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 10px; margin-top: 10px; background-color: #a7d7c5;">Translation</h3>
      <div style="padding : 16px;">
 
        <p>
@@ -223,7 +227,7 @@ margin-bottom: -10px;">
 
      </div>
 
-<h3 style="padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 10px; margin-top: 10px; background-color: #a7d7c5;">Conversation Samples</h3>
+<h3 style="padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 10px; margin-top: 10px; background-color: #a7d7c5;">Conversation Samples <span style="font-size:18px">(선생님과 역할을 나눠서 연습해보세요)</span></h3>
      <div style="padding : 16px;">
 
 

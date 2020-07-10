@@ -239,7 +239,7 @@ margin-bottom: -10px;">
 <br>
 <b>F</b>:  No, not really. I just enjoy watching these kind of films. And sometimes I find them funny too. It just completely takes off my mind from work or worries. How about you?
 <br>
-<b>M</b>:  Oh, I really enjoy singing in our karaoke machine at home. I sing even when I am
+<b>M</b>:  Oh, I really enjoy singing in our karaoke machine at home. I sing even when I am 
 <br>
 <b>F</b>:  Really? That sounds fun!
 </p>

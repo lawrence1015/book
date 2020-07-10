@@ -6,7 +6,7 @@
 
   <v-layout column>
     <v-img
-           src="https://media-public.canva.com/MADQ4w39aME/1/screen.jpg">
+           src="https://image.freepik.com/free-photo/young-good-looking-black-skinned-man-with-afro-hairstyle-casual-stylish-clothes-holding-hands-together-looking-camera-with-guilty-expression-after-being-caught-lying_176420-12999.jpg">
 
         <v-layout
         align-end

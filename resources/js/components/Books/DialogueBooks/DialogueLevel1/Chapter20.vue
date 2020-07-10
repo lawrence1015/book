@@ -58,16 +58,16 @@
 
         <ol style="margin: 12px;">
           <li>
-            1. How <u> &emsp; &emsp; &emsp; </u> hours are there in a day? <br />
-            하루는 몇시간입니까?
+              How <u> &emsp; &emsp; &emsp; </u> hours are there in a day? <br />
+                하루는 몇시간입니까?
           </li>
           <li>
-            2. There <u> &emsp; &emsp; &emsp; </u> many small restaurants in my neighborhood.<br />
-            내 지역에는 많은 작은 식당들이 있습니다.
+              There <u> &emsp; &emsp; &emsp; </u> many small restaurants in my neighborhood.<br />
+                내 지역에는 많은 작은 식당들이 있습니다.
           </li>
           <li>
-            3. There <u> &emsp; &emsp; &emsp; </u> much noise.
-            소음이 거의 없습니다.
+              There <u> &emsp; &emsp; &emsp; </u> much noise.
+                소음이 거의 없습니다.
           </li>
         </ol>
 

@@ -58,15 +58,16 @@
 
         <ol style="margin: 12px;">
           <li>
-            1. <u> &emsp; &emsp; &emsp; </u> on the floor? - There's a red carpet. <br />
-            바닥에 무엇이 있습니까? - 붉은 카펫이 있습니다.
+              <u> &emsp; &emsp; &emsp; </u> on the floor? - There's a red carpet. <br />
+                바닥에 무엇이 있습니까? - 붉은 카펫이 있습니다.
           </li>
           <li>
-            2. <u> &emsp; &emsp; &emsp; </u> a gray hair on my head. <br />
-            내 머리 위에 회색 머리카락이 있습니다.
+              <u> &emsp; &emsp; &emsp; </u> a gray hair on my head. <br />
+                내 머리 위에 회색 머리카락이 있습니다.
           </li>
-          <li>Is <u> &emsp; &emsp; &emsp; </u> a cafeteria in the building?
-            그 건물 안에는 식당이 있습니까?
+          <li>
+              Is <u> &emsp; &emsp; &emsp; </u> a cafeteria in the building?
+                그 건물 안에는 식당이 있습니까?
           </li>
         </ol>
 

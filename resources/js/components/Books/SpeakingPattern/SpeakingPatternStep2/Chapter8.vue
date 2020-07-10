@@ -6,7 +6,7 @@
 
   <v-layout column>
     <v-img
-           src="https://media-public.canva.com/MADQ4w39aME/1/screen.jpg">
+           src="https://image.freepik.com/free-photo/young-happy-teen-girl-is-calling-with-mobile-phone-isolated-white_231208-89.jpg">
 
         <v-layout
         align-end

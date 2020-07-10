@@ -47,7 +47,7 @@
 <li style="list-style-type: none;"><u>Mood</u> - state of feelings <span style="font-size:16px">기분, 분위기</span>
 </li>
 
-<li style="list-style-type: none;"><u>Outlet</u> - activity that expresses emotions <span style="font-size:16px">발산[배출]</span>
+<li style="list-style-type: none;"><u>Outlet</u> - an activity that expresses emotions <span style="font-size:16px">발산[배출]</span>
 </li>
 
 
@@ -77,14 +77,16 @@
 <h3 style="padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 10px; margin-top: 10px; background-color: #a7d7c5;">Comprehension</h3>
      <div style="padding : 16px;">
 
-<li style="list-style-type: none;">How can music help a person feel better?
+<ol style="margin: 12px;">
+<li>How can music help a person feel better?
 </li>
 
-<li style="list-style-type: none;">What can music do to our mental ability?
+<li>What can music do to our mental ability?
 </li>
 
-<li style="list-style-type: none;">How can music help in treating mental problems?
+<li>How can music help in treating mental problems?
 </li>
+</ol>
 
 </div>
 
@@ -123,7 +125,7 @@ margin-bottom: -10px;">
 <li style="list-style-type: none;"><u>Expose</u> - to make accessible to some action or influence <span style="font-size:16px">(보통 때는 가려져 있는 것을) 드러내다 </span>
 </li>
 
-<li style="list-style-type: none;"><u>Musician</u> - someone who plays a music instrument <span style="font-size:16px">음악가, 뮤지션</span>
+<li style="list-style-type: none;"><u>Musician</u> - someone who plays a musical instrument <span style="font-size:16px">음악가, 뮤지션</span>
 </li>
 
 <li style="list-style-type: none;"><u>Handy</u> - easy to use <span style="font-size:16px">유용한, 편리한, 가까운[이용하기 편한] 곳에 있는</span>
@@ -175,7 +177,7 @@ margin-bottom: -10px;">
 <li>What instrument did she learn first?
 </li>
 
-<li>Why did she shift to guitar?
+<li>Why did she shift to the guitar?
 </li>
 
 <li>Why did she change the guitar for the flute?

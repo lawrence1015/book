@@ -6,7 +6,7 @@
 
   <v-layout column>
     <v-img
-           src="https://media-public.canva.com/MADQ4w39aME/1/screen.jpg">
+           src="https://image.freepik.com/free-photo/mom-dad-little-boy-taste-apples-sitting-grass-during-picnic-park_8353-5353.jpg">
 
         <v-layout
         align-end

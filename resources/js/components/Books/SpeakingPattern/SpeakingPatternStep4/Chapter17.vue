@@ -6,7 +6,7 @@
 
   <v-layout column>
     <v-img
-           src="https://media-public.canva.com/MADQ4w39aME/1/screen.jpg">
+           src="https://image.freepik.com/free-photo/couple-is-drinking-white-wine-romantic-dinner-restaurant-holding-hands_8353-10578.jpg">
 
         <v-layout
         align-end

@@ -6,7 +6,7 @@
 
   <v-layout column>
     <v-img
-           src="https://media-public.canva.com/MADQ4w39aME/1/screen.jpg">
+           src="https://image.freepik.com/free-photo/travel-elements-map_23-2148077190.jpg">
 
         <v-layout
         align-end
@@ -65,7 +65,7 @@
           <p style="box-sizing: 2;">
             A : 이 지도는 헷갈려.<br />
             B : 내 생각엔 저기 동쪽 길로 가야 될 것 같아.<br />
-            A : Y<mark style="background-color: #a7d7c5; color: #d9e7cd;"></mark><br />
+            A : <mark style="background-color: #a7d7c5; color: #d9e7cd;"></mark><br />
             B : 예전에 보이스카우트였거든<br />
 
             *confusing  (복잡하여) 헷갈리는

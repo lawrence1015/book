@@ -58,16 +58,16 @@
 
         <ol style="margin: 12px;">
           <li>
-            1. Do you <u> &emsp; &emsp; &emsp; </u> apples? <br />
-            사과있습니까?
+              Do you <u> &emsp; &emsp; &emsp; </u> apples? <br />
+                사과있습니까?
           </li>
           <li>
-            2. <u> &emsp; &emsp; &emsp; </u> they fresh? <br />
-            그들은 신선합니까?
+              <u> &emsp; &emsp; &emsp; </u> they fresh? <br />
+                그들은 신선합니까?
           </li>
           <li>
-            3. <u> &emsp; &emsp; &emsp; </u> a kilo of apples, please. <br />
-            사과 1kg 주세요.
+              <u> &emsp; &emsp; &emsp; </u> a kilo of apples, please. <br />
+                사과 1kg 주세요.
           </li>
         </ol>
 

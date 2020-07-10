@@ -6,7 +6,7 @@
 
   <v-layout column>
     <v-img
-           src="https://media-public.canva.com/MADQ4w39aME/1/screen.jpg">
+           src="https://image.freepik.com/free-photo/funny-playful-fair-haired-female-teenager-with-two-ponytails-wearing-pink-long-sleeved-sweater-having-joyful-expression-with-chewing-gum-bubble-her-mouth-isolated_176420-13550.jpg">
 
         <v-layout
         align-end

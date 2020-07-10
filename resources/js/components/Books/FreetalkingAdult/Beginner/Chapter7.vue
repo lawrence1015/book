@@ -111,11 +111,13 @@
             </p>
 
             <p>
-              Adjectives are used to describe. In the English grammar, they come before the noun. There are two ways to use adjectives.
+              Adjectives are used to describe. 
+              In English grammar, they come before the noun. 
+              There are two ways to use adjectives.
             </p>
 
             <p>
-              First way: Use it before the noun (but you must add a verb, a noun or another adjective after).
+              First way: Use it before the noun (but you must add a verb, a noun, or another adjective after).
             </p>
 
             <li style="list-style-type: none;">Ex. The red car passed.
@@ -176,7 +178,7 @@
             <div style="padding : 16px;">
 
 
-              <p>Form sentences. Use the two basic ways in using adjectives in a sentence with the words below.
+              <p>Form sentences. Use the two basic ways of using adjectives in a sentence with the words below.
               </p>
 
               <ol style="margin: 12px;">
@@ -229,9 +231,14 @@
 
           <div style="padding : 16px;">
 
-            <p>I have an elder sister and a younger brother. My sister is tall and pretty. She has light brown eyes and long black hair. She likes to collect action and fantasy novels. She is an avid reader. On the other hand, my brother is a
-              sporty guy. His room is filled with colorful posters of athletes. He is tall and tan from playing under the sun.
-              We like to hang-out in a seaside restaurant in our town. We like to share hilarious experiences. Although we like different things and have different personalities, we are very close to each other.
+            <p>I have an elder sister and a younger brother. My sister is tall and pretty. 
+               She has light brown eyes and long black hair. She likes to collect action and fantasy novels. 
+               She is an avid reader. On the other hand, my brother is a
+               sporty guy. His room is filled with colorful posters of athletes. 
+               He is tall and tan from playing under the sun.
+               We like to hang-out at a seaside restaurant in our town. 
+               We like to share hilarious experiences. 
+               Although we like different things and have different personalities, we are very close to each other.
             </p>
 
 
@@ -336,7 +343,7 @@
             <p>
               <b>M</b>: Tell me about your family.
               <br>
-              <b>F</b>: My family has four members: my father, mother, brother and I.
+              <b>F</b>: My family has four members: my father, mother, brother and me.
               <br>
               <b>M</b>: What is your father like?
               <br>

@@ -57,7 +57,7 @@
 </p>
 
 <ol style="margin: 12px;">
-  <li>The news said there will be a ____________ today so bring your umbrella please.
+  <li>The news said there will be a ____________ today so bring your umbrella, please.
   </li>
 
   <li>My best friend will live in another country.  I feel ________ about it.

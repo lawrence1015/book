@@ -20,9 +20,14 @@
 
           <div style="padding : 16px;">
 
-            <p>I have an elder sister and a younger brother. My sister is tall and pretty. She has light brown eyes and long black hair. She likes to collect action and fantasy novels. She is an avid reader. On the other hand, my brother is a
-              sporty guy. His room is filled with colorful posters of athletes. He is tall and tan from playing under the sun.
-              We like to hang-out in a seaside restaurant in our town. We like to share hilarious experiences. Although we like different things and have different personalities, we are very close to each other.
+            <p>I have an elder sister and a younger brother. My sister is tall and pretty. 
+               She has light brown eyes and long black hair. She likes to collect action and fantasy novels. 
+               She is an avid reader. On the other hand, my brother is a
+               sporty guy. His room is filled with colorful posters of athletes. 
+               He is tall and tan from playing under the sun.
+               We like to hang-out at a seaside restaurant in our town. 
+               We like to share hilarious experiences. 
+               Although we like different things and have different personalities, we are very close to each other.
             </p>
 
 

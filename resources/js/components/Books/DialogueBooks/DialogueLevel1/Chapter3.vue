@@ -6,7 +6,7 @@
 
       <v-layout column>
         <v-img
-        src="https://marketplace.canva.com/MADGv8RmfkY/6/screen_2x/canva-man-and-woman-sitting-on-chair-in-front-of-desk-MADGv8RmfkY.jpg">
+        src="https://image.freepik.com/free-photo/talk-friends_1098-13493.jpg">
 
         <v-layout
         align-end
@@ -58,11 +58,11 @@
 
         <ol style="margin: 12px;">
           <li>
-            1. 서울은 어떻습니까?<br />
+              서울은 어떻습니까?<br />
                 What <u> &emsp; &emsp; &emsp; </u> Seoul <u> &emsp; &emsp; &emsp; </u>?<br />
           </li>
           <li>
-            2. 그곳은 크고 흥미진진합니다.<br />
+              그곳은 크고 흥미진진합니다.<br />
                 <u> &emsp; &emsp; &emsp; </u> ig and exciting. <br />
           </li>
         </ol>

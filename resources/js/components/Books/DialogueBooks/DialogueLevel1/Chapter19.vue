@@ -58,16 +58,16 @@
 
         <ol style="margin: 12px;">
           <li>
-            1. What’s in the street? - <u> &emsp; &emsp; &emsp; </u> a red van next <u> &emsp; &emsp; &emsp; </u> bookstore.
-            거리에 무엇이 있습니까? - 서점 옆에 붉은색 벤이 있습니다.
+              What’s in the street? - <u> &emsp; &emsp; &emsp; </u> a red van next <u> &emsp; &emsp; &emsp; </u> bookstore.
+                거리에 무엇이 있습니까? - 서점 옆에 붉은색 벤이 있습니다.
           </li>
           <li>
-            2.Who's in the van? - <u> &emsp; &emsp; &emsp; </u> two strange-looking guys.
-            벤 안에 누가 있습니까? - 이상하게 생긴 두 명의 남자들이 있습니다.
+              Who's in the van? - <u> &emsp; &emsp; &emsp; </u> two strange-looking guys.
+                벤 안에 누가 있습니까? - 이상하게 생긴 두 명의 남자들이 있습니다.
           </li>
           <li>
-            3. What are they doing? - <u> &emsp; &emsp; &emsp; </u> watching our house!
-            그들은 무엇을 하고 있습니까? - 그들은 우리 집을 보고 있습니다.
+              What are they doing? - <u> &emsp; &emsp; &emsp; </u> watching our house!
+                그들은 무엇을 하고 있습니까? - 그들은 우리 집을 보고 있습니다.
           </li>
         </ol>
 

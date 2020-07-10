@@ -58,15 +58,15 @@
 
         <ol style="margin: 12px;">
           <li>
-            1. Hurry up! The taxi driver is <u> &emsp; &emsp; &emsp; </u> <u> &emsp; &emsp; &emsp; </u> us.<br />
+              Hurry up! The taxi driver is <u> &emsp; &emsp; &emsp; </u> <u> &emsp; &emsp; &emsp; </u> us.<br />
                 (wait for)<br />
           </li>
           <li>
-            2. They <u> &emsp; &emsp; &emsp; </u> <u> &emsp; &emsp; &emsp; </u> on the Internet.<br />
+              They <u> &emsp; &emsp; &emsp; </u> <u> &emsp; &emsp; &emsp; </u> on the Internet.<br />
                 (chat)<br />
           </li>
           <li>
-            3. The restaurant is expensive. He <u> &emsp; &emsp; &emsp; </u> spending <u> &emsp; &emsp; &emsp; </u> money.<br />
+              The restaurant is expensive. He <u> &emsp; &emsp; &emsp; </u> spending <u> &emsp; &emsp; &emsp; </u> money.<br />
                 (a lot of)<br />
           </li>
         </ol>

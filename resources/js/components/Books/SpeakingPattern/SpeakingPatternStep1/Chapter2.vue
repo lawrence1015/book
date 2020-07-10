@@ -6,7 +6,7 @@
 
   <v-layout column>
     <v-img
-           src="https://media-public.canva.com/MADQ4w39aME/1/screen.jpg">
+           src="https://image.freepik.com/free-photo/smiling-hr-employer-handshaking-successful-job-applicant-hiring-greeting_1163-4102.jpg">
 
         <v-layout
         align-end

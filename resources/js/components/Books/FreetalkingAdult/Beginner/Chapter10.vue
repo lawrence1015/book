@@ -26,7 +26,7 @@
           <h3 style="background-color: #a7d7c5;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Reading Practice <span style="font-size:18px">( 선생님의 안내에 따라 문장을 읽어 주세요 )</span></h3>
                <div style="padding : 16px;">
 
-<p>I own two, red luxury cars and a white townhouse  but you may be surprised if I tell you that  my most prized possessions are the three  rectangular,  yellow  photo  albums. They are not mere collections of pictures but diaries as well. My parents made them together.  They pasted our pictures and wrote down the experiences and ideas in words. They also pasted leaves and flowers that we got during our several excursions. They are very precious to me because my parents died when I was a teenager and these albums helped me not to feel that I was alone.
+<p>I own two, red luxury cars and a white townhouse but you may be surprised if I tell you that my most prized possessions are the three rectangular, yellow photo albums. They are not mere collections of pictures but diaries as well. My parents made them together. They posted our pictures and wrote down the experiences and ideas in words. They also pasted leaves and flowers that we got during our several excursions. They are very precious to me because my parents died when I was a teenager and these albums helped me not to feel that I was alone.
 </p>
 
 <h3 style="padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 10px;margin-top: 10px; background-color: #a7d7c5;">Vocabulary Review</h3>
@@ -120,7 +120,7 @@ margin-bottom: -10px;">
 <br>
 <b>M</b>:  Yes it is. You can borrow it but promise me that you'll take good care of it.
 <br>
-<b>F</b>:  Sure. It sounds that this has a deep sentimental value to you.
+<b>F</b>:  Sure. It sounds that this has deep sentimental value to you.
 <br>
 <b>M</b>:  Sentimental? You mean it’s marked by tender and warm emotions?
 <br>
@@ -205,7 +205,7 @@ margin-bottom: -10px;">
 <div style="padding : 16px;">
 
 
-<p>In the English grammar, when you use multiple adjectives in one sentence, you must follow this sequence:
+<p>In English grammar, when you use multiple adjectives in one sentence, you must follow this sequence:
 </p>
 
 <ol style="margin: 12px;">
@@ -260,7 +260,7 @@ Examples
 
 
 <p>
-Make sentences using the given words and pictures. Arrange the adjectives in proper sequence.
+Make sentences using the given words and pictures. Arrange the adjectives in the proper sequence.
 </p>
 
 

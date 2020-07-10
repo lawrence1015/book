@@ -58,12 +58,12 @@
 
         <ol style="margin: 12px;">
           <li>
-            1.There <u> &emsp; &emsp; &emsp; </u> a computer on the desk.<br />
-            (책상 위에 컴퓨터가 있습니다.)
+              There <u> &emsp; &emsp; &emsp; </u> a computer on the desk.<br />
+                (책상 위에 컴퓨터가 있습니다.)
           </li>
           <li>
-            2. What <u> &emsp; &emsp; &emsp; </u> computer is it? - <u> &emsp; &emsp; &emsp; </u> a laptop.<br />
-            (그것은 무슨 종류의 컴퓨터입니까?  -  노트북입니다.)
+              What <u> &emsp; &emsp; &emsp; </u> computer is it? - <u> &emsp; &emsp; &emsp; </u> a laptop.<br />
+                (그것은 무슨 종류의 컴퓨터입니까?  -  노트북입니다.)
           </li>
         </ol>
 

@@ -47,7 +47,7 @@
 <li style="list-style-type: none;"><u>Mood</u> - state of feelings <span style="font-size:16px">기분, 분위기</span>
 </li>
 
-<li style="list-style-type: none;"><u>Outlet</u> - activity that expresses emotions <span style="font-size:16px">발산[배출]</span>
+<li style="list-style-type: none;"><u>Outlet</u> - an activity that expresses emotions <span style="font-size:16px">발산[배출]</span>
 </li>
 
 
@@ -77,14 +77,16 @@
 <h3 style="padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 10px; margin-top: 10px; background-color: #a7d7c5;">Comprehension</h3>
      <div style="padding : 16px;">
 
-<li style="list-style-type: none;">How can music help a person feel better?
+<ol style="margin: 12px;">
+<li>How can music help a person feel better?
 </li>
 
-<li style="list-style-type: none;">What can music do to our mental ability?
+<li>What can music do to our mental ability?
 </li>
 
-<li style="list-style-type: none;">How can music help in treating mental problems?
+<li>How can music help in treating mental problems?
 </li>
+</ol>
 
 </div>
 

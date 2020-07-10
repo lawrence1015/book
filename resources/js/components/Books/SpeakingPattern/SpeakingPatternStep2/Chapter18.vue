@@ -6,7 +6,7 @@
 
   <v-layout column>
     <v-img
-           src="https://media-public.canva.com/MADQ4w39aME/1/screen.jpg">
+           src="https://static.seattletimes.com/wp-content/uploads/2017/04/04162017_grasshoppers_140435-780x520.jpg">
 
         <v-layout
         align-end

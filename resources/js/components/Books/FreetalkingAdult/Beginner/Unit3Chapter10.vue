@@ -19,7 +19,7 @@
       <div style="padding : 16px;">
 
 
-<p>In the English grammar, when you use multiple adjectives in one sentence, you must follow this sequence:
+<p>In English grammar, when you use multiple adjectives in one sentence, you must follow this sequence:
 </p>
 
 <ol style="margin: 12px;">
@@ -74,7 +74,7 @@ Examples
 
 
 <p>
-Make sentences using the given words and pictures. Arrange the adjectives in proper sequence.
+Make sentences using the given words and pictures. Arrange the adjectives in the proper sequence.
 </p>
 
 

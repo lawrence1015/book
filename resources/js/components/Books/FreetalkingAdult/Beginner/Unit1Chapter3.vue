@@ -26,7 +26,7 @@
           <h3 style="background-color: #a7d7c5;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Reading Practice <span style="font-size:18px">( 선생님의 안내에 따라 문장을 읽어 주세요 )</span></h3>
                <div style="padding : 16px;">
 
-   <p>Colors are very important. The world would look very boring without any colors. Everything will be in gray even the flowers, the trees and the sky! Can you imagine that? Colors can change your mood and attract your attention. Colors also bring up different meanings for people. For example, the color red can mean love or hatred depending on the person. Blue can mean peace or sorrow.
+   <p>Colors are very important. The world would look very boring without any colors. Everything will be in gray even the flowers, the trees, and the sky! Can you imagine that? Colors can change your mood and attract your attention. Colors also bring up different meanings for people. For example, the color red can mean love or hatred depending on the person. Blue can mean peace or sorrow.
 </p>
 
 

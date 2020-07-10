@@ -57,20 +57,20 @@
 
         <ol style="margin: 12px;">
           <li>
-            1. Where’s Mr. Wilson?<br />
-            (Wilson씨는 어디에 있습니까?)<br />
+              Where’s Mr. Wilson?<br />
+                (Wilson씨는 어디에 있습니까?)<br />
           </li>
           <li>
-            2. Who is Miss Tracy?<br />
-            (Tracy씨는 누구입니까?)<br />
+              Who is Miss Tracy?<br />
+                (Tracy씨는 누구입니까?)<br />
           </li>
           <li>
-            3. What is aspirin good for?<br />
-            (아스피린은 무엇에 좋습니까?)<br />
+              What is aspirin good for?<br />
+                (아스피린은 무엇에 좋습니까?)<br />
           </li>
           <li>
-            4. How are Mr. Wilson’s teeth?<br />
-            (Wilson씨의 이는 어떻습니까?)<br />
+              How are Mr. Wilson’s teeth?<br />
+                (Wilson씨의 이는 어떻습니까?)<br />
           </li>
         </ol>
 

@@ -6,7 +6,7 @@
 
       <v-layout column>
         <v-img
-        src="https://marketplace.canva.com/YQgoc/MADyQ5YQgoc/1/s2/canva-people-gathering-in-room-MADyQ5YQgoc.jpg" style="max-width: 100%; display:block; height: auto;">
+        src="https://image.freepik.com/free-photo/generative-robot-animation_183364-25024.jpg" style="max-width: 100%; display:block; height: auto;">
 
         <v-layout
         align-end

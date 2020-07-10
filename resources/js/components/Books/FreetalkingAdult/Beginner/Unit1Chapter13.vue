@@ -26,7 +26,7 @@
           <h3 style="background-color: #a7d7c5;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Reading Practice <span style="font-size:18px">( 선생님의 안내에 따라 문장을 읽어 주세요 )</span> </h3>
                <div style="padding : 16px;">
 
-<p>Cindy and Jas are very excited for next month! They can't wait for it! They won a trip for two at a raffle promo of a big mall. For two weeks, they will tour to some Asian countries. They will have a stopover at Japan first and eat some very nice sushi. They will travel to the Philippines next and they will visit some very beautiful places there like Palawan and Boracay. Their next stop will be in Thailand and they will definitely visit the ancient Buddhist temples.  Finally, they will explore Singapore and they will swim at Sentosa beach!
+<p>Cindy and Jas are very excited for next month! They can't wait for it! They won a trip for two at a raffle promo of a big mall. For two weeks, they will tour to some Asian countries. They will have a stopover in Japan first and eat some very nice sushi. They will travel to the Philippines next and they will visit some very beautiful places there like Palawan and Boracay. Their next stop will be in Thailand and they will definitely visit the ancient Buddhist temples.  Finally, they will explore Singapore and they will swim at Sentosa beach!
 </p>
 
 <h3 style="padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 10px;margin-top: 10px; background-color: #a7d7c5;">Vocabulary Review</h3>

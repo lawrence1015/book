@@ -6,7 +6,7 @@
 
   <v-layout column>
     <v-img
-           src="https://media-public.canva.com/MADQ4w39aME/1/screen.jpg">
+           src="https://image.freepik.com/free-photo/close-up-portrait-young-blonde-girl-with-pure-skin-eyeglasses-smile-wearing-black-hat-coat-isolated-pretty-woman-enjoying-her-style_176420-13224.jpg">
 
         <v-layout
         align-end

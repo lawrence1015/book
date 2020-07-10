@@ -16,7 +16,7 @@
            padding-bottom: 10px;
            padding-top: 15px;
            margin-top: 40px;
-           background-color: #a7d7c5;">Conversation Samples</h3>
+           background-color: #a7d7c5;">Conversation Samples <span style="font-size:18px">(선생님과 역할을 나눠서 연습해보세요)</span></h3>
      <div style="padding : 16px;">
 
 

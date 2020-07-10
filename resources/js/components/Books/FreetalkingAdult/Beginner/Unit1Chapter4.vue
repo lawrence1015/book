@@ -26,7 +26,7 @@
           <h3 style="background-color: #a7d7c5;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Reading Practice <span style="font-size:18px">( 선생님의 안내에 따라 문장을 읽어 주세요 )</span></h3>
                <div style="padding : 16px;">
 
-   <p>Although I live in California now, I grew up in Gwangju. As a kid, I played in the fields and drew the mountains with my friends. My mother cooked very well and she ran a small cafe for tourists.  She brewed very delicious tea everyday. My father was a History professor at Chosun University. He told me a lot of stories about the world. He toured me often to the magnificent historical temples there. I had a happy childhood. It feels nostalgic to think about it sometimes.
+   <p>Although I live in California now, I grew up in Gwangju. As a kid, I played in the fields and drew the mountains with my friends. My mother cooked very well and she ran a small cafe for tourists. She brewed very delicious tea every day. My father was a History professor at Chosun University. He told me a lot of stories about the world. He toured me often to the magnificent historical temples there. I had a happy childhood. It feels nostalgic to think about it sometimes.
 </p>
 
 
@@ -69,18 +69,20 @@
 <h3 style="padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 10px; margin-top: 10px; background-color: #a7d7c5;">Comprehension</h3>
      <div style="padding : 16px;">
 
-  <li style="list-style-type: none;">Where did the writer grow up?
+  <ol style="margin: 12px;">
+  <li>Where did the writer grow up?
   </li>
-  <li style="list-style-type: none;">What did he do as a child?
+  <li>What did he do as a child?
   </li>
-  <li style="list-style-type: none;">What did his mother do?
+  <li>What did his mother do?
   </li>
-  <li style="list-style-type: none;">How about his father?
+  <li>How about his father?
   </li>
-  <li style="list-style-type: none;">How does he feel about his childhood?
+  <li>How does he feel about his childhood?
   </li>
-  <li style="list-style-type: none;">Where does he live now?
+  <li>Where does he live now?
   </li>
+  </ol>
 
 </div>
 

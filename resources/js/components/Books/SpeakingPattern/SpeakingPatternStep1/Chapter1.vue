@@ -6,7 +6,7 @@
 
   <v-layout column>
     <v-img
-           src="https://media-public.canva.com/MADQ4w39aME/1/screen.jpg">
+           src="https://image.freepik.com/free-photo/cute-little-girl-jumping-into-puddle-rainy-weather_1303-22763.jpg">
 
         <v-layout
         align-end

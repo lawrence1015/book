@@ -6,7 +6,7 @@
 
   <v-layout column>
     <v-img
-           src="https://media-public.canva.com/MADQ4w39aME/1/screen.jpg">
+           src="https://image.freepik.com/free-photo/courage-man-jump-through-gap-hill-business-concept-idea_1323-262.jpg">
 
         <v-layout
         align-end

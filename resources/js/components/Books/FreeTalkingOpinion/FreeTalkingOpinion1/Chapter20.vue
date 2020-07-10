@@ -6,7 +6,7 @@
 
       <v-layout column>
         <v-img
-        src="https://marketplace.canva.com/YQgoc/MADyQ5YQgoc/1/s2/canva-people-gathering-in-room-MADyQ5YQgoc.jpg" style="max-width: 100%; display:block; height: auto;">
+        src="https://image.freepik.com/free-photo/asian-young-happy-family-enjoy-vacation-beach-evening-dad-mom-kid-relax-playing-together-near-sea-when-silhouette-sunset-lifestyle-travel-holiday-vacation-summer-concept_7861-2443.jpg" style="max-width: 100%; display:block; height: auto;">
 
         <v-layout
         align-end

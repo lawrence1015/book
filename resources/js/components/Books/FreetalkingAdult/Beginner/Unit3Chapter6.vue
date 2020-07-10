@@ -94,7 +94,7 @@
   <li>How do you feel about trying exotic foods?
   </li>
 
-  <li>What is the most popular food from your country?
+  <li>What is the most popular food in your country?
   </li>
 
   <li>How can you make one?
@@ -103,7 +103,7 @@
   <li>What’s your favorite food from other countries? Why?
   </li>
 
-  <li>If you’re challenged to eat an unusual food, would you do it?
+  <li>If you’re challenged to eat unusual food, would you do it?
   </li>
 
 </ol>

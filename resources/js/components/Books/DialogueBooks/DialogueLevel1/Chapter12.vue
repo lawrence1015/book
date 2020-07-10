@@ -58,16 +58,16 @@
 
         <ol style="margin: 12px;">
           <li>
-            1. Who has a girlfriend? <br />
+              Who has a girlfriend? <br />
           </li>
           <li>
-            2. What does she look like? <br />
+              What does she look like? <br />
           </li>
           <li>
-            3. Does Tino have a picture of her?<br />
+              Does Tino have a picture of her?<br />
           </li>
           <li>
-            4. Is she young or old?<br />
+              Is she young or old?<br />
           </li>
         </ol>
 

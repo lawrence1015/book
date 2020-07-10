@@ -6,7 +6,7 @@
 
       <v-layout column>
         <v-img
-        src="https://marketplace.canva.com/YQgoc/MADyQ5YQgoc/1/s2/canva-people-gathering-in-room-MADyQ5YQgoc.jpg" style="max-width: 100%; display:block; height: auto;">
+        src="https://image.freepik.com/free-photo/happy-man-with-cash-dollars-flying-home-office-rich-from-business-online-concept_1150-4999.jpg" style="max-width: 100%; display:block; height: auto;">
 
         <v-layout
         align-end

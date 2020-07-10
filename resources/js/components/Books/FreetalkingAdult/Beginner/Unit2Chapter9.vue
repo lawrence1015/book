@@ -21,10 +21,13 @@ margin-bottom: -10px;">
 
 <div style="padding : 16px;">
 
-<p>Sunny days are bright and fun! Scientists said sunlight can help people feel happier and healthier as it helps the body produce Vitamin D which helps form strong bones. However, do you know that staying too long in the sun can damage the skin? Fair­skinned people can get severe sunburns if they don’t use enough protection.  Aside from sunburns, excessive sun can also damage the eyes. This is why people should wear hats and use umbrellas and sunscreen lotions.  Because we sweat a lot on a sunny day, we can get dehydrated so drinking a lot of water is also highly recommended.
+<p>Sunny days are bright and fun! 
+   Scientists said sunlight can help people feel happier and healthier as it helps the body produce Vitamin D which helps form strong bones. 
+   However, do you know that staying too long in the sun can damage the skin? 
+   Fair­-skinned people can get severe sunburns if they don’t use enough protection.  
+   Aside from sunburns, the excessive sun can also damage the eyes. 
+   This is why people should wear hats and use umbrellas and sunscreen lotions.  Because we sweat a lot on a sunny day, we can get dehydrated so drinking a lot of water is also highly recommended.
 </p>
-
-
 
 
 </div>
@@ -35,7 +38,7 @@ margin-bottom: -10px;">
 
 
 
-<li style="list-style-type: none;"><u>Fair(adj)</u> - pale or light colored <span style="font-size:16px">타당한, 온당한, 공정한, 공평한</span>
+<li style="list-style-type: none;"><u>Fair(adj)</u> - pale or light-colored <span style="font-size:16px">(피부머리카락이) 옅은 색의, 금발의, 흰 피부의</span>
 </li>
 
 <li style="list-style-type: none;"><u>Severe(adj)</u> - serious <span style="font-size:16px">극심한, 심각한, 가혹한[혹독한], 엄한, 엄격한, 아주 힘든[어려운]</span>

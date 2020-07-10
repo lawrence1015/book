@@ -6,7 +6,7 @@
 
   <v-layout column>
     <v-img
-           src="https://media-public.canva.com/MADQ4w39aME/1/screen.jpg">
+           src="https://image.freepik.com/free-photo/feet-christmas-socks-near-fireplace-relaxing-home_23-2147578351.jpg">
 
         <v-layout
         align-end

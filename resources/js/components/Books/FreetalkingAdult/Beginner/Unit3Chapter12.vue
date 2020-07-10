@@ -141,7 +141,7 @@ export default {
       dialogs:[
         {
           name:'F :',
-          speech:"How was your freshmen year? You're in second year now, right?"
+          speech:"How was your freshman year? You're in the second year now, right?"
         },
         {
           name:'M :',
@@ -207,7 +207,7 @@ export default {
         },
         {
           name:'F :',
-          speech:"Yes! It took advance technology to build those pyramids!"
+          speech:"Yes! It took advanced technology to build those pyramids!"
         },
       ],
       translations:[

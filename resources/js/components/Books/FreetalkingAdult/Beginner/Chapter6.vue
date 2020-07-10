@@ -27,8 +27,8 @@
           </h3>
                <div style="padding : 16px;">
 
-   <p>Every morning, I eat pancakes before going to work. I like them because I have a tight schedule and they are very easy to cook. First, I prepare the ingredients. I just need a cup of flour, a teaspoon of butter, a cup of water and a fresh egg. Second, I mix them all together in a bowl. Third, I pour a sufficient quantity in my small frying pan. After about two minutes, I flip it over to heat the other side. Lastly, I put fresh butter and sweet syrup on the top. Sometimes, I eat the pancakes with sweet strawberries or slices of fresh bananas.
-</p>
+   <p>Every morning, I eat pancakes before going to work. I like them because I have a tight schedule and they are very easy to cook. First, I prepare the ingredients. I just need a cup of flour, a teaspoon of butter, a cup of water, and a fresh egg. Second, I mix them all together in a bowl. Third, I pour a sufficient quantity in my small frying pan. After about two minutes, I flip it over to heat the other side. Lastly, I put fresh butter and sweet syrup on the top. Sometimes, I eat pancakes with sweet strawberries or slices of fresh bananas.
+   </p>
 
 
 <h3 style="padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 10px; margin-top: 10px; background-color: #a7d7c5;">Vocabulary Review</h3>
@@ -112,7 +112,7 @@ margin-bottom: -10px;">
 <h3 style="padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 10px; margin-top: 10px; background-color: #a7d7c5;">Reading Practice <span style="font-size:18px">( 선생님의 안내에 따라 문장을 읽어 주세요 )</span></h3>
      <div style="padding : 16px;">
 
-<p>Do you know what halo-halo is? It is a delicious and colorful dessert that I tried during my stay in the Philippines last summer vacation. It is a very delightful and nutritious food. First, you have to prepare   crushed ice and put it in a glass or a bowl. Second, you just add a variety of ingredients like sweetened     banana, beans, coconut and melon strips, yam paste, sugar and others. Third, to boost the flavor, milk is poured and a scoop of ice cream is added on the top! It is called halo-halo because the word "halo" means “mix" and to enjoy it, all you have to do is mix the ingredients with your spoon! Isn't it very simple and easy to make?
+<p>Do you know what halo-halo is? It is a delicious and colorful dessert that I tried during my stay in the Philippines last summer vacation. It is very delightful and nutritious food. First, you have to prepare crushed ice and put it in a glass or a bowl. Second, you just add a variety of ingredients like sweetened banana, beans, coconut and melon strips, yam paste, sugar, and others. Third, to boost the flavor, milk is poured and a scoop of ice cream is added on the top! It is called halo-halo because the word "halo" means “mix" and to enjoy it, all you have to do is mix the ingredients with your spoon! Isn't it very simple and easy to make?
 </p>
 
 </div>
@@ -268,7 +268,7 @@ margin-bottom: -10px;">
   <li>How do you feel about trying exotic foods?
   </li>
 
-  <li>What is the most popular food from your country?
+  <li>What is the most popular food in your country?
   </li>
 
   <li>How can you make one?
@@ -277,7 +277,7 @@ margin-bottom: -10px;">
   <li>What’s your favorite food from other countries? Why?
   </li>
 
-  <li>If you’re challenged to eat an unusual food, would you do it?
+  <li>If you’re challenged to eat unusual food, would you do it?
   </li>
 
 </ol>

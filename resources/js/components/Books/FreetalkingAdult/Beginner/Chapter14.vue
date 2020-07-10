@@ -493,7 +493,7 @@ export default {
        translations1:[
         {
           name:'F :',
-          speech:"이집트의 피라미드에 대해 들어본 적 있니?"
+          speech:"세계 7대 생물체에 대해 들어본 적 있어?"
         },
          {
           name:'M :',

@@ -6,7 +6,7 @@
 
   <v-layout column>
     <v-img
-           src="https://media-public.canva.com/MADQ4w39aME/1/screen.jpg">
+           src="https://image.freepik.com/free-photo/young-woman-whispering-secret-her-hand-white-background_155003-7736.jpg">
 
         <v-layout
         align-end

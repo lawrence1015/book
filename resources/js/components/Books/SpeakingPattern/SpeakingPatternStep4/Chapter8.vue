@@ -1,4 +1,4 @@
-<template>
+8888888<template>
 
 <div :style = "{fontSize: fontSize + 'px'}">
 
@@ -6,7 +6,7 @@
 
   <v-layout column>
     <v-img
-           src="https://media-public.canva.com/MADQ4w39aME/1/screen.jpg">
+           src="https://image.freepik.com/free-photo/cheerful-little-girl-hair-hoop-posing-with-open-hands-being-friendly-welcoming_171337-275.jpg">
 
         <v-layout
         align-end

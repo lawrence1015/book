@@ -6,7 +6,7 @@
 
   <v-layout column>
     <v-img
-           src="https://media-public.canva.com/MADQ4w39aME/1/screen.jpg">
+           src="https://image.freepik.com/free-photo/two-young-friends-sitting-penny-skateboard-street-showing-peace-sign_158538-10684.jpg">
 
         <v-layout
         align-end

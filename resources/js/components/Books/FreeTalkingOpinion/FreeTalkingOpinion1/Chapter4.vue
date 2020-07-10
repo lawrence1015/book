@@ -42,13 +42,13 @@
       <tr>
         <td class = "uppertable" ><b>A :</b></td>
         <td class = "lowertable" >I was walking through the subway station and a person held the door open for me.
-        Usually people just walk past and don't care, but this person was kind enough to wait for me to (___ ____).
+        Usually people just walk past and don't care, but this person was kind enough to wait for me to walk through.
         It was such a kind gesture, I couldn't believe it!</td>
       </tr>
       <tr>
         <td class = "uppertable" ><b>B :</b></td>
         <td class = "lowertable" >Wow, I wish that people would hold the door open more often.
-        I think that a world where people are (__ _ __ ____) is a better world.</td>
+        I think that a world where people are kind to one another is a better world.</td>
       </tr>
 
       </table>

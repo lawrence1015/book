@@ -27,8 +27,8 @@
           </h3>
                <div style="padding : 16px;">
 
-   <p>Every morning, I eat pancakes before going to work. I like them because I have a tight schedule and they are very easy to cook. First, I prepare the ingredients. I just need a cup of flour, a teaspoon of butter, a cup of water and a fresh egg. Second, I mix them all together in a bowl. Third, I pour a sufficient quantity in my small frying pan. After about two minutes, I flip it over to heat the other side. Lastly, I put fresh butter and sweet syrup on the top. Sometimes, I eat the pancakes with sweet strawberries or slices of fresh bananas.
-</p>
+   <p>Every morning, I eat pancakes before going to work. I like them because I have a tight schedule and they are very easy to cook. First, I prepare the ingredients. I just need a cup of flour, a teaspoon of butter, a cup of water, and a fresh egg. Second, I mix them all together in a bowl. Third, I pour a sufficient quantity in my small frying pan. After about two minutes, I flip it over to heat the other side. Lastly, I put fresh butter and sweet syrup on the top. Sometimes, I eat pancakes with sweet strawberries or slices of fresh bananas.
+   </p>
 
 
 <h3 style="padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 10px; margin-top: 10px; background-color: #a7d7c5;">Vocabulary Review</h3>

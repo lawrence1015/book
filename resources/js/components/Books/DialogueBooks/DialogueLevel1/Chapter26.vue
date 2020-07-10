@@ -58,16 +58,16 @@
 
         <ol style="margin: 12px;">
           <li>
-            1. Do you <u> &emsp; &emsp; &emsp; </u> music? - Yes, I <u> &emsp; &emsp; &emsp; </u>. <br />
-            (당신은 음악을 좋아하십니까? - 네, 좋아합니다.)
+              Do you <u> &emsp; &emsp; &emsp; </u> music? - Yes, I <u> &emsp; &emsp; &emsp; </u>. <br />
+                (당신은 음악을 좋아하십니까? - 네, 좋아합니다.)
           </li>
           <li>
-            2. There's an interesting <u> &emsp; &emsp; &emsp; </u> tonight. <br />
-            (오늘 밤에 재밌는 콘서트가 있습니다..)
+              There's an interesting <u> &emsp; &emsp; &emsp; </u> tonight. <br />
+                (오늘 밤에 재밌는 콘서트가 있습니다..)
           </li>
           <li>
-            3. I'm sorry. I'm <u> &emsp; &emsp; &emsp; </u> tonight. <br />
-            (죄송합니다. 저는 오늘밤 바쁩니다.)
+              I'm sorry. I'm <u> &emsp; &emsp; &emsp; </u> tonight. <br />
+                (죄송합니다. 저는 오늘밤 바쁩니다.)
           </li>
         </ol>
 

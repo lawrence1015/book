@@ -58,13 +58,13 @@
 
         <ol style="margin: 12px;">
           <li>
-            1. Who is Alicia?<br />
+              Who is Alicia?<br />
           </li>
           <li>
-            2. What color is her hair?<br />
+              What color is her hair?<br />
           </li>
           <li>
-            3. How old is she?<br />
+              How old is she?<br />
           </li>
         </ol>
 

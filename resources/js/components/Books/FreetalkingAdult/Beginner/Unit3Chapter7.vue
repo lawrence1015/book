@@ -20,7 +20,7 @@
             <p>
               <b>M</b>: Tell me about your family.
               <br>
-              <b>F</b>: My family has four members: my father, mother, brother and I.
+              <b>F</b>: My family has four members: my father, mother, brother and and me.
               <br>
               <b>M</b>: What is your father like?
               <br>

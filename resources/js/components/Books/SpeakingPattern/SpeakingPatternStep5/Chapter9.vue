@@ -6,7 +6,7 @@
 
   <v-layout column>
     <v-img
-           src="https://media-public.canva.com/MADQ4w39aME/1/screen.jpg">
+           src="https://image.freepik.com/free-photo/interested-young-student-looking-her-boyfriend_171337-18998.jpg">
 
         <v-layout
         align-end

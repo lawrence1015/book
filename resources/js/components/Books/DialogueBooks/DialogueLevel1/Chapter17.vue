@@ -58,16 +58,16 @@
 
         <ol style="margin: 12px;">
           <li>
-            1. <u> &emsp; &emsp; &emsp; </u> motorbike <u> &emsp; &emsp; &emsp; </u> this? - It's Zed's. <br />
-            (이것은 누구의 오토바이입니까? - Zed의 것입니다.)
+              <u> &emsp; &emsp; &emsp; </u> motorbike <u> &emsp; &emsp; &emsp; </u> this? - It's Zed's. <br />
+                (이것은 누구의 오토바이입니까? - Zed의 것입니다.)
           </li>
           <li>
-            2. <u> &emsp; &emsp; &emsp; </u> is Zed? - Zed is a friend. <br />
-            (Zed는 누구입니까? - Zed는 친구입니다.)
+              <u> &emsp; &emsp; &emsp; </u> is Zed? - Zed is a friend. <br />
+                (Zed는 누구입니까? - Zed는 친구입니다.)
           </li>
           <li>
-            3. Whose books <u> &emsp; &emsp; &emsp; </u> those? -  <u> &emsp; &emsp; &emsp; </u> are my <u> &emsp; &emsp; &emsp; </u>. <br />
-            (저것들은 누구의 책입니까? - 그것들은 저의 책들입니다.)
+              Whose books <u> &emsp; &emsp; &emsp; </u> those? -  <u> &emsp; &emsp; &emsp; </u> are my <u> &emsp; &emsp; &emsp; </u>. <br />
+                (저것들은 누구의 책입니까? - 그것들은 저의 책들입니다.)
           </li>
         </ol>
 

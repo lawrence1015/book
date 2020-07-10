@@ -64,11 +64,11 @@
 
         <ol style="margin: 12px;">
           <li>
-            1. How <u> &emsp; &emsp; &emsp; </u> <u> &emsp; &emsp; &emsp; </u> these shoes? <u> &emsp; &emsp; &emsp; </u> are twenty-five dollars.<br />
+              How <u> &emsp; &emsp; &emsp; </u> <u> &emsp; &emsp; &emsp; </u> these shoes? <u> &emsp; &emsp; &emsp; </u> are twenty-five dollars.<br />
                 (이 신발은 얼마입니까? 25달입니다.)<br />
           </li>
           <li>
-            2. Read the following numbers:<br />
+              Read the following numbers:<br />
                 (숫자들을 읽으세요)<br />
                   43<br />
                   34<br />

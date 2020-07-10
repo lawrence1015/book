@@ -6,7 +6,7 @@
 
   <v-layout column>
     <v-img
-           src="https://media-public.canva.com/MADQ4w39aME/1/screen.jpg">
+           src="https://image.freepik.com/free-photo/group-three-young-multi-ethnic-successful-business-people-sitting-coworking-space-talking-about-new-project-competitor-team-making-plans-bypass-their-project_176420-8311.jpg">
 
         <v-layout
         align-end

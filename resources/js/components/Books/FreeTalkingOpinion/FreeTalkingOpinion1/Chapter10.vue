@@ -1,4 +1,4 @@
-<template>
+ <template>
 
   <div :style = "{fontSize: fontSize + 'px'}">
 
@@ -6,7 +6,7 @@
 
       <v-layout column>
         <v-img
-        src="https://marketplace.canva.com/YQgoc/MADyQ5YQgoc/1/s2/canva-people-gathering-in-room-MADyQ5YQgoc.jpg" style="max-width: 100%; display:block; height: auto;">
+        src="https://image.freepik.com/free-photo/i-just-put-one-pin-here-voila-talented-creative-young-tailor-putting-clothes-she-sewed-mannequin-while-catching-it-up-with-sewing-machine-her-workshop-someday-her-brand-become-famous_176420-14566.jpg" style="max-width: 100%; display:block; height: auto;">
 
         <v-layout
         align-end

@@ -26,7 +26,7 @@
 <b>Pythias</b>: You can trust me to be back Damon! I may be delayed but I will return. I cannot let you die!
 You are my greatest friend.
 <br>
-<b>Damon</b>: I will count on your words my friend. I know that you are an honest man. Please send my family my words of love!
+<b>Damon</b>: I will count on your words, my friend. I know that you are an honest man. Please send my family my words of love!
 <br>
 <b>Pythias</b>: I will do that and I will be back within a month.
 <br>

@@ -341,9 +341,7 @@ Would is the past tense of will.  However, it can also be used to express a desi
   <br>
   <b>M</b>:  However, it's interesting to just take note of these beliefs. They reflect our people and culture.
   <br>
-  <b>F</b>:  However, it's interesting to just take note of these beliefs. They reflect our people and culture.
-  <br>
-  <b>M</b>:  There you are again!
+  <b>F</b>:  There you are again!
   </p>
 
 

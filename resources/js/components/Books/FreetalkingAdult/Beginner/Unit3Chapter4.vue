@@ -22,7 +22,7 @@
 <p>TO is followed by the base form of the verb (no -ing).
 </p>
 
-<p>We use the past tense of the verb to indicate something which already happened. We also use the past time expressions like 'yesterday', 'last week' and 'ago.'
+<p>We use the past tense of the verb to indicate something which already happened. We also use past time expressions like 'yesterday', 'last week', and 'ago.'
 </p>
 
 <p>We can turn most verbs into the past tense form by adding -d or -ed. Look at the table for examples:

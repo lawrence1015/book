@@ -26,7 +26,13 @@
     <h3 style="background-color: #a7d7c5;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Reading Practice <span style="font-size:18px">( 선생님의 안내에 따라 문장을 읽어 주세요 )</span></h3>
          <div style="padding : 16px;">
 
-<p>There is a saying "No man is an island."  My elementary school teacher told us it meant no man can live alone. As time passed by, I began to understand its meaning entirely. Although socially awkward, I don't think I can live without my friends even if there are only a handful of them.  My friends cheer me up and support me. Friendship is a wonderful and splendid thing. It is very important because for many times, it has been a cause of joy, comfort and strength to me.
+<p>There is a saying "No man is an island."  
+   My elementary school teacher told us it meant no man can live alone. 
+   As time passed by, I began to understand its meaning entirely. 
+   Although socially awkward, I don't think I can live without my friends 
+   even if there are only a handful of them.  My friends cheer me up and support me. 
+   Friendship is a wonderful and splendid thing. It is very important because, for many times, 
+   it has been a cause of joy, comfort, and strength to me.
 </p>
 
 <h3 style="padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 10px;margin-top: 10px; background-color: #a7d7c5;">Vocabulary Review</h3>
@@ -231,7 +237,7 @@ The king was amazed at their friendship! He withdrew his punishment and made the
 <b>Pythias</b>: You can trust me to be back Damon! I may be delayed but I will return. I cannot let you die!
 You are my greatest friend.
 <br>
-<b>Damon</b>: I will count on your words my friend. I know that you are an honest man. Please send my family my words of love!
+<b>Damon</b>: I will count on your words, my friend. I know that you are an honest man. Please send my family my words of love!
 <br>
 <b>Pythias</b>: I will do that and I will be back within a month.
 <br>

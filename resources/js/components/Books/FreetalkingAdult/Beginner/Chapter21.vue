@@ -374,8 +374,6 @@ B. Change the following words into their adverb forms and make a sentence for ea
 
        </v-layout>
      </v-container>
-  </v-layout>
-  </v-container>
 </div>
 </template>
 
@@ -429,10 +427,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

@@ -58,15 +58,15 @@
 
         <ol style="margin: 12px;">
           <li>
-            1. What is your brother doing? He is <u> &emsp; &emsp; &emsp; </u> TV. <br />
+              What is your brother doing? He is <u> &emsp; &emsp; &emsp; </u> TV. <br />
                   ( watch ) <br />
           </li>
           <li>
-            2. Grandmother is <u> &emsp; &emsp; &emsp; </u> radio and grandfather is <u> &emsp; &emsp; &emsp; </u> a book. <br />
+              Grandmother is <u> &emsp; &emsp; &emsp; </u> radio and grandfather is <u> &emsp; &emsp; &emsp; </u> a book. <br />
                   ( listen, read ) <br />
           </li>
           <li>
-            3. I'm <u> &emsp; &emsp; &emsp; </u> the sky and <u> &emsp; &emsp; &emsp; </u> about my friend.<br />
+              I'm <u> &emsp; &emsp; &emsp; </u> the sky and <u> &emsp; &emsp; &emsp; </u> about my friend.<br />
                   ( look, think ) <br />
           </li>
         </ol>

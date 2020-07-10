@@ -58,15 +58,15 @@
 
         <ol style="margin: 12px;">
           <li>
-            1. 안녕하세요. 제 이름은 Peter입니다. <br />
+              안녕하세요. 제 이름은 Peter입니다. <br />
                 Hello. My <u> &emsp; &emsp; &emsp; </u> Peter. <br />
           </li>
           <li>
-            2. 당신의 이름은 무엇입니까? <br />
+              당신의 이름은 무엇입니까? <br />
                 <u> &emsp; &emsp; &emsp; </u> Peter. <br />
           </li>
           <li>
-            3. 당신은 어디에서 오셨습니까? - 저는 한국에서 왔습니다 <br />
+              당신은 어디에서 오셨습니까? - 저는 한국에서 왔습니다 <br />
                 <u> &emsp; &emsp; &emsp; </u> are you from> - <u> &emsp; &emsp; &emsp; </u> Korea. <br />
           </li>
         </ol>

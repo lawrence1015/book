@@ -6,7 +6,7 @@
 
   <v-layout column>
     <v-img
-           src="https://media-public.canva.com/MADQ4w39aME/1/screen.jpg">
+           src="https://image.freepik.com/free-photo/bearded-skilled-young-fair-haired-copywriter-works-new-article-types-keyboard-has-phone-conversation-discusses-new-project-with-businesspartner-successful-businessman-has-important-call_176420-14533.jpg">
 
         <v-layout
         align-end

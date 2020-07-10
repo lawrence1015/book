@@ -20,7 +20,8 @@ margin-bottom: -10px;">
 <h3 style="padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 10px; margin-top: 10px; background-color: #a7d7c5;">Reading Practice <span style="font-size:18px">( 선생님의 안내에 따라 문장을 읽어 주세요 )</span></h3>
      <div style="padding : 16px;">
 
-<p>The summer of 1998 brought pleasant memories to me. It was the time when my favorite cousins spent a month to live with us for vacation. Because we lived near the beach, we swam in the sea and collected seashells. We spent too much time under the sun that we were as red as a crab after a month. One day while we were strolling at the beach it began to rain and the nearest shelter was an old abandoned house. It was very dark and dusty inside. The wind howled and the floor creaked. One of my cousins screamed that she saw a white ghost. When the rain stopped, we went home as fast as we could. After three days, we went back inside that house in the morning. We found an old white cloth on the wall. We laughed aloud and never believed in ghosts anymore.
+<p>The summer of 1998 brought pleasant memories to me. 
+   It was the time when my favorite cousins spent a month to live with us for vacation. Because we lived near the beach, we swam in the sea and collected seashells. We spent too much time under the sun that we were as red as a crab after a month. One day while we were strolling at the beach it began to rain and the nearest shelter was an old abandoned house. It was very dark and dusty inside. The wind howled and the floor creaked. One of my cousins screamed that she saw a white ghost. When the rain stopped, we went home as fast as we could. After three days, we went back to that house in the morning. We found an old white cloth on the wall. We laughed aloud and never believed in ghosts anymore.
 </p>
 
 </div>
@@ -73,23 +74,25 @@ margin-bottom: -10px;">
 
 
 
-<li style="list-style-type: none;">Why was the summer of 1998 special?
+<ol style="margin: 12px;">
+<li>Why was the summer of 1998 special?
 </li>
 
-<li style="list-style-type: none;">What did they do?
+<li>What did they do?
 </li>
 
-<li style="list-style-type: none;">Why were they as "red as a crab" after a month?
+<li>Why were they as "red as a crab" after a month?
 </li>
 
-<li style="list-style-type: none;">Why did they go inside the old, abandoned house?
+<li>Why did they go inside the old, abandoned house?
 </li>
 
-<li style="list-style-type: none;">Why did her cousin scream?
+<li>Why did her cousin scream?
 </li>
 
-<li style="list-style-type: none;">What did they find inside the old house after three days?
+<li>What did they find inside the old house after three days?
 </li>
+</ol>
 </div>
 
 <h3 style="padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 10px; margin-top: 10px; background-color: #a7d7c5;">Translation</h3>

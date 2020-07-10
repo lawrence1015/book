@@ -58,15 +58,15 @@
 
         <ol style="margin: 12px;">
           <li>
-            1. The library is <u> &emsp; &emsp; &emsp; </u> the hospital.<br />
+              The library is <u> &emsp; &emsp; &emsp; </u> the hospital.<br />
                 (그 도서관은 병원 근처에 있습니다)<br />
           </li>
           <li>
-            2. It's <u> &emsp; &emsp; &emsp; </u> the street.<br />
+              It's <u> &emsp; &emsp; &emsp; </u> the street.<br />
                  (그것은 거리 건너 편에 있습니다)<br />
           </li>
           <li>
-            3. Wait for me <u> &emsp; &emsp; &emsp; </u>.<br />
+              Wait for me <u> &emsp; &emsp; &emsp; </u>.<br />
                 (밖에서 나를 기다리세요)<br />
           </li>
         </ol>

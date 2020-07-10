@@ -153,7 +153,7 @@ For the PAST TENSE, most verbs have to be added with -ed.
   <li>Matty draws landscape and portraits.
   </li>
 
-  <li>Jenna likes to wear colourful skirts.
+  <li>Jenna likes to wear colorful skirts.
   </li>
 
   <li>We feel as though he is in paradise!

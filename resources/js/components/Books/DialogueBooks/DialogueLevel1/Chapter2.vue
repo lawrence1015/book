@@ -6,7 +6,7 @@
 
       <v-layout column>
         <v-img
-        src="https://marketplace.canva.com/MADGv8RmfkY/6/screen_2x/canva-man-and-woman-sitting-on-chair-in-front-of-desk-MADGv8RmfkY.jpg">
+        src="https://image.freepik.com/free-photo/surprise-friend_1098-14044.jpg">
 
         <v-layout
         align-end
@@ -59,15 +59,15 @@
 
         <ol style="margin: 12px;">
           <li>
-            1. 죄송합니다만, 당신의 이름이 뭐라고 하셨죠?<br />
+              죄송합니다만, 당신의 이름이 뭐라고 하셨죠?<br />
                 Sorry, what's your <u> &emsp; &emsp; &emsp; </u> again?<br />
           </li>
           <li>
-            2. 그는 서울에서 왔습니다.<br />
+              그는 서울에서 왔습니다.<br />
                 <u> &emsp; &emsp; &emsp; </u> from Seoul. <br />
           </li>
           <li>
-            3. 선희가 누구입니까?<br />
+              선희가 누구입니까?<br />
                 Who <u> &emsp; &emsp; &emsp; </u> Sun Hee? <br />
           </li>
         </ol>

@@ -43,7 +43,7 @@
             <div class="card-body">
               <h2>Freetalking - Description</h2>
               <br />
-                <a href ="/book#/JDEP-SR/JDEP-SR-Level1/chapter1">Freetalking - Description - Level 1</a><br />
+                <a href ="/book#/Freetalking-Description/Freetalking-Description-Level1/chapter1">Freetalking - Description - Level 1</a><br />
             </div>
         </div>
     </div>
@@ -53,11 +53,11 @@
             <div class="card-body">
               <h2>Speaking Pattern 100 Course</h2>
               <br />
-                <a href ="/book#/SpeakingPattern/SpeakingPatternStep1/chapter1">Speaking Pattern - STEP 1</a><br />
-                <a href ="/book#/SpeakingPattern/SpeakingPatternStep2/chapter1">Speaking Pattern - STEP 2</a><br />
-                <a href ="/book#/SpeakingPattern/SpeakingPatternStep3/chapter1">Speaking Pattern - STEP 3</a><br />
-                <a href ="/book#/SpeakingPattern/SpeakingPatternStep4/chapter1">Speaking Pattern - STEP 4</a><br />
-                <a href ="/book#/SpeakingPattern/SpeakingPatternStep5/chapter1">Speaking Pattern - STEP 5</a><br />
+                <a href ="/book#/SpeakingPattern/SpeakingPatternStep1/chapter1">Speaking Pattern - White 1</a><br />
+                <a href ="/book#/SpeakingPattern/SpeakingPatternStep2/chapter1">Speaking Pattern - Yellow 2</a><br />
+                <a href ="/book#/SpeakingPattern/SpeakingPatternStep3/chapter1">Speaking Pattern - Green 3</a><br />
+                <a href ="/book#/SpeakingPattern/SpeakingPatternStep4/chapter1">Speaking Pattern - Red 4</a><br />
+                <!-- <a href ="/book#/SpeakingPattern/SpeakingPatternStep5/chapter1">Speaking Pattern - Black 5</a><br /> -->
             </div>
         </div>
     </div>
@@ -126,7 +126,7 @@
       <div class="container mt-2 pt-2">
           <div class="card" style="width: 18rem;">
               <div class="card-body">
-                  <a href ="/book#/InterviewExample/InterviewExampleStep1/chapter1">Interview English</a><br />
+                  <a href ="/book#/Interview-English/Interview-EnglishStep1/chapter1">Interview English</a><br />
               </div>
           </div>
       </div>
@@ -147,7 +147,7 @@
           </div>
       </div>
 
-      <div class="container mt-2 pt-2">
+      <!-- <div class="container mt-2 pt-2">
           <div class="card" style="width: 18rem;">
               <div class="card-body">
                 <h2>Pattern Course Junior</h2>
@@ -157,7 +157,7 @@
                   <a href ="/book#/pattern-course/adultIntermediate/chapter1">Pattern Junior Intermediate</a>
               </div>
           </div>
-      </div>
+      </div> -->
 
       <div class="container mt-2 pt-2">
           <div class="card" style="width: 18rem;">

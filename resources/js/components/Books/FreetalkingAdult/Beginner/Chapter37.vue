@@ -363,7 +363,7 @@ When do you usually wear and see the following type of clothes?
   <br>
   <b>M</b>: Yes, yes, exactly.
   <br>
-  <b>F</b>: Weill am guilty of that sometimes. Women like to look beautiful you know. It hurts us to see another woman look more beautiful than us. It's not that we dress to attract males; it's to compete with other females.
+  <b>F</b>: We will be guilty of that sometimes. Women like to look beautiful, you know. It hurts us to see another woman look more beautiful than us. It's not that we dress to attract males; it's to compete with other females.
   <br>
   <b>M</b>: You've got to be kidding me!
   <br>

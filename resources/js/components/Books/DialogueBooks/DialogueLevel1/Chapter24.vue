@@ -58,16 +58,16 @@
 
         <ol style="margin: 12px;">
           <li>
-            1. <u> &emsp; &emsp; &emsp; </u> you <u> &emsp; &emsp; &emsp; </u> comedy? <br />
-            코미디를 좋아하십니까?
+              <u> &emsp; &emsp; &emsp; </u> you <u> &emsp; &emsp; &emsp; </u> comedy? <br />
+                코미디를 좋아하십니까?
           </li>
           <li>
-            2. What kind of movies <u> &emsp; &emsp; &emsp; </u> ? <br />
-            당신은 무슨 종류의 영화를 좋아하십니까?
+              What kind of movies <u> &emsp; &emsp; &emsp; </u> ? <br />
+                당신은 무슨 종류의 영화를 좋아하십니까?
           </li>
           <li>
-            3. <u> &emsp; &emsp; &emsp; </u> action movies the most. <br />
-            저는 액션 영화를 가장 좋아합니다.
+              <u> &emsp; &emsp; &emsp; </u> action movies the most. <br />
+                저는 액션 영화를 가장 좋아합니다.
           </li>
         </ol>
 

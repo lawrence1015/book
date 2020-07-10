@@ -58,16 +58,16 @@
 
         <ol style="margin: 12px;">
           <li>
-            1. <u> &emsp; &emsp; &emsp; </u> Jack <u> &emsp; &emsp; &emsp; </u> a car? - No, he <u> &emsp; &emsp; &emsp; </u> not. <br />
-            (Jack은 차가 있습니까? - 아니요, 그는 없습니다.)
+              <u> &emsp; &emsp; &emsp; </u> Jack <u> &emsp; &emsp; &emsp; </u> a car? - No, he <u> &emsp; &emsp; &emsp; </u> not. <br />
+                (Jack은 차가 있습니까? - 아니요, 그는 없습니다.)
           </li>
           <li>
-            2. <u> &emsp; &emsp; &emsp; </u> you have <u> &emsp; &emsp; &emsp; </u> own apartment? <br />
-            (당신은 당신 자신의 아파트가 있습니까?)
+              <u> &emsp; &emsp; &emsp; </u> you have <u> &emsp; &emsp; &emsp; </u> own apartment? <br />
+                (당신은 당신 자신의 아파트가 있습니까?)
           </li>
           <li>
-            3. Jack and Jim <u> &emsp; &emsp; &emsp; </u> have an apartment. They're homeless. <br />
-            (Jack과 Jim은 아파트가 없습니다. 그들은 거지입니다.)
+              Jack and Jim <u> &emsp; &emsp; &emsp; </u> have an apartment. They're homeless. <br />
+                (Jack과 Jim은 아파트가 없습니다. 그들은 거지입니다.)
           </li>
         </ol>
 

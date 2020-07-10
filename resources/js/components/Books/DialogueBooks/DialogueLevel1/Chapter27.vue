@@ -58,16 +58,16 @@
 
         <ol style="margin: 12px;">
           <li>
-            1. I'm really hungry. I <u> &emsp; &emsp; &emsp; </u> a big steak. <br />
-            저는 정말 배가 고픕니다. 저는 큰 스테이크를 원합니다.
+              I'm really hungry. I <u> &emsp; &emsp; &emsp; </u> a big steak. <br />
+                저는 정말 배가 고픕니다. 저는 큰 스테이크를 원합니다.
           </li>
           <li>
-            2. What <u> &emsp; &emsp; &emsp; </u> want? <br />
-            무엇을 원하십니까?
+              What <u> &emsp; &emsp; &emsp; </u> want? <br />
+                무엇을 원하십니까?
           </li>
           <li>
-            3. Do <u> &emsp; &emsp; &emsp; </u> coke or juice? <br />
-            콜라를 원하세요 쥬스를 원하세요?
+              Do <u> &emsp; &emsp; &emsp; </u> coke or juice? <br />
+                콜라를 원하세요 쥬스를 원하세요?
           </li>
         </ol>
 

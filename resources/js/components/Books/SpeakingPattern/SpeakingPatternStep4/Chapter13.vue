@@ -6,7 +6,7 @@
 
   <v-layout column>
     <v-img
-           src="https://media-public.canva.com/MADQ4w39aME/1/screen.jpg">
+           src="https://media.wired.com/photos/5b688e6a4644980a2c29a1a9/16:9/w_2300,h_1294,c_limit/TomCruise-1000200844.jpg">
 
         <v-layout
         align-end

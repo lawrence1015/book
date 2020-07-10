@@ -111,11 +111,11 @@
             </p>
 
             <p>
-              Adjectives are used to describe. In the English grammar, they come before the noun. There are two ways to use adjectives.
+              Adjectives are used to describe. In English grammar, they come before the noun. There are two ways to use adjectives.
             </p>
 
             <p>
-              First way: Use it before the noun (but you must add a verb, a noun or another adjective after).
+              First way: Use it before the noun (but you must add a verb, a noun, or another adjective after).
             </p>
 
             <li style="list-style-type: none;">Ex. The red car passed.
@@ -176,7 +176,7 @@
             <div style="padding : 16px;">
 
 
-              <p>Form sentences. Use the two basic ways in using adjectives in a sentence with the words below.
+              <p>Form sentences. Use the two basic ways of using adjectives in a sentence with the words below.
               </p>
 
               <ol style="margin: 12px;">

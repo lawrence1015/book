@@ -58,16 +58,16 @@
 
         <ol style="margin: 12px;">
           <li>
-            1. What kind of present <u> &emsp; &emsp; &emsp; </u> Emily <u> &emsp; &emsp; &emsp; </u> for her graduation?<br />
-            Emily는 그녀의 졸업으로 무슨 종류의 선물을 원합니까?
+              What kind of present <u> &emsp; &emsp; &emsp; </u> Emily <u> &emsp; &emsp; &emsp; </u> for her graduation?<br />
+                Emily는 그녀의 졸업으로 무슨 종류의 선물을 원합니까?
           </li>
           <li>
-            2. <u> &emsp; &emsp; &emsp; </u> she wants earrings? <br />
-            그녀는 귀걸이를 원합니까?
+              <u> &emsp; &emsp; &emsp; </u> she wants earrings? <br />
+                그녀는 귀걸이를 원합니까?
           </li>
           <li>
-            3. No, she <u> &emsp; &emsp; &emsp; </u> them. She <u> &emsp; &emsp; &emsp; </u> wants a watch.<br />
-            아니요, 그녀는 그것을 원하지 않습니다. 그녀는 시계를 원합니다.
+              No, she <u> &emsp; &emsp; &emsp; </u> them. She <u> &emsp; &emsp; &emsp; </u> wants a watch.<br />
+                아니요, 그녀는 그것을 원하지 않습니다. 그녀는 시계를 원합니다.
           </li>
         </ol>
 

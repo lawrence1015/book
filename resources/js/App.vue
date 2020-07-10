@@ -143,7 +143,6 @@
               <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/chapter' + 24)">Ch. 24 Personal Habits</v-list-tile>
               <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit1Chapter24')">- Unit 1</v-list-tile>
               <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit2Chapter24')">- Unit 2</v-list-tile>
-              <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit3Chapter24')">- Unit 3</v-list-tile>
               <p>
                 <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/chapter' + 25)">Ch. 25 Nations of the World</v-list-tile>
                 <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit1Chapter25')">- Unit 1</v-list-tile>
@@ -2407,26 +2406,58 @@
           <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 21)">[Unit 21] Should Recycling Be Mandatory?</v-list-tile></p>
           <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 22)">[Unit 22] Should Plastic Bags Be Banned ?</v-list-tile></p>
           <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 23)">[Unit 23] Are Multivitamins Important for Good Health?</v-list-tile></p>
-          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 24)">[Unit 24] Are Multivitamins Important for Good Health?</v-list-tile></p>
-          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 25)">[Unit 25] Are Multivitamins Important for Good Health?</v-list-tile></p>
-          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 26)">[Unit 26] Are Multivitamins Important for Good Health?</v-list-tile></p>
-          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 27)">[Unit 27] Are Multivitamins Important for Good Health?</v-list-tile></p>
-          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 28)">[Unit 28] Are Multivitamins Important for Good Health?</v-list-tile></p>
-          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 29)">[Unit 29] Are Multivitamins Important for Good Health?</v-list-tile></p>
-          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 30)">[Unit 30] Are Multivitamins Important for Good Health?</v-list-tile></p>
-          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 31)">[Unit 31] Are Multivitamins Important for Good Health?</v-list-tile></p>
-          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 32)">[Unit 32] Are Multivitamins Important for Good Health?</v-list-tile></p>
-          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 33)">[Unit 33] Are Multivitamins Important for Good Health?</v-list-tile></p>
-          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 34)">[Unit 34] Are Multivitamins Important for Good Health?</v-list-tile></p>
-          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 35)">[Unit 35] Are Multivitamins Important for Good Health?</v-list-tile></p>
-          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 36)">[Unit 36] Are Multivitamins Important for Good Health?</v-list-tile></p>
-          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 37)">[Unit 37] Are Multivitamins Important for Good Health?</v-list-tile></p>
-          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 38)">[Unit 38] Are Multivitamins Important for Good Health?</v-list-tile></p>
-          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 39)">[Unit 39] Are Multivitamins Important for Good Health?</v-list-tile></p>
-          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 40)">[Unit 40] Are Multivitamins Important for Good Health?</v-list-tile></p>
-          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 41)">[Unit 41] Are Multivitamins Important for Good Health?</v-list-tile></p>
-          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 42)">[Unit 42] Are Multivitamins Important for Good Health?</v-list-tile></p>
-          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 43)">[Unit 43] Are Multivitamins Important for Good Health?</v-list-tile></p>       
+          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 24)">[Unit 24] Is It Okay to Raise Exotic Animals as Pets?</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 25)">[Unit 25] Should Elderly People Be Forced to Retire?</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 26)">[Unit 26] Do Celebrities Deserve Special Treatment?</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 27)">[Unit 27] Should Kids Be Allowed to Vote for the President?</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 28)">[Unit 28] Is It Okay for Students to Get Their Ears Pierced?</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 29)">[Unit 29] Should People Bathe Every Day?</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 30)">[Unit 30] Is Overexertion Necessary for Success?</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 31)">[Unit 31] Is There Such a Thing as Being Too Nice?</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 32)">[Unit 32] Is Physiognomy Accurate?</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 33)">[Unit 33] Is Astrology Accurate?</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 34)">[Unit 34] Is Humility a Virtue?</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 35)">[Unit 35] Is Feng Shui Accurate?</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 36)">[Unit 36] Should Posthumous Works Be Allowed?</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 37)">[Unit 37] Does Veganism Really Help the Environment?</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 38)">[Unit 38] Should Korea Celebrate Halloween?</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 39)">[Unit 39] Are Dreams Important in Our Daily Lives?</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 40)">[Unit 40] Mobile Games and Video Games</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 41)">[Unit 41] Is Writing in Print Better Than Cursive?</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 42)">[Unit 42] Should a Single Universal Language Exist?</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 43)">[Unit 43] Are Comics Better Than Animations?</v-list-tile></p> 
+          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 44)">[Unit 44] Does Cold Weather Cause Colds?</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 45)">[Unit 45] Will Flying Cars Ever Exist?</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 46)">[Unit 46] How Important Is Marriage in Today’s Society?</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 47)">[Unit 47] Are Cough Drops Unhealthy?</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 48)">[Unit 48] Should Christmas Presents Be Mandatory?</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 49)">[Unit 49] Are Hand Sanitizers Unhealthy?</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 50)">[Unit 50] Natural Talent Versus Hard Work</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 51)">[Unit 51] Short Hair Versus Long Hair</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 52)">[Unit 52] 2D Animation Versus 3D Animation</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 53)">[Unit 53] DIY Versus Professional Services</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 54)">[Unit 54] Are Mukbangs Dangerous?</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 55)">[Unit 55] Spontaneous Action Versus Planned Action</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 56)">[Unit 56] Fruits Versus Vegetables</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 57)">[Unit 57] Fresh Food Versus Frozen Food</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 58)">[Unit 58] Is Eating in Public Rude?</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 59)">[Unit 59] Are Regular Visits to the Dentist Necessary?</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 60)">[Unit 60] Plays Versus Musicals</v-list-tile></p> 
+          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 61)">[Unit 61] Pianos Versus Guitars</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 62)">[Unit 62] Is It Okay to Tell White Lies?</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 63)">[Unit 63] Savory Food Versus Sweet Food</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 64)">[Unit 64] Apartments Versus Houses</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 65)">[Unit 65] Morning Exercise Versus Evening Exercise</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 66)">[Unit 66] Audio Calling Versus Video Calling</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 67)">[Unit 67] Warm Drinks Versus Cold Drinks</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 68)">[Unit 68] Savory Popcorn Versus Sweet Popcorn</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 69)">[Unit 69] Rain Versus Snow</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 70)">[Unit 70] E-Mails Versus Text Messages</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 71)">[Unit 71] Is Sighing Rude?</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 72)">[Unit 72] Modern Versus Vintage</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 73)">[Unit 73] Natural Hair Versus Dyed Hair</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 74)">[Unit 74] Live Broadcast Versus Pre-Filmed Broadcast</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + 75)">[Unit 75] Raw Vegetables Versus Cooked Vegetables</v-list-tile></p>     
         </v-list>
       </v-list>
     </v-navigation-drawer>
@@ -2984,7 +3015,7 @@ methods: {
       }
     }
     if(this.$router.history.current.fullPath.indexOf('/FreeTalkingOpinion/FreeTalkingOpinion1') != -1){
-      for(var i = 0; i < 45; i++){
+      for(var i = 0; i < 76; i++){
         if(this.$router.history.current.fullPath === '/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + i){
           this.audio = new Audio('../../audio/FreeTalking-Opinion/Unit' +i+ '.mp3')
           this.icon = "pause";

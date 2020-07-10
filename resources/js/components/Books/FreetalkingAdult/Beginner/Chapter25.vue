@@ -16,7 +16,10 @@
             </v-img>
 
 
-            <h3 style="background-color: #a7d7c5;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Reading Practice</h3>
+            <h3 style="background-color: #a7d7c5;   
+                       padding-top : 10px;  
+                       padding-left : 10px; 
+                       padding-bottom: 10px;">Reading Practice <span style="font-size:18px">( 선생님의 안내에 따라 문장을 읽어 주세요 )</span></h3>
             <div style="padding : 16px;">
 
                 <p>A country refers to a single state that has its own independent government. There are currently countries in the world. Every country belongs to a continent. A continent refers to a continuous unit of land. There are seven
@@ -30,32 +33,20 @@
 
 
 
-                    <li style="list-style-type: none;"><u>Single(n)</u> - only one
+                    <li style="list-style-type: none;"><u>Single(n)</u> - only one <span style="font-size:16px">단 하나의, 단일의, &lt;특정한 사람사물 단 하나만을 말함을 강조할 때 씀&gt;</span>
                     </li>
 
-                    <li style="list-style-type: none;"><u>Independent(adj)</u> - not controlled by another
+                    <li style="list-style-type: none;"><u>Independent(adj)</u> - not controlled by another <span style="font-size:16px">독립된, 독립적인[독자적인], 독립된[별개의]</span>
                     </li>
 
-                    <li style="list-style-type: none;"><u>Currently(adv)</u> - now, at the present
+                    <li style="list-style-type: none;"><u>Currently(adv)</u> - now, at the present <span style="font-size:16px">현재, 지금</span>
                     </li>
 
-                    <li style="list-style-type: none;"><u>Continuous(adj)</u> - without stop or end
+                    <li style="list-style-type: none;"><u>Continuous(adj)</u> - without stop or end <span style="font-size:16px">계속되는, 지속적인, 계속 이어지는, 반복된[거듭된]</span>
                     </li>
 
-                    <li style="list-style-type: none;"><u>Include(v)</u> - to make something part of a group
+                    <li style="list-style-type: none;"><u>Include(v)</u> - to make something part of a group <span style="font-size:16px">포함하다, ~을 포함시키다</span>
                     </li>
-
-
-
-
-                </div>
-
-
-
-
-                <h3 style="padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 10px; margin-top: 10px; background-color: #a7d7c5;">Vocabulary Stop</h3>
-                <div style="padding : 16px;">
-
 
                     <p>Fill in the blanks using the words above.
                     </p>
@@ -84,27 +75,144 @@
 
                 <div style="padding : 16px;">
 
-                    <li style="list-style-type: none;">What is a country?
+                    <ol style="margin: 12px;">
+                    <li>What is a country?
                     </li>
 
-                    <li style="list-style-type: none;">How many countries are there in the world?
+                    <li>How many countries are there in the world?
                     </li>
 
-                    <li style="list-style-type: none;">What is a continent?
+                    <li>What is a continent?
                     </li>
 
-                    <li style="list-style-type: none;">What is special about Asia?
+                    <li>What is special about Asia?
                     </li>
 
-                    <li style="list-style-type: none;">Name some countries from Asia.
+                    <li>Name some countries from Asia.
                     </li>
-
-
+                    </ol>
 
 
                 </div>
 
+                <h3 style="padding-top: 7px;  margin-left: -18px; margin-right: -18px;  padding-bottom: 10px;  padding-top: 10px; padding-left: 10px; background-color: #a7d7c5; ">Translation</h3>
 
+                <div style="padding : 16px;">
+
+                    <p>국가는 독자적인 정부를 가진 단일 국가를 말한다. 현재 세계에는 나라들이 있다. 모든 나라는 대륙에 속한다. 대륙은 땅의 연속적인 단위를 말한다. 아시아, 아프리카, 유럽, 호주, 북미, 남미, 남극 대륙 등 7개 대륙이 있다. 가장 큰 곳은 세계 전체 국토 면적의 30%를 차지하는 아시아다. 아시아는 한국, 중국, 일본, 필리핀, 인도, 사우디아라비아, 이집트 그리고 심지어 러시아의 일부 지역 그리고 다른 많은 나라들을 포함한다.
+                    </p>
+
+                </div>
+
+                <div style="margin-left: -18px;
+                            margin-right: -18px;
+                            margin-bottom: -10px;">
+                    <v-img src="https://marketplace.canva.com/MADQ4tkqI2E/1/screen_2x/canva-untitled-MADQ4tkqI2E.jpg"></v-img>
+                </div>
+
+
+                <h3 style="padding-top: 7px; 
+                           margin-left: -18px; 
+                           margin-right: -18px; 
+                           padding-left: 10px; 
+                           margin-top: 10px; 
+                           padding-bottom: 10px; 
+                           margin-bottom: 12px;  
+                           padding-top: 10px; 
+                           background-color: #a7d7c5;">Reading Practice <span style="font-size:18px">( 선생님의 안내에 따라 문장을 읽어 주세요 )</span>
+                </h3>
+
+                <div style="padding : 16px;">
+
+                    <p>The United States of America is a Northern American country which governs fifty states. Although currently known as the most powerful nation, it has not always been so. In fact, the original inhabitants of USA were not white
+                        people but are rather Native American Indians. The Europeans only came to America in the 16th century after discovering it by accident. Spain, Portugal and France all tried to build colonies in America but it was England that
+                        sent the most number of people. Bloody and great wars occurred between the Native Americans, the European settlers and other invaders for many long years. America was named after its discoverer, Amerigo Vespucci, an Italian
+                        navigator.
+                    </p>
+
+
+                </div>
+
+                <h3 style="padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 10px;margin-top: 10px; background-color: #a7d7c5;">Vocabulary Review</h3>
+
+                <div style="padding : 16px;">
+
+
+
+                    <li style="list-style-type: none;"><u>Govern(v)</u> - to rule <span style="font-size:18px">통치하다[다스리다], 지배[좌우/통제]하다, 지배하다</span>
+                    </li>
+
+                    <li style="list-style-type: none;"><u>Original(adj)</u> - first and true one <span style="font-size:18px">원래[본래]의, 독창적인, 원본의, 원본, 특이한 사람</span>
+                    </li>
+
+                    <li style="list-style-type: none;"><u>Inhabitant(n)</u> - resident; person living in a particular place <span style="font-size:18px">주민[서식 동물]</span>
+                    </li>
+
+                    <li style="list-style-type: none;"><u>Bloody(adj)</u> - involving much blood and killing <span style="font-size:18px">피비린내 나는, 유혈이 낭자한, 피투성이의</span>
+                    </li>
+
+                    <li style="list-style-type: none;"><u>Settler(n)</u> - resident in a new place <span style="font-size:18px">정착민</span>
+                    </li>
+
+                    <li style="list-style-type: none;"><u>Invader(n)</u> - someone who wants to enter and obtain a country by force <span style="font-size:18px">침략군[국]</span>
+                    </li>
+
+
+                    <p>Fill in the blanks using the words above.
+                    </p>
+
+                    <ol style="margin: 12px;">
+                        <li>Japanese ___________ tried to make Korea their own territory.
+                        </li>
+
+                        <li>The ________ paintings were kept in a museum in France.
+                        </li>
+
+                        <li>I was just a _________ in New York so I tried to make some new friends.
+                        </li>
+
+                        <li>To be a successful nation, a good leader must _________ this country.
+                        </li>
+
+                        <li>The ____________ of Jeju Island are proud of their culture and place.
+                        </li>
+
+                    </ol>
+
+                </div>
+
+                <h3 style="padding-top: 7px;  margin-left: -18px; margin-right: -18px;  padding-bottom: 10px;  padding-top: 10px; padding-left: 10px; background-color: #a7d7c5; ">Comprehension</h3>
+
+                <div style="padding : 16px;">
+
+                    <ol style="margin: 12px;">
+                    <li>What is USA?
+                    </li>
+
+                    <li>Who were the original inhabitants of USA?
+                    </li>
+
+                    <li>When did the first Europeans come to America?
+                    </li>
+
+                    <li>What are the countries that tried to control America?
+                    </li>
+
+                    <li>Who was America named after?
+                    </li>
+                    </ol>
+
+
+                </div>
+
+                <h3 style="padding-top: 7px;  margin-left: -18px; margin-right: -18px;  padding-bottom: 10px;  padding-top: 10px; padding-left: 10px; background-color: #a7d7c5; ">Translation</h3>
+
+                <div style="padding : 16px;">
+
+                    <p>미국은 50개 주를 관할하는 북아메리카 국가다. 비록 현재 가장 강력한 국가로 알려져 있지만, 항상 그렇지는 않았다. 사실, 미국의 원래 거주자들은 백인이 아니라 인디언 원주민들이었다. 유럽인들은 16세기에야 우연히 그것을 발견한 후에야 미국에 왔다. 스페인, 포르투갈, 프랑스는 모두 미국에 식민지를 건설하려고 했지만 가장 많은 인구를 보낸 곳은 영국이었다. 오랜 세월 동안 원주민들, 유럽 정착민들, 그리고 다른 침략자들 사이에 피비린내 나는 큰 전쟁이 일어났다. America는 발견자인 이탈리아 항해사인 아메리고 베스푸치의 이름을 따서 붙여졌다.
+                    </p>
+
+                </div>
 
 
                 <h3 style="padding-top: 7px;  margin-left: -18px; margin-right: -18px;  padding-bottom: 10px;  padding-top: 10px; padding-left: 10px; background-color: #a7d7c5; ">Enhance!</h3>
@@ -939,115 +1047,6 @@
 
 
 
-
-
-                <div style="margin-left: -18px;
-margin-right: -18px;
-margin-bottom: -10px;">
-                    <v-img src="https://marketplace.canva.com/MADQ4tkqI2E/1/screen_2x/canva-untitled-MADQ4tkqI2E.jpg"></v-img>
-                </div>
-
-
-                <h3 style="padding-top: 7px; margin-left: -18px; margin-right: -18px; padding-left: 10px; margin-top: 10px; padding-bottom: 10px; margin-bottom: 12px;  padding-top: 10px; background-color: #a7d7c5;">Reading Practice
-                </h3>
-
-                <div style="padding : 16px;">
-
-                    <p>The United States of America is a Northern American country which governs fifty states. Although currently known as the most powerful nation, it has not always been so. In fact, the original inhabitants of USA were not white
-                        people but are rather Native American Indians. The Europeans only came to America in the 16th century after discovering it by accident. Spain, Portugal and France all tried to build colonies in America but it was England that
-                        sent the most number of people. Bloody and great wars occurred between the Native Americans, the European settlers and other invaders for many long years. America was named after its discoverer, Amerigo Vespucci, an Italian
-                        navigator.
-                    </p>
-
-
-
-
-                </div>
-
-                <h3 style="padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 10px;margin-top: 10px; background-color: #a7d7c5;">Vocabulary Review</h3>
-
-                <div style="padding : 16px;">
-
-
-
-                    <li style="list-style-type: none;"><u>Govern(v)</u> - to rule
-                    </li>
-
-                    <li style="list-style-type: none;"><u>Original(adj)</u> - first and true one
-                    </li>
-
-                    <li style="list-style-type: none;"><u>Inhabitant(n)</u> - resident; person living in a particular place
-                    </li>
-
-                    <li style="list-style-type: none;"><u>Bloody(adj)</u> - involving much blood and killing
-                    </li>
-
-                    <li style="list-style-type: none;"><u>Settler(n)</u> - resident in a new place
-                    </li>
-
-                    <li style="list-style-type: none;"><u>Invader(n)</u> - someone who wants to enter and obtain a country by force
-                    </li>
-
-
-
-
-                </div>
-
-
-
-                <h3 style="padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 10px; margin-top: 10px; background-color: #a7d7c5;">Vocabulary Stop</h3>
-                <div style="padding : 16px;">
-
-
-                    <p>Fill in the blanks using the words above.
-                    </p>
-
-                    <ol style="margin: 12px;">
-                        <li>Japanese ___________ tried to make Korea their own territory.
-                        </li>
-
-                        <li>The ________ paintings were kept in a museum in France.
-                        </li>
-
-                        <li>I was just a _________ in New York so I tried to make some new friends.
-                        </li>
-
-                        <li>To be a successful nation, a good leader must _________ this country.
-                        </li>
-
-                        <li>The ____________ of Jeju Island are proud of their culture and place.
-                        </li>
-
-                    </ol>
-
-                </div>
-
-                <h3 style="padding-top: 7px;  margin-left: -18px; margin-right: -18px;  padding-bottom: 10px;  padding-top: 10px; padding-left: 10px; background-color: #a7d7c5; ">Comprehension</h3>
-
-                <div style="padding : 16px;">
-
-                    <li style="list-style-type: none;">What is USA?
-                    </li>
-
-                    <li style="list-style-type: none;">Who were the original inhabitants of USA?
-                    </li>
-
-                    <li style="list-style-type: none;">When did the first Europeans come to America?
-                    </li>
-
-                    <li style="list-style-type: none;">What are the countries that tried to control America?
-                    </li>
-
-                    <li style="list-style-type: none;">Who was America named after?
-                    </li>
-
-
-
-
-                </div>
-
-
-
                 <h3 style="padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 10px; margin-top: 10px; background-color: #a7d7c5;">You're on the Limelight!</h3>
                 <div style="padding : 16px;">
 
@@ -1104,26 +1103,11 @@ margin-bottom: -10px;">
 
 
 
-
-
-
-
-
-
             </div>
 
 
 
-
-
-
-
-
-
-
         </v-layout>
-    </v-container>
-    </v-layout>
     </v-container>
 </div>
 </template>
@@ -1178,10 +1162,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

@@ -107,7 +107,7 @@
 
 <div style="padding : 16px;">
 
-  <p>
+<p>
 <b>A.</b>
 </p>
 
@@ -140,7 +140,7 @@
 </h3>
 <div style="padding : 16px;">
 
-  <p>
+<p>
 <b>A.</b>
 </p>
 

@@ -29,7 +29,7 @@
   <div style = "padding : 16px;">
 
     <table style = "border-collapse: collapse;">
-      <tr v-for="dialog in dialogs">
+      <tr v-for="dialog in dialogs" :key="dialog">
         <td class = "uppertable" >{{dialog.name}}</td>
         <td class = "lowertable" >{{dialog.speech}}</td>
       </tr>
@@ -46,12 +46,12 @@
 
     <div style="margin-left: -18px; margin-right: -18px; margin-top: 10px; border-color: #43464C; border-style: solid; border-width: 2px;">
     </div>
-      <h3 class = "border" style="padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 10px; margin-top: 0px; background-color: #43464C;">Translation</h3>
+    <h3 class = "border white--text" style="padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 10px; margin-top: 0px; background-color: #43464C;">Translation</h3>
     <div style="padding : 16px;">
       
       <table style = "border-collapse: collapse;">
       
-        <tr v-for="translation in translations">
+        <tr v-for="translation in translations" :key="translation">
           <td class = "uppertable" >{{translation.name}}</td>
           <td class = "lowertable" >{{translation.speech}}</td>
         </tr>
@@ -75,7 +75,7 @@
       <li style="list-style-type: none;">north/ south/ east/ west/ center</li>
       <ol style="margin: 12px;">
         <li>
-          1. Madrid is in the ( &emsp; &emsp; ) of Spain.
+          Madrid is in the ( &emsp; &emsp; ) of Spain.
         </li>
         <li>
           Beijing is in the ( &emsp; &emsp; )-( &emsp; &emsp; ) of China.
@@ -153,8 +153,6 @@
   </div>
 
 
-</v-layout>
-</v-container>
 </v-layout>
 </v-container>
 </div>
@@ -304,11 +302,6 @@ p{
 
 h3{
   padding-top: 7px;
-
-}
-
-li{
-
 
 }
 

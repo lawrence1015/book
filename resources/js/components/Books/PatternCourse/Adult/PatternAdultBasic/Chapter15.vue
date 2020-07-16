@@ -33,7 +33,7 @@
   padding-bottom: 10px;">Preview</h2>
 
   <hr width="60%">
-  <div style="padding : 15px;">
+  <div style="padding : 15px; line-height: 200%;">
 
 
     <p>
@@ -101,7 +101,7 @@
 
     <table style = "border-collapse: collapse;">
     
-      <tr v-for="dialogA in dialogsA">
+      <tr v-for="dialogA in dialogsA" :key="dialogA">
         <td class = "uppertable" >{{dialogA.name}}</td>
         <td class = "lowertable" >{{dialogA.speech}}</td>
       </tr>
@@ -137,7 +137,7 @@
 
       <table style = "border-collapse: collapse;">
     
-        <tr v-for="dialogB in dialogsB">
+        <tr v-for="dialogB in dialogsB" :key="dialogB">
           <td class = "uppertable" >{{dialogB.name}}</td>
           <td class = "lowertable" >{{dialogB.speech}}</td>
         </tr>
@@ -221,7 +221,7 @@
 
     <table style = "border-collapse: collapse;">
 
-      <tr v-for="translationA in translationsA">
+      <tr v-for="translationA in translationsA" :key="translationA">
         <td class = "uppertable" >{{translationA.name}}</td>
         <td class = "lowertable" >{{translationA.speech}}</td>
       </tr>
@@ -233,7 +233,7 @@
 
     <table style = "border-collapse: collapse;">
 
-      <tr v-for="translationB in translationsB">
+      <tr v-for="translationB in translationsB" :key="translationB">
         <td class = "uppertable" >{{translationB.name}}</td>
         <td class = "lowertable" >{{translationB.speech}}</td>
       </tr>
@@ -272,8 +272,6 @@
 </div>
 
 
-</v-layout>
-</v-container>
 </v-layout>
 </v-container>
 </div>

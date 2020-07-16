@@ -33,7 +33,7 @@
                padding-bottom: 10px;">Preview</h2>
 
   <hr width="60%">
-  <div style="padding : 15px;">
+  <div style="padding : 15px; line-height: 200%;">
 
 
 <p>
@@ -86,7 +86,7 @@ In the grocery store…
 </p>
 <table style = "border-collapse: collapse;">
     
-  <tr v-for="dialog in dialogs">
+  <tr v-for="dialog in dialogs" :key="dialog">
     <td class = "uppertable" >{{dialog.name}}</td>
     <td class = "lowertable" >{{dialog.speech}}</td>
   </tr>
@@ -100,7 +100,7 @@ In the grocery store…
 </p>
 <table style = "border-collapse: collapse;">
 
-  <tr v-for="translation in translations">
+  <tr v-for="translation in translations" :key="translation">
     <td class = "uppertable" >{{translation.name}}</td>
     <td class = "lowertable" >{{translation.speech}}</td>
   </tr>
@@ -376,8 +376,6 @@ Use the featured pattern for Mass nouns and Count nouns.
 
        </v-layout>
      </v-container>
-  </v-layout>
-  </v-container>
 </div>
 
 
@@ -525,11 +523,6 @@ p{
 
 h3{
   padding-top: 7px;
-
-}
-
-li{
-
 
 }
 

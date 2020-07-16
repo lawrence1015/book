@@ -18,7 +18,7 @@
         width: 100%;
         padding-top : 10px;
         padding-left : 10px;
-        padding-bottom: 10px;">Discussing work in progress (Present continuous)
+        padding-bottom: 10px;">Discussing work in progress
       </h1>
     </v-layout>
   </v-img>
@@ -28,8 +28,8 @@
   <h3  class = "border white--text" >Today's topic</h3>
   <div style = "padding : 16px;">
 
-   <p>
-      <li style="list-style-type: none;">Vanessa:  So where are you working? exactly. in France?</li>
+      <li style = "margin-top: 10px; list-style-type: none;">
+       Vanessa:  So where are you working? exactly. in France?</li>
       <li style="list-style-type: none;">John:       In the Jura. It’s not far from Switzerland.</li>
       <li style="list-style-type: none;">Vanessa:  Right. And you’re building a hotel?</li>
       <li style="list-style-type: none;">John:       We’re converting a farmhouse into a hotel. It’s very, um…it’s a very old house. When we started,
@@ -48,7 +48,6 @@
       <li style="list-style-type: none;">Vanessa:  I see. So, how long are you staying in France? What’s the schedule, from start to finish?</li>
       <li style="list-style-type: none;">John:       Um…Eighteen months. And we’re more or less on schedule. At the moment, we’re working on the bathroom.
                                                      We’re having one or two problems with…</li>
-   </p>
 
       <div style="margin-left: -18px; margin-right: -18px; margin-top: 10px; border-color:#402B24; border-style: solid; border-width: 2px;">
       </div>
@@ -128,8 +127,6 @@
 
   </v-layout>
 </v-container>
-</v-layout>
-</v-container>
 </div>
 
 
@@ -188,10 +185,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

@@ -18,7 +18,7 @@
         width: 100%;
         padding-top : 10px;
         padding-left : 10px;
-        padding-bottom: 10px;">Staying at a hotel (have got)
+        padding-bottom: 10px;">Staying at a hotel
 
       </h1>
     </v-layout>
@@ -141,8 +141,6 @@
 
 </v-layout>
 </v-container>
-</v-layout>
-</v-container>
 </div>
 
 
@@ -198,11 +196,6 @@ p{
 
 h3{
   padding-top: 7px;
-
-}
-
-li{
-
 
 }
 

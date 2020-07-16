@@ -34,8 +34,14 @@
       </h3>
 
       <h3>
-        The logo symbolizes endurance of a player.
+        The logo symbolizes the endurance of a player.
       </h3>
+
+      <p>
+        <h4>2010년 월드컵 공식 로고 입니다.</h4>
+      </p>
+        <h4>로고는 선수의 지구력을 상징한다.</h4>
+
 
       <div style="margin-left: -18px; margin-right: -18px; margin-top: 10px; border-color: #543864; border-style: solid; border-width: 2px;">
       </div>
@@ -68,9 +74,9 @@
                   <v-card-text class="px-10">
                     <p>
                       <b>
-                        How was the performance of Korean soccer team during the 2010 World Cup? 2010<br />
+                        2010년 월드컵 당시 한국 축구대표팀의 활약은 어땠나?<br />
                         <br />
-                        Are you a fan of soccer game?
+                        너는 축구 경기 팬이니?
                       </b>
                     </p>
                   </v-card-text>
@@ -81,7 +87,30 @@
 
         </p>
 
-        
+        <p>
+
+          <v-container grid-list-md text-xs-left>
+            <v-layout row wrap>
+
+
+              <v-flex xs12>
+                <v-card light color="#ffbd69">
+                  <v-card-text class="px-10">
+                    <p>
+                      <b>
+                        당신은 한국의 사업장에 대해 뭐라고 말할 수 있나요?<br />
+                        <br />
+                        당신은 당신만의 사업장을 갖고 싶습니까?
+                      </b>
+                    </p>
+                  </v-card-text>
+                </v-card>
+              </v-flex>
+            </v-layout>
+          </v-container>
+
+        </p>
+
       </div>
 
 

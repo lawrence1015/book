@@ -18,7 +18,7 @@
         width: 100%;
         padding-top : 10px;
         padding-left : 10px;
-        padding-bottom: 10px;">Discussing how business is going (Adverbs of manner)
+        padding-bottom: 10px;">Discussing how business is going
 
       </h1>
     </v-layout>
@@ -122,8 +122,6 @@
 
 </v-layout>
 </v-container>
-</v-layout>
-</v-container>
 </div>
 
 
@@ -179,11 +177,6 @@ p{
 
 h3{
   padding-top: 7px;
-
-}
-
-li{
-
 
 }
 

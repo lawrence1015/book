@@ -18,7 +18,7 @@
         width: 100%;
         padding-top : 10px;
         padding-left : 10px;
-        padding-bottom: 10px;">Exchanging information by email (Past simple:irregular verbs, Object pronouns)
+        padding-bottom: 10px;">Exchanging information by email
       </h1>
     </v-layout>
   </v-img>
@@ -29,8 +29,8 @@
   <div style = "padding : 16px;">
 
     <ol style="margin: 12px;">
-      <p>
-      <li>
+      
+      <li style = "margin-top: 10px;">
         Dear Tim<br />
         Please find attached the agenda for the meeting next Tuesday. I also attach other information you need for the meeting: a pie chart of products,
         a bar chart of stocks in the warehouse, a graph of stocks for last month, and a table of customers.
@@ -39,10 +39,8 @@
         <br />
         Best regards,<br />
         Carla
-      </li>
-    </p>
-    <p>
-      <li>
+      </li>  
+      <li style = "margin-top: 10px;">>
         Dear Carla,<br />
         Many thanks for the information. I read all the attachments this morning. I saw Alex yesterday, and he gave me the minutes.
         But I don't have a copy of the schedule for the new warehouse. Alex told me he thought you had the schedule. Could you send it to me?<br />
@@ -50,9 +48,7 @@
         Regards,<br />
         Tim
       </li>
-    </p>
-    <p>
-      <li>
+      <li style = "margin-top: 10px;">
         Tim,<br />
         I'm afraid I don't have the schedule. But I spoke to Alice Draper, the project engineer,
         and she said she's bringing copies to the meeting for all of us. She wants to give a presentation about the project,
@@ -60,7 +56,6 @@
         Her email address is draper@be-structures.com.<br />
         Carla<br />
       </li>
-    </p>
     </ol>
 
     <div style="margin-left: -18px; margin-right: -18px; margin-top: 10px; border-color: #899857; border-style: solid; border-width: 2px;">
@@ -131,8 +126,6 @@
 
 </v-layout>
 </v-container>
-</v-layout>
-</v-container>
 </div>
 
 
@@ -188,11 +181,6 @@ p{
 
 h3{
   padding-top: 7px;
-
-}
-
-li{
-
 
 }
 

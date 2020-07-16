@@ -18,7 +18,7 @@
         width: 100%;
         padding-top : 10px;
         padding-left : 10px;
-        padding-bottom: 10px;">Talking about your interests (Sport and leisure / likes and dislikes)
+        padding-bottom: 10px;">Talking about your interests
       </h1>
     </v-layout>
   </v-img>
@@ -28,8 +28,8 @@
   <h3  class = "border white--text" >Today's topic</h3>
   <div style = "padding : 16px;">
 
-   <p>
-      <li style="list-style-type: none;">Woman: So, are you watching the cup final this weekend?</li>
+   
+      <li style = "margin-top: 10px; list-style-type: none;">Woman: So, are you watching the cup final this weekend?</li>
       <li style="list-style-type: none;">Man:     Um… no, I don’t think so.</li>
       <li style="list-style-type: none;">Woman: Don’t you like football?</li>
       <li style="list-style-type: none;">Man:     No. I can’t stand it. Sorry to sound so miserable!</li>
@@ -51,7 +51,7 @@
       <li style="list-style-type: none;">Man:     Well, they say a hundred piranhas can eat a horse in less than five minutes!</li>
       <li style="list-style-type: none;">Woman: Oh!</li>
       <li style="list-style-type: none;">Man:     I’m not sure if that includes the rider or not…</li>
-   </p>
+
 
       <div style="margin-left: -18px; margin-right: -18px; margin-top: 10px; border-color:#402B24; border-style: solid; border-width: 2px;">
       </div>
@@ -122,8 +122,6 @@
 
   </v-layout>
 </v-container>
-</v-layout>
-</v-container>
 </div>
 
 
@@ -182,10 +180,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

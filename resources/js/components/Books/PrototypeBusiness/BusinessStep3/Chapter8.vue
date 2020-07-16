@@ -18,7 +18,7 @@
         width: 100%;
         padding-top : 10px;
         padding-left : 10px;
-        padding-bottom: 10px;">Discussing strengths and weaknesses (Gerund)
+        padding-bottom: 10px;">Discussing strengths and weaknesses 
       </h1>
     </v-layout>
   </v-img>
@@ -28,8 +28,8 @@
   <h3  class = "border white--text" >Today's topic</h3>
   <div style = "padding : 16px;">
 
-   <p>
-      <li style="list-style-type: none;">Interviewer: So, when you design an office, where do you start?</li>
+
+      <li style = "margin-top: 10px; list-style-type: none;">Interviewer: So, when you design an office, where do you start?</li>
       <li style="list-style-type: none;">Steve: &emsp; &emsp; Well, the first question is, how much space do you need? And that’s one of the most difficult questions,</li>
       <li style="list-style-type: none; padding-left: 83px;">sometimes because for most people, it’s difficult to say, oh I need…fifteen square meters, for example.</li>
       <li style="list-style-type: none; padding-left: 83px;">So you have to look at what people need to do in the office, look at what equipment they need – you know,</li>
@@ -48,8 +48,7 @@
       <li style="list-style-type: none; padding-left: 83px;">essential requirement, then why have them? With anything that costs money, clients always ask, is it really</li>
       <li style="list-style-type: none; padding-left: 83px;">necessary? Offices are expensive, even if you only have what’s in the regulations – what’s compulsory.</li>
       <li style="list-style-type: none; padding-left: 83px;">So, if something’s an optional extra…</li>
-   </p>
-
+   
       <div style="margin-left: -18px; margin-right: -18px; margin-top: 10px; border-color:#402B24; border-style: solid; border-width: 2px;">
       </div>
       <h3 class = "border white--text" style="padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 10px; margin-top: 0px; background-color:#402B24;">Exercise</h3>
@@ -120,8 +119,6 @@
 
   </v-layout>
 </v-container>
-</v-layout>
-</v-container>
 </div>
 
 
@@ -180,10 +177,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

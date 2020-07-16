@@ -33,7 +33,7 @@
                padding-bottom: 10px;">Preview</h2>
 
   <hr width="60%">
-  <div style="padding : 15px;">
+  <div style="padding : 15px; line-height: 200%;">
 
 
 <p>
@@ -399,8 +399,6 @@
 
        </v-layout>
      </v-container>
-  </v-layout>
-  </v-container>
 </div>
 
 
@@ -455,8 +453,6 @@ export default {
   margin: 12px;
 }
 
-<style lang="css">
-
 p{
 
   margin-top: 10px;
@@ -467,10 +463,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

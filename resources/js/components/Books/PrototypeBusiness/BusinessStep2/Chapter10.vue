@@ -18,7 +18,7 @@
         width: 100%;
         padding-top : 10px;
         padding-left : 10px;
-        padding-bottom: 10px;">Making choices (Superlatives)
+        padding-bottom: 10px;">Making choices
       </h1>
     </v-layout>
   </v-img>
@@ -140,8 +140,6 @@
 
 </v-layout>
 </v-container>
-</v-layout>
-</v-container>
 </div>
 
 
@@ -200,10 +198,7 @@ h3{
 
 }
 
-li{
 
-
-}
 
 body{
 

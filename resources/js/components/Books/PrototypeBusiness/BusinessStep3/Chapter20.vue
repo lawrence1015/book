@@ -18,7 +18,7 @@
         width: 100%;
         padding-top : 10px;
         padding-left : 10px;
-        padding-bottom: 10px;">Giving an update (Present perfect: yet/already/so far)
+        padding-bottom: 10px;">Giving an update
       </h1>
     </v-layout>
   </v-img>
@@ -124,8 +124,6 @@
 
   </v-layout>
 </v-container>
-</v-layout>
-</v-container>
 </div>
 
 
@@ -184,10 +182,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

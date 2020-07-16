@@ -18,7 +18,7 @@
         width: 100%;
         padding-top : 10px;
         padding-left : 10px;
-        padding-bottom: 10px;">Making plans 1 (Suggestions: Shall I/we...? Let's...)
+        padding-bottom: 10px;">Making plans 1
 
       </h1>
     </v-layout>
@@ -135,8 +135,6 @@
 
 </v-layout>
 </v-container>
-</v-layout>
-</v-container>
 </div>
 
 
@@ -195,10 +193,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

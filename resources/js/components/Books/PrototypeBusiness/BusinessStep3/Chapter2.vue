@@ -18,8 +18,7 @@
         width: 100%;
         padding-top : 10px;
         padding-left : 10px;
-        padding-bottom: 10px;">Talking about products and services (Present simple: questions)
-      </h1>
+        padding-bottom: 10px;">Talking about products and services</h1>
     </v-layout>
   </v-img>
 
@@ -197,8 +196,6 @@
 
   </v-layout>
 </v-container>
-</v-layout>
-</v-container>
 </div>
 
 
@@ -257,10 +254,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

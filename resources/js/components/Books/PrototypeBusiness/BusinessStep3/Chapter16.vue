@@ -18,7 +18,7 @@
         width: 100%;
         padding-top : 10px;
         padding-left : 10px;
-        padding-bottom: 10px;">Forecasting (will: predictions)
+        padding-bottom: 10px;">Forecasting 
       </h1>
     </v-layout>
   </v-img>
@@ -133,8 +133,6 @@
 
   </v-layout>
 </v-container>
-</v-layout>
-</v-container>
 </div>
 
 
@@ -193,10 +191,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

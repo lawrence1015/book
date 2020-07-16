@@ -18,7 +18,7 @@
         width: 100%;
         padding-top : 10px;
         padding-left : 10px;
-        padding-bottom: 10px;">Discussing strengths and weaknesses (Gerund)
+        padding-bottom: 10px;">Discussing strengths and weaknesses
       </h1>
     </v-layout>
   </v-img>
@@ -28,8 +28,8 @@
   <h3  class = "border white--text" >Today's topic</h3>
   <div style = "padding : 16px;">
 
-   <p>
-      <li style="list-style-type: none;">Judith: Marco works for PAF, he’s in the creative department, we know him, he knows us…</li>
+ 
+      <li style = "margin-top: 10px; list-style-type: none;">Judith: Marco works for PAF, he’s in the creative department, we know him, he knows us…</li>
       <li style="list-style-type: none; padding-left: 50px;">But is that an advantage?</li>
       <li style="list-style-type: none;">Rowan: Well, we want someone to manage the department.</li>
       <li style="list-style-type: none; padding-left: 53px;">We need a manager to make the new strategy work.</li>
@@ -46,7 +46,7 @@
       <li style="list-style-type: none;">Judith: Yeah… But, what about the other people in the department?</li>
       <li style="list-style-type: none; padding-left: 50px;">They work with him at the moment. What happens if they have to work for him?</li>
       <li style="list-style-type: none;">Rowan: Oh, I think he can cope with all that…</li>
-   </p>
+
 
       <div style="margin-left: -18px; margin-right: -18px; margin-top: 10px; border-color:#402B24; border-style: solid; border-width: 2px;">
       </div>
@@ -128,8 +128,6 @@
 
   </v-layout>
 </v-container>
-</v-layout>
-</v-container>
 </div>
 
 
@@ -188,10 +186,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

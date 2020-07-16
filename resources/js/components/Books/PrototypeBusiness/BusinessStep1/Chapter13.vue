@@ -30,7 +30,7 @@
 
     <table style = "border-collapse: collapse;">
     
-      <tr v-for="dialog in dialogs">
+      <tr v-for="dialog in dialogs" :key="dialog">
         <td class = "uppertable" >{{dialog.name}}</td>
         <td class = "lowertable" >{{dialog.speech}}</td>
       </tr>
@@ -38,14 +38,14 @@
     </table>
 
 
-    <div style="margin-left: -18px; margin-right: -18px; margin-top: 10px; border-color: #899857; border-style: solid; border-width: 2px;">
+    <div style="margin-left: -18px; margin-right: -18px; margin-top: 10px; border-color: #43464C; border-style: solid; border-width: 2px;">
     </div>
-    <h3 class = "border" style="padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 10px; margin-top: 0px; background-color: #899857;">Translation</h3>
+    <h3 class = "border white--text" style="padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 10px; margin-top: 0px; background-color: #43464C;">Translation</h3>
     <div style="padding : 16px;">
 
       <table style = "border-collapse: collapse;">
 
-        <tr v-for="translation in translations">
+        <tr v-for="translation in translations" :key="translation">
           <td class = "uppertable" >{{translation.name}}</td>
           <td class = "lowertable" >{{translation.speech}}</td>
         </tr>
@@ -117,8 +117,6 @@
   </div>
 
 
-</v-layout>
-</v-container>
 </v-layout>
 </v-container>
 </div>
@@ -239,7 +237,7 @@ export default {
         },
         {
           name:'접수 담당자:',
-          speech:'오 그래, 그건 문제없어요. 각 방마다 의자가 여섯 개씩 있어서…'
+          speech:'오 그건 문제없어요. 각 방마다 의자가 여섯 개씩 있어서…'
         },
         {
           name:'고객:',
@@ -263,7 +261,7 @@ export default {
         },
         {
           name:'접수 담당자:',
-          speech:'네. 방에 전화기가 없어서 그래 대부분의 사람들은 모바일을 가지고 있기 때문에…'
+          speech:'네. 방에 전화기가 없어서 그래요. 대부분의 사람들은 모바일을 가지고 있기 때문에…'
         },
         {
           name:'고객:',
@@ -275,7 +273,7 @@ export default {
         },
         {
           name:'고객:',
-          speech:'아니, 아니, 괜찮아. 그냥 노트북이 있어요. 음…'
+          speech:'아니, 아니, 괜찮아요. 그냥 노트북이 있어요. 음…'
         },
         {
           name:'접수 담당자:',
@@ -351,10 +349,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

@@ -33,9 +33,15 @@
       </h3>
 
       <h3>
-        The American President George W. Bush meets the robot.
+        American President George W. Bush meets the robot.
       </h3>
 
+      <p>
+        <h4>그 로봇은 알버트 아인슈타인을 닮았다.</h4>
+      </p>
+        <h4>조지 W 부시 미국 대통령이 로봇과 만난다.</h4>
+        
+      
       <div style="margin-left: -18px; margin-right: -18px; margin-top: 10px; border-color: #543864; border-style: solid; border-width: 2px;">
       </div>
       <h3 class = "border white--text" style="border-radius: 0px 0px 70px 0px; padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 2px; margin-top: 0px;">Suggested Vocabulary</h3>
@@ -69,7 +75,7 @@
                       <b>
                         What are the advantages and disadvantages of humanoid robots?<br />
                         <br />
-                        Who is more efficient, a human or a robot? Explain why.
+                        Who is more efficient, a human, or a robot? Explain why.
                       </b>
                     </p>
                   </v-card-text>
@@ -79,8 +85,34 @@
           </v-container>
 
         </p>
+
+
+        <p>
+
+          <v-container grid-list-md text-xs-left>
+            <v-layout row wrap>
+
+
+              <v-flex xs12>
+                <v-card light color="#ffbd69">
+                  <v-card-text class="px-10">
+                    <p>
+                      <b>
+                        휴머노이드 로봇의 장단점은 무엇인가?<br />
+                        <br />
+                        인간과 로봇 중 누가 더 효율적인가? 이유를 설명하라.
+                      </b>
+                    </p>
+                  </v-card-text>
+                </v-card>
+              </v-flex>
+            </v-layout>
+          </v-container>
+
+        </p>
+
 <p>
-  Source of image: "genuinebritishengineer"
+  Image Source: "genuinebritishengineer"
 </p>
 
       </div>
@@ -90,8 +122,6 @@
 
 
   </v-layout>
-</v-container>
-</v-layout>
 </v-container>
 </div>
 

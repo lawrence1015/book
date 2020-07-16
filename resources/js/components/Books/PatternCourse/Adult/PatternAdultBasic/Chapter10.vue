@@ -33,7 +33,7 @@
                padding-bottom: 10px;">Preview</h2>
 
   <hr width="60%">
-  <div style="padding : 15px;">
+  <div style="padding : 15px; line-height: 200%;">
 
 
 <p>
@@ -51,7 +51,7 @@
             </p>
             <hr />
             <p style="margin-bottom: 0px;">The words ‘since’ and ‘for’ are often confused by English language speakers.
-            </li>
+            </p>
             <li style="list-style-type: none;">There is a simple rule to follow to differentiate between the uses of these two words.
             </li>
             <p>
@@ -304,8 +304,6 @@
 
        </v-layout>
      </v-container>
-  </v-layout>
-  </v-container>
 </div>
 
 
@@ -361,11 +359,6 @@ p{
 
 h3{
   padding-top: 7px;
-
-}
-
-li{
-
 
 }
 

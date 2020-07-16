@@ -37,6 +37,12 @@
         The workers are so diligent.
       </h3>
 
+      <p>
+        <h4>이 사진은 다른 직업을 가진 사람들을 보여준다.</h4>
+      </p>
+        <h4>일꾼들은 매우 부지런하다.</h4>
+
+
       <div style="margin-left: -18px; margin-right: -18px; margin-top: 10px; border-color: #543864; border-style: solid; border-width: 2px;">
       </div>
       <h3 class = "border white--text" style="border-radius: 0px 0px 70px 0px; padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 2px; margin-top: 0px;">Suggested Vocabulary</h3>
@@ -85,6 +91,29 @@
 
         </p>
 
+        <p>
+
+          <v-container grid-list-md text-xs-left>
+            <v-layout row wrap>
+
+
+              <v-flex xs12>
+                <v-card light color="#ffbd69">
+                  <v-card-text class="px-10">
+                    <p>
+                      <b>
+                        너는 몇 시간이나 일하니?<br />
+                        <br />
+                        한국 근로자들은 부지런하다고 들었어. 그게 사실이야? 이유를 설명하라.
+                      </b>
+                    </p>
+                  </v-card-text>
+                </v-card>
+              </v-flex>
+            </v-layout>
+          </v-container>
+
+        </p>
 
       </div>
 

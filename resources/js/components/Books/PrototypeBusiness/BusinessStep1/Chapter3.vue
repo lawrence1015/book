@@ -29,7 +29,7 @@
   <div style = "padding : 16px;">
 
     <table style = "border-collapse: collapse;">
-      <tr v-for="dialog in dialogs">
+      <tr v-for="dialog in dialogs" :key="dialog">
         <td class = "uppertable" >{{dialog.name}}</td>
         <td class = "lowertable" >{{dialog.speech}}</td>
       </tr>
@@ -43,7 +43,7 @@
      
       <table style = "border-collapse: collapse;">
       
-        <tr v-for="translation in translations">
+        <tr v-for="translation in translations" :key="translation">
           <td class = "uppertable" >{{translation.name}}</td>
           <td class = "lowertable" >{{translation.speech}}</td>
         </tr>
@@ -112,8 +112,6 @@
 
   </v-layout>
 </v-container>
-</v-layout>
-</v-container>
 </div>
 
 
@@ -137,7 +135,7 @@ export default {
         },
         {
           name:'Claire:',
-          speech:'Yes, Please. Could I have a tea?'
+          speech:'Yes, Please. Could I have tea?'
         },
         {
           name:'Joe:',
@@ -232,10 +230,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

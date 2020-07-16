@@ -78,8 +78,8 @@
             <div class="card-body">
               <h2>Daily Dialogue Course</h2>
               <br />
-                <a href ="/book#/DialogueBooks/DialogueLevel1/chapter1">Daily Dialogue Level 1 - Step 1</a><br />
-                <a href ="/book#/DialogueBooks/DialogueLevel2/chapter1">Daily Dialogue Level 1 - Step 2</a><br />
+                <a href ="/book#/DialogueBooks/DialogueLevel1/chapter1">Daily Dialogue - White 1</a><br />
+                <a href ="/book#/DialogueBooks/DialogueLevel2/chapter1">Daily Dialogue - Yellow 2</a><br />
             </div>
         </div>
     </div>

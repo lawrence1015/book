@@ -18,7 +18,7 @@
         width: 100%;
         padding-top : 10px;
         padding-left : 10px;
-        padding-bottom: 10px;">Artificial Intelligence
+        padding-bottom: 10px;">Big Data, Big Impact
       </h1>
     </v-layout>
   </v-img>
@@ -208,8 +208,6 @@
 
   </v-layout>
 </v-container>
-</v-layout>
-</v-container>
 </div>
 
 
@@ -265,11 +263,6 @@ p{
 
 h3{
   padding-top: 7px;
-
-}
-
-li{
-
 
 }
 

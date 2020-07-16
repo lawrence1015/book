@@ -18,7 +18,7 @@
         width: 100%;
         padding-top : 10px;
         padding-left : 10px;
-        padding-bottom: 10px;">Eating out (understanding a menu, Ordering a meal)
+        padding-bottom: 10px;">Eating out
       </h1>
     </v-layout>
   </v-img>
@@ -29,8 +29,7 @@
   <div style = "padding : 16px;">
 
     <ol style="margin: 12px;">
-      <p>
-        <li>
+        <li style = "margin-top: 10px;">
           Waiter: Are you ready to order?<br />
           Ella:     Yes. For me, um… To start, the tomato soup, please.<br />
           David:  Yes, the same for me, please. The tomato soup.<br />
@@ -42,9 +41,7 @@
           Waiter: How would you like the steak?<br />
           Ivan:   Um… Medium, please.
         </li>
-      </p>
-      <p>
-        <li>
+        <li style = "margin-top: 10px;">
           Waiter: Dessert?<br />
           Ella:     Yes, could I have the apple pie, please.<br />
           Waiter: Apple pie.<br />
@@ -52,7 +49,7 @@
           Ella:     I’ll have one after my dessert.<br />
           Waiter: OK. Would anyone else like dessert?
         </li>
-      </p>
+
     </ol>
 
     <div style="margin-left: -18px; margin-right: -18px; margin-top: 10px; border-color:#402B24; border-style: solid; border-width: 2px;">
@@ -69,8 +66,8 @@
     <div style="padding : 16px;">
 
       <ol style="margin: 12px;">
-        <p>
-          <li>
+
+          <li style = "margin-top: 10px;">
             웨이터: 주문하시겠습니까?<br />
             엘라: 네. 저는, 음… 우선 토마토 수프부터 부탁해요.<br />
             데이비드: 그래, 나도 마찬가지야. 토마토 수프 주세요.<br />
@@ -81,9 +78,7 @@
             웨이터: 스테이크는 어떻게 하시겠습니까?<br />
             이반: 음… 미디엄으로 부탁합니다.
           </li>
-        </p>
-        <p>
-          <li>
+          <li style = "margin-top: 10px;">
             웨이터: 디저트는?<br />
             엘라: 네, 애플 파이 좀 주시겠습니까?<br />
             웨이터: 애플파이요.<br />
@@ -91,7 +86,6 @@
             엘라: 디저트 먹고 하나 먹을게요.<br />
             웨이터: 알겠습니다. 디저트 드시겠습니까?
           </li>
-        </p>
       </ol>
 
     </div>
@@ -228,8 +222,6 @@
 
 </v-layout>
 </v-container>
-</v-layout>
-</v-container>
 </div>
 
 
@@ -285,11 +277,6 @@ p{
 
 h3{
   padding-top: 7px;
-
-}
-
-li{
-
 
 }
 

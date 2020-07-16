@@ -18,7 +18,7 @@
         width: 100%;
         padding-top : 10px;
         padding-left : 10px;
-        padding-bottom: 10px;">Shopping 1 (this/these, that/those)
+        padding-bottom: 10px;">Shopping 1 
       </h1>
     </v-layout>
   </v-img>
@@ -29,17 +29,14 @@
   <div style = "padding : 16px;">
 
     <ol style="margin: 12px;">
-      <p>
-        <li>
+        <li style = "margin-top: 10px;">
           Assistant:  Do you need any help?<br />
           Customer: Yes, how much is this T-shirt? I can't find the price on it.<br />
           Assistant:  Er... Let's have a look... Is that it, there? Yes. Thirteen pounds.<br />
           Customer: Oh right. OK. Thank you.
-
         </li>
-      </p>
-      <p>
-        <li>
+
+        <li style = "margin-top: 10px;">
           Customer: Excuse me. I'm just looking at these shoes. I'm a size forty-five, European size.
           What's that in a UK size? Do you know?<br />
           Assistant:  UK size, that's a ... ten-and-a-half.<br />
@@ -47,16 +44,15 @@
           Assistant:  Yes, I'll go and get you a pair.<br />
           Customer: Thanks.
         </li>
-      </p>
-      <p>
-        <li>
+
+        <li style = "margin-top: 10px;">
           Assistant:  That's thirty-nine pounds ninety, please.<br />
           Customer: Can I pay with this credit card?<br />
           Assistant:  Yes, we accept those. That's fine.<br />
           Customer: Here you are.<br />
           Assistant:  Thanks. If you could just sign here. ... Thanks.
         </li>
-      </p>
+
     </ol>
 
 

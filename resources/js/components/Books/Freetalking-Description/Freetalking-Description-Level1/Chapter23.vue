@@ -37,25 +37,30 @@
         The babies are delicate and innocent.
       </h3>
 
+      <p>
+        <h4>첫째와 둘째는 셋째가 둘째의 머리를 만지는 동안 놀고 있다.</h4>
+      </p>
+        <h4>그 아기들은 섬세하고 순진하다.</h4>
+
       <div style="margin-left: -18px; margin-right: -18px; margin-top: 10px; border-color: #543864; border-style: solid; border-width: 2px;">
       </div>
       <h3 class = "border white--text" style="border-radius: 0px 0px 70px 0px; padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 2px; margin-top: 0px;">Suggested Vocabulary</h3>
       <div style="padding : 16px;">
 
         <p>
-          <b>Delicate연약한, 여린, 다치기[부서지기] 쉬운, 허약한, 섬세한, 우아한</b>
+          <b>Delicate 연약한, 여린, 다치기[부서지기] 쉬운, 허약한, 섬세한, 우아한</b>
         </p>
 
         <p>
-          <b>Innocent아무 잘못[죄]이 없는, 무죄인, 결백한, 무고한, 악의 없는</b>
+          <b>Innocent 아무 잘못[죄]이 없는, 무죄인, 결백한, 무고한, 악의 없는</b>
         </p>
 
         <p>
-          <b>Angelic천사 같은</b>
+          <b>Angelic 천사 같은</b>
         </p>
 
         <p>
-          <b>Playful장난기 많은; 놀기 좋아하는, 장난으로 한, 농담의</b>
+          <b>Playful 장난기 많은; 놀기 좋아하는, 장난으로 한, 농담의</b>
         </p>
 
 
@@ -90,6 +95,30 @@
 
         </p>
 
+
+        <p>
+
+          <v-container grid-list-md text-xs-left>
+            <v-layout row wrap>
+
+
+              <v-flex xs12>
+                <v-card light color="#ffbd69">
+                  <v-card-text class="px-10">
+                    <p>
+                      <b>
+                        당신은 아기를 볼 때 무엇을 느끼는가?<br />
+                        <br />
+                        왜 아기들은 결백하다고 여겨지는가?
+                      </b>
+                    </p>
+                  </v-card-text>
+                </v-card>
+              </v-flex>
+            </v-layout>
+          </v-container>
+
+        </p>
 
       </div>
 

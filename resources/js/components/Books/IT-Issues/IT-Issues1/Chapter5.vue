@@ -18,7 +18,7 @@
         width: 100%;
         padding-top : 10px;
         padding-left : 10px;
-        padding-bottom: 10px;">loT
+        padding-bottom: 10px;">Benefits of IoT Data Analytics
       </h1>
     </v-layout>
   </v-img>
@@ -231,8 +231,6 @@
 
   </v-layout>
 </v-container>
-</v-layout>
-</v-container>
 </div>
 
 
@@ -288,11 +286,6 @@ p{
 
 h3{
   padding-top: 7px;
-
-}
-
-li{
-
 
 }
 

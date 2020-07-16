@@ -18,7 +18,7 @@
         width: 100%;
         padding-top : 10px;
         padding-left : 10px;
-        padding-bottom: 10px;">Talking about the weather and climate 1 (Review of present and past tenses)
+        padding-bottom: 10px;">Talking about the weather and climate 1
       </h1>
     </v-layout>
   </v-img>
@@ -29,8 +29,7 @@
   <div style = "padding : 16px;">
 
     <ol style="margin: 12px;">
-      <p>
-      <li>
+      <li style = "margin-top: 10px;">
         Dear Celia and Alex,<br />
         I hope you had a good weekend. I wanted to take the kids to the park, but the weather was miserable.
         It was cold (two degrees) and foggy all day on Saturday, then it rained all day on Sunday.
@@ -40,9 +39,7 @@
         Seb
 
       </li>
-    </p>
-    <p>
-      <li>
+      <li style = "margin-top: 10px;">
         Hi Seb,<br />
         Yes, I'm OK for the call. It's cloudy here this morning, and it's raining a bit. It's very hot and humid, though.
         It looks like we'll get a thunderstorm. I'm actually pleased to be in a cool office, with air-conditioning!
@@ -50,9 +47,7 @@
         <br />
         Celia
       </li>
-    </p>
-    <p>
-      <li>
+      <li style = "margin-top: 10px;">
         But it's minus 18 degrees here at the moment, so it's not a problem! It's quite windy as well, so it feels even colder.
         Seb, you said it was 'cold' on Saturday (two degrees). Here, when the temperature's about zero and it's snowing,
         people say it's 'warn'! I guess two degrees is 'absolutely freezing' for you, Celia!
@@ -60,7 +55,6 @@
         <br />
         Alex<br />
       </li>
-    </p>
     </ol>
 
     <v-container grid-list-md text-xs-center>
@@ -196,8 +190,6 @@
 
 </v-layout>
 </v-container>
-</v-layout>
-</v-container>
 </div>
 
 
@@ -253,11 +245,6 @@ p{
 
 h3{
   padding-top: 7px;
-
-}
-
-li{
-
 
 }
 

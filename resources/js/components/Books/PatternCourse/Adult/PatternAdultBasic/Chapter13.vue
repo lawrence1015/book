@@ -32,7 +32,7 @@
                padding-bottom: 10px;">Preview</h2>
 
   <hr width="60%">
-  <div style="padding : 15px;">
+  <div style="padding : 15px; line-height: 200%;">
 
 
 <p>
@@ -73,14 +73,14 @@
 
   <h3>If you were the president of your country, what would you do?</h3>
 
-  <p>
+  <p></p>
   <li style="list-style-type: none;"><i>If I were the president, I would cut the cost of education. </i>
   </li>
   <li style="list-style-type: none;"><i>If I were the president, I would free the people from taxes.</i>
   </li>
   <li style="list-style-type: none;"><i>If I were the president, I would improve the education system.</i>
   </li>
-  </p>
+  
 
 </div>
 
@@ -177,7 +177,7 @@
 
 <table style = "border-collapse: collapse;">
     
-  <tr v-for="dialog in dialogs">
+  <tr v-for="dialog in dialogs" :key="dialog">
     <td class = "uppertable" >{{dialog.name}}</td>
     <td class = "lowertable" >{{dialog.speech}}</td>
   </tr>
@@ -186,7 +186,7 @@
 
 <h3>D. Pattern Exercise: Fill in the blanks with our own answers.</h3>
 
-<p>
+<p></p>
 <li style="list-style-type: none;">Mina: Hi, Linda! If I were you, I would take the chance.
 </li>
 <li style="list-style-type: none;">Linda: If I were <u>&emsp; &emsp; &emsp;</u>, I would <u>&emsp; &emsp; &emsp;</u>.
@@ -199,7 +199,7 @@
 </li>
 <li style="list-style-type: none;">Linda: If I were <u>&emsp; &emsp; &emsp;</u>, I would <u>&emsp; &emsp; &emsp;</u>.
 </li>
-</p>
+
 
 <v-container grid-list-md text-xs-left>
     <v-layout row wrap>
@@ -255,7 +255,7 @@
   </h3>
   <table style = "border-collapse: collapse;">
 
-    <tr v-for="translation in translations">
+    <tr v-for="translation in translations" :key="translation">
       <td class = "uppertable" >{{translation.name}}</td>
       <td class = "lowertable" >{{translation.speech}}</td>
     </tr>
@@ -296,8 +296,6 @@
 
        </v-layout>
      </v-container>
-  </v-layout>
-  </v-container>
 </div>
 
 
@@ -408,10 +406,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

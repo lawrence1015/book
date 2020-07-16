@@ -18,8 +18,7 @@
         width: 100%;
         padding-top : 10px;
         padding-left : 10px;
-        padding-bottom: 10px;">Making telephone calls (will:spontaneous decisions and offers)
-      </h1>
+        padding-bottom: 10px;">Making telephone calls</h1>
     </v-layout>
   </v-img>
 
@@ -132,8 +131,6 @@
 
 </v-layout>
 </v-container>
-</v-layout>
-</v-container>
 </div>
 
 
@@ -192,10 +189,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

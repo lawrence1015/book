@@ -18,7 +18,7 @@
         width: 100%;
         padding-top : 10px;
         padding-left : 10px;
-        padding-bottom: 10px;">Shopping 2 (this/these, that/those)
+        padding-bottom: 10px;">Shopping 2
       </h1>
     </v-layout>
   </v-img>

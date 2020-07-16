@@ -152,12 +152,10 @@
               <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/chapter' + 26)">Ch. 26 Business</v-list-tile>
               <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit1Chapter26')">- Unit 1</v-list-tile>
               <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit2Chapter26')">- Unit 2</v-list-tile>
-              <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit3Chapter26')">- Unit 3</v-list-tile>
               <p>
                 <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/chapter' + 27)">Ch. 27 Jobs and Occupation</v-list-tile>
                 <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit1Chapter27')">- Unit 1</v-list-tile>
                 <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit2Chapter27')">- Unit 2</v-list-tile>
-                <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit3Chapter27')">- Unit 3</v-list-tile>
               </p>
               <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/chapter' + 28)">Ch. 28 Relaxation</v-list-tile>
               <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit1Chapter28')">- Unit 1</v-list-tile>
@@ -174,7 +172,7 @@
               <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit2Chapter30')">- Unit 2</v-list-tile>
               <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit3Chapter30')">- Unit 3</v-list-tile>
               <p>
-                <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/chapter' + 31)">Ch. 31 Making Acquaintances and Friends</v-list-tile>
+                <v-list-tile class = "unit1" @click="$router.push('/freetalking/beginner/chapter' + 31)">Ch. 31 Making Acquaintances and Friends</v-list-tile>
                 <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit1Chapter31')">- Unit 1</v-list-tile>
                 <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit2Chapter31')">- Unit 2</v-list-tile>
                 <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit3Chapter31')">- Unit 3</v-list-tile>
@@ -596,30 +594,20 @@
           <v-list-tile>
             <h2>Table of Contents</h2>
           </v-list-tile>
-          <v-list-tile @click="$router.push('/pattern-course/adultintermediate/chapter' + 1)">[Unit 1] If I were… I would do
+          <v-list-tile @click="$router.push('/pattern-course/adultintermediate/chapter' + 1)">[Unit 1] Just My Imagination
           </v-list-tile>
-          <v-list-tile @click="$router.push('/pattern-course/adultintermediate/chapter' + 2)">[Unit 2] If ~ ,  I will </v-list-tile>
-          <v-list-tile @click="$router.push('/pattern-course/adultintermediate/chapter' + 3)">[Unit 3] What did she tell you ?
+          <v-list-tile @click="$router.push('/pattern-course/adultintermediate/chapter' + 2)">[Unit 2] Possibilities and the General Truth</v-list-tile>
+          <v-list-tile @click="$router.push('/pattern-course/adultintermediate/chapter' + 3)">[Unit 3] What Did She Tell You?
           </v-list-tile>
-          <v-list-tile @click="$router.push('/pattern-course/adultintermediate/chapter' + 4)">[Unit 4] Please, Pardon, May I ?
+          <v-list-tile @click="$router.push('/pattern-course/adultintermediate/chapter' + 4)">[Unit 4] Just Get it Right
           </v-list-tile>
-          <v-list-tile @click="$router.push('/pattern-course/adultintermediate/chapter' + 5)">[Unit 5] I used to~, When I was~
+          <v-list-tile @click="$router.push('/pattern-course/adultintermediate/chapter' + 5)">[Unit 5] Looking Back to the Past
           </v-list-tile>
           <v-list-tile @click="$router.push('/pattern-course/adultintermediate/chapter' + 6)">[Unit 6] Which is Which?</v-list-tile>
-          <v-list-tile @click="$router.push('/pattern-course/adultintermediate/chapter' + 7)">[Unit 7] -est, Most</v-list-tile>
-          <v-list-tile @click="$router.push('/pattern-course/adultintermediate/chapter' + 8)">[Unit 8] How often ?</v-list-tile>
-          <v-list-tile @click="$router.push('/pattern-course/adultintermediate/chapter' + 9)">[Unit 9] Everything, Nothing 1</v-list-tile>
-          <v-list-tile @click="$router.push('/pattern-course/adultintermediate/chapter' + 10)">[Unit 10] Someone, Anyone</v-list-tile>
-          <v-list-tile @click="$router.push('/pattern-course/adultintermediate/chapter' + 11)">[Unit 11] Me and I</v-list-tile>
-          <v-list-tile @click="$router.push('/pattern-course/adultintermediate/chapter' + 12)">[Unit 12] And, But</v-list-tile>
-          <v-list-tile @click="$router.push('/pattern-course/adultintermediate/chapter' + 13)">[Unit 13] Subordinating Conjunctions
-          </v-list-tile>
-          <v-list-tile @click="$router.push('/pattern-course/adultintermediate/chapter' + 14)">[Unit 14] However</v-list-tile>
-          <v-list-tile @click="$router.push('/pattern-course/adultintermediate/chapter' + 15)">[Unit 15] parallelize</v-list-tile>
-          <v-list-tile @click="$router.push('/pattern-course/adultintermediate/chapter' + 16)">[Unit 16] Perfect Tenses</v-list-tile>
-          <v-list-tile @click="$router.push('/pattern-course/adultintermediate/chapter' + 17)">[Unit 17] Perfect Continuous/ Progressive </v-list-tile>
-          <v-list-tile @click="$router.push('/pattern-course/adultintermediate/chapter' + 18)">[Unit 18] Modals 조동사</v-list-tile>
-
+          <v-list-tile @click="$router.push('/pattern-course/adultintermediate/chapter' + 7)">[Unit 7] Choosing the Best</v-list-tile>
+          <v-list-tile @click="$router.push('/pattern-course/adultintermediate/chapter' + 8)">[Unit 8] Daily Routine</v-list-tile>
+          <v-list-tile @click="$router.push('/pattern-course/adultintermediate/chapter' + 9)">[Unit 9] Everything, Nothing</v-list-tile>
+          <v-list-tile @click="$router.push('/pattern-course/adultintermediate/chapter' + 10)">[Unit 10] Everything, Nothing</v-list-tile>
         </v-list>
       </v-list>
     </v-navigation-drawer>
@@ -706,26 +694,26 @@
           <v-list-tile>
             <h2>Table of Contents</h2>
           </v-list-tile>
-          <v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep1/chapter' + 1)">[Unit 1] Nouns (1) 명사</v-list-tile>
-          <v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep1/chapter' + 2)">[Unit 2] Nouns (1) 명사</v-list-tile>
-          <v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep1/chapter' + 3)">[Unit 3] Nouns (1) 명사</v-list-tile>
-          <v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep1/chapter' + 4)">[Unit 4] Nouns (1) 명사</v-list-tile>
-          <v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep1/chapter' + 5)">[Unit 5] Nouns (1) 명사</v-list-tile>
-          <v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep1/chapter' + 6)">[Unit 6] Nouns (1) 명사</v-list-tile>
-          <v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep1/chapter' + 7)">[Unit 7] Nouns (1) 명사</v-list-tile>
-          <v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep1/chapter' + 8)">[Unit 8] Nouns (1) 명사</v-list-tile>
-          <v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep1/chapter' + 9)">[Unit 9] Nouns (1) 명사</v-list-tile>
-          <v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep1/chapter' + 10)">[Unit 10] Nouns (1) 명사</v-list-tile>
-          <v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep1/chapter' + 11)">[Unit 11] Nouns (1) 명사</v-list-tile>
-          <v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep1/chapter' + 12)">[Unit 12] Nouns (1) 명사</v-list-tile>
-          <v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep1/chapter' + 13)">[Unit 13] Nouns (1) 명사</v-list-tile>
-          <v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep1/chapter' + 14)">[Unit 14] Nouns (1) 명사</v-list-tile>
-          <v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep1/chapter' + 15)">[Unit 15] Nouns (1) 명사</v-list-tile>
-          <v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep1/chapter' + 16)">[Unit 16] Nouns (1) 명사</v-list-tile>
-          <v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep1/chapter' + 17)">[Unit 17] Nouns (1) 명사</v-list-tile>
-          <v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep1/chapter' + 18)">[Unit 18] Nouns (1) 명사</v-list-tile>
-          <v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep1/chapter' + 19)">[Unit 19] Nouns (1) 명사</v-list-tile>
-          <v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep1/chapter' + 20)">[Unit 20] Nouns (1) 명사</v-list-tile>
+       <p><v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep1/chapter' + 1)">[Unit 1] Meeting People</v-list-tile></p>
+       <p><v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep1/chapter' + 2)">[Unit 2] Saying where you’re from</v-list-tile></p>
+       <p><v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep1/chapter' + 3)">[Unit 3] Meeting People</v-list-tile></p>
+       <p><v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep1/chapter' + 4)">[Unit 4] Telephone numbers and email addresses</v-list-tile></p>
+       <p><v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep1/chapter' + 5)">[Unit 5] Asking about timetables</v-list-tile></p>
+       <p><v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep1/chapter' + 6)">[Unit 6] Buying food</v-list-tile></p>
+       <p><v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep1/chapter' + 7)">[Unit 7] Talking about your job</v-list-tile></p>
+       <p><v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep1/chapter' + 8)">[Unit 8] Describing a company</v-list-tile></p>
+       <p><v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep1/chapter' + 9)">[Unit 9] Talking about daily routines</v-list-tile></p>
+       <p><v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep1/chapter' + 10)">[Unit 10] Coping with difficult language</v-list-tile></p>
+       <p><v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep1/chapter' + 11)">[Unit 11] Coping with Difficult Language</v-list-tile></p>
+       <p><v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep1/chapter' + 12)">[Unit 12] Using the Internet</v-list-tile></p>
+       <p><v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep1/chapter' + 13)">[Unit 13] Asking About Business Facilities</v-list-tile></p>
+       <p><v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep1/chapter' + 14)">[Unit 14] Asking For and Giving Directions.</v-list-tile></p>
+       <p><v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep1/chapter' + 15)">[Unit 15] Talking About Your Home</v-list-tile></p>
+       <p><v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep1/chapter' + 16)">[Unit 16] Talking About Life at Work</v-list-tile></p>
+       <p><v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep1/chapter' + 17)">[Unit 17] Saying What You’re Doing at the Moment</v-list-tile></p>
+       <p><v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep1/chapter' + 18)">[Unit 18] Saying What You Do in Your Spare Time</v-list-tile></p>
+       <p><v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep1/chapter' + 19)">[Unit 19] Arranging To Meet</v-list-tile></p>
+       <p><v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep1/chapter' + 20)">[Unit 20] Discussing Future Arrangements</v-list-tile></p>
         </v-list>
       </v-list>
     </v-navigation-drawer>
@@ -812,8 +800,26 @@
           <v-list-tile>
             <h2>Table of Contents</h2>
           </v-list-tile>
-          <v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep2/chapter' + n)" v-for="n in 20" :key="n">Chapter {{n}}</v-list-tile>
-          <v-list-tile @click="$router.push('/pattern-course/adultbasic/chapter' + 1)">[Unit 1] Nouns (1) 명사</v-list-tile>
+          <v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep2/chapter' + 1)">[Unit 1] Buying train tickets</v-list-tile>
+          <v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep2/chapter' + 2)">[Unit 2] Talking about past events</v-list-tile>
+          <v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep2/chapter' + 3)">[Unit 3] Giving an update</v-list-tile>
+          <v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep2/chapter' + 4)">[Unit 4] Talking about holidays</v-list-tile>
+          <v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep2/chapter' + 5)">[Unit 5] Exchanging information by email</v-list-tile>
+          <v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep2/chapter' + 6)">[Unit 6] Making telephone calls</v-list-tile>
+          <v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep2/chapter' + 7)">[Unit 7] Talking about the weather and climate 1</v-list-tile>
+          <v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep2/chapter' + 8)">[Unit 8] Talking about the weather and climate 2</v-list-tile>
+          <v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep2/chapter' + 9)">[Unit 9] Making comparisons</v-list-tile>
+          <v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep2/chapter' + 10)">[Unit 10] Making choices</v-list-tile>
+          <v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep2/chapter' + 11)">[Unit 11] Checking in for a flight</v-list-tile>
+          <v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep2/chapter' + 12)">[Unit 12] Making plans 1</v-list-tile>
+          <v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep2/chapter' + 13)">[Unit 13] Making plans 2</v-list-tile>
+          <v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep2/chapter' + 14)">[Unit 14] Describing plans 1</v-list-tile>
+          <v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep2/chapter' + 15)">[Unit 15] Describing plans 2 </v-list-tile>
+          <v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep2/chapter' + 16)">[Unit 16] Staying at a hotel</v-list-tile>
+          <v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep2/chapter' + 17)">[Unit 17] Discussing how business is going</v-list-tile>
+          <v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep2/chapter' + 18)">[Unit 18] Discussing sales and orders</v-list-tile>
+          <v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep2/chapter' + 19)">[Unit 19] Shopping 1</v-list-tile>
+          <v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep2/chapter' + 20)">[Unit 20] Shopping 2</v-list-tile>
         </v-list>
       </v-list>
     </v-navigation-drawer>
@@ -900,7 +906,26 @@
           <v-list-tile>
             <h2>Table of Contents</h2>
           </v-list-tile>
-          <v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep3/chapter' + n)" v-for="n in 20" :key="n">Chapter {{n}}</v-list-tile>
+          <v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep3/chapter' + 1)">[Unit 1] Talking about your job</v-list-tile>
+          <v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep3/chapter' + 2)">[Unit 2] Talking about products and services</v-list-tile>
+          <v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep3/chapter' + 3)">[Unit 3] Eating out</v-list-tile>
+          <v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep3/chapter' + 4)">[Unit 4] Discussing work in progress</v-list-tile>
+          <v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep3/chapter' + 5)">[Unit 5] Discussing strengths and weaknesses</v-list-tile>
+          <v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep3/chapter' + 6)">[Unit 6] Talking about your interests</v-list-tile>
+          <v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep3/chapter' + 7)">[Unit 7] Comparing offers</v-list-tile>
+          <v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep3/chapter' + 8)">[Unit 8] Discussing strengths and weaknesses 1</v-list-tile>
+          <v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep3/chapter' + 9)">[Unit 9] Describing places</v-list-tile>
+          <v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep3/chapter' + 10)">[Unit 10] Discussing past performance</v-list-tile>
+          <v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep3/chapter' + 11)">[Unit 11] Discussing past projects</v-list-tile>
+          <v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep3/chapter' + 12)">[Unit 12] Talking about weekend</v-list-tile>
+          <v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep3/chapter' + 13)">[Unit 13] Making arrangements</v-list-tile>
+          <v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep3/chapter' + 14)">[Unit 14] Confirming arrangements</v-list-tile>
+          <v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep3/chapter' + 15)">[Unit 15] Sightseeing</v-list-tile>
+          <v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep3/chapter' + 16)">[Unit 16] Forecasting</v-list-tile>
+          <v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep3/chapter' + 17)">[Unit 17] Discussing aims</v-list-tile>
+          <v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep3/chapter' + 18)">[Unit 18] Confirming arrangements</v-list-tile>
+          <v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep3/chapter' + 19)">[Unit 19] Talking about your education and career</v-list-tile>
+          <v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep3/chapter' + 20)">[Unit 20] Giving an update</v-list-tile>
         </v-list>
       </v-list>
     </v-navigation-drawer>
@@ -987,7 +1012,26 @@
           <v-list-tile>
             <h2>Table of Contents</h2>
           </v-list-tile>
-          <v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep4/chapter' + n)" v-for="n in 20" :key="n">Chapter {{n}}</v-list-tile>
+          <v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep4/chapter' + 1)">[Unit 1] Discussing interesting experience</v-list-tile>
+          <v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep4/chapter' + 2)">[Unit 2] Understanding business news</v-list-tile>
+          <v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep4/chapter' + 3)">[Unit 3] Talking about the economy</v-list-tile>
+          <v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep4/chapter' + 4)">[Unit 4] Discussing what’s on TV 1</v-list-tile>
+          <v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep4/chapter' + 5)">[Unit 5] Discussing what’s on TV 2</v-list-tile>
+          <v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep4/chapter' + 6)">[Unit 6] Describing a business concept 1</v-list-tile>
+          <v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep4/chapter' + 7)">[Unit 7] Describing a business concept 2</v-list-tile>
+          <v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep4/chapter' + 8)">[Unit 8] Discussing strategies</v-list-tile>
+          <v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep4/chapter' + 9)">[Unit 9] Using the Internet</v-list-tile>
+          <v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep4/chapter' + 10)">[Unit 10] Discussing ideas</v-list-tile>
+          <v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep4/chapter' + 11)">[Unit 11] Making decisions 1</v-list-tile>
+          <v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep4/chapter' + 12)">[Unit 12] Making decisions 2</v-list-tile>
+          <v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep4/chapter' + 13)">[Unit 13] Dealing with problems</v-list-tile>
+          <v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep4/chapter' + 14)">[Unit 14] Describing how things work</v-list-tile>
+          <v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep4/chapter' + 15)">[Unit 15] Discussing safety procedures</v-list-tile>
+          <v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep4/chapter' + 16)">[Unit 16] Using tourist facilities</v-list-tile>
+          <v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep4/chapter' + 17)">[Unit 17] Attending meetings</v-list-tile>
+          <v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep4/chapter' + 18)">[Unit 18] Passing on information 1</v-list-tile>
+          <v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep4/chapter' + 19)">[Unit 19] Passing on information 2</v-list-tile>
+          <v-list-tile @click="$router.push('/PrototypeBusiness/BusinessStep4/chapter' + 20)">[Unit 20] Welcoming visitors</v-list-tile>
         </v-list>
       </v-list>
     </v-navigation-drawer>
@@ -1056,7 +1100,7 @@
             <img src="http://cdn.onlinewebfonts.com/svg/img_97686.png">
           </v-list-tile-avatar>
           <v-list-tile-content>
-            <v-list-tile-title>Dialogue Books</v-list-tile-title>
+            <v-list-tile-title>Daily Dialogues</v-list-tile-title>
           </v-list-tile-content>
         </v-list-tile>
       </v-list>
@@ -1110,7 +1154,7 @@
     </v-navigation-drawer>
     <v-toolbar app :fixed="toolbar.fixed" :clipped-left="toolbar.clippedLeft" style="background-color: #BC8462;">
       <v-toolbar-side-icon @click.stop="drawer = !drawer"></v-toolbar-side-icon>
-      <v-toolbar-title style="margin-left: 0px; margin-right: 5px;">Dialogue Books Level 1 - Step 1</v-toolbar-title>
+      <v-toolbar-title style="margin-left: 0px; margin-right: 5px;">Daily Dialogues</v-toolbar-title>
       <v-spacer></v-spacer>
       <template v-if="speechSlot" #extension>
         <v-container>
@@ -1200,7 +1244,7 @@
     </v-navigation-drawer>
     <v-toolbar app :fixed="toolbar.fixed" :clipped-left="toolbar.clippedLeft" style="background-color: #84a9ac;">
       <v-toolbar-side-icon @click.stop="drawer = !drawer"></v-toolbar-side-icon>
-      <v-toolbar-title style="margin-left: 0px; margin-right: 5px;">Dialogue Books Level 2 - Step 2</v-toolbar-title>
+      <v-toolbar-title style="margin-left: 0px; margin-right: 5px;">Daily Dialogues</v-toolbar-title>
       <v-spacer></v-spacer>
       <template v-if="speechSlot" #extension>
         <v-container>
@@ -2270,33 +2314,33 @@
           <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 21)">[Unit 21] Friends</v-list-tile>
           <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 22)">[Unit 22] University Students</v-list-tile>
           <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 23)">[Unit 23] Babies</v-list-tile>
-          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 24)">[Unit 24] Family</v-list-tile>
-          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 25)">[Unit 25] Family</v-list-tile>
-          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 26)">[Unit 26] Family</v-list-tile>
-          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 27)">[Unit 27] Family</v-list-tile>
-          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 28)">[Unit 28] Family</v-list-tile>
-          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 29)">[Unit 29] Family</v-list-tile>
-          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 30)">[Unit 30] Family</v-list-tile>
-          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 31)">[Unit 31] Family</v-list-tile>
-          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 32)">[Unit 32] Family</v-list-tile>
-          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 33)">[Unit 33] Family</v-list-tile>
-          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 34)">[Unit 34] Family</v-list-tile>
-          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 35)">[Unit 35] Family</v-list-tile>
-          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 36)">[Unit 36] Family</v-list-tile>
-          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 37)">[Unit 37] Family</v-list-tile>
-          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 38)">[Unit 38] Family</v-list-tile>
-          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 39)">[Unit 39] Family</v-list-tile>
-          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 40)">[Unit 40] Family</v-list-tile>
-          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 41)">[Unit 41] Family</v-list-tile>
-          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 42)">[Unit 42] Family</v-list-tile>
-          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 43)">[Unit 43] Family</v-list-tile>
-          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 44)">[Unit 44] Family</v-list-tile>
-          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 45)">[Unit 45] Family</v-list-tile>
-          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 46)">[Unit 46] Family</v-list-tile>
-          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 47)">[Unit 47] Family</v-list-tile>
-          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 48)">[Unit 48] Family</v-list-tile>
-          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 49)">[Unit 49] Family</v-list-tile>
-          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 50)">[Unit 50] Family</v-list-tile>
+          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 24)">[Unit 24] Rice</v-list-tile>
+          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 25)">[Unit 25] Credit and Debit Card</v-list-tile>
+          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 26)">[Unit 26] Typical Weather</v-list-tile>
+          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 27)">[Unit 27] Korean Old and New House</v-list-tile>
+          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 28)">[Unit 28] Women in Shape</v-list-tile>
+          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 29)">[Unit 29] Currency</v-list-tile>
+          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 30)">[Unit 30] Video Game</v-list-tile>
+          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 31)">[Unit 31] Karaoke</v-list-tile>
+          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 32)">[Unit 32] Online English Study</v-list-tile>
+          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 33)">[Unit 33] Risk of Smoking</v-list-tile>
+          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 34)">[Unit 34] Futuristic Car</v-list-tile>
+          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 35)">[Unit 35] Submarine Volcano</v-list-tile>
+          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 36)">[Unit 36] Skyrocketed Heels</v-list-tile>
+          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 37)">[Unit 37] Gold Investment</v-list-tile>
+          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 38)">[Unit 38] Seafoood</v-list-tile>
+          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 39)">[Unit 39] The Enemy's Affection</v-list-tile>
+          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 40)">[Unit 40] Rice</v-list-tile>
+          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 41)">[Unit 41] Korean Girls</v-list-tile>
+          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 42)">[Unit 42] Golf Course</v-list-tile>
+          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 43)">[Unit 43] Beauty Pageant</v-list-tile>
+          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 44)">[Unit 44] The Beach House</v-list-tile>
+          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 45)">[Unit 45] The Hero</v-list-tile>
+          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 46)">[Unit 46] The Palace Guard</v-list-tile>
+          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 47)">[Unit 47] Crustacean Family</v-list-tile>
+          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 48)">[Unit 48] The Red Carpet</v-list-tile>
+          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 49)">[Unit 49] Bridges in the World</v-list-tile>
+          <v-list-tile @click="$router.push('/Freetalking-Description/Freetalking-Description-Level1/chapter' + 50)">[Unit 50] An Italian Restaurant</v-list-tile>
         </v-list>
       </v-list>
     </v-navigation-drawer>
@@ -2843,11 +2887,11 @@
           <v-list-tile>
             <h2>Table of Contents</h2>
           </v-list-tile>
-          <v-list-tile @click="$router.push('/IT-Issues/IT-Issues1/chapter' + 1)">[Unit 1] Artificial Intelligence</v-list-tile>
-          <v-list-tile @click="$router.push('/IT-Issues/IT-Issues1/chapter' + 2)">[Unit 2] Artificial Intelligence</v-list-tile>
-          <v-list-tile @click="$router.push('/IT-Issues/IT-Issues1/chapter' + 3)">[Unit 3] Artificial Intelligence</v-list-tile>
-          <v-list-tile @click="$router.push('/IT-Issues/IT-Issues1/chapter' + 4)">[Unit 4] Big Data</v-list-tile>
-          <v-list-tile @click="$router.push('/IT-Issues/IT-Issues1/chapter' + 5)">[Unit 5] loT</v-list-tile>
+          <v-list-tile @click="$router.push('/IT-Issues/IT-Issues1/chapter' + 1)">[Unit 1] Sharpening Blurry Faces with AI</v-list-tile>
+          <v-list-tile @click="$router.push('/IT-Issues/IT-Issues1/chapter' + 2)">[Unit 2] Artificial Brain Synapses</v-list-tile>
+          <v-list-tile @click="$router.push('/IT-Issues/IT-Issues1/chapter' + 3)">[Unit 3] Big Data, Big Impact</v-list-tile>
+          <v-list-tile @click="$router.push('/IT-Issues/IT-Issues1/chapter' + 4)">[Unit 4] The Future of Big Data</v-list-tile>
+          <v-list-tile @click="$router.push('/IT-Issues/IT-Issues1/chapter' + 5)">[Unit 5] Benefits of IoT Data Analytics</v-list-tile>
         </v-list>
       </v-list>
     </v-navigation-drawer>
@@ -3162,6 +3206,45 @@ changeSpeechRate(selected){
 .unit a{
   height: 20px;
 
+}
+
+.unit1 a{
+  height: 35px;
+
+}
+
+::-webkit-scrollbar {
+  width: 2px;
+  height: 2px;
+}
+::-webkit-scrollbar-button {
+  width: 0px;
+  height: 0px;
+}
+::-webkit-scrollbar-thumb {
+  background: #666666;
+  border: 0px none #ffffff;
+  border-radius: 50px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #666666;
+}
+::-webkit-scrollbar-thumb:active {
+  background: #666666;
+}
+::-webkit-scrollbar-track {
+  background: #f5f5f5;
+  border: 0px none #ffffff;
+  border-radius: 50px;
+}
+::-webkit-scrollbar-track:hover {
+  background: #ffffff;
+}
+::-webkit-scrollbar-track:active {
+  background: #ffffff;
+}
+::-webkit-scrollbar-corner {
+  background: transparent;
 }
 
 

@@ -18,7 +18,7 @@
         width: 100%;
         padding-top : 10px;
         padding-left : 10px;
-        padding-bottom: 10px;">Talking about daily routines (Present simple: negative)
+        padding-bottom: 10px;">Talking about daily routines 
       </h1>
     </v-layout>
   </v-img>
@@ -28,29 +28,25 @@
   <h3  class = "border white--text" >Today's topic</h3>
   <div style = "padding : 16px;">
 
-    <div style=" border-color: #43464C; border-style: solid; border-width: 2px;">
-    </div>
-    <h3  class = "border white--text" >Today's topic</h3>
-    <div style = "padding : 16px;">
   
       <table style = "border-collapse: collapse;">
     
-        <tr v-for="dialog in dialogs">
+        <tr v-for="dialog in dialogs" :key="dialog">
           <td class = "uppertable" >{{dialog.name}}</td>
           <td class = "lowertable" >{{dialog.speech}}</td>
         </tr>
   
       </table>
   
+
+      <div style="margin-left: -18px; margin-right: -18px; margin-top: 10px; border-color: #43464C; border-style: solid; border-width: 2px;">
     </div>
-      <div style="margin-left: -18px; margin-right: -18px; margin-top: 10px; border-color: #899857; border-style: solid; border-width: 2px;">
-      </div>
-      <h3 class = "border" style="padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 10px; margin-top: 0px; background-color: #899857;">Translation</h3>
-      <div style="padding : 16px;">
+    <h3 class = "border white--text" style="padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 10px; margin-top: 0px; background-color: #43464C;">Translation</h3>
+    <div style="padding : 16px;">
   
         <table style = "border-collapse: collapse;">
   
-          <tr v-for="translation in translations">
+          <tr v-for="translation in translations" :key="translation">
             <td class = "uppertable" >{{translation.name}}</td>
             <td class = "lowertable" >{{translation.speech}}</td>
           </tr>
@@ -137,8 +133,6 @@
 
   </v-layout>
 </v-container>
-</v-layout>
-</v-container>
 </div>
 
 
@@ -190,11 +184,11 @@ export default {
         },
         {
           name:'A:',
-          speech:'We start at seven thirty.'
+          speech:'We start at seven-thirty.'
         },
         {
           name:'B:',
-          speech:'Seven thirty!'
+          speech:'Seven-thirty!'
         },
         {
           name:'A:',
@@ -237,7 +231,7 @@ export default {
         },
         {
           name:'B:',
-          speech:'아, 네, 그러세요. 8시 5분입니다. 저한텐 늦지 않았어요, 아직 일러요!'
+          speech:'아, 네, 그래요. 8시 5분입니다. 저한텐 늦지 않았어요, 아직 일러요!'
         },
         {
           name:'A:',
@@ -249,7 +243,7 @@ export default {
         },
         {
           name:'A:',
-          speech:'7시 30분에 시작해요.'
+          speech:'우리는 7시 30분에 시작해요.'
         },
         {
           name:'B:',
@@ -269,7 +263,7 @@ export default {
         },
         {
           name:'B:',
-          speech:'안돼요!'
+          speech:'말도 안돼요!'
         },
         ]
 
@@ -311,11 +305,6 @@ p{
 
 h3{
   padding-top: 7px;
-
-}
-
-li{
-
 
 }
 

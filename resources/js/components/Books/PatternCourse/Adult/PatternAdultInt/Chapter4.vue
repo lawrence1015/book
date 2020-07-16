@@ -32,7 +32,7 @@
   <h2 style="padding-top : 10px;  padding-left : 15px; padding-bottom: 10px;">Preview</h2>
 
   <hr width="60%">
-  <div style="padding : 15px;">
+  <div style="padding : 15px; line-height: 200%;">
 
 
     <p>
@@ -60,9 +60,6 @@
 
     </p>
 
-
-
- 
 
 
   <h2 style="margin-left: -30px;
@@ -143,7 +140,7 @@ border-radius: 30px;">Activity
 
   <table style = "border-collapse: collapse;">
 
-    <tr v-for="dialog in dialogs">
+    <tr v-for="dialog in dialogs" :key="dialog">
       <td class = "uppertable" >{{dialog.name}}</td>
       <td class = "lowertable" >{{dialog.speech}}</td>
     </tr>
@@ -300,7 +297,7 @@ border-radius: 30px;">Translation
 
   <table style = "border-collapse: collapse;">
 
-    <tr v-for="translation in translations">
+    <tr v-for="translation in translations" :key="translation">
       <td class = "uppertable" >{{translation.name}}</td>
       <td class = "lowertable" >{{translation.speech}}</td>
     </tr>
@@ -455,10 +452,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

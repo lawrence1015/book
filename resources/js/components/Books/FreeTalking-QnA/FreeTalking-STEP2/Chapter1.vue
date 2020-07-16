@@ -6,7 +6,7 @@
 
   <v-layout column>
     <v-img
-           src="https://marketplace.canva.com/-eTGw/MAD3KT-eTGw/1/s2/canva-man-in-blue-jacket-holding-green-plants-and-red-apple-MAD3KT-eTGw.jpg">
+           src="https://marketplace.canva.com/MADFFNW3Q2w/1/screen_2x/canva-woman-blowing-bubbles-MADFFNW3Q2w.jpg">
 
         <v-layout
         align-end

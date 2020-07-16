@@ -33,7 +33,7 @@
                padding-bottom: 10px;">Preview</h2>
 
   <hr width="60%">
-  <div style="padding : 15px;">
+  <div style="padding : 15px; line-height: 200%;">
 
 
 <p>
@@ -182,13 +182,13 @@
 <h3 style="padding-top: 15px;">C. Pattern Exercise: Talk about your future plans. Remember to use the featured pattern.
 </h3>
 
-<p>
+<br>
 <hr />
 <br />
 <hr />
 <br />
 <hr />
-</p>
+
 
 </div>
 
@@ -223,8 +223,6 @@
 
        </v-layout>
      </v-container>
-  </v-layout>
-  </v-container>
 </div>
 
 
@@ -283,10 +281,7 @@ h3{
 
 }
 
-li{
 
-
-}
 
 body{
 

@@ -37,6 +37,13 @@
         The scuba diver is enjoying with marine creatures underwater.
       </h3>   
 
+
+      <p>
+        <h4>물고기의 종류는 다양하다.</h4>
+      </p>
+        <h4>스쿠버 다이버가 바다 생물들과 물속에서 즐기고 있다.</h4>
+
+
       <div style="margin-left: -18px; margin-right: -18px; margin-top: 10px; border-color: #543864; border-style: solid; border-width: 2px;">
       </div>
       <h3 class = "border white--text" style="border-radius: 0px 0px 70px 0px; padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 2px; margin-top: 0px;">Suggested Vocabulary</h3>
@@ -55,7 +62,7 @@
         </p>
 
         <p>
-          <b>explore답사[탐사/탐험]하다, 탐구[분석]하다, 더듬어 보다[살피다]</b>
+          <b>Explore 답사[탐사/탐험]하다, 탐구[분석]하다, 더듬어 보다[살피다]</b>
         </p>
 
       </div>
@@ -79,6 +86,31 @@
                         Have you tried scuba diving?<br />
                         <br />
                         Why do people like to explore underwater? 
+                      </b>
+                    </p>
+                  </v-card-text>
+                </v-card>
+              </v-flex>
+            </v-layout>
+          </v-container>
+
+        </p>
+
+
+        <p>
+
+          <v-container grid-list-md text-xs-left>
+            <v-layout row wrap>
+
+
+              <v-flex xs12>
+                <v-card light color="#ffbd69">
+                  <v-card-text class="px-10">
+                    <p>
+                      <b>
+                        스쿠버 다이빙 해보셨어요?<br />
+                        <br />
+                        왜 사람들은 물속에서 탐험하는 것을 좋아하는가?
                       </b>
                     </p>
                   </v-card-text>

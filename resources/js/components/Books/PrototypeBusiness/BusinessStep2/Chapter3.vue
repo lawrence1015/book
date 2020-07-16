@@ -18,7 +18,7 @@
         width: 100%;
         padding-top : 10px;
         padding-left : 10px;
-        padding-bottom: 10px;">Giving an update (Past simple:regular verbs)
+        padding-bottom: 10px;">Giving an update
       </h1>
     </v-layout>
   </v-img>

@@ -30,12 +30,17 @@
   <div style = "padding : 16px;">
 
       <h3>
-        The students are having group study outside the school.
+        The students are having a group study outside the school.
       </h3>
 
       <h3>
         They are exchanging views and ideas.
       </h3>
+
+      <p>
+        <h4>학생들이 학교 밖에서 그룹 스터디를 하고 있다.</h4>
+      </p>
+        <h4>그들은 의견과 아이디어를 교환하고 있다.</h4>
 
       <div style="margin-left: -18px; margin-right: -18px; margin-top: 10px; border-color: #543864; border-style: solid; border-width: 2px;">
       </div>
@@ -47,15 +52,15 @@
         </p>
 
         <p>
-          <b>View견해[생각/의견/태도], 관점, -관, 시야, 눈앞, 경관[전망]</b>
+          <b>View 견해[생각/의견/태도], 관점, -관, 시야, 눈앞, 경관[전망]</b>
         </p>
 
         <p>
-          <b>Discussion논의, 상의, 논한 것, 논고</b>
+          <b>Discussion 논의, 상의, 논한 것, 논고</b>
         </p>
 
         <p>
-          <b>Exchange교환, 주고받음, 맞바꿈, 얘기를 나눔, 대화; 말싸움, 언쟁</b>
+          <b>Exchange 교환, 주고받음, 맞바꿈, 얘기를 나눔, 대화; 말싸움, 언쟁</b>
         </p>
 
 
@@ -77,7 +82,7 @@
                   <v-card-text class="px-10">
                     <p>
                       <b>
-                        Do you study alone or study with the group?<br />
+                        Do you study alone or study with a group?<br />
                         <br />
                         How's your life as a student in university?
                       </b>
@@ -90,6 +95,29 @@
 
         </p>
 
+        <p>
+
+          <v-container grid-list-md text-xs-left>
+            <v-layout row wrap>
+
+
+              <v-flex xs12>
+                <v-card light color="#ffbd69">
+                  <v-card-text class="px-10">
+                    <p>
+                      <b>
+                        너는 혼자 공부하니 아니면 그룹과 공부하니?<br />
+                        <br />
+                        대학에서의 학생 생활은 어떠세요?
+                      </b>
+                    </p>
+                  </v-card-text>
+                </v-card>
+              </v-flex>
+            </v-layout>
+          </v-container>
+
+        </p>
 
       </div>
 

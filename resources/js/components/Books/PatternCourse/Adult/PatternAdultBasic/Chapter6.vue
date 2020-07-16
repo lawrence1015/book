@@ -33,7 +33,7 @@
                padding-bottom: 10px;">Preview</h2>
 
   <hr width="60%">
-  <div style="padding : 15px;">
+  <div style="padding : 15px; line-height: 200%;">
 
 
 <p>
@@ -106,7 +106,7 @@
 
 <table style = "border-collapse: collapse;">
     
-  <tr v-for="dialog in dialogs">
+  <tr v-for="dialog in dialogs" :key="dialog">
     <td class = "uppertable" >{{dialog.name}}</td>
     <td class = "lowertable" >{{dialog.speech}}</td>
   </tr>
@@ -185,7 +185,7 @@
 <div style="padding-top : 16px; padding-bottom : 16px; padding-left : 10px; padding-right : 10px;">
   <table style = "border-collapse: collapse;">
 
-    <tr v-for="translation in translations">
+    <tr v-for="translation in translations" :key="translation">
       <td class = "uppertable" >{{translation.name}}</td>
       <td class = "lowertable" >{{translation.speech}}</td>
     </tr>
@@ -507,10 +507,6 @@
    </ol>
   </p>
 
-</p>
-
-
-
 </div>
 
 
@@ -520,8 +516,6 @@
 
        </v-layout>
      </v-container>
-  </v-layout>
-  </v-container>
 </div>
 
 
@@ -624,10 +618,7 @@ h3{
 
 }
 
-li{
 
-
-}
 
 body{
 

@@ -31,7 +31,7 @@
           <h2 style="padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Today's topic</h2>
 
   <hr width="60%">
-               <div style="padding : 10px;">
+               <div style="padding : 10px; line-height: 200%;">
 
                  <h2>Pattern 1 |</h2>
                   <br />
@@ -201,10 +201,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

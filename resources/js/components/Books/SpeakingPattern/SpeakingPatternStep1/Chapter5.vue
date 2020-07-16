@@ -31,7 +31,7 @@
           <h2 style="padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Today's topic</h2>
 
   <hr width="60%">
-               <div style="padding : 10px;">
+               <div style="padding : 10px; line-height: 200%;">
 
                  <h2>Pattern 5 | </h2>
                   <br />
@@ -136,8 +136,8 @@
           </v-card>
         </v-flex>
       </v-layout>
-  </v-container
-        <br />
+  </v-container>
+        
 
 </div>
 
@@ -197,11 +197,6 @@ p{
 
 h3{
   padding-top: 7px;
-
-}
-
-li{
-
 
 }
 

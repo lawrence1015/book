@@ -11,7 +11,7 @@
         width: 100%;
         padding-top : 10px;
         padding-left : 10px;
-        padding-bottom: 10px;">Discussing what’s on TV 2 (Television programs)
+        padding-bottom: 10px;">Discussing what’s on TV 2
                     </h1>
                 </v-layout>
             </v-img>
@@ -124,8 +124,6 @@
 
         </v-layout>
     </v-container>
-    </v-layout>
-    </v-container>
 </div>
 </template>
 
@@ -178,11 +176,6 @@ p{
 
 h3{
   padding-top: 7px;
-
-}
-
-li{
-
 
 }
 

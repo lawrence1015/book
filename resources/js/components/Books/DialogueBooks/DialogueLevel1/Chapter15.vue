@@ -24,7 +24,7 @@
   </v-img>
 
   <hr style="border: 3px solid rgba(32, 64, 81, 1);" width="100%">
-  <h3 style="padding-top : 10px;  padding-left : 15px; padding-bottom: 10px;">Dialogue ( 선생님의 안내에 따라 문장을 읽어 주세요 )</h3>
+  <h3 style="padding-top : 10px;  padding-left : 15px; padding-bottom: 10px;">Dialogue <br>( 선생님의 안내에 따라 문장을 읽어 주세요 )</h3>
   <hr width="60%">
   <div style = "padding : 16px;">
 
@@ -32,7 +32,7 @@
 
       <table style = "border-collapse: collapse;">
 
-        <tr v-for="dialog in dialogs">
+        <tr v-for="dialog in dialogs" :key="dialog">
           <td class = "uppertable" >{{dialog.name}}</td>
           <td class = "lowertable" >{{dialog.speech}}</td>
         </tr>
@@ -66,7 +66,7 @@
                 (John은 부인과 두 명의 아이들이 있습니다. 그의 부인은 매우 매력적입니다.)
           </li>
           <li>
-              Jim and Jack <u> &emsp; &emsp; &emsp; </u> a van <u> &emsp; &emsp; &emsp; </u> use it for &emsp; &emsp; &emsp; </u> business. <br />
+              Jim and Jack <u> &emsp; &emsp; &emsp; </u> a van <u> &emsp; &emsp; &emsp; </u> use it for <u> &emsp; &emsp; &emsp; </u> business. <br />
                 (Jim과 Jack은 벤이 있습니다. 그들은 그것을 그들의 일을 위해 사용합니다.)
           </li>
         </ol>
@@ -96,7 +96,7 @@
 
         <table style = "border-collapse: collapse;">
 
-          <tr v-for="translation in translations">
+          <tr v-for="translation in translations" :key="translation">
             <td class = "uppertable" >{{translation.name}}</td>
             <td class = "lowertable" >{{translation.speech}}</td>
           </tr>
@@ -333,10 +333,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

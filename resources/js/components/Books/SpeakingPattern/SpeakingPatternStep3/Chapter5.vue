@@ -31,7 +31,7 @@
           <h2 style="padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Today's topic</h2>
 
   <hr width="60%">
-               <div style="padding : 10px;">
+               <div style="padding : 10px; line-height: 200%;">
 
                  <h2>Pattern 45 | </h2>
                   <br />
@@ -56,12 +56,13 @@
 <div style="padding-top : 10px; padding-bottom : 2px;">
 
           <br />
-          <p style="line-height: 2;"
+          <p style="line-height: 2;">
             A : It’ll be fun to fix up this old house.<br />
             B : <b>난 얼른 시작하고 싶어.</b><br />
             A : We should start with the roof.<br />
             B : I’ll get a repair estimate.
           </p>
+          
           <p style="line-height: 2;">
             A : 이 오래된 집을 고치는 건 재미있을 거야.<br />
             B : <mark style="background-color: #a7d7c5; color: #d9e7cd;">I’m dying to get started.</mark><br />
@@ -205,11 +206,6 @@ p{
 
 h3{
   padding-top: 7px;
-
-}
-
-li{
-
 
 }
 

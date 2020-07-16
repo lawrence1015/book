@@ -18,7 +18,7 @@
         width: 100%;
         padding-top : 10px;
         padding-left : 10px;
-        padding-bottom: 10px;">Checking in for a flight (Countable and uncountable nouns some/any/no)
+        padding-bottom: 10px;">Checking in for a flight
       </h1>
     </v-layout>
   </v-img>
@@ -150,8 +150,6 @@
 
 </v-layout>
 </v-container>
-</v-layout>
-</v-container>
 </div>
 
 
@@ -210,10 +208,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

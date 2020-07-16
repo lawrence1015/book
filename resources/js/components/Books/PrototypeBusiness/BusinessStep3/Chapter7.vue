@@ -18,7 +18,7 @@
         width: 100%;
         padding-top : 10px;
         padding-left : 10px;
-        padding-bottom: 10px;">Comparing offers (Comparatives)
+        padding-bottom: 10px;">Comparing offers 
       </h1>
     </v-layout>
   </v-img>
@@ -28,8 +28,8 @@
   <h3  class = "border white--text" >Today's topic</h3>
   <div style = "padding : 16px;">
 
-   <p>
-      <li style="list-style-type: none;">Lionel:   Marilyn, these are both top quality products! The quality’s the same.</li>
+  
+      <li style = "margin-top: 10px; list-style-type: none;">Lionel:   Marilyn, these are both top quality products! The quality’s the same.</li>
       <li style="list-style-type: none;">Marilyn:  I know. But they don’t look the same. The one from Gild looks like a modern vacuum cleaner. This Aero…</li>
       <li style="list-style-type: none;">Lionel:   Aerosaurus.</li>
       <li style="list-style-type: none;">Marilyn: Yeah. It looks like something from the 1960s.</li>
@@ -43,7 +43,7 @@
       <li style="list-style-type: none;">Marilyn: We can make a bigger margin, but we can only make a good profit if we sell enough vacuum cleaners.
                                          How many of these Aero…sauruses can we sell? I mean, look at it. It looks like a dinosaur!</li>
       <li style="list-style-type: none;">Lionel:   Of course it does! That’s why people will love it! Just listen to it!</li>
-   </p>
+   
 
       <div style="margin-left: -18px; margin-right: -18px; margin-top: 10px; border-color:#402B24; border-style: solid; border-width: 2px;">
       </div>
@@ -120,8 +120,6 @@
 
   </v-layout>
 </v-container>
-</v-layout>
-</v-container>
 </div>
 
 
@@ -177,11 +175,6 @@ p{
 
 h3{
   padding-top: 7px;
-
-}
-
-li{
-
 
 }
 

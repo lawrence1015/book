@@ -30,14 +30,14 @@
           <h2 style="padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Today's topic</h2>
 
   <hr width="60%">
-               <div style="padding : 10px;">
+               <div style="padding : 10px; line-height: 200%;">
 
                  <h2>Pattern 8 |  </h2>
                   <br />
                   <h3>What do you think of…?</h3>
                     <br />
                     <p>
-                    내 신발 어때? 처럼 어떤 대상이나 사물에 대한 상대방의 느낌이나 생각을 묻고 싶을 때< What do you think of + 묻고자 하는 대상/사물> 과 같이 쓸 수 있다. ‘어떻게’라는 우리 말 때문에 How를 쓰지 않도록 주의하자.
+                    내 신발 어때? 처럼 어떤 대상이나 사물에 대한 상대방의 느낌이나 생각을 묻고 싶을 때&lt; What do you think of + 묻고자 하는 대상/사물&gt; 과 같이 쓸 수 있다. ‘어떻게’라는 우리 말 때문에 How를 쓰지 않도록 주의하자.
                     </p>
                     <br />
 
@@ -199,10 +199,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

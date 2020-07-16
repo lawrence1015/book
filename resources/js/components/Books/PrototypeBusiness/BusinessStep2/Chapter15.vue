@@ -18,7 +18,7 @@
         width: 100%;
         padding-top : 10px;
         padding-left : 10px;
-        padding-bottom: 10px;">Describing plans 2 (Future with going to)
+        padding-bottom: 10px;">Describing plans 2
       </h1>
     </v-layout>
   </v-img>
@@ -29,8 +29,8 @@
   <div style = "padding : 16px;">
 
     <ol style="margin: 12px;">
-      <p>
-      <li>
+      
+      <li style = "margin-top: 10px;">
         Dear Celia and Alex,<br />
         I look forward to seeing you in Tokyo next week.
         My flight arrives at Narita Airport at 17:10 on Wednesday. I'm going to take a taxi to the hotel (I'm staying at the New Empire).<br />
@@ -40,22 +40,17 @@
         Regards,<br />
         Kristi
       </li>
-    </p>
-    <p>
-      <li>
+      <li style = "margin-top: 10px;">
         Hi Kristi,<br />
         Yes, I agree. Let's have dinner on Wednesday and discuss our ideas. I know a good restaurant near the New Empire, so I can book a table there.<br />
         Shall I meet you at the hotel at 7.30?<br />
         Akio
       </li>
-    </p>
-    <p>
-      <li>
+      <li style = "margin-top: 10px;">
         Dear Akio<br />
         OK, fine. See you at 7.30.<br />
         Kristi
       </li>
-    </p>
     </ol>
 
 
@@ -126,8 +121,6 @@
 
 </v-layout>
 </v-container>
-</v-layout>
-</v-container>
 </div>
 
 
@@ -183,11 +176,6 @@ p{
 
 h3{
   padding-top: 7px;
-
-}
-
-li{
-
 
 }
 

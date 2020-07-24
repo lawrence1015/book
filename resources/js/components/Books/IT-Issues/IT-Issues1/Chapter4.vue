@@ -6,7 +6,7 @@
 
       <v-layout column>
         <v-img
-        src="images/IT-Issues-Unit4.png" style="max-width: 100%; display:block; height: auto;">
+        src="https://p0.pxfuel.com/preview/910/50/503/earth-internet-globalisation-technology.jpg" style="max-width: 100%; display:block; height: auto;">
 
         <v-layout
         align-end
@@ -62,28 +62,22 @@
       <div style="padding : 16px;">
 
         <p>
-          seek<br />
-          <span style="font-size:16px">찾다, 구하다, 추구하다, 청하다, 구하다, …하려고 하다</span>
+          <b>seek</b> <span class = "korean">찾다, 구하다, 추구하다, 청하다, 구하다, …하려고 하다</span>
         </p>
         <p>
-          forefront<br />
-          <span style="font-size:16px">중심, 가장 중요한 위치, 맨 앞; 선두, 중심 , 가장 중요한 위치[지위]</span>
+          <b>forefront</b> <span class = "korean">중심, 가장 중요한 위치, 맨 앞; 선두, 중심 , 가장 중요한 위치[지위]</span>
         </p>
         <p>
-          privacy<br />
-          <span style="font-size:16px">혼자 있는 상태, 사생활[자기 생활], 사생활[프라이버시]</span>
+          <b>privacy</b> <span class = "korean">혼자 있는 상태, 사생활[자기 생활], 사생활[프라이버시]</span>
         </p>
         <p>
-          expert<br />
-          <span style="font-size:16px">전문가, 전문가의, 전문적인; 숙련된</span>
+          <b>expert</b> <span class = "korean">전문가, 전문가의, 전문적인; 숙련된</span>
         </p>
         <p>
-          harness<br />
-          <span style="font-size:16px">마구, 벨트[용구], 마구를 채우다[마구로 연결하다]</span>
+          <b>harness</b> <span class = "korean">마구, 벨트[용구], 마구를 채우다[마구로 연결하다]</span>
         </p>
         <p>
-          landscape<br />
-          <span style="font-size:16px">풍경, 풍경화, 가로로 긴 배치, 풍경 모드, 조경을 하다</span>
+          <b>landscape</b> <span class = "korean">풍경, 풍경화, 가로로 긴 배치, 풍경 모드, 조경을 하다</span>
         </p>
 
       </div>
@@ -112,16 +106,16 @@
       <div style="padding : 16px;">
 
         <p>
-          continues to increase and migrate to the cloud.
+          <b>continues to increase and migrate to the cloud.</b> <span class = "korean">에서는 계속 증가하여 클라우드로 마이그레이션합니다.</span>
         </p>
         <p>
-          learning will continue to change the landscape.
+          <b>learning will continue to change the landscape.</b> <span class = "korean">학습은 계속해서 풍경을 바꿀 것입니다.</span>
         </p>
         <p>
-          will be in high demand.
+          <b>will be in high demand.</b> <span class = "korean">수요가 많을 것입니다.</span>
         </p>
         <p>
-          will come to the forefront.
+          <b>will come to the forefront.</b> <span class = "korean">선두에 서게 될 것입니다.</span>
         </p>
 
       </div>
@@ -198,19 +192,16 @@
                 <v-card light color="#BEFBFF">
                   <v-card-text class="px-10">
                     <p>
-                      <span style="font-size:16px">
+                      <span class = "korean">
                       <b>빅데이터의 미래: 2020년부터 2025년까지 전문가로부터 5가지 예측</b>
                     </span>
                     </p>
                     <p>
-                      <span style="font-size:16px">
-                      오늘날 빅 데이터가 세계를 주도하고 있기 때문에 기업들은 복잡한 데이터 처리를 활용할 수 있는 빅 데이터 컨설팅 분야의 전문가를 찾을 수밖에 없습니다. 2020년부터 2025년까지 전문가들의 5가지 예측을 들어보겠습니다.<br>
-                      첫째, 데이터 볼륨은 계속 증가하여 클라우드로 이송됩니다. 둘째, 머신러닝은 계속해서 판도를 바꿀 것입니다. 다음으로, 데이터 과학자와 CDO의 수요가 높을 것입니다. 그러면 개인 정보 보호가 여전히 뜨거운 이슈로 남을 것이고 마지막으로 빠른 데이터와 실행 가능한 데이터가 전면에 등장할 것입니다.<br>
-                      대부분의 전문가는 빅 데이터가 큰 가치를 의미한다는 데 동의합니다. 이를 통해 새로운 업무 범주와 대규모 조직에서 데이터 관리를 담당하는 부서 전체가 생겨날 것입니다.
+                      <span class = "korean">오늘날 빅 데이터가 세계를 주도하고 있기 때문에 기업들은 복잡한 데이터 처리를 활용할 수 있는 빅 데이터 컨설팅 분야의 전문가를 찾을 수밖에 없습니다. 2020년부터 2025년까지 전문가들의 5가지 예측을 들어보겠습니다. 첫째, 데이터 볼륨은 계속 증가하여 클라우드로 이송됩니다. 둘째, 머신러닝은 계속해서 판도를 바꿀 것입니다. 다음으로, 데이터 과학자와 CDO의 수요가 높을 것입니다. 그러면 개인 정보 보호가 여전히 뜨거운 이슈로 남을 것이고 마지막으로 빠른 데이터와 실행 가능한 데이터가 전면에 등장할 것입니다. 대부분의 전문가는 빅 데이터가 큰 가치를 의미한다는 데 동의합니다. 이를 통해 새로운 업무 범주와 대규모 조직에서 데이터 관리를 담당하는 부서 전체가 생겨날 것입니다.
                       </span>
                     </p>
                     <p>
-                      <span style="font-size:16px">*최고 데이터 책임자(CDO)입니다.</span>
+                      <span class = "korean">*최고 데이터 책임자(CDO)입니다.</span>
                     </p>
                   </v-card-text>
                 </v-card>
@@ -344,5 +335,10 @@ body{
   padding-bottom: 10px;
 }
 
-
+.korean {
+   
+  white-space: pre-line; 
+  line-break:strict; 
+  word-break:keep-all;
+}
 </style>

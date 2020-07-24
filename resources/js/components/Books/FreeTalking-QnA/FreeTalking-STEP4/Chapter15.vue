@@ -61,11 +61,47 @@
 
 </div>
 
+<h3 style="background-color: #FF6E6E;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Translation</h3>
+               <div style="padding : 16px;">
+
+   <ol style="margin: 12px;">
+     <li class="mb-2">
+       생명보험에 가입되어 있습니까?
+       <ul>
+       <li class="mt-2">왜 그런가요, 아니라면 왜 아닌가요?</li>
+       </ul>
+     </li>
+     <br />
+     <li class="mb-2">
+       당신은 암에 대한 보험에 가입되어 있습니까?
+       <ul>
+       <li class="mt-2">왜 그런가요, 아니면 왜 아닌가요?</li>
+       </ul>
+     </li>
+     <br />
+     <li class="mb-2">
+       당신의 차는 보험에 가입되어 있습니까?
+       <ul>
+       <li class="mt-2">왜 그런가요, 아니면 왜 아닌가요?</li>
+       </ul>
+     </li>
+     <br />
+     <li class="mb-2">
+       배우자에게 생명보험을 추천해 주시겠어요?
+     </li>
+     <br />
+     <li class="mb-2">
+       보험에 가입했다면 친척이나 친구를 통해 가입하셨나요, 아니면 전적으로 필요와 인지된 혜택에 근거해서 가입하셨나요?
+     </li>
+   </ol>
+
+
+
+</div>
+
 
        </v-layout>
      </v-container>
-  </v-layout>
-  </v-container>
 </div>
 
 
@@ -123,11 +159,6 @@ p{
 
 h3{
   padding-top: 7px;
-
-}
-
-li{
-
 
 }
 

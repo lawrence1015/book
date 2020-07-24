@@ -6,7 +6,7 @@
 
       <v-layout column>
         <v-img
-        src="https://marketplace.canva.com/MADGv8RmfkY/6/screen_2x/canva-man-and-woman-sitting-on-chair-in-front-of-desk-MADGv8RmfkY.jpg">
+        src="https://image.freepik.com/free-photo/young-man-listening-his-friend-cafe_171337-18545.jpg">
 
         <v-layout
         align-end
@@ -24,7 +24,7 @@
   </v-img>
 
   <hr style="border: 3px solid rgba(32, 64, 81, 1);" width="100%">
-  <h3 style="padding-top : 10px;  padding-left : 15px; padding-bottom: 10px;">Dialogue <br>( 선생님의 안내에 따라 문장을 읽어 주세요 )</h3>
+  <h3 style="padding-top : 10px;  padding-left : 15px; padding-bottom: 10px;">Dialogue <br /> ( 선생님의 안내에 따라 문장을 읽어 주세요 )</h3>
   <hr width="60%">
   <div style = "padding : 16px;">
 
@@ -58,15 +58,15 @@
 
         <ol style="margin: 12px;">
           <li>
-              저는 중국인이 아닙니다. 저는 한국인입니다.<br />
+            저는 중국인이 아닙니다. 저는 한국인입니다.<br />
                 I'm <u> &emsp; &emsp; &emsp; </u> Chinese, <u> &emsp; &emsp; &emsp; </u>. <br />
           </li>
           <li>
-              도쿄는 일본에 있습니다.<br />
+            도쿄는 일본에 있습니다.<br />
                 Tokyo <u> &emsp; &emsp; &emsp; </u> in Japan.<br />
           </li>
           <li>
-              당신은 필리핀 사람입니까?<br />
+            당신은 필리핀 사람입니까?<br />
                 <u> &emsp; &emsp; &emsp; </u> you Filipino?<br />
           </li>
         </ol>
@@ -127,14 +127,16 @@
                     <li>
                       Notes
                     </li>
+                    <ol style="margin: 12px;">
                     <li>
-                      1) 의문사가 있는 be동사의 의문문 : 의문사(What, Who, Where, How,Why등) + be동사 +주어...?<br />
+                      의문사가 있는 be동사의 의문문 : 의문사(What, Who, Where, How,Why등) + be동사 +주어...?<br />
                           대답은 Yes나 No으로 하지 않습니다. <br />
                     </li>
                     <li>
-                      2) I am from Korea : 저는 한국에서 왔습니다. (Korea : 나라이름) <br />
+                      I am from Korea : 저는 한국에서 왔습니다. (Korea : 나라이름) <br />
                           I am Korean : 저는 한국인입니다. (Korean : 한국인, 한국어) <br />
                     </li>
+                    </ol>
                     </v-card-text>
                   </v-card>
                 </v-flex>
@@ -170,7 +172,7 @@ export default {
         dialogs:[
         {
           name:'Peter:',
-          speech:'Good evening. My name is Peter. What`s your name?'
+          speech:'Good evening. My name is Peter. What’s your name?'
         },
         {
           name:'Jane:',
@@ -178,7 +180,7 @@ export default {
         },
         {
           name:'Peter:',
-          speech:'It`s a pleasure. This is a great party!'
+          speech:'It’s a pleasure. This is a great party!'
         },
         {
           name:'Jane:',
@@ -186,7 +188,7 @@ export default {
         },
         {
           name:'Peter:',
-          speech:'I`m from Frankfurt.'
+          speech:'I’m from Frankfurt.'
         },
         {
           name:'Jane:',
@@ -194,19 +196,19 @@ export default {
         },
         {
           name:'Peter:',
-          speech:'No, I`m not French. Frankfurt is in Germany.'
+          speech:'No, I’m not French. Frankfurt is in Germany.'
         },
         {
           name:'Jane:',
-          speech:'Oh, you`re German. Sorry about that.'
+          speech:'Oh, you’re German. Sorry about that.'
         },
         {
           name:'Peter:',
-          speech:'That`s OK. Where are you from?'
+          speech:'That’s OK. Where are you from?'
         },
         {
           name:'Jane:',
-          speech:'I`m from London, England, but I`m not British.'
+          speech:'I’m from London, England, but I’m not British.'
         },
         {
           name:'Peter:',
@@ -214,11 +216,11 @@ export default {
         },
         {
           name:'Jane:',
-          speech:'Well, my parents are from Spain, so I`m Spanish, too.'
+          speech:'Well, my parents are from Spain, so I’m Spanish, too.'
         },
         {
           name:'Peter:',
-          speech:'That`s very interesting. Spain is a beautiful country.'
+          speech:'That’s very interesting. Spain is a beautiful country.'
         },
         {
           name:'Jane:',
@@ -281,7 +283,7 @@ export default {
         },
         {
           name:'Jane:',
-          speech:'흥미롭구나. 스페인은 아름다운 나라야.'
+          speech:'고마워. 그 곳은 훌륭한 곳이야.'
         },
         ]
 
@@ -325,6 +327,10 @@ h3{
 
 }
 
+li{
+
+
+}
 
 body{
 

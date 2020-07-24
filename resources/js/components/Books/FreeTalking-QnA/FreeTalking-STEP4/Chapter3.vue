@@ -64,11 +64,50 @@
 
 </div>
 
+<h3 style="background-color: #FF6E6E;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Translation</h3>
+               <div style="padding : 16px;">
+
+   <ol style="margin: 12px;">
+     <li class="mb-2">
+       여러분은 어떻게 새해를 기념하나요?
+     </li>
+     <br />
+     <li class="mb-2">
+       당신은 올해 새해 결심을 했나요?
+       <ul>
+       <li class="mt-2">뭐였나요?</li>
+       <li>당신은 그것들을 지킬 수 있었나요?</li>
+       </ul>
+     </li>
+     <br />
+     <li class="mb-2">
+       당신의 생일을 어떻게 축하하나요?
+     </li>
+     <br />
+     <li class="mb-2">
+       결혼기념일은 어떻게 기념하나요?
+     </li>
+     <br />
+     <li class="mb-2">
+       현금이 적절한 선물이라고 생각하세요?
+     </li>
+     <br />
+     <li class="mb-2">
+       아이의 생일을 맞아 비싼 레스토랑에서 호화로운 파티를 해도 괜찮을까요?
+     </li>
+     <br />
+     <li class="mb-2">
+      만약 당신의 배우자가 당신의 생일이나 결혼기념일을 잊어버렸다면 어떻게 할 건가요?
+     </li>
+   </ol>
+
+
+
+</div>
+
 
        </v-layout>
      </v-container>
-  </v-layout>
-  </v-container>
 </div>
 
 
@@ -126,11 +165,6 @@ p{
 
 h3{
   padding-top: 7px;
-
-}
-
-li{
-
 
 }
 

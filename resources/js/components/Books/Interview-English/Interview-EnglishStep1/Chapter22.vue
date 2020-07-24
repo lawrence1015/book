@@ -54,7 +54,7 @@
 
       <ol style="margin: 12px;">
         <li>
-          When it comes to work, I always want to be the best that I can be; I never settle for less.<br />
+          When it comes to working, I always want to be the best that I can be; I never settle for less.<br />
           ( 일에 관해서라면, 저는 항상 제가 될 수 있는 최고가 되고 싶습니다. 저는 결코 적은 것에 안주하지 않습니다. )
         </li>
         <li>
@@ -62,7 +62,7 @@
           ( 제가 사장이나 고위 경영진의 일원이 아닐 수도 있지만, 일을 열심히 하면 반드시 변화를 줄 수 있습니다. )
         </li>
         <li>
-          I’d be honest to tell you that I am not a perfect employee; however, i strive to complete my work efficiently and accurately all the time.<br />
+          I’d be honest to tell you that I am not a perfect employee; however, I strive to complete my work efficiently and accurately all the time.<br />
           ( 솔직히 말씀드리자면, 저는 완벽한 직원이 아닙니다. 하지만 저는 항상 효율적이고 정확하게 제 일을 끝내기 위해 노력합니다. )
         </li>
         <li>
@@ -97,10 +97,10 @@
 
         <ol style="margin: 12px;">
           <li>
-            What do you think you should do to become a part of the Upper Management?
+            What do you think you should do to become a part of Upper Management?
           </li>
           <li>
-            Did you have any job related mistake that you were able to face courageously?
+            Did you have any job-related mistake that you were able to face courageously?
           </li>
           <li>
             Can you give a situation at work where you will be able to utilize your skills?

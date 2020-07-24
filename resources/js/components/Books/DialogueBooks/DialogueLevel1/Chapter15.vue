@@ -6,7 +6,7 @@
 
       <v-layout column>
         <v-img
-        src="https://marketplace.canva.com/MADGv8RmfkY/6/screen_2x/canva-man-and-woman-sitting-on-chair-in-front-of-desk-MADGv8RmfkY.jpg">
+        src="https://image.freepik.com/free-photo/pointing-sketch_1098-14323.jpg">
 
         <v-layout
         align-end
@@ -24,19 +24,19 @@
   </v-img>
 
   <hr style="border: 3px solid rgba(32, 64, 81, 1);" width="100%">
-  <h3 style="padding-top : 10px;  padding-left : 15px; padding-bottom: 10px;">Dialogue <br>( 선생님의 안내에 따라 문장을 읽어 주세요 )</h3>
+  <h3 style="padding-top : 10px;  padding-left : 15px; padding-bottom: 10px;">Dialogue <br />( 선생님의 안내에 따라 문장을 읽어 주세요 )</h3>
   <hr width="60%">
   <div style = "padding : 16px;">
 
       <li style="list-style-type: none;">My father is an engineer</li><br />
-
+     
       <table style = "border-collapse: collapse;">
-
+    
         <tr v-for="dialog in dialogs" :key="dialog">
           <td class = "uppertable" >{{dialog.name}}</td>
           <td class = "lowertable" >{{dialog.speech}}</td>
         </tr>
-
+  
       </table>
 
       <div style="margin-left: -18px; margin-right: -18px; margin-top: 10px; border-color: #204051; border-style: solid; border-width: 2px;">
@@ -58,16 +58,16 @@
 
         <ol style="margin: 12px;">
           <li>
-              I <u> &emsp; &emsp; &emsp; </u> a big family. <u> &emsp; &emsp; &emsp; </u> family is big. <br />
-                (저는 큰 가족을 갖고 있습니다. 저의 가족은 큽니다.)
+            I <u> &emsp; &emsp; &emsp; </u> a big family. <u> &emsp; &emsp; &emsp; </u> family is big. <br />
+              (저는 큰 가족을 갖고 있습니다. 저의 가족은 큽니다.)
           </li>
           <li>
-              John <u> &emsp; &emsp; &emsp; </u> a wife and two children. <u> &emsp; &emsp; &emsp; </u> wife is very attractive. <br />
-                (John은 부인과 두 명의 아이들이 있습니다. 그의 부인은 매우 매력적입니다.)
+            John <u> &emsp; &emsp; &emsp; </u> a wife and two children. <u> &emsp; &emsp; &emsp; </u> wife is very attractive. <br />
+              (John은 부인과 두 명의 아이들이 있습니다. 그의 부인은 매우 매력적입니다.)
           </li>
           <li>
-              Jim and Jack <u> &emsp; &emsp; &emsp; </u> a van <u> &emsp; &emsp; &emsp; </u> use it for <u> &emsp; &emsp; &emsp; </u> business. <br />
-                (Jim과 Jack은 벤이 있습니다. 그들은 그것을 그들의 일을 위해 사용합니다.)
+            Jim and Jack <u> &emsp; &emsp; &emsp; </u> a van <u> &emsp; &emsp; &emsp; </u> use it for <u> &emsp; &emsp; &emsp; </u> business. <br />
+              (Jim과 Jack은 벤이 있습니다. 그들은 그것을 그들의 일을 위해 사용합니다.)
           </li>
         </ol>
 
@@ -100,7 +100,7 @@
             <td class = "uppertable" >{{translation.name}}</td>
             <td class = "lowertable" >{{translation.speech}}</td>
           </tr>
-
+  
         </table>
 
 </div>
@@ -128,13 +128,15 @@
                     <li>
                       Notes
                     </li>
+                    <ol style="margin: 12px;">
                     <li>
-                      1) be동사와 인칭대명사 : be동사(...이다/있다), 인칭대명사(사람, 사물을 지칭하는 말)<br />
+                      be동사와 인칭대명사 : be동사(...이다/있다), 인칭대명사(사람, 사물을 지칭하는 말)<br />
                           I am (I'm-축약형)  / You are (you're)
                     </li>
                     <li>
-                      2) please call me Ben : 사람들은 이름대신 애칭을 많이 사용합니다.
+                      please call me Ben : 사람들은 이름대신 애칭을 많이 사용합니다.
                     </li>
+                    </ol>
                     </v-card-text>
                   </v-card>
                 </v-flex>
@@ -226,7 +228,7 @@ export default {
         },
         {
           name:'Eva:',
-          speech:'Our house is in the downtown.'
+          speech:'Our house is in downtown.'
         },
         ],
 
@@ -333,6 +335,10 @@ h3{
 
 }
 
+li{
+
+
+}
 
 body{
 

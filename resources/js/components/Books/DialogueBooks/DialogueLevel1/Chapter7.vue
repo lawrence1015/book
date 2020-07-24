@@ -6,7 +6,7 @@
 
       <v-layout column>
         <v-img
-        src="https://marketplace.canva.com/MADGv8RmfkY/6/screen_2x/canva-man-and-woman-sitting-on-chair-in-front-of-desk-MADGv8RmfkY.jpg">
+        src="https://thefriedmangroup.com/wp-content/uploads/2020/01/robots-ai-retail-sales.jpg">
 
         <v-layout
         align-end
@@ -24,7 +24,7 @@
   </v-img>
 
   <hr style="border: 3px solid rgba(32, 64, 81, 1);" width="100%">
-  <h3 style="padding-top : 10px;  padding-left : 15px; padding-bottom: 10px;">Dialogue <br>( 선생님의 안내에 따라 문장을 읽어 주세요 )</h3>
+  <h3 style="padding-top : 10px;  padding-left : 15px; padding-bottom: 10px;">Dialogue <br /> ( 선생님의 안내에 따라 문장을 읽어 주세요 )</h3>
   <hr width="60%">
   <div style = "padding : 16px;">
 
@@ -40,7 +40,7 @@
       </table>
       
       <p>
-        Big numbers: Twenty-one, twenty five, twenty nine, thirty, forty, fifty, sixty, seventy seven
+        Big numbers: Twenty-one, twenty-five, twenty-nine, thirty, forty, fifty, sixty, seventy-seven
         Eighty, ninety, one hundred, two hundred ten, three hundred forty, four hundred sixty-two
         Thousand, two thousand two hundred twenty-two, ten thousand, twelve thousand fifty
       </p>
@@ -64,11 +64,11 @@
 
         <ol style="margin: 12px;">
           <li>
-              How <u> &emsp; &emsp; &emsp; </u> <u> &emsp; &emsp; &emsp; </u> these shoes? <u> &emsp; &emsp; &emsp; </u> are twenty-five dollars.<br />
+            How <u> &emsp; &emsp; &emsp; </u> <u> &emsp; &emsp; &emsp; </u> these shoes? <u> &emsp; &emsp; &emsp; </u> are twenty-five dollars.<br />
                 (이 신발은 얼마입니까? 25달입니다.)<br />
           </li>
           <li>
-              Read the following numbers:<br />
+            Read the following numbers:<br />
                 (숫자들을 읽으세요)<br />
                   43<br />
                   34<br />
@@ -135,12 +135,14 @@
                     <li>
                       Notes
                     </li>
+                    <ol style="margin: 12px;">
                     <li>
-                      1) How much 동사 주어? - 가격이 얼마입니까?<br />
+                      How much 동사 주어? - 가격이 얼마입니까?<br />
                     </li>
                     <li>
-                      2) What(How) about 명사/v-ing...? ~은 어때? ~하는 것은 어때? 로 권유의 의미입니다.<br />
+                      What(How) about 명사/v-ing...? ~은 어때? ~하는 것은 어때? 로 권유의 의미입니다.<br />
                     </li>
+                    </ol>
                     </v-card-text>
                   </v-card>
                 </v-flex>
@@ -312,6 +314,11 @@ p{
 
 h3{
   padding-top: 7px;
+
+}
+
+li{
+
 
 }
 

@@ -6,7 +6,7 @@
 
       <v-layout column>
         <v-img
-        src="https://marketplace.canva.com/MADGv8RmfkY/6/screen_2x/canva-man-and-woman-sitting-on-chair-in-front-of-desk-MADGv8RmfkY.jpg">
+        src="https://image.freepik.com/free-photo/young-curly-handsome-man-suffering-pain-due-sedentary-lifestyle-isolated-white-wall_231208-1119.jpg">
 
         <v-layout
         align-end
@@ -24,7 +24,7 @@
   </v-img>
 
   <hr style="border: 3px solid rgba(32, 64, 81, 1);" width="100%">
-  <h3 style="padding-top : 10px;  padding-left : 15px; padding-bottom: 10px;">Dialogue <br>( 선생님의 안내에 따라 문장을 읽어 주세요 )</h3>
+  <h3 style="padding-top : 10px;  padding-left : 15px; padding-bottom: 10px;">Dialogue <br /> ( 선생님의 안내에 따라 문장을 읽어 주세요 )</h3>
   <hr width="60%">
   <div style = "padding : 16px;">
 
@@ -58,16 +58,16 @@
 
         <ol style="margin: 12px;">
           <li>
-              <u> &emsp; &emsp; &emsp; </u> Jack <u> &emsp; &emsp; &emsp; </u> a car? - No, he <u> &emsp; &emsp; &emsp; </u> not. <br />
-                (Jack은 차가 있습니까? - 아니요, 그는 없습니다.)
+            <u> &emsp; &emsp; &emsp; </u> Jack <u> &emsp; &emsp; &emsp; </u> a car? - No, he <u> &emsp; &emsp; &emsp; </u> not. <br />
+            (Jack은 차가 있습니까? - 아니요, 그는 없습니다.)
           </li>
           <li>
-              <u> &emsp; &emsp; &emsp; </u> you have <u> &emsp; &emsp; &emsp; </u> own apartment? <br />
-                (당신은 당신 자신의 아파트가 있습니까?)
+            <u> &emsp; &emsp; &emsp; </u> you have <u> &emsp; &emsp; &emsp; </u> own apartment? <br />
+            (당신은 당신 자신의 아파트가 있습니까?)
           </li>
           <li>
-              Jack and Jim <u> &emsp; &emsp; &emsp; </u> have an apartment. They're homeless. <br />
-                (Jack과 Jim은 아파트가 없습니다. 그들은 거지입니다.)
+            Jack and Jim <u> &emsp; &emsp; &emsp; </u> have an apartment. They're homeless. <br />
+            (Jack과 Jim은 아파트가 없습니다. 그들은 거지입니다.)
           </li>
         </ol>
 
@@ -122,14 +122,16 @@
                     <li>
                       Notes
                     </li>
+                    <ol style="margin: 12px;">
                     <li>
-                      1) Do you have...? Yes, I do / No, I don't <br />
-                      Does he have...? Yes, he does / No, he doesn't <br />
-                      Do they have...? Yes, they do / No, they don't                  
+                      Do you have...? Yes, I do / No, I don't <br />
+                        Does he have...? Yes, he does / No, he doesn't <br />
+                        Do they have...? Yes, they do / No, they don't                  
                     </li>
                     <li>
-                      2) I have... / We have.../ You have.../ He has.../ She has.../ It has.../ They have...
+                      I have... / We have.../ You have.../ He has.../ She has.../ It has.../ They have...
                     </li>
+                    </ol>
                     </v-card-text>
                   </v-card>
                 </v-flex>
@@ -333,6 +335,11 @@ p{
 
 h3{
   padding-top: 7px;
+
+}
+
+li{
+
 
 }
 

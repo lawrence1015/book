@@ -70,7 +70,7 @@
           ( 저는 퇴근하기 전에 항상 모든 일을 확실히 합니다. )
         </li>
         <li>
-          I never complain about over times too.<br />
+          I never complain about overtime too.<br />
           ( 저는 잔소리를 자주 하지 않습니다. )
         </li>
       </ol>
@@ -171,7 +171,7 @@ export default {
         },
         {
           name:'B.',
-          speech:"My previous manager commended me for my work ethics. He said that I was a very organized member of his team. He liked how I got along with my colleagues. He added that I could work under pressure and with less supervision. I always make sure that everything is done before I leave the office. I never complain about overtimes too. I am delighted because he was able to recognize my good points."
+          speech:"My previous manager commended me for my work ethics. He said that I was a very organized member of his team. He liked how I got along with my colleagues. He added that I could work under pressure and with less supervision. I always make sure that everything is done before I leave the office. I never complain about overtime too. I am delighted because he was able to recognize my good points."
         },
         ],
 

@@ -5,8 +5,8 @@
     <v-container fluid ma-0 pa-0>
 
       <v-layout column>
-        <v-img
-        src="images/IT-Issues-Unit1.jpg" style="max-width: 100%; display:block; height: auto;">
+        <v-img :aspect-ratio="12/5"
+        src="https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2020/06/pesquisa-rosto-pixel-duke-university-2.jpg" style="max-width: 100%; display:block; height: auto;">
 
         <v-layout
         align-end
@@ -69,20 +69,19 @@
       <div style="padding : 16px;">
 
         <p>
-          scale
+          <b>scale</b> <span class = "korean">규모, 범위</span>
         </p>
         <p>
-          unrecognizable<br />
-          <span style="font-size:16px">알아 볼 수 없는[몰라 볼 정도의]</span>
+          <b>unrecognizable</b> <span class = "korean">알아 볼 수 없는[몰라 볼 정도의]</span>
         </p>
         <p>
-          eerily <span style="font-size:16px">무시무시하게, 무서워하여; 불가사의하게</span>
+          <b>eerily</b> <span class = "korean">무시무시하게, 무서워하여; 불가사의하게</span>
         </p>
         <p>
-          Pixels <span style="font-size:16px">픽셀</span>
+          <b>Pixels</b> <span class = "korean">픽셀</span>
         </p>
         <p>
-          Resolution <span style="font-size:16px">해상도</span>
+          <b>Resolution</b> <span class = "korean">해상도</span>
         </p>
 
       </div>
@@ -111,16 +110,16 @@
       <div style="padding : 16px;">
 
         <p>
-          Computer-generated <span style="font-size:16px">컴퓨터로 만들어진</span>
+          <b>Computer-generated</b> <span class = "korean">컴퓨터로 만들어진</span>
         </p>
         <p>
-          come up with <span style="font-size:16px">찾아내다.</span>
+          <b>come up with</b> <span class = "korean">찾아내다.</span>
         </p>
         <p>
-          a handful of <span style="font-size:16px">소수의, 한 줌의</span>
+          <b>a handful of</b> <span class = "korean">소수의, 한 줌의</span>
         </p>
         <p>
-          realistic-looking faces <span style="font-size:16px">사실적으로 보이는 얼굴들</span>
+          <b>realistic-looking faces</b> <span class = "korean">사실적으로 보이는 얼굴들</span>
         </p>
 
       </div>
@@ -194,21 +193,21 @@
 
 
               <v-flex xs12>
-                <v-card light color="#BEFBFF">
+                <v-card light flat>
                   <v-card-text class="px-10">
                     <p>
-                      <span style="font-size:16px">
+                      <span class = "korean">
                       <b>인공지능이 흐릿한 얼굴을 60배 이상 더 선명하게 보이게 합니다.</b>
                     </span>
                     </p>
                     <p>
-                      <span style="font-size:16px">
+                      <span class = "korean">
                       듀크 대학의 연구원들은 사람들의 얼굴 사진을 흐릿하고 알아볼 수 없는
                       사진들을 그 어느 때보다 정교하게 컴퓨터로 만들어진 초상화들로 만들 수 있는 AI 도구를 개발했습니다.
                       이전의 방법들 이미지를 원래 해상도의 8배까지 확장할 수 있습니다.
                       하지만 한 팀이 한 줌의 픽셀을 가져다가 최대 64배의 해상도로 사실적으로 보이는 얼굴을 만들어 내는 방법을 고안해 냈는데,
                       애초에 없던 속눈썹이나 뭉툭한 모습 등 '상상'하는 특징이 있습니다.
-                    <br />
+                 
                       연구원들은 다음 주 6월 14일부터 6월 19일까지 가상으로 열리는 2020 컴퓨터 비전 및 패턴 인식 컨퍼런스에서 PULSE라고 불리는 그들의 방법을 발표할 예정입니다.
                       </span>
                     </p>
@@ -219,7 +218,9 @@
           </v-container>
 
         </p>
-
+<p>
+  Image Source: "gizmodo"
+</p>
 
       </div>
 
@@ -344,7 +345,12 @@ body{
   padding-bottom: 10px;
 }
 
-
+.korean {
+   
+  white-space: pre-line; 
+  line-break:strict; 
+  word-break:keep-all;
+}
 
 
 </style>

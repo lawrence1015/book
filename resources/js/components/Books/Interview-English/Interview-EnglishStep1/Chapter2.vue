@@ -69,10 +69,6 @@
           I graduated with remarkable honors.<br />
           ( 저는 우수한 성적으로 졸업했습니다. )
         </li>
-        <li>
-          I have a degree in Business Management.<br />
-          (  저는  경영학 학위를 가지고 있습니다. )
-        </li>
       </ol>
 
 
@@ -163,7 +159,7 @@ export default {
         dialogs:[
         {
           name:'A.',
-          speech:"I'm really into film making and to learn more about the art form, technology, and cultural significance, majored in Film Studies in Columbia University in the City of New York. I believe I have chosen the best school for my major. I had the advantage when it comes to my experience because I got to have internship opportunities with film companies, working on our thesis where we enhance and master our capabilities in this field."
+          speech:"I'm really into film making and to learn more about the art form, technology, and cultural significance, majored in Film Studies at Columbia University in the City of New York. I believe I have chosen the best school for my major. I had the advantage when it comes to my experience because I got to have internship opportunities with film companies, working on our thesis where we enhance and master our capabilities in this field."
         },
         {
           name:'B.',

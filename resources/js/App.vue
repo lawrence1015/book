@@ -2,7 +2,7 @@
   <v-app>
     <div v-if="$route.name === 'freetalking_beginner'">
       <v-layout>
-        <v-navigation-drawer v-model="drawer" :mini-variant="mini" absolute style="background-color:#5C8D89; position:fixed; top:0; left:0; overflow-y:scroll;" temporary>
+        <v-navigation-drawer v-model="drawer" :mini-variant="mini" absolute style="background-color:#5C8D89; position:fixed; top:0; left:0; overflow-y:hidden;" temporary>
           <v-list class="pa-1">
             <v-list-tile avatar>
               <v-list-tile-avatar>
@@ -280,7 +280,7 @@
         </template>
         <v-list style="overflow-y: hidden;">
           <v-list-tile>
-            <v-slider v-model="fontSize" :min="20" :max="30" :step="1"></v-slider>
+            <v-slider v-model="fontSize" :min="1" :max="40" :step="1"></v-slider>
           </v-list-tile>
         </v-list>
       </v-menu>
@@ -289,7 +289,7 @@
 </div>
 <div v-if="$route.name === 'freetalking_intermediate'">
   <v-layout>
-    <v-navigation-drawer v-model="drawer" :mini-variant="mini" absolute style="background-color:#c38b8b; position:fixed; top:0; left:0; overflow-y:scroll;" temporary>
+    <v-navigation-drawer v-model="drawer" :mini-variant="mini" absolute style="background-color:#c38b8b; position:fixed; top:0; left:0; overflow-y:hidden;" temporary>
       <v-list class="pa-1">
         <v-list-tile avatar>
           <v-list-tile-avatar>
@@ -367,7 +367,7 @@
         </template>
         <v-list style="overflow-y: hidden;">
           <v-list-tile>
-            <v-slider v-model="fontSize" :min="20" :max="30" :step="1"></v-slider>
+            <v-slider v-model="fontSize" :min="1" :max="40" :step="1"></v-slider>
           </v-list-tile>
         </v-list>
       </v-menu>
@@ -376,7 +376,7 @@
 </div>
 <div v-if="$route.name === 'patterncourse_adultbasic'">
   <v-layout>
-    <v-navigation-drawer v-model="drawer" :mini-variant="mini" absolute style="background-color:#9692af; position:fixed; top:0; left:0; overflow-y:scroll;" temporary>
+    <v-navigation-drawer v-model="drawer" :mini-variant="mini" absolute style="background-color:#9692af; position:fixed; top:0; left:0; overflow-y:hidden;" temporary>
       <v-list class="pa-1">
         <v-list-tile avatar>
           <v-list-tile-avatar>
@@ -473,7 +473,7 @@
         </template>
         <v-list style="overflow-y: hidden;">
           <v-list-tile>
-            <v-slider v-model="fontSize" :min="20" :max="30" :step="1"></v-slider>
+            <v-slider v-model="fontSize" :min="1" :max="40" :step="1"></v-slider>
           </v-list-tile>
         </v-list>
       </v-menu>
@@ -482,7 +482,7 @@
 </div>
 <div v-if="$route.name === 'patterncourse_adultadv'">
   <v-layout>
-    <v-navigation-drawer v-model="drawer" :mini-variant="mini" absolute style="background-color:#9692af; position:fixed; top:0; left:0; overflow-y:scroll;" temporary>
+    <v-navigation-drawer v-model="drawer" :mini-variant="mini" absolute style="background-color:#9692af; position:fixed; top:0; left:0; overflow-y:hidden;" temporary>
       <v-list class="pa-1">
         <v-list-tile avatar>
           <v-list-tile-avatar>
@@ -560,7 +560,7 @@
         </template>
         <v-list style="overflow-y: hidden;">
           <v-list-tile>
-            <v-slider v-model="fontSize" :min="20" :max="30" :step="1"></v-slider>
+            <v-slider v-model="fontSize" :min="1" :max="40" :step="1"></v-slider>
           </v-list-tile>
         </v-list>
       </v-menu>
@@ -569,7 +569,7 @@
 </div>
 <div v-if="$route.name === 'patterncourse_adultint'">
   <v-layout>
-    <v-navigation-drawer v-model="drawer" :mini-variant="mini" absolute style="background-color:#ee8972; position:fixed; top:0; left:0; overflow-y:scroll;" temporary>
+    <v-navigation-drawer v-model="drawer" :mini-variant="mini" absolute style="background-color:#ee8972; position:fixed; top:0; left:0; overflow-y:hidden;" temporary>
       <v-list class="pa-1">
         <v-list-tile avatar>
           <v-list-tile-avatar>
@@ -660,7 +660,7 @@
         </template>
         <v-list style="overflow-y: hidden;">
           <v-list-tile>
-            <v-slider v-model="fontSize" :min="20" :max="30" :step="1"></v-slider>
+            <v-slider v-model="fontSize" :min="1" :max="40" :step="1"></v-slider>
           </v-list-tile>
         </v-list>
       </v-menu>
@@ -669,7 +669,7 @@
 </div>
 <div v-if="$route.name === 'Business_Step1'">
   <v-layout>
-    <v-navigation-drawer v-model="drawer" :mini-variant="mini" absolute style="background-color: #7690CF; position:fixed; top:0; left:0; overflow-y:scroll;" temporary>
+    <v-navigation-drawer v-model="drawer" :mini-variant="mini" absolute style="background-color: #7690CF; position:fixed; top:0; left:0; overflow-y:hidden;" temporary>
       <v-list class="pa-1">
         <v-list-tile avatar>
           <v-list-tile-avatar>
@@ -766,7 +766,7 @@
         </template>
         <v-list style="overflow-y: hidden;">
           <v-list-tile>
-            <v-slider v-model="fontSize" :min="20" :max="30" :step="1"></v-slider>
+            <v-slider v-model="fontSize" :min="1" :max="40" :step="1"></v-slider>
           </v-list-tile>
         </v-list>
       </v-menu>
@@ -775,7 +775,7 @@
 </div>
 <div v-if="$route.name === 'Business_Step2'">
   <v-layout>
-    <v-navigation-drawer v-model="drawer" :mini-variant="mini" absolute style="background-color: #ffe75e; position:fixed; top:0; left:0; overflow-y:scroll;" temporary>
+    <v-navigation-drawer v-model="drawer" :mini-variant="mini" absolute style="background-color: #ffe75e; position:fixed; top:0; left:0; overflow-y:hidden;" temporary>
       <v-list class="pa-1">
         <v-list-tile avatar>
           <v-list-tile-avatar>
@@ -872,7 +872,7 @@
         </template>
         <v-list style="overflow-y: hidden;">
           <v-list-tile>
-            <v-slider v-model="fontSize" :min="20" :max="30" :step="1"></v-slider>
+            <v-slider v-model="fontSize" :min="1" :max="40" :step="1"></v-slider>
           </v-list-tile>
         </v-list>
       </v-menu>
@@ -881,7 +881,7 @@
 </div>
 <div v-if="$route.name === 'Business_Step3'">
   <v-layout>
-    <v-navigation-drawer v-model="drawer" :mini-variant="mini" absolute style="background-color: #BF826B; position:fixed; top:0; left:0; overflow-y:scroll;" temporary>
+    <v-navigation-drawer v-model="drawer" :mini-variant="mini" absolute style="background-color: #BF826B; position:fixed; top:0; left:0; overflow-y:hidden;" temporary>
       <v-list class="pa-1">
         <v-list-tile avatar>
           <v-list-tile-avatar>
@@ -978,7 +978,7 @@
         </template>
         <v-list style="overflow-y: hidden;">
           <v-list-tile>
-            <v-slider v-model="fontSize" :min="20" :max="30" :step="1"></v-slider>
+            <v-slider v-model="fontSize" :min="1" :max="40" :step="1"></v-slider>
           </v-list-tile>
         </v-list>
       </v-menu>
@@ -987,7 +987,7 @@
 </div>
 <div v-if="$route.name === 'Business_Step4'">
   <v-layout>
-    <v-navigation-drawer v-model="drawer" :mini-variant="mini" absolute style="background-color: #2AB0BF; position:fixed; top:0; left:0; overflow-y:scroll;" temporary>
+    <v-navigation-drawer v-model="drawer" :mini-variant="mini" absolute style="background-color: #2AB0BF; position:fixed; top:0; left:0; overflow-y:hidden;" temporary>
       <v-list class="pa-1">
         <v-list-tile avatar>
           <v-list-tile-avatar>
@@ -1084,7 +1084,7 @@
         </template>
         <v-list style="overflow-y: hidden;">
           <v-list-tile>
-            <v-slider v-model="fontSize" :min="20" :max="30" :step="1"></v-slider>
+            <v-slider v-model="fontSize" :min="1" :max="40" :step="1"></v-slider>
           </v-list-tile>
         </v-list>
       </v-menu>
@@ -1093,7 +1093,7 @@
 </div>
 <div v-if="$route.name === 'Dialogue_Books1'">
   <v-layout>
-    <v-navigation-drawer v-model="drawer" :mini-variant="mini" absolute style="background-color:#BC8462; position:fixed; top:0; left:0; overflow-y:scroll;" temporary>
+    <v-navigation-drawer v-model="drawer" :mini-variant="mini" absolute style="background-color:#BC8462; position:fixed; top:0; left:0; overflow-y:hidden;" temporary>
       <v-list class="pa-1">
         <v-list-tile avatar>
           <v-list-tile-avatar>
@@ -1170,6 +1170,9 @@
               <v-col cols="4">
                 <v-icon @click="stopSound()" large color="black">stop</v-icon>
               </v-col>
+
+              <v-progress-linear :value="percentage" rounded  style = "margin: 15px;" @click.native="setPosition()"></v-progress-linear>
+
               <v-spacer></v-spacer>
               <v-col cols="4">
                 <v-menu offset-y>
@@ -1204,7 +1207,7 @@
         </template>
         <v-list style="overflow-y: hidden;">
           <v-list-tile>
-            <v-slider v-model="fontSize" :min="20" :max="30" :step="1"></v-slider>
+            <v-slider v-model="fontSize" :min="1" :max="40" :step="1"></v-slider>
           </v-list-tile>
         </v-list>
       </v-menu>
@@ -1213,7 +1216,7 @@
 </div>
 <div v-if="$route.name === 'Dialogue_Books2'">
   <v-layout>
-    <v-navigation-drawer v-model="drawer" :mini-variant="mini" absolute style="background-color:#84a9ac; position:fixed; top:0; left:0; overflow-y:scroll;" temporary>
+    <v-navigation-drawer v-model="drawer" :mini-variant="mini" absolute style="background-color:#84a9ac; position:fixed; top:0; left:0; overflow-y:hidden;" temporary>
       <v-list class="pa-1">
         <v-list-tile avatar>
           <v-list-tile-avatar>
@@ -1238,7 +1241,34 @@
           <v-list-tile>
             <h2>Table of Contents</h2>
           </v-list-tile>
-          <v-list-tile @click="$router.push('/DialogueBooks/DialogueLevel2/chapter' + n)" v-for="n in 21" :key="n">Chapter {{n}}</v-list-tile>
+          <v-list-tile @click="$router.push('/DialogueBooks/DialogueLevel2/unit' + 1)">[Unit 1] Help yourself</v-list-tile>
+          <v-list-tile @click="$router.push('/DialogueBooks/DialogueLevel2/unit' + 2)">[Unit 2] Our apartment</v-list-tile>
+          <v-list-tile @click="$router.push('/DialogueBooks/DialogueLevel2/unit' + 3)">[Unit 3] Apartment</v-list-tile>
+          <v-list-tile @click="$router.push('/DialogueBooks/DialogueLevel2/unit' + 4)">[Unit 4] Scene from a movie</v-list-tile>
+          <v-list-tile @click="$router.push('/DialogueBooks/DialogueLevel2/unit' + 5)">[Unit 5] Internet Dating</v-list-tile>
+          <v-list-tile @click="$router.push('/DialogueBooks/DialogueLevel2/unit' + 6)">[Unit 6] Where do you work?</v-list-tile>
+          <v-list-tile @click="$router.push('/DialogueBooks/DialogueLevel2/unit' + 7)">[Unit 7] What does she do?</v-list-tile>
+          <v-list-tile @click="$router.push('/DialogueBooks/DialogueLevel2/unit' + 8)">[Unit 8] What's my job?</v-list-tile>
+          <v-list-tile @click="$router.push('/DialogueBooks/DialogueLevel2/unit' + 9)">[Unit 9] An interview</v-list-tile>
+          <v-list-tile @click="$router.push('/DialogueBooks/DialogueLevel2/unit' + 10)">[Unit 10] Karaoke</v-list-tile>
+          <v-list-tile @click="$router.push('/DialogueBooks/DialogueLevel2/unit' + 11)">[Unit 11] Workout</v-list-tile>
+          <v-list-tile @click="$router.push('/DialogueBooks/DialogueLevel2/unit' + 12)">[Unit 12] What's your day like?</v-list-tile>
+          <v-list-tile @click="$router.push('/DialogueBooks/DialogueLevel2/unit' + 13)">[Unit 13] A questionnaire</v-list-tile>
+          <v-list-tile @click="$router.push('/DialogueBooks/DialogueLevel2/unit' + 14)">[Unit 14] My boyfriend can do everything!</v-list-tile>
+          <v-list-tile @click="$router.push('/DialogueBooks/DialogueLevel2/unit' + 15)">[Unit 15] Lucky husband</v-list-tile>
+          <v-list-tile @click="$router.push('/DialogueBooks/DialogueLevel2/unit' + 16)">[Unit 16] Can you play the guitar?</v-list-tile>
+          <v-list-tile @click="$router.push('/DialogueBooks/DialogueLevel2/unit' + 17)">[Unit 17] Can you help me?</v-list-tile>
+          <v-list-tile @click="$router.push('/DialogueBooks/DialogueLevel2/unit' + 18)">[Unit 18] On a date</v-list-tile>
+          <v-list-tile @click="$router.push('/DialogueBooks/DialogueLevel2/unit' + 19)">[Unit 19] American Restaurant</v-list-tile>
+          <v-list-tile @click="$router.push('/DialogueBooks/DialogueLevel2/unit' + 20)">[Unit 20] Whose dog is this?</v-list-tile>
+          <v-list-tile @click="$router.push('/DialogueBooks/DialogueLevel2/unit' + 21)">[Unit 21] Which one?</v-list-tile>
+          <v-list-tile @click="$router.push('/DialogueBooks/DialogueLevel2/unit' + 22)">[Unit 22] What do I have to do?</v-list-tile>
+          <v-list-tile @click="$router.push('/DialogueBooks/DialogueLevel2/unit' + 23)">[Unit 23] Miami Police Department</v-list-tile>
+          <v-list-tile @click="$router.push('/DialogueBooks/DialogueLevel2/unit' + 24)">[Unit 24] How can I help you??</v-list-tile>
+          <v-list-tile @click="$router.push('/DialogueBooks/DialogueLevel2/unit' + 25)">[Unit 25] Lost in Niagara Falls</v-list-tile>
+          <v-list-tile @click="$router.push('/DialogueBooks/DialogueLevel2/unit' + 26)">[Unit 26] Personal information</v-list-tile>
+          <v-list-tile @click="$router.push('/DialogueBooks/DialogueLevel2/unit' + 27)">[Unit 27] Vacations</v-list-tile>
+          <v-list-tile @click="$router.push('/DialogueBooks/DialogueLevel2/unit' + 28)">[Unit 28] Where were you?</v-list-tile>
         </v-list>
       </v-list>
     </v-navigation-drawer>
@@ -1291,7 +1321,7 @@
         </template>
         <v-list style="overflow-y: hidden;">
           <v-list-tile>
-            <v-slider v-model="fontSize" :min="20" :max="30" :step="1"></v-slider>
+            <v-slider v-model="fontSize" :min="1" :max="40" :step="1"></v-slider>
           </v-list-tile>
         </v-list>
       </v-menu>
@@ -1300,7 +1330,7 @@
 </div>
 <div v-if="$route.name === 'FreeTalking_STEP1'">
   <v-layout>
-    <v-navigation-drawer v-model="drawer" :mini-variant="mini" absolute style="background-color:#D9D9D6; position:fixed; top:0; left:0; overflow-y:scroll;" temporary>
+    <v-navigation-drawer v-model="drawer" :mini-variant="mini" absolute style="background-color:#D9D9D6; position:fixed; top:0; left:0; overflow-y:hidden;" temporary>
       <v-list class="pa-1">
         <v-list-tile avatar>
           <v-list-tile-avatar>
@@ -1365,7 +1395,10 @@
               <v-spacer></v-spacer>
               <v-col cols="4">
                 <v-icon @click="stopSound()" large color="black">stop</v-icon>
-              </v-col>
+              </v-col>       
+                       
+              <v-progress-linear :value="percentage" rounded  style = "margin: 15px;" @click.native="setPosition()"></v-progress-linear>
+                        
               <v-spacer></v-spacer>
               <v-col cols="4">
                 <v-menu offset-y>
@@ -1386,10 +1419,10 @@
                     </v-list-item>
                   </v-list>
                 </v-menu>
-              </v-col>
+              </v-col>             
             </v-toolbar-items>
           </v-row>
-        </v-container>
+        </v-container>          
       </template>
       <v-icon v-on="on" color="black" @click="speechSlot = !speechSlot" large>volume_up</v-icon>
       <v-menu min-width="100%" offset-y>
@@ -1400,16 +1433,17 @@
         </template>
         <v-list style="overflow-y: hidden;">
           <v-list-tile>
-            <v-slider v-model="fontSize" :min="20" :max="30" :step="1"></v-slider>
+            <v-slider v-model="fontSize" :min="1" :max="40" :step="1"></v-slider>
           </v-list-tile>
         </v-list>
       </v-menu>
     </v-toolbar>
   </v-layout>
 </div>
+
 <div v-if="$route.name === 'FreeTalking_STEP2'">
   <v-layout>
-    <v-navigation-drawer v-model="drawer" :mini-variant="mini" absolute style="background-color:#FFFF9C; position:fixed; top:0; left:0; overflow-y:scroll;" temporary>
+    <v-navigation-drawer v-model="drawer" :mini-variant="mini" absolute style="background-color:#FFFF9C; position:fixed; top:0; left:0; overflow-y:hidden;" temporary>
       <v-list class="pa-1">
         <v-list-tile avatar>
           <v-list-tile-avatar>
@@ -1475,6 +1509,9 @@
               <v-col cols="4">
                 <v-icon @click="stopSound()" large color="black">stop</v-icon>
               </v-col>
+              
+              <v-progress-linear :value="percentage" rounded  style = "margin: 15px;" @click.native="setPosition()"></v-progress-linear>
+              
               <v-spacer></v-spacer>
               <v-col cols="4">
                 <v-menu offset-y>
@@ -1509,7 +1546,7 @@
         </template>
         <v-list style="overflow-y: hidden;">
           <v-list-tile>
-            <v-slider v-model="fontSize" :min="20" :max="30" :step="1"></v-slider>
+            <v-slider v-model="fontSize" :min="1" :max="40" :step="1"></v-slider>
           </v-list-tile>
         </v-list>
       </v-menu>
@@ -1518,7 +1555,7 @@
 </div>
 <div v-if="$route.name === 'FreeTalking_STEP3'">
   <v-layout>
-    <v-navigation-drawer v-model="drawer" :mini-variant="mini" absolute style="background-color:#95FF9A; position:fixed; top:0; left:0; overflow-y:scroll;" temporary>
+    <v-navigation-drawer v-model="drawer" :mini-variant="mini" absolute style="background-color:#95FF9A; position:fixed; top:0; left:0; overflow-y:hidden;" temporary>
       <v-list class="pa-1">
         <v-list-tile avatar>
           <v-list-tile-avatar>
@@ -1584,6 +1621,9 @@
               <v-col cols="4">
                 <v-icon @click="stopSound()" large color="black">stop</v-icon>
               </v-col>
+
+              <v-progress-linear :value="percentage" rounded  style = "margin: 15px;" @click.native="setPosition()"></v-progress-linear>
+
               <v-spacer></v-spacer>
               <v-col cols="4">
                 <v-menu offset-y>
@@ -1618,7 +1658,7 @@
         </template>
         <v-list style="overflow-y: hidden;">
           <v-list-tile>
-            <v-slider v-model="fontSize" :min="20" :max="30" :step="1"></v-slider>
+            <v-slider v-model="fontSize" :min="1" :max="40" :step="1"></v-slider>
           </v-list-tile>
         </v-list>
       </v-menu>
@@ -1627,7 +1667,7 @@
 </div>
 <div v-if="$route.name === 'FreeTalking_STEP4'">
   <v-layout>
-    <v-navigation-drawer v-model="drawer" :mini-variant="mini" absolute style="background-color:#FF6E6E; position:fixed; top:0; left:0; overflow-y:scroll;" temporary>
+    <v-navigation-drawer v-model="drawer" :mini-variant="mini" absolute style="background-color:#FF6E6E; position:fixed; top:0; left:0; overflow-y:hidden;" temporary>
       <v-list class="pa-1">
         <v-list-tile avatar>
           <v-list-tile-avatar>
@@ -1693,6 +1733,9 @@
               <v-col cols="4">
                 <v-icon @click="stopSound()" large color="black">stop</v-icon>
               </v-col>
+
+              <v-progress-linear :value="percentage" rounded  style = "margin: 15px;" @click.native="setPosition()"></v-progress-linear>
+
               <v-spacer></v-spacer>
               <v-col cols="4">
                 <v-menu offset-y>
@@ -1727,16 +1770,16 @@
         </template>
         <v-list style="overflow-y: hidden;">
           <v-list-tile>
-            <v-slider v-model="fontSize" :min="20" :max="30" :step="1"></v-slider>
+            <v-slider v-model="fontSize" :min="1" :max="40" :step="1"></v-slider>
           </v-list-tile>
         </v-list>
       </v-menu>
     </v-toolbar>
   </v-layout>
 </div>
-<div v-if="$route.name === 'SpeakingPattern_Step1'">
+<div v-if="$route.name === 'SpeakingPattern_White1'">
   <v-layout>
-    <v-navigation-drawer v-model="drawer" :mini-variant="mini" absolute style="background-color:#C68FC4; position:fixed; top:0; left:0; overflow-y:scroll;" temporary>
+    <v-navigation-drawer v-model="drawer" :mini-variant="mini" absolute style="background-color:#C68FC4; position:fixed; top:0; left:0; overflow-y:hidden;" temporary>
       <v-list class="pa-1">
         <v-list-tile avatar>
           <v-list-tile-avatar>
@@ -1761,26 +1804,26 @@
           <v-list-tile>
             <h2>Table of Contents</h2>
           </v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep1/chapter' + 1)">[Unit 1] 내 생각에는 ~인 것 같아</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep1/chapter' + 2)">[Unit 2] ~는 아닌 것 같아.</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep1/chapter' + 3)">[Unit 3] ~를 생각 중이야</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep1/chapter' + 4)">[Unit 4] ~를 생각하고 있었어</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep1/chapter' + 5)">[Unit 5] ~를 계속 생각해왔어</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep1/chapter' + 6)">[Unit 6] ~라고 생각해?</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep1/chapter' + 7)">[Unit 7] ~인 것 같지 않아?</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep1/chapter' + 8)">[Unit 8] ~에 대해 어떻게 생각해?</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep1/chapter' + 9)">[Unit 9] ~에 대해 어떻게 생각해?</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep1/chapter' + 10)">[Unit 10] ~는 어때?</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep1/chapter' + 11)">[Unit 11] ~를 알아</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep1/chapter' + 12)">[Unit 12] 전부터 ~를 알고 있었어</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep1/chapter' + 13)">[Unit 13] ~인지 아닌지 모르겠어</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep1/chapter' + 14)">[Unit 14] 뭘 ~할지 모르겠어</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep1/chapter' + 15)">[Unit 15] ~에 대해서는 전혀 몰라.</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep1/chapter' + 16)">[Unit 16] ~를 아니?</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep1/chapter' + 17)">[Unit 17] ~가 뭔지 아니?</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep1/chapter' + 18)">[Unit 18] 왜 ~하는지 알아?</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep1/chapter' + 19)">[Unit 19] 언제 ~하는지 알아?</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep1/chapter' + 20)">[Unit 20] ~인지 아닌지 아니?</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternWhite1/chapter' + 1)">[Unit 1] 내 생각에는 ~인 것 같아</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternWhite1/chapter' + 2)">[Unit 2] ~는 아닌 것 같아.</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternWhite1/chapter' + 3)">[Unit 3] ~를 생각 중이야</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternWhite1/chapter' + 4)">[Unit 4] ~를 생각하고 있었어</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternWhite1/chapter' + 5)">[Unit 5] ~를 계속 생각해왔어</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternWhite1/chapter' + 6)">[Unit 6] ~라고 생각해?</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternWhite1/chapter' + 7)">[Unit 7] ~인 것 같지 않아?</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternWhite1/chapter' + 8)">[Unit 8] ~에 대해 어떻게 생각해?</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternWhite1/chapter' + 9)">[Unit 9] ~에 대해 어떻게 생각해?</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternWhite1/chapter' + 10)">[Unit 10] ~는 어때?</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternWhite1/chapter' + 11)">[Unit 11] ~를 알아</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternWhite1/chapter' + 12)">[Unit 12] 전부터 ~를 알고 있었어</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternWhite1/chapter' + 13)">[Unit 13] ~인지 아닌지 모르겠어</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternWhite1/chapter' + 14)">[Unit 14] 뭘 ~할지 모르겠어</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternWhite1/chapter' + 15)">[Unit 15] ~에 대해서는 전혀 몰라.</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternWhite1/chapter' + 16)">[Unit 16] ~를 아니?</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternWhite1/chapter' + 17)">[Unit 17] ~가 뭔지 아니?</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternWhite1/chapter' + 18)">[Unit 18] 왜 ~하는지 알아?</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternWhite1/chapter' + 19)">[Unit 19] 언제 ~하는지 알아?</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternWhite1/chapter' + 20)">[Unit 20] ~인지 아닌지 아니?</v-list-tile>
         </v-list>
       </v-list>
     </v-navigation-drawer>
@@ -1833,16 +1876,16 @@
         </template>
         <v-list style="overflow-y: hidden;">
           <v-list-tile>
-            <v-slider v-model="fontSize" :min="20" :max="30" :step="1"></v-slider>
+            <v-slider v-model="fontSize" :min="1" :max="40" :step="1"></v-slider>
           </v-list-tile>
         </v-list>
       </v-menu>
     </v-toolbar>
   </v-layout>
 </div>
-<div v-if="$route.name === 'SpeakingPattern_Step2'">
+<div v-if="$route.name === 'SpeakingPattern_Yellow2'">
   <v-layout>
-    <v-navigation-drawer v-model="drawer" :mini-variant="mini" absolute style="background-color:#C68FC4; position:fixed; top:0; left:0; overflow-y:scroll;" temporary>
+    <v-navigation-drawer v-model="drawer" :mini-variant="mini" absolute style="background-color:#C68FC4; position:fixed; top:0; left:0; overflow-y:hidden;" temporary>
       <v-list class="pa-1">
         <v-list-tile avatar>
           <v-list-tile-avatar>
@@ -1867,26 +1910,26 @@
           <v-list-tile>
             <h2>Table of Contents</h2>
           </v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep2/chapter' + 1)">[Unit 21] ~가 있어</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep2/chapter' + 2)">[Unit 22] ~가 무척 많아</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep2/chapter' + 3)">[Unit 23] ~가 있었어</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep2/chapter' + 4)">[Unit 24] ~가 있을 거야</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep2/chapter' + 5)">[Unit 25] 분명 ~가 있을 거야.</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep2/chapter' + 6)">[Unit 26] ~가 없어</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep2/chapter' + 7)">[Unit 27] ~한 건 아무것도 없어</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep2/chapter' + 8)">[Unit 28] ~하는 사람은 아무도 없어</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep2/chapter' + 9)">[Unit 29] ~할 시간이 없어</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep2/chapter' + 10)">[Unit 30] ~할 필요 없어</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep2/chapter' + 11)">[Unit 31] ~가 있어?</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep2/chapter' + 12)">[Unit 32] ~가 좀 있니?</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep2/chapter' + 13)">[Unit 33] ~한 게 있나요?</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep2/chapter' + 14)">[Unit 34] ~하는 사람 있어?</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep2/chapter' + 15)">[Unit 35] ~가 많나요?</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep2/chapter' + 16)">[Unit 36] ~할 방법이 없을까요?</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep2/chapter' + 17)">[Unit 37] ~하는 건 불가능해</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep2/chapter' + 18)">[Unit 38] 내가 ~하는 건 불가능해</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep2/chapter' + 19)">[Unit 39] 더~하는 방법이 있어</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep2/chapter' + 20)">[Unit 40] ~하려면 어떤 방법이 가장 좋을까요?</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternYellow2/chapter' + 1)">[Unit 21] ~가 있어</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternYellow2/chapter' + 2)">[Unit 22] ~가 무척 많아</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternYellow2/chapter' + 3)">[Unit 23] ~가 있었어</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternYellow2/chapter' + 4)">[Unit 24] ~가 있을 거야</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternYellow2/chapter' + 5)">[Unit 25] 분명 ~가 있을 거야.</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternYellow2/chapter' + 6)">[Unit 26] ~가 없어</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternYellow2/chapter' + 7)">[Unit 27] ~한 건 아무것도 없어</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternYellow2/chapter' + 8)">[Unit 28] ~하는 사람은 아무도 없어</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternYellow2/chapter' + 9)">[Unit 29] ~할 시간이 없어</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternYellow2/chapter' + 10)">[Unit 30] ~할 필요 없어</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternYellow2/chapter' + 11)">[Unit 31] ~가 있어?</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternYellow2/chapter' + 12)">[Unit 32] ~가 좀 있니?</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternYellow2/chapter' + 13)">[Unit 33] ~한 게 있나요?</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternYellow2/chapter' + 14)">[Unit 34] ~하는 사람 있어?</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternYellow2/chapter' + 15)">[Unit 35] ~가 많나요?</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternYellow2/chapter' + 16)">[Unit 36] ~할 방법이 없을까요?</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternYellow2/chapter' + 17)">[Unit 37] ~하는 건 불가능해</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternYellow2/chapter' + 18)">[Unit 38] 내가 ~하는 건 불가능해</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternYellow2/chapter' + 19)">[Unit 39] 더~하는 방법이 있어</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternYellow2/chapter' + 20)">[Unit 40] ~하려면 어떤 방법이 가장 좋을까요?</v-list-tile>
         </v-list>
       </v-list>
     </v-navigation-drawer>
@@ -1939,16 +1982,16 @@
         </template>
         <v-list style="overflow-y: hidden;">
           <v-list-tile>
-            <v-slider v-model="fontSize" :min="20" :max="30" :step="1"></v-slider>
+            <v-slider v-model="fontSize" :min="1" :max="40" :step="1"></v-slider>
           </v-list-tile>
         </v-list>
       </v-menu>
     </v-toolbar>
   </v-layout>
 </div>
-<div v-if="$route.name === 'SpeakingPattern_Step3'">
+<div v-if="$route.name === 'SpeakingPattern_Green3'">
   <v-layout>
-    <v-navigation-drawer v-model="drawer" :mini-variant="mini" absolute style="background-color:#C68FC4; position:fixed; top:0; left:0; overflow-y:scroll;" temporary>
+    <v-navigation-drawer v-model="drawer" :mini-variant="mini" absolute style="background-color:#C68FC4; position:fixed; top:0; left:0; overflow-y:hidden;" temporary>
       <v-list class="pa-1">
         <v-list-tile avatar>
           <v-list-tile-avatar>
@@ -1973,26 +2016,26 @@
           <v-list-tile>
             <h2>Table of Contents</h2>
           </v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep3/chapter' + 1)">[Unit 41] ~하고 싶어</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep3/chapter' + 2)">[Unit 42] 난 단지 ~하고 싶었어</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep3/chapter' + 3)">[Unit 43] ~하고 싶지 않아.</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep3/chapter' + 4)">[Unit 44] ~하고 싶어요</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep3/chapter' + 5)">[Unit 45] 난 정말 ~하고 싶어</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep3/chapter' + 6)">[Unit 46] ~할래?</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep3/chapter' + 7)">[Unit 47] ~하지 않을래</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep3/chapter' + 8)">[Unit 48] 뭘~하고 싶어?</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep3/chapter' + 9)">[Unit 49] 왜 ~하고 싶니</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep3/chapter' + 10)">[Unit 50] 언제 ~하고 싶어?</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep3/chapter' + 11)">[Unit 51] ~어때?</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep3/chapter' + 12)">[Unit 52] ~어때?</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep3/chapter' + 13)">[Unit 53] ~하자</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep3/chapter' + 14)">[Unit 54] ~하지 말자</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep3/chapter' + 15)">[Unit 55] ~하는 게 좋겠어</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep3/chapter' + 16)">[Unit 56] ~하지 그래?</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep3/chapter' + 17)">[Unit 57] 우리 ~하는 게 어때요?</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep3/chapter' + 18)">[Unit 58] 우리 ~해야 할지도 모르겠어</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep3/chapter' + 19)">[Unit 59] 우리 우리 ~하자</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep3/chapter' + 20)">[Unit 60] 제가 제가 ~를 제안해도 될까요?</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternGreen3/chapter' + 1)">[Unit 41] ~하고 싶어</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternGreen3/chapter' + 2)">[Unit 42] 난 단지 ~하고 싶었어</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternGreen3/chapter' + 3)">[Unit 43] ~하고 싶지 않아.</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternGreen3/chapter' + 4)">[Unit 44] ~하고 싶어요</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternGreen3/chapter' + 5)">[Unit 45] 난 정말 ~하고 싶어</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternGreen3/chapter' + 6)">[Unit 46] ~할래?</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternGreen3/chapter' + 7)">[Unit 47] ~하지 않을래</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternGreen3/chapter' + 8)">[Unit 48] 뭘~하고 싶어?</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternGreen3/chapter' + 9)">[Unit 49] 왜 ~하고 싶니</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternGreen3/chapter' + 10)">[Unit 50] 언제 ~하고 싶어?</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternGreen3/chapter' + 11)">[Unit 51] ~어때?</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternGreen3/chapter' + 12)">[Unit 52] ~어때?</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternGreen3/chapter' + 13)">[Unit 53] ~하자</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternGreen3/chapter' + 14)">[Unit 54] ~하지 말자</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternGreen3/chapter' + 15)">[Unit 55] ~하는 게 좋겠어</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternGreen3/chapter' + 16)">[Unit 56] ~하지 그래?</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternGreen3/chapter' + 17)">[Unit 57] 우리 ~하는 게 어때요?</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternGreen3/chapter' + 18)">[Unit 58] 우리 ~해야 할지도 모르겠어</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternGreen3/chapter' + 19)">[Unit 59] 우리 우리 ~하자</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternGreen3/chapter' + 20)">[Unit 60] 제가 제가 ~를 제안해도 될까요?</v-list-tile>
         </v-list>
       </v-list>
     </v-navigation-drawer>
@@ -2045,16 +2088,16 @@
         </template>
         <v-list style="overflow-y: hidden;">
           <v-list-tile>
-            <v-slider v-model="fontSize" :min="20" :max="30" :step="1"></v-slider>
+            <v-slider v-model="fontSize" :min="1" :max="40" :step="1"></v-slider>
           </v-list-tile>
         </v-list>
       </v-menu>
     </v-toolbar>
   </v-layout>
 </div>
-<div v-if="$route.name === 'SpeakingPattern_Step4'">
+<div v-if="$route.name === 'SpeakingPattern_Red4'">
   <v-layout>
-    <v-navigation-drawer v-model="drawer" :mini-variant="mini" absolute style="background-color:#C68FC4; position:fixed; top:0; left:0; overflow-y:scroll;" temporary>
+    <v-navigation-drawer v-model="drawer" :mini-variant="mini" absolute style="background-color:#C68FC4; position:fixed; top:0; left:0; overflow-y:hidden;" temporary>
       <v-list class="pa-1">
         <v-list-tile avatar>
           <v-list-tile-avatar>
@@ -2079,26 +2122,26 @@
           <v-list-tile>
             <h2>Table of Contents</h2>
           </v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep4/chapter' + 1)">[Unit 61] 난 좀 ~해</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep4/chapter' + 2)">[Unit 62] 난 정말~해.</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep4/chapter' + 3)">[Unit 63] 난 완전히 ~해</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep4/chapter' + 4)">[Unit 64] 그건 좀 ~해</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep4/chapter' + 5)">[Unit 65] 이건 완전히 ~야</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep4/chapter' + 6)">[Unit 66] ~에 만족해</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep4/chapter' + 7)">[Unit 67] ~해서 정말 기뻐</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep4/chapter' + 8)">[Unit 68] ~해서 좋아</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep4/chapter' + 9)">[Unit 69] 기꺼이 ~할게</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep4/chapter' + 10)">[Unit 70] ~할 용의가 있어</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep4/chapter' + 11)">[Unit 71] 놀람 표현하기</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep4/chapter' + 12)">[Unit 72] ~를 믿을 수가 없어</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep4/chapter' + 13)">[Unit 73] 넌 ~를 못 믿을 거야</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep4/chapter' + 14)">[Unit 74] ~하다니 충격적이었어</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep4/chapter' + 15)">[Unit 75] ~하는 건 당연해</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep4/chapter' + 16)">[Unit 76] 난 ~가 무서워</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep4/chapter' + 17)">[Unit 77] 난 ~가 걱정돼</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep4/chapter' + 18)">[Unit 78] ~때문에 긴장돼</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep4/chapter' + 19)">[Unit 79] ~하다니 실망이야</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep4/chapter' + 20)">[Unit 80] ~해서 참 답답해</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternRed4/chapter' + 1)">[Unit 61] 난 좀 ~해</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternRed4/chapter' + 2)">[Unit 62] 난 정말~해.</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternRed4/chapter' + 3)">[Unit 63] 난 완전히 ~해</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternRed4/chapter' + 4)">[Unit 64] 그건 좀 ~해</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternRed4/chapter' + 5)">[Unit 65] 이건 완전히 ~야</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternRed4/chapter' + 6)">[Unit 66] ~에 만족해</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternRed4/chapter' + 7)">[Unit 67] ~해서 정말 기뻐</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternRed4/chapter' + 8)">[Unit 68] ~해서 좋아</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternRed4/chapter' + 9)">[Unit 69] 기꺼이 ~할게</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternRed4/chapter' + 10)">[Unit 70] ~할 용의가 있어</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternRed4/chapter' + 11)">[Unit 71] 놀람 표현하기</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternRed4/chapter' + 12)">[Unit 72] ~를 믿을 수가 없어</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternRed4/chapter' + 13)">[Unit 73] 넌 ~를 못 믿을 거야</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternRed4/chapter' + 14)">[Unit 74] ~하다니 충격적이었어</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternRed4/chapter' + 15)">[Unit 75] ~하는 건 당연해</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternRed4/chapter' + 16)">[Unit 76] 난 ~가 무서워</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternRed4/chapter' + 17)">[Unit 77] 난 ~가 걱정돼</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternRed4/chapter' + 18)">[Unit 78] ~때문에 긴장돼</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternRed4/chapter' + 19)">[Unit 79] ~하다니 실망이야</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternRed4/chapter' + 20)">[Unit 80] ~해서 참 답답해</v-list-tile>
         </v-list>
       </v-list>
     </v-navigation-drawer>
@@ -2151,16 +2194,16 @@
         </template>
         <v-list style="overflow-y: hidden;">
           <v-list-tile>
-            <v-slider v-model="fontSize" :min="20" :max="30" :step="1"></v-slider>
+            <v-slider v-model="fontSize" :min="1" :max="40" :step="1"></v-slider>
           </v-list-tile>
         </v-list>
       </v-menu>
     </v-toolbar>
   </v-layout>
 </div>
-<div v-if="$route.name === 'SpeakingPattern_Step5'">
+<div v-if="$route.name === 'SpeakingPattern_Black5'">
   <v-layout>
-    <v-navigation-drawer v-model="drawer" :mini-variant="mini" absolute style="background-color:#C68FC4; position:fixed; top:0; left:0; overflow-y:scroll;" temporary>
+    <v-navigation-drawer v-model="drawer" :mini-variant="mini" absolute style="background-color:#C68FC4; position:fixed; top:0; left:0; overflow-y:hidden;" temporary>
       <v-list class="pa-1">
         <v-list-tile avatar>
           <v-list-tile-avatar>
@@ -2185,26 +2228,26 @@
           <v-list-tile>
             <h2>Table of Contents</h2>
           </v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep5/chapter' + 1)">[Unit 81] ~를 좋아하니?</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep5/chapter' + 2)">[Unit 82] 난 ~를 좋아해</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep5/chapter' + 3)">[Unit 83] 난 ~에 빠졌어</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep5/chapter' + 4)">[Unit 84] 난 ~를 좋아하지 않아</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep5/chapter' + 5)">[Unit 85] 난 ~하는 방식이 마음에 안 들어</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep5/chapter' + 6)">[Unit 86] ~할 때가 좋아</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep5/chapter' + 7)">[Unit 87] ~하면 정말 싫어</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep5/chapter' + 8)">[Unit 88] ~에 관심 있어요?</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep5/chapter' + 9)">[Unit 89] 좋아하는 것 말하기</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep5/chapter' + 10)">[Unit 90] ~는 신경 안 써</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep5/chapter' + 11)">[Unit 91] 네~가 멋진데</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep5/chapter' + 12)">[Unit 92] 네가 ~하는 방식이 좋아</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep5/chapter' + 13)">[Unit 93] 넌 참~하구나</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep5/chapter' + 14)">[Unit 94] 넌 ~를 잘하는구나</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep5/chapter' + 15)">[Unit 95] 넌 ~감각이 뛰어나구나</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep5/chapter' + 16)">[Unit 96] ~해서 고마워</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep5/chapter' + 17)">[Unit 97] ~에 감사드려요.</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep5/chapter' + 18)">[Unit 98] ~해주신다면 정말 감사하겠어요.</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep5/chapter' + 19)">[Unit 99] ~해주시니 정말 ~하세요</v-list-tile>
-          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternStep5/chapter' + 20)">[Unit 100] ~하다니 정말 고마워</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternBlack5/chapter' + 1)">[Unit 81] ~를 좋아하니?</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternBlack5/chapter' + 2)">[Unit 82] 난 ~를 좋아해</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternBlack5/chapter' + 3)">[Unit 83] 난 ~에 빠졌어</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternBlack5/chapter' + 4)">[Unit 84] 난 ~를 좋아하지 않아</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternBlack5/chapter' + 5)">[Unit 85] 난 ~하는 방식이 마음에 안 들어</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternBlack5/chapter' + 6)">[Unit 86] ~할 때가 좋아</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternBlack5/chapter' + 7)">[Unit 87] ~하면 정말 싫어</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternBlack5/chapter' + 8)">[Unit 88] ~에 관심 있어요?</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternBlack5/chapter' + 9)">[Unit 89] 좋아하는 것 말하기</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternBlack5/chapter' + 10)">[Unit 90] ~는 신경 안 써</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternBlack5/chapter' + 11)">[Unit 91] 네~가 멋진데</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternBlack5/chapter' + 12)">[Unit 92] 네가 ~하는 방식이 좋아</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternBlack5/chapter' + 13)">[Unit 93] 넌 참~하구나</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternBlack5/chapter' + 14)">[Unit 94] 넌 ~를 잘하는구나</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternBlack5/chapter' + 15)">[Unit 95] 넌 ~감각이 뛰어나구나</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternBlack5/chapter' + 16)">[Unit 96] ~해서 고마워</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternBlack5/chapter' + 17)">[Unit 97] ~에 감사드려요.</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternBlack5/chapter' + 18)">[Unit 98] ~해주신다면 정말 감사하겠어요.</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternBlack5/chapter' + 19)">[Unit 99] ~해주시니 정말 ~하세요</v-list-tile>
+          <v-list-tile @click="$router.push('/SpeakingPattern/SpeakingPatternBlack5/chapter' + 20)">[Unit 100] ~하다니 정말 고마워</v-list-tile>
         </v-list>
       </v-list>
     </v-navigation-drawer>
@@ -2257,7 +2300,7 @@
         </template>
         <v-list style="overflow-y: hidden;">
           <v-list-tile>
-            <v-slider v-model="fontSize" :min="20" :max="30" :step="1"></v-slider>
+            <v-slider v-model="fontSize" :min="1" :max="40" :step="1"></v-slider>
           </v-list-tile>
         </v-list>
       </v-menu>
@@ -2266,7 +2309,7 @@
 </div>
 <div v-if="$route.name === 'Freetalking_Description'">
   <v-layout>
-    <v-navigation-drawer v-model="drawer" :mini-variant="mini" absolute style="background-color:#ff6363; position:fixed; top:0; left:0; overflow-y:scroll;" temporary>
+    <v-navigation-drawer v-model="drawer" :mini-variant="mini" absolute style="background-color:#ff6363; position:fixed; top:0; left:0; overflow-y:hidden;" temporary>
       <v-list class="pa-1">
         <v-list-tile avatar>
           <v-list-tile-avatar>
@@ -2393,7 +2436,7 @@
         </template>
         <v-list style="overflow-y: hidden;">
           <v-list-tile>
-            <v-slider v-model="fontSize" :min="20" :max="30" :step="1"></v-slider>
+            <v-slider v-model="fontSize" :min="1" :max="40" :step="1"></v-slider>
           </v-list-tile>
         </v-list>
       </v-menu>
@@ -2402,7 +2445,7 @@
 </div>
 <div v-if="$route.name === 'FreeTalking_Opinion'">
   <v-layout>
-    <v-navigation-drawer v-model="drawer" :mini-variant="mini" absolute style="background-color:#F76830; position:fixed; top:0; left:0; overflow-y:scroll;" temporary>
+    <v-navigation-drawer v-model="drawer" :mini-variant="mini" absolute style="background-color:#F76830; position:fixed; top:0; left:0; overflow-y:hidden;" temporary>
       <v-list class="pa-1">
         <v-list-tile avatar>
           <v-list-tile-avatar>
@@ -2523,12 +2566,15 @@
               <v-col cols="4">
                 <v-icon @click="stopSound()" large color="black">stop</v-icon>
               </v-col>
+
+              <v-progress-linear :value="percentage" rounded  style = "margin: 15px;" @click.native="setPosition()"></v-progress-linear>
+              
               <v-spacer></v-spacer>
               <v-col cols="4">
                 <v-menu offset-y>
-                  <template v-slot:activator="{ on }">
-                    <v-btn v-on="on" depressed block text color="#c38b8b">{{speechRateText}}</v-btn>
-                  </template>
+                  <!-- <template v-slot:activator="{ on }">
+                     <v-btn v-on="on" depressed block text color="#c38b8b">{{speechRateText}}</v-btn> 
+                  </template> -->
                   <v-list>
                     <v-list-item>
                       <v-list-item-title class="mx-2" @click="changeSpeechRate($event)"><center>0.75x</center></v-list-item-title>
@@ -2557,7 +2603,7 @@
         </template>
         <v-list style="overflow-y: hidden;">
           <v-list-tile>
-            <v-slider v-model="fontSize" :min="20" :max="30" :step="1"></v-slider>
+            <v-slider v-model="fontSize" :min="1" :max="40" :step="1"></v-slider>
           </v-list-tile>
         </v-list>
       </v-menu>
@@ -2566,7 +2612,7 @@
 </div>
 <div v-if="$route.name === 'Level_test'">
   <v-layout>
-    <v-navigation-drawer v-model="drawer" :mini-variant="mini" absolute style="background-color:#F76830; position:fixed; top:0; left:0; overflow-y:scroll;" temporary>
+    <v-navigation-drawer v-model="drawer" :mini-variant="mini" absolute style="background-color:#F76830; position:fixed; top:0; left:0; overflow-y:hidden;" temporary>
       <v-list class="pa-1">
         <v-list-tile avatar>
           <v-list-tile-avatar>
@@ -2644,7 +2690,7 @@
         </template>
         <v-list style="overflow-y: hidden;">
           <v-list-tile>
-            <v-slider v-model="fontSize" :min="20" :max="30" :step="1"></v-slider>
+            <v-slider v-model="fontSize" :min="1" :max="40" :step="1"></v-slider>
           </v-list-tile>
         </v-list>
       </v-menu>
@@ -2653,7 +2699,7 @@
 </div>
 <div v-if="$route.name === 'Interview_Step1'">
   <v-layout>
-    <v-navigation-drawer v-model="drawer" :mini-variant="mini" absolute style="background-color:#de7119; position:fixed; top:0; left:0; overflow-y:scroll;" temporary>
+    <v-navigation-drawer v-model="drawer" :mini-variant="mini" absolute style="background-color:#de7119; position:fixed; top:0; left:0; overflow-y:hidden;" temporary>
       <v-list class="pa-1">
         <v-list-tile avatar>
           <v-list-tile-avatar>
@@ -2760,7 +2806,7 @@
         </template>
         <v-list style="overflow-y: hidden;">
           <v-list-tile>
-            <v-slider v-model="fontSize" :min="20" :max="30" :step="1"></v-slider>
+            <v-slider v-model="fontSize" :min="1" :max="40" :step="1"></v-slider>
           </v-list-tile>
         </v-list>
       </v-menu>
@@ -2769,7 +2815,7 @@
 </div>
 <div v-if="$route.name === 'Travel_English'">
   <v-layout>
-    <v-navigation-drawer v-model="drawer" :mini-variant="mini" absolute style="background-color:#0779e4; position:fixed; top:0; left:0; overflow-y:scroll;" temporary>
+    <v-navigation-drawer v-model="drawer" :mini-variant="mini" absolute style="background-color:#0779e4; position:fixed; top:0; left:0; overflow-y:hidden;" temporary>
       <v-list class="pa-1">
         <v-list-tile avatar>
           <v-list-tile-avatar>
@@ -2853,7 +2899,7 @@
         </template>
         <v-list style="overflow-y: hidden;">
           <v-list-tile>
-            <v-slider v-model="fontSize" :min="20" :max="30" :step="1"></v-slider>
+            <v-slider v-model="fontSize" :min="1" :max="40" :step="1"></v-slider>
           </v-list-tile>
         </v-list>
       </v-menu>
@@ -2862,7 +2908,7 @@
 </div>
 <div v-if="$route.name === 'IT_Issues'">
   <v-layout>
-    <v-navigation-drawer v-model="drawer" :mini-variant="mini" absolute style="background-color:#59CCD9; position:fixed; top:0; left:0; overflow-y:scroll;" temporary>
+    <v-navigation-drawer v-model="drawer" :mini-variant="mini" absolute style="background-color:#59CCD9; position:fixed; top:0; left:0; overflow-y:hidden;" temporary>
       <v-list class="pa-1">
         <v-list-tile avatar>
           <v-list-tile-avatar>
@@ -2892,6 +2938,21 @@
           <v-list-tile @click="$router.push('/IT-Issues/IT-Issues1/chapter' + 3)">[Unit 3] Big Data, Big Impact</v-list-tile>
           <v-list-tile @click="$router.push('/IT-Issues/IT-Issues1/chapter' + 4)">[Unit 4] The Future of Big Data</v-list-tile>
           <v-list-tile @click="$router.push('/IT-Issues/IT-Issues1/chapter' + 5)">[Unit 5] Benefits of IoT Data Analytics</v-list-tile>
+          <v-list-tile @click="$router.push('/IT-Issues/IT-Issues1/unit' + 6)">[Unit 6] Machine learning</v-list-tile>
+          <v-list-tile @click="$router.push('/IT-Issues/IT-Issues1/unit' + 7)">[Unit 7] Machine learning</v-list-tile>
+          <v-list-tile @click="$router.push('/IT-Issues/IT-Issues1/unit' + 8)">[Unit 8] Artificial Intelligence</v-list-tile>
+          <v-list-tile @click="$router.push('/IT-Issues/IT-Issues1/unit' + 9)">[Unit 9] Big Data</v-list-tile>
+          <v-list-tile @click="$router.push('/IT-Issues/IT-Issues1/unit' + 10)">[Unit 10] cloud</v-list-tile>
+          <v-list-tile @click="$router.push('/IT-Issues/IT-Issues1/unit' + 11)">[Unit 11] software</v-list-tile>
+          <v-list-tile @click="$router.push('/IT-Issues/IT-Issues1/unit' + 12)">[Unit 12] AI</v-list-tile>
+          <v-list-tile @click="$router.push('/IT-Issues/IT-Issues1/unit' + 13)">[Unit 13] Machine learning</v-list-tile>
+          <v-list-tile @click="$router.push('/IT-Issues/IT-Issues1/unit' + 14)">[Unit 14] IoT</v-list-tile>
+          <v-list-tile @click="$router.push('/IT-Issues/IT-Issues1/unit' + 15)">[Unit 15] software</v-list-tile>
+          <v-list-tile @click="$router.push('/IT-Issues/IT-Issues1/unit' + 16)">[Unit 16] IoT</v-list-tile>
+          <v-list-tile @click="$router.push('/IT-Issues/IT-Issues1/unit' + 17)">[Unit 17] IoT</v-list-tile>
+          <v-list-tile @click="$router.push('/IT-Issues/IT-Issues1/unit' + 18)">[Unit 18] Machine learning</v-list-tile>
+          <v-list-tile @click="$router.push('/IT-Issues/IT-Issues1/unit' + 19)">[Unit 19] Machine learning</v-list-tile>
+          <v-list-tile @click="$router.push('/IT-Issues/IT-Issues1/unit' + 20)">[Unit 20] Machine learning</v-list-tile>
         </v-list>
       </v-list>
     </v-navigation-drawer>
@@ -2913,9 +2974,9 @@
               <v-spacer></v-spacer>
               <v-col cols="4">
                 <v-menu offset-y>
-                  <template v-slot:activator="{ on }">
-                    <v-btn v-on="on" depressed block text color="#c38b8b">{{speechRateText}}</v-btn>
-                  </template>
+                  <!-- <template v-slot:activator="{ on }">
+                     <v-btn v-on="on" depressed block text color="#c38b8b">{{speechRateText}}</v-btn> 
+                  </template> -->
                   <v-list>
                     <v-list-item>
                       <v-list-item-title class="mx-2" @click="changeSpeechRate($event)"><center>0.75x</center></v-list-item-title>
@@ -2944,7 +3005,7 @@
         </template>
         <v-list style="overflow-y: hidden;">
           <v-list-tile>
-            <v-slider v-model="fontSize" :min="20" :max="30" :step="1"></v-slider>
+            <v-slider v-model="fontSize" :min="1" :max="40" :step="1"></v-slider>
           </v-list-tile>
         </v-list>
       </v-menu>
@@ -2986,24 +3047,47 @@ export default {
     selectedString: '',
     speechRateText: '1x',
     speechRate: 1,
-    fontSize: 20,
+    fontSize: 16,
     speechInfo: true,
     speechSlot: false,
     playArrow: true,
     audioPlaying: false,
     audio: '',
+    percentage: 0,
   }
 },
 watch: {
   fontSize(current, old) {
-  }
+  },
+
+  $route (to, from){
+    this.stopSound()
+    this.audio = ''
+  },
+
+  audioPlaying: function(){
+    
+  },
 },
+
 mounted() {
   this.speech.cancel()
+  console.log(window.location.href)
 },
+
 methods: {
+  setPosition () {
+               this.percentage = Math.round(this.audio.currentTime / this.audio.duration * 100);
+               console.log(this.percentage)
+               if(this.percentage == 100){
+                 this.percentage = 0;
+                 this.stopSound()
+               } 
+            },
+
   playSound() {
     console.log(this.audio.paused, 'hi')
+
     if(this.audio.paused && !this.audioPlaying){
       this.audio.play(); 
       this.playArrow = false
@@ -3015,9 +3099,11 @@ methods: {
           this.icon = "pause";
           this.audioPlaying = true;
           this.playArrow = false;
+          setInterval(this.setPosition, 50)
         }
       }
     }
+
     if(this.$router.history.current.fullPath.indexOf('/FreeTalking-QnA/FreeTalking-STEP2') != -1){
       for(var i = 0; i < 21; i++){
         if(this.$router.history.current.fullPath === '/FreeTalking-QnA/FreeTalking-STEP2/chapter' + i){
@@ -3025,9 +3111,11 @@ methods: {
           this.icon = "pause";
           this.audioPlaying = true;
           this.playArrow = false;
+          setInterval(this.setPosition, 50)
         }
       }
     }
+
     if(this.$router.history.current.fullPath.indexOf('/FreeTalking-QnA/FreeTalking-STEP3') != -1){
       for(var i = 0; i < 21; i++){
         if(this.$router.history.current.fullPath === '/FreeTalking-QnA/FreeTalking-STEP3/chapter' + i){
@@ -3035,9 +3123,11 @@ methods: {
           this.icon = "pause";
           this.audioPlaying = true;
           this.playArrow = false;
+          setInterval(this.setPosition, 50)
         }
       }
     }
+
     if(this.$router.history.current.fullPath.indexOf('/FreeTalking-QnA/FreeTalking-STEP4') != -1){
       for(var i = 0; i < 21; i++){
         if(this.$router.history.current.fullPath === '/FreeTalking-QnA/FreeTalking-STEP4/chapter' + i){
@@ -3045,19 +3135,23 @@ methods: {
           this.icon = "pause";
           this.audioPlaying = true;
           this.playArrow = false;
+          setInterval(this.setPosition, 50)
         }
       }
     }
+
     if(this.$router.history.current.fullPath.indexOf('/DialogueBooks/DialogueLevel1') != -1){
-      for(var i = 0; i < 21; i++){
+      for(var i = 0; i < 29; i++){
         if(this.$router.history.current.fullPath === '/DialogueBooks/DialogueLevel1/chapter' + i){
           this.audio = new Audio('../../audio/DialogueBooks/White/Unit' +i+ '.mp3')
           this.icon = "pause";
           this.audioPlaying = true;
           this.playArrow = false;
+          setInterval(this.setPosition, 50)
         }
       }
     }
+
     if(this.$router.history.current.fullPath.indexOf('/FreeTalkingOpinion/FreeTalkingOpinion1') != -1){
       for(var i = 0; i < 76; i++){
         if(this.$router.history.current.fullPath === '/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + i){
@@ -3065,6 +3159,7 @@ methods: {
           this.icon = "pause";
           this.audioPlaying = true;
           this.playArrow = false;
+          setInterval(this.setPosition, 50)
         }
       }
     }
@@ -3100,6 +3195,7 @@ methods: {
     }else if(this.speechRate == 1){
       string2 = string.slice(526, string.length).trim().replace(/\s/g,' ')
     }
+
     this.speech.init({
       volume: 1,
       lang: "en-US",
@@ -3144,10 +3240,12 @@ methods: {
       }
     }
   },
+
   stopSpeech() {
     Vue.set(this.$data, 'icon', 'play_arrow')
     this.speech.cancel()
   },
+
   selectedTextToSpeech() {
     if (!this.speech.speaking()) {
       this.speech.init({
@@ -3180,6 +3278,7 @@ methods: {
   Vue.set(this.$data, 'icon', 'pause')
 }
 },
+
 changeSpeechRate(selected){
   this.speechRateText = selected.target.innerText
   if(selected.target.innerText == "0.5x"){
@@ -3195,12 +3294,13 @@ changeSpeechRate(selected){
     this.speechRate = 1.25
   }
 }
+},
 }
-}
+
 </script>
 <style>
 .custom-list {
-  max-height: 100vh;
+  max-height: 90vh;
   overflow-y: scroll;
 }
 .unit a{
@@ -3245,7 +3345,6 @@ changeSpeechRate(selected){
 }
 ::-webkit-scrollbar-corner {
   background: transparent;
-}
-
+} 
 
 </style>

@@ -6,7 +6,7 @@
 
       <v-layout column>
         <v-img
-        src="https://marketplace.canva.com/MADGv8RmfkY/6/screen_2x/canva-man-and-woman-sitting-on-chair-in-front-of-desk-MADGv8RmfkY.jpg">
+        src="https://image.freepik.com/free-photo/positive-adult-man-woman-talking_23-2148431277.jpg">
 
         <v-layout
         align-end
@@ -24,7 +24,7 @@
   </v-img>
 
   <hr style="border: 3px solid rgba(32, 64, 81, 1);" width="100%">
-  <h3 style="padding-top : 10px;  padding-left : 15px; padding-bottom: 10px;">Dialogue <br>( 선생님의 안내에 따라 문장을 읽어 주세요 )</h3>
+  <h3 style="padding-top : 10px;  padding-left : 15px; padding-bottom: 10px;">Dialogue <br /> ( 선생님의 안내에 따라 문장을 읽어 주세요 )</h3>
   <hr width="60%">
   <div style = "padding : 16px;">
 
@@ -58,16 +58,16 @@
 
         <ol style="margin: 12px;">
           <li>
-              How <u> &emsp; &emsp; &emsp; </u> hours are there in a day? <br />
-                하루는 몇시간입니까?
+            How <u> &emsp; &emsp; &emsp; </u> hours are there in a day? <br />
+              하루는 몇시간입니까?
           </li>
           <li>
-              There <u> &emsp; &emsp; &emsp; </u> many small restaurants in my neighborhood.<br />
-                내 지역에는 많은 작은 식당들이 있습니다.
+            There <u> &emsp; &emsp; &emsp; </u> many small restaurants in my neighborhood.<br />
+              내 지역에는 많은 작은 식당들이 있습니다.
           </li>
           <li>
-              There <u> &emsp; &emsp; &emsp; </u> much noise.
-                소음이 거의 없습니다.
+            There <u> &emsp; &emsp; &emsp; </u> much noise.
+              소음이 거의 없습니다.
           </li>
         </ol>
 
@@ -128,10 +128,12 @@
                     <li>
                       Notes
                     </li>
+                    <ol style="margin: 12px;">
                     <li>
-                      1) 질문 : How much (얼마나 많은 양)....? / 대답 : there is.... (양은 셀 수 없기 때문에 단수취급합니다) <br />
-                                 How many (얼마나 많은 수)....? / 대답 : there are....                 
+                      질문 : How much (얼마나 많은 양)....? / 대답 : there is.... (양은 셀 수 없기 때문에 단수취급합니다) <br />
+                            How many (얼마나 많은 수)....? / 대답 : there are....                 
                     </li>
+                    </ol>
                     </v-card-text>
                   </v-card>
                 </v-flex>
@@ -191,7 +193,7 @@ export default {
         },
         {
           name:'Nick:',
-          speech:'Downtown? Is there much noise?'
+          speech:'Downtown? Is there a lot of noise?'
         },
         {
           name:'Pam:',
@@ -319,6 +321,11 @@ p{
 
 h3{
   padding-top: 7px;
+
+}
+
+li{
+
 
 }
 

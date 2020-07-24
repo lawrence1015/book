@@ -31,11 +31,11 @@
   <h3  class = "border white--text" style = "border-radius: 0px 0px 70px 0px;" >Topic</h3>
 
 
-  <div style = "padding : 16px; line-height: 200%;">
+  <div style = "padding : 16px; line-height: 1.6;">
 
     <table style = "border-collapse: collapse;">
 
-      <tr>
+    <tr>
     <td class = "uppertable" ><b>A :</b></td>
     <td class = "lowertable" >I went to my friend’s birthday party yesterday
     and I was really stress out. I didn’t know many
@@ -45,11 +45,12 @@
     watched last week and the weather, but I got a lot more comfortable after.
     I was so thankful to her for her thoughtful action!</td>
   </tr>
-  <tr>
+  <tr style="color:#1565C0;">
     <td class = "uppertable" ><b>B :</b></td>
     <td class = "lowertable" >Ah… It must have been a really awkward experience!
     Maybe you should make small talk on your own next time.
-    It could help. Do we need to make small talk first?</td>
+    It could help.
+    <p>Do we need to make small talk first?</p></td>
   </tr>
 
 
@@ -70,31 +71,31 @@
       <div style="padding : 16px;">
 
         <p>
-          <b>small talk 잡담</b>
+          <b>small talk</b> 잡담
         </p>
 
         <p>
-          <b>birthday 생일</b>
+          <b>birthday</b> 생일
         </p>
 
         <p>
-          <b>comfortable 편한</b>
+          <b>comfortable</b> 편한
         </p>
 
         <p>
-          <b>thoughtful 사려 깊은</b>
+          <b>thoughtful</b> 사려 깊은
         </p>
 
         <p>
-          <b>awkward 어색한</b>
+          <b>awkward</b> 어색한
         </p>
 
         <p>
-          <b>stress out 스트레스 받다</b>
+          <b>stress out</b> 스트레스 받다
         </p>
 
         <p>
-          <b>break the ice 서먹서먹한 분위기를 깨다</b>
+          <b>break the ice</b> 서먹서먹한 분위기를 깨다
         </p>
 
 
@@ -121,13 +122,15 @@
 
 
               <v-flex xs12>
-                <v-card light color="#FFE7D5">
+                <v-card light flat>
                   <v-card-text class="px-10" style="line-height: 200%;">
 
                       <p>
+                        <b>
                         내가 먼저 잡담을 시작해야 할까요?
+                        </b>
                       </p>
-                    <ol class="replace" type = "A" style="font-weight: bold;">
+                    <ol class="replace" type = "A" style="font-weight: bold; line-height: 1.6">
                       <li><span class = "normaltext">
                         나는 어제 내 친구의 생일 파티에 갔는데 진짜 스트레스를 많이 받았어.<br />
                         나는 그곳의 많은 사람들을 잘 몰랐고 서먹서먹한 분위기를 깨기 위해 무슨 말을 해야 할 지 몰랐어.<br />
@@ -136,10 +139,11 @@
                         그녀의 사려 깊은 행동에 대해 너무 고맙게 생각해!<br />
                         </span>
                       </li>
-                      <li><span class = "normaltext">
+                      <br>
+                      <li style="color:#1565C0;"><span class = "normaltext">
                         아… 진짜 어색한 경험이었겠네!<br />
-                        아마도 너는 네 스스로 다음에 잡담을 시작해야 할 것 같아. 도움이 될 거야.<br />
-                        우리가 잡담을 먼저 시작해야 할까요?
+                        아마도 너는 네 스스로 다음에 잡담을 시작해야 할 것 같아. 도움이 될 거야.
+                        <p>우리가 잡담을 먼저 시작해야 할까요?</p>
                       </span>
                       </li>
                     </ol>
@@ -164,8 +168,6 @@
 
 
   </v-layout>
-</v-container>
-</v-layout>
 </v-container>
 </div>
 
@@ -230,10 +232,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

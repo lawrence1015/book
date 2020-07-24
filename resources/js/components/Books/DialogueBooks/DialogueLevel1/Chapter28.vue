@@ -6,7 +6,7 @@
 
       <v-layout column>
         <v-img
-        src="https://marketplace.canva.com/MADGv8RmfkY/6/screen_2x/canva-man-and-woman-sitting-on-chair-in-front-of-desk-MADGv8RmfkY.jpg">
+        src="https://image.freepik.com/free-photo/delicious-birthday-cake-with-copy-space_23-2148351943.jpg">
 
         <v-layout
         align-end
@@ -24,7 +24,7 @@
   </v-img>
 
   <hr style="border: 3px solid rgba(32, 64, 81, 1);" width="100%">
-  <h3 style="padding-top : 10px;  padding-left : 15px; padding-bottom: 10px;">Dialogue <br>( 선생님의 안내에 따라 문장을 읽어 주세요 )</h3>
+  <h3 style="padding-top : 10px;  padding-left : 15px; padding-bottom: 10px;">Dialogue <br /> ( 선생님의 안내에 따라 문장을 읽어 주세요 )</h3>
   <hr width="60%">
   <div style = "padding : 16px;">
 
@@ -58,16 +58,16 @@
 
         <ol style="margin: 12px;">
           <li>
-              What kind of present <u> &emsp; &emsp; &emsp; </u> Emily <u> &emsp; &emsp; &emsp; </u> for her graduation?<br />
-                Emily는 그녀의 졸업으로 무슨 종류의 선물을 원합니까?
+            What kind of present <u> &emsp; &emsp; &emsp; </u> Emily <u> &emsp; &emsp; &emsp; </u> for her graduation?<br />
+              Emily는 그녀의 졸업으로 무슨 종류의 선물을 원합니까?
           </li>
           <li>
-              <u> &emsp; &emsp; &emsp; </u> she wants earrings? <br />
-                그녀는 귀걸이를 원합니까?
+            <u> &emsp; &emsp; &emsp; </u> she wants earrings? <br />
+              그녀는 귀걸이를 원합니까?
           </li>
           <li>
-              No, she <u> &emsp; &emsp; &emsp; </u> them. She <u> &emsp; &emsp; &emsp; </u> wants a watch.<br />
-                아니요, 그녀는 그것을 원하지 않습니다. 그녀는 시계를 원합니다.
+            No, she <u> &emsp; &emsp; &emsp; </u> them. She <u> &emsp; &emsp; &emsp; </u> wants a watch.<br />
+              아니요, 그녀는 그것을 원하지 않습니다. 그녀는 시계를 원합니다.
           </li>
         </ol>
 
@@ -120,13 +120,15 @@
                     <li>
                       Notes
                     </li>
+                    <ol style="margin: 12px;">
                     <li>
-                      1) He/she wants / What does she want? / Does she want?
+                      He/she wants / What does she want? / Does she want?
                     </li>
                     <li>
-                      2) What kind of... does she want?<br />
-                      What kind of... do they want?                  
+                      What kind of... does she want?<br />
+                        What kind of... do they want?                  
                     </li>
+                    </ol>
                     </v-card-text>
                   </v-card>
                 </v-flex>
@@ -332,6 +334,11 @@ p{
 
 h3{
   padding-top: 7px;
+
+}
+
+li{
+
 
 }
 

@@ -58,11 +58,44 @@
 
 </div>
 
+<h3 style="background-color: #95FF9A;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Translation</h3>
+               <div style="padding : 16px;">
+
+   <ol style="margin: 12px;">
+     <li class="mb-2">
+       만약 여러분이 한 명 이상의 감독관이 있고 각각의 감독관이 여러분에게 다른 방향을 준다면 어떻게 해야 한다고 생각하나요?
+     </li>
+     <br />
+     <li class="mb-2">
+        당신과 당신의 친구가 같은 회사에서 일한다고 상상해 보세요. 당신은 당신이 친구보다 더 열심히 일하고 더 잘 한다는 것을 알고 있습니다.
+        <ul>
+        <li class="mt-2">놀랍게도, 당신의 친구는 승진해서 이제는 당신의 감독관이에요. 당신은 무엇을 합니까?</li>
+       </ul>
+     </li>
+     <br />
+     <li class="mb-2">
+        상사가 회사를 위해 나쁜 결정을 내리고 있다고 상상해 보세요.
+        <ul>
+        <li class="mt-2">아무말도 하지 않을 건가요? 왜 그럴까요, 아니면 왜 아닐까요?</li>
+       </ul>
+     </li>
+     <br />
+     <li class="mb-2">
+        만약 모든 직장에 대해 고용 가능한 모든 고용주들이 동일한 급여와 급여를 제공했다면, 어떤 직업을 선택하겠습니까? 그 이유는 무엇입니까?
+     </li>
+     <br />
+     <li class="mb-2">
+        만약 여러분이 어렸을 때 직업과 경력에 대해 현재 알고 있는 것을 알았다면, 여러분이 원하는 직업에 더 잘 대비하기 위해 무엇을 다르게 했을까요?
+     </li>
+   </ol>
+
+
+
+</div>
+
 
        </v-layout>
      </v-container>
-  </v-layout>
-  </v-container>
 </div>
 
 
@@ -123,10 +156,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

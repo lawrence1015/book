@@ -56,7 +56,7 @@
             ( 개방적인 사람이 되는 것은 제가 가진 최고의 자질 중 하나입니다. )
           </li>
           <li>
-            I always consider suggestions especially from my superiors.<br />
+            I always consider suggestions, especially from my superiors.<br />
             ( 저는 항상 상사의 제안을 고려합니다. )
           <li>
             I always have space for improvement.<br />

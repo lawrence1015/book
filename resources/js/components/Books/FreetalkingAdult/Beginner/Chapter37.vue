@@ -23,7 +23,7 @@
    </v-img>
 
 
-         <h3 style="background-color: #a7d7c5;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Reading Practice</h3>
+         <h3 style="background-color: #a7d7c5;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Reading Practice <span style="font-size:18px">( 선생님의 안내에 따라 문장을 읽어 주세요 )</span></h3>
               <div style="padding : 16px;">
 
 <p>Jeans are probably the most popular garment on the planet. Perhaps each person has at least a pair of jeans! The history of this iconic garment can be traced back to 1873 with the invention of Jacob Davis and Levi Strauss of the "blue jeans." These jeans use copper rivets to reinforce pocket corners. Originally designed for factory workers, miners and cowboys, these clothing eventually became popular among teenagers. In the 1950's, wearing jeans was a symbol of rebellion and they were often banned in theatres and restaurants. By the 1970's, it became an acceptable fashion in the US for casual wear.
@@ -35,38 +35,23 @@
 
 
 
-<li style="list-style-type: none;"><u>Probably(adv)</u> -  likely, possibly
+<li style="list-style-type: none;"><u>Probably(adv)</u> -  likely, possibly <span style="font-size:16px">아마</span>
 </li>
 
-<li style="list-style-type: none;"><u>Garment(n)</u> -   clothing them
+<li style="list-style-type: none;"><u>Garment(n)</u> -   clothing them <span style="font-size:16px">의복, 옷</span>
 </li>
 
-<li style="list-style-type: none;"><u>Iconic(adj)</u> -  famous
+<li style="list-style-type: none;"><u>Iconic(adj)</u> -  famous <span style="font-size:16px">…의 상징[아이콘]이 되는, 우상의</span>
 </li>
 
-<li style="list-style-type: none;"><u>Rivet(n)</u> -   short metal fastener
+<li style="list-style-type: none;"><u>Rivet(n)</u> -   short metal fastener <span style="font-size:16px">대갈못, 리벳, 고정시키다[사로잡다], 대갈못[리벳]으로 고정하다</span>
 </li>
 
-<li style="list-style-type: none;"><u>Rebellion(n)</u> - opposition of authority
+<li style="list-style-type: none;"><u>Rebellion(n)</u> - opposition of authority <span style="font-size:16px">반란, 모반, 반대[저항], 반항</span>
 </li>
 
-<li style="list-style-type: none;"><u>Ban(v)</u> -   to stop
+<li style="list-style-type: none;"><u>Ban(v)</u> -   to stop <span style="font-size:16px">금하다, ~에게 ~을 금하다, 금지</span>
 </li>
-
-
-
-
-
-
-
-
-</div>
-
-
-
-
-<h3  style="padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 10px; margin-top: 10px; background-color: #a7d7c5;">Vocabulary Stop</h3>
-<div style="padding : 16px;">
 
 
 <p>Fill in the blanks using the words above.
@@ -100,19 +85,29 @@
 
 <div style="padding : 16px;">
 
-<li style="list-style-type: none;">When was the blue jeans invented and by whom?
+<ol style="margin: 12px;">
+<li>When was the blue jeans invented and by whom?
 </li>
 
-<li style="list-style-type: none;">What was special with the blue jeans?
+<li>What was special with the blue jeans?
 </li>
 
-<li style="list-style-type: none;">For whom were jeans originally designed for?
+<li>For whom were jeans originally designed for?
 </li>
 
-<li style="list-style-type: none;">How were jeans viewed in the 1950’s?
+<li>How were jeans viewed in the 1950’s?
 </li>
+</ol>
 
 
+</div>
+
+<h3  style="padding-top: 7px;  margin-left: -18px; margin-right: -18px;  padding-bottom: 10px;  padding-top: 10px; padding-left: 10px; background-color: #a7d7c5; ">Translation</h3>
+
+<div style="padding : 16px;">
+
+    <p>청바지는 아마도 지구상에서 가장 인기 있는 옷일 것이다. 아마도 각 사람은 적어도 한 벌의 청바지를 가지고 있을 것이다! 이 상징적인 의복의 역사는  제이콥 데이비스와 레비 스트라우스의 "청바지" 발명으로 1873년으로 거슬러 올라갈 수 있다. 이 청바지는 구리 리벳으로 주머니 모서리를 보강한다. 원래 공장 노동자, 광부, 카우보이들을 위해 디자인된 이 옷들은 결국 십대들 사이에서 인기를 끌었다. 1950년대에 청바지를 입는 것은 반란의 상징이었고 극장이나 식당에서는 종종 금지되었다. 1970년대까지 미국에서는 캐주얼한 옷차림으로 받아들여질 수 있는 패션이 되었다.
+    </p>
 
 </div>
 
@@ -348,38 +343,20 @@ When do you usually wear and see the following type of clothes?
 
 </div>
 
-<h3  style="padding-top: 7px;  margin-left: -18px; margin-right: -18px;  padding-bottom: 10px;  padding-top: 10px; padding-left: 10px; background-color: #a7d7c5; ">Conversation Samples</h3>
+<h3  style="padding-top: 7px;  margin-left: -18px; margin-right: -18px;  padding-bottom: 10px;  padding-top: 10px; padding-left: 10px; background-color: #a7d7c5; ">Conversation Samples <span style="font-size:18px">(선생님과 역할을 나눠서 연습해보세요)</span></h3>
 
 <div style="padding : 16px;">
 
-  <p>
-  <b>M</b>: Which do you prioritize more, fashion or comfort?
-  <br>
-  <b>F</b>: What do you mean by that?
-  <br>
-  <b>M</b>: Many people will wear clothes that are popular and fashionable to feel that they are "in." They will do it even if they are uncomfortable.
-  <br>
-  <b>F</b>: Oh, you mean like tight dresses, high heels, and so on!
-  <br>
-  <b>M</b>: Yes, yes, exactly.
-  <br>
-  <b>F</b>: We will be guilty of that sometimes. Women like to look beautiful, you know. It hurts us to see another woman look more beautiful than us. It's not that we dress to attract males; it's to compete with other females.
-  <br>
-  <b>M</b>: You've got to be kidding me!
-  <br>
-  <b>F</b>: No. That's just the female mind.
-  <br>
-  <b>M</b>: Then a woman who believes she's more than what she wears has learned to accept and love herself.
-  <br>
-  <b>F</b>: That is true! But just because I like pretty clothes, it doesn't mean I don't love myself! I don't understand you men!
-  </p>
+    <table style = "border-collapse: collapse;">
 
+    <tr v-for="dialog in dialogs" :key="dialog">
+      <td class = "uppertable" ><b>{{dialog.name}}</b></td>
+      <td class = "lowertable" >{{dialog.speech}}</td>
+    </tr>
 
+    </table>
 
 </div>
-
-
-
 
 
 
@@ -438,17 +415,26 @@ When do you usually wear and see the following type of clothes?
 
  <li>Kpop fashion is known for colorful layers and combinations. Are you also wearing these types of clothes?
  </li>
-
-
-
-
-
 </ol>
 
 </div>
 
 
+<h3  style="padding-top: 7px;  margin-left: -18px; margin-right: -18px;  padding-bottom: 10px;  padding-top: 10px; padding-left: 10px; background-color: #a7d7c5; ">Translation</h3>
 
+<div style="padding : 16px;">
+
+    <table style = "border-collapse: collapse;">
+
+        <tr v-for="translation in translations" :key="translation">
+          <td class = "uppertable" ><b>{{translation.name}}</b></td>
+          <td class = "lowertable" >{{translation.speech}}</td>
+        </tr>
+
+      </table>
+
+
+    </div>
 
 
 
@@ -456,21 +442,12 @@ When do you usually wear and see the following type of clothes?
 
 
 </div>
-
-
-
-
-
-
-
 
 
 
 
       </v-layout>
     </v-container>
- </v-layout>
- </v-container>
 </div>
 </template>
 
@@ -482,6 +459,91 @@ export default {
  data(){
 
    return{
+
+        dialogs:[
+        {
+          name:'M :',
+          speech:"Which do you prioritize more, fashion or comfort?"
+        },
+        {
+          name:'F :',
+          speech:"What do you mean by that?"
+        },
+        {
+          name:'M :',
+          speech:'Many people will wear clothes that are popular and fashionable to feel that they are "in." They will do it even if they are uncomfortable.'
+        },
+        {
+          name:'F :',
+          speech:"Oh, you mean like tight dresses, high heels, and so on!"
+        },
+        {
+          name:'M :',
+          speech:"Yes, yes, exactly."
+        },
+        {
+          name:'F :',
+          speech:"We will be guilty of that sometimes. Women like to look beautiful, you know. It hurts us to see another woman look more beautiful than us. It's not that we dress to attract males; it's to compete with other females."
+        },
+        {
+          name:'M :',
+          speech:"You've got to be kidding me!"
+        },
+        {
+          name:'F :',
+          speech:"No. That's just the female mind."
+        },
+        {
+          name:'M :',
+          speech:"Then a woman who believes she's more than what she wears has learned to accept and love herself."
+        },
+        {
+          name:'F :',
+          speech:"That is true! But just because I like pretty clothes, it doesn't mean I don't love myself! I don't understand you men!"
+        },
+        ],
+        translations:[
+        {
+          name:'M :',
+          speech:"패션과 편안함 중 어느 것을 더 우선시하니?"
+        },
+        {
+          name:'F :',
+          speech:"그게 무슨 말이야?"
+        },
+        {
+          name:'M :',
+          speech:'많은 사람들이 "입고 있다"고 느끼기 위해 인기 있고 유행에 맞는 옷을 입을 거야. 그들은 불편하더라도 그럴거야.'
+        },
+        {
+          name:'F :',
+          speech:"아, 꽉 끼는 드레스, 하이힐 등등을 말하는구나!"
+        },
+        {
+          name:'M :',
+          speech:"그래, 그래, 바로 그거야."
+        },
+        {
+          name:'F :',
+          speech:"우리는 가끔 그것에 대해 죄책감을 느낄 거야. 여자들은 아름답게 보이길 좋아하잖아 우리보다 더 아름다운 다른 여자를 보면 마음이 아파. 우리가 남성들을 끌어들이기 위해 옷을 입는 것이 아니라, 다른 여성들과 경쟁하기 위해서야."
+        },
+        {
+          name:'M :',
+          speech:"농담하는 거지!"
+        },
+        {
+          name:'F :',
+          speech:"아니. 그건 그냥 여자의 마음이야."
+        },
+        {
+          name:'M :',
+          speech:"그러면 자신이 입는 것 이상의 존재라고 믿는 여자는 자신을 받아들이고 사랑하는 법을 배운 거야."
+        },
+        {
+          name:'F :',
+          speech:"그건 사실이야! 하지만 내가 예쁜 옷을 좋아한다고 해서 내 자신을 사랑하지 않는다는 뜻은 아니야! 난 너희들을 이해할 수 없어!"
+        },
+        ],
 
 
    }
@@ -521,11 +583,6 @@ p{
 
 h3{
  padding-top: 7px;
-
-}
-
-li{
-
 
 }
 

@@ -106,7 +106,7 @@
             What is the ultimate source of happiness?
           </li>
           <li>
-            What is more important to you , money or work?
+            What is more important to you, money or work?
           </li>
           <li>
             Would you still do your best at work even though you’re underpaid?
@@ -171,7 +171,7 @@ export default {
         },
         {
           name:'B.',
-          speech:"From where I stand, money and work are two headed coins; they have a somewhat give and take relationship. They almost even seem inseparable. You have to work in order to earn money. However, I think that work should be superior. Through hard work and by doing my job right, I'll be able to prove my worth, my abilities, my potential; myself. I need money everyone does, but it should come second. After all money is not the heart or ultimate source of happiness, Happiness is achieved by doing the things that we love to do and I want to end by saying that I'd love to work for you."
+          speech:"From where I stand, money and work are two-headed coins; they have a somewhat give and take relationship. They almost even seem inseparable. You have to work in order to earn money. However, I think that work should be superior. Through hard work and by doing my job right, I'll be able to prove my worth, my abilities, my potential; myself. I need money everyone does, but it should come second. After all money is not the heart or ultimate source of happiness, Happiness is achieved by doing the things that we love to do and I want to end by saying that I'd love to work for you."
         },
         ],
 

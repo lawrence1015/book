@@ -62,11 +62,48 @@
 
 </div>
 
+<h3 style="background-color: #95FF9A;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Translation</h3>
+               <div style="padding : 16px;">
+
+   <ol style="margin: 12px;">
+     <li class="mb-2">
+       당신 나라에서 당신은 어떤 일을 했나요?
+       <ul>
+       <li class="mt-2">마음에 들었나요? 왜요 아니라면 왜 아니였나요?</li>
+      </ul>
+     </li>
+     <br />
+     <li class="mb-2">
+        당신의 직업은 무엇입니까?
+        <ul>
+        <li class="mt-2">대부분의 사람들은 당신이 하는 일을 어떻게 생각하나요?</li>
+       </ul>
+     </li>
+     <br />
+     <li class="mb-2">
+        당신이 어렸을 때, 당신은 자라서 어떤 직업을 추구할 것이라고 생각했나요?
+        <ul>
+        <li class="mt-2">당신은 지금 그 직업을 가지고 있나요?</li>
+        <li>당신은 현재 그 직장을 잡으려고 노력하고 있나요? 왜 그런가요, 아니면 왜 아닌가요?</li>
+       </ul>
+     </li>
+     <br />
+     <li class="mb-2">
+       당신은 부정한 전문가를 만난 적이 있습니까?
+        <ul>
+        <li class="mt-2">당신은 사업 거래에서 이용당한 적이 있습니까?</li>
+        <li>당신의 경험에 대해 이야기하세요.</li>
+       </ul>
+     </li>
+   </ol>
+
+
+
+</div>
+
 
        </v-layout>
      </v-container>
-  </v-layout>
-  </v-container>
 </div>
 
 
@@ -124,11 +161,6 @@ p{
 
 h3{
   padding-top: 7px;
-
-}
-
-li{
-
 
 }
 

@@ -66,7 +66,7 @@
           ( 실수는 소금과 같습니다. 실수는 당신의 성공에 의미를 더합니다. )
         </li>
         <li>
-          A failure is not always a mistake, the real mistake is to stop trying.<br />
+          Failure is not always a mistake, the real mistake is to stop trying.<br />
           ( 실패가 항상 실수인 것은 아닙니다. 진정한 실수는 시도를 중단하는 것입니다. )
         </li>
       </ol>

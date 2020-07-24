@@ -65,11 +65,51 @@
 
 </div>
 
+<h3 style="background-color: #95FF9A;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Translation</h3>
+               <div style="padding : 16px;">
+
+   <ol style="margin: 12px;">
+     <li class="mb-2">
+       성공이란 무엇일까요?
+       <ul>
+       <li class="mt-2">사람이 성공할 수 있는 다섯 가지 방법은 무엇입니까?</li>
+      </ul>
+     </li>
+     <br />
+     <li class="mb-2">
+        당신은 스스로 세운 목표를 달성했나요?
+        <ul>
+        <li class="mt-2">만약 그렇다면, 어떤 것인가요? 그렇지 않다면, 왜 그렇지 않았나요?</li>
+       </ul>
+     </li>
+     <br />
+     <li class="mb-2">
+        당신의 나라에서는 일반적으로 성공이 어떻게 정의되나요?
+        <ul>
+        <li class="mt-2">당신의 나라에서 세계적으로 유명한 성공한 사람을 말하세요. 그 사람은 왜 그렇게 성공한 거죠?</li>
+        <li>당신은 그 사람이 그렇게 성공하기 위해 무엇을 했을 거라고 생각하나요?</li>
+       </ul>
+     </li>
+     <br />
+     <li class="mb-2">
+        여러분은 사람들이 성공하기 위해 열심히 일해야 한다고 믿나요? 왜 그런가요, 아니라면 왜 아닐까요?
+     </li>
+     <br />
+     <li class="mb-2">
+        당신은 미래에 어떤 종류의 성공을 거두게 될 것이라고 생각합니까?
+        <ul>
+        <li class="mt-2">어떻게 준비하실 건가요?</li>
+       </ul>
+     </li>
+   </ol>
+
+
+
+</div>
+
 
        </v-layout>
      </v-container>
-  </v-layout>
-  </v-container>
 </div>
 
 
@@ -127,11 +167,6 @@ p{
 
 h3{
   padding-top: 7px;
-
-}
-
-li{
-
 
 }
 

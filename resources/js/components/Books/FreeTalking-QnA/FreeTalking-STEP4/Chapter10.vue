@@ -74,11 +74,60 @@
 
 </div>
 
+<h3 style="background-color: #FF6E6E;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Translation</h3>
+               <div style="padding : 16px;">
+
+   <ol style="margin: 12px;">
+     <li class="mb-2">
+       TV에서 주로 보는 프로그램은 무엇입니까?
+     </li>
+     <br />
+     <li class="mb-2">
+       하루에 TV를 몇 시간이나 보세요?
+     </li>
+     <br />
+     <li class="mb-2">
+       당신의 집에서 누가 채널 선택을 가장 많이 하나요?
+     </li>
+     <br />
+     <li class="mb-2">
+       광고가 나오면 채널을 바꾸나요?
+     </li>
+     <br />
+     <li class="mb-2">
+        어떤 종류의 영화를 좋아하세요?
+       <ul>
+       <li class="mt-2">미국 영화 좋아하세요?</li>
+       <li>어떤 종류죠?</li>
+       <li>공상과학 소설?</li>
+       <li>코미디?</li>
+       <li>드라마?</li>
+       <li>공포?</li>
+       <li>범죄?</li>
+       <li>모험?</li>
+       </ul>
+     </li>
+     <br />
+     <li class="mb-2">
+       한국 영화에 대해 어떻게 생각하세요?
+     </li>
+     <br />
+     <li class="mb-2">
+       당신이 본 영화 중 가장 인상 깊었던 영화는 무엇입니까?
+     </li>
+     <br />
+     <li class="mb-2">
+       당신이 가장 좋아하는 영화배우는 누구입니까?
+     </li>
+   </ol>
+
+
+
+</div>
+
 
        </v-layout>
      </v-container>
-  </v-layout>
-  </v-container>
 </div>
 
 
@@ -139,10 +188,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

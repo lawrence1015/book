@@ -166,7 +166,7 @@
           dialogs:[
           {
             name:'A.',
-            speech:"The last company that I had worked with has taught me a lot of things when it comes to sales strategy. So I'm very much confident that I can do the job very well and that I can give you assurance that hiring me is the best thing that you will do.I would focus on my job so that I can have opportunities to work on larger projects and to continue to develop my skills. I will work hard to meet or exceed your expectations in the position I'm applying for."
+            speech:"I would focus on my job so that I can have opportunities to work on larger projects and to continue to develop my skills. I will work hard to meet or exceed your expectations in the position I'm applying for."
           },
           {
             name:'B.',

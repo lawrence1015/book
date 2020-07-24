@@ -6,7 +6,7 @@
 
       <v-layout column>
         <v-img
-        src="https://marketplace.canva.com/MADGv8RmfkY/6/screen_2x/canva-man-and-woman-sitting-on-chair-in-front-of-desk-MADGv8RmfkY.jpg">
+        src="https://image.freepik.com/free-photo/chicken-wrap_144627-33305.jpg">
 
         <v-layout
         align-end
@@ -24,30 +24,30 @@
   </v-img>
 
   <hr style="border: 3px solid rgba(32, 64, 81, 1);" width="100%">
-  <h3 style="padding-top : 10px;  padding-left : 15px; padding-bottom: 10px;">Dialogue <br>( 선생님의 안내에 따라 문장을 읽어 주세요 )</h3>
+  <h3 style="padding-top : 10px;  padding-left : 15px; padding-bottom: 10px;">Dialogue <br /> ( 선생님의 안내에 따라 문장을 읽어 주세요 )</h3>
   <hr width="60%">
   <div style = "padding : 16px;">
 
       <li style="list-style-type: none;">Preferences</li><br />
 
       <table style = "border-collapse: collapse;">
-
+    
         <tr v-for="dialog in dialogs" :key="dialog">
           <td class = "uppertable" >{{dialog.name}}</td>
           <td class = "lowertable" >{{dialog.speech}}</td>
         </tr>
-
+  
       </table>
 
       <li style="list-style-type: none;">At the restaurant</li><br />
 
       <table style = "border-collapse: collapse;">
-
+    
         <tr v-for="seconddialog in seconddialogs" :key="seconddialog">
           <td class = "uppertable" >{{seconddialog.name}}</td>
           <td class = "lowertable" >{{seconddialog.speech}}</td>
         </tr>
-
+  
       </table>
 
 
@@ -120,7 +120,7 @@
           </li>
         </ol>
 
-
+      
       </div>
 
       <div style="margin-left: -18px; margin-right: -18px; margin-top: 10px; border-color: #204051; border-style: solid; border-width: 2px;">
@@ -141,7 +141,7 @@
             <td class = "uppertable" >{{translation.name}}</td>
             <td class = "lowertable" >{{translation.speech}}</td>
           </tr>
-
+  
         </table>
 
 </div>
@@ -169,15 +169,17 @@
                     <li>
                       Notes
                     </li>
+                    <ol style="margin: 12px;">
                     <li>
-                      1) 좋아하는 것에 말할 때에는 the 를 사용하지 않습니다.
+                      좋아하는 것에 말할 때에는 the 를 사용하지 않습니다.
                     </li>
                     <li>
-                      2) 먹고 있는 음식에 대해서 말할 때에는 the 를 사용합니다.
+                      먹고 있는 음식에 대해서 말할 때에는 the 를 사용합니다.
                     </li>
                     <li>
-                      3) He, she doesn’t like / they don’t like
+                      He, she doesn’t like / they don’t like
                     </li>
+                    </ol>
                     </v-card-text>
                   </v-card>
                 </v-flex>
@@ -396,6 +398,11 @@ p{
 
 h3{
   padding-top: 7px;
+
+}
+
+li{
+
 
 }
 

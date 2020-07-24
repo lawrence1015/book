@@ -6,7 +6,7 @@
 
       <v-layout column>
         <v-img
-        src="https://image.freepik.com/free-photo/surprise-friend_1098-14044.jpg">
+        src="https://image.freepik.com/free-photo/multiracial-group-coworkers-laughing-together_23-2148222536.jpg">
 
         <v-layout
         align-end
@@ -24,21 +24,22 @@
   </v-img>
 
   <hr style="border: 3px solid rgba(32, 64, 81, 1);" width="100%">
-  <h3 style="padding-top : 10px;  padding-left : 15px; padding-bottom: 10px;">Dialogue <br>( 선생님의 안내에 따라 문장을 읽어 주세요 )</h3>
+  <h3 style="padding-top : 10px;  padding-left : 15px; padding-bottom: 10px;">Dialogue <br /> ( 선생님의 안내에 따라 문장을 읽어 주세요 )</h3>
   <hr width="60%">
   <div style = "padding : 16px;">
 
     <li style="list-style-type: none;">How do you spell that?</li><br />
 
-    <table style = "border-collapse: collapse;">
 
-      <tr v-for="dialog in dialogs" :key="dialog">
+    <table style = "border-collapse: collapse;">
+    
+      <tr v-for="dialog in dialogs"  :key="dialog">
         <td class = "uppertable" >{{dialog.name}}</td>
         <td class = "lowertable" >{{dialog.speech}}</td>
       </tr>
 
     </table>
-    
+
       <div style="margin-left: -18px; margin-right: -18px; margin-top: 10px; border-color: #204051; border-style: solid; border-width: 2px;">
       </div>
       <h3 class = "border white--text" style="padding-top: 7px;
@@ -58,15 +59,15 @@
 
         <ol style="margin: 12px;">
           <li>
-              죄송합니다만, 당신의 이름이 뭐라고 하셨죠?<br />
+            죄송합니다만, 당신의 이름이 뭐라고 하셨죠?<br />
                 Sorry, what's your <u> &emsp; &emsp; &emsp; </u> again?<br />
           </li>
           <li>
-              그는 서울에서 왔습니다.<br />
+            그는 서울에서 왔습니다.<br />
                 <u> &emsp; &emsp; &emsp; </u> from Seoul. <br />
           </li>
           <li>
-              선희가 누구입니까?<br />
+            선희가 누구입니까?<br />
                 Who <u> &emsp; &emsp; &emsp; </u> Sun Hee? <br />
           </li>
         </ol>
@@ -98,11 +99,11 @@
 
         <table style = "border-collapse: collapse;">
 
-          <tr v-for="translation in translations" :key="translation">
+          <tr v-for="translation in translations"  :key="translation">
             <td class = "uppertable" >{{translation.name}}</td>
             <td class = "lowertable" >{{translation.speech}}</td>
           </tr>
-
+  
         </table>
 
 </div>
@@ -131,17 +132,19 @@
                     <li>
                       Notes
                     </li>
+                    <ol style="margin: 12px;">
                     <li>
-                      1) be동사와 인칭대명사 : We are (We're) / He is (He's) / She is (She's) <br />
+                      be동사와 인칭대명사 : We are (We're) / He is (He's) / She is (She's) <br />
                           / It is (it's) / They are (They're)<br />
                     </li>
                     <li>
-                      2) Name : 공식적인 자리에서는 성과 이름을 다 말하지만 격식을 차리지 않아도 되는 자리에서는 <br />
+                      Name : 공식적인 자리에서는 성과 이름을 다 말하지만 격식을 차리지 않아도 되는 자리에서는 <br />
                           성은 말하지 않고 이름만 말해도 됩니다. <br />
                     </li>
                     <li>
                       3) First name은 이름이고 Last name 은 성입니다. 영어에서는 이름을 먼저 말하고 성을 나중에 말합니다. <br />
                     </li>
+                    </ol>
                     </v-card-text>
                   </v-card>
                 </v-flex>
@@ -329,6 +332,11 @@ p{
 
 h3{
   padding-top: 7px;
+
+}
+
+li{
+
 
 }
 

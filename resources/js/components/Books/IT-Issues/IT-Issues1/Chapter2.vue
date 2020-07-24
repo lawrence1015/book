@@ -5,8 +5,8 @@
     <v-container fluid ma-0 pa-0>
 
       <v-layout column>
-        <v-img
-        src="images/IT-Issues-Unit2.jpg" style="max-width: 100%; display:block; height: auto;">
+        <v-img :aspect-ratio="30/24"
+        src="https://cdn.pixabay.com/photo/2019/07/18/19/54/processor-4347273_960_720.jpg" >
 
         <v-layout
         align-end
@@ -59,18 +59,16 @@
       <div style="padding : 16px;">
 
         <p>
-          mimic<br />
-          <span style="font-size:16px">흉내를 내다, …처럼 보이다; …을 모방하다[흉내내다]</span>
+          <b>mimic</b> <span class = "korean">흉내를 내다, …처럼 보이다; …을 모방하다[흉내내다]</span>
         </p>
         <p>
-          synapses <span style="font-size:16px">시냅스</span>
+          <b>synapses</b> <span class = "korean">시냅스</span>
         </p>
         <p>
-          confetti <span style="font-size:16px">색종이 조각</span>
+          <b>confetti</b> <span class = "korean">색종이 조각</span>
         </p>
         <p>
-          portable<br>
-          <span style="font-size:16px">휴대[이동]가 쉬운, 휴대용의, 휴대용 제품</span>
+          <b>portable</b> <span class = "korean">휴대[이동]가 쉬운, 휴대용의, 휴대용 제품</span>
         </p>
 
       </div>
@@ -99,16 +97,16 @@
       <div style="padding : 16px;">
 
         <p>
-          silicon-based components <span style="font-size:16px">실리콘 기반 구성 요소입니다.</span>
+          <b>silicon-based components</b> <span class = "korean">실리콘 기반 구성 요소입니다.</span>
         </p>
         <p>
-          mimic the information <span style="font-size:16px">정보를 모방합니다.</span>
+          <b>mimic the information</b> <span class = "korean">정보를 모방합니다.</span>
         </p>
         <p>
-          transmitting synapses <span style="font-size:16px">시냅스를 전송합니다.</span>
+          <b>transmitting synapses</b> <span class = "korean">시냅스를 전송합니다.</span>
         </p>
         <p>
-          new designed'brain-on-a-chip <span style="font-size:16px">새로운 디자인의 브레인 온 칩입니다.</span>
+          <b>new designed'brain-on-a-chip</b> <span class = "korean">새로운 디자인의 브레인 온 칩입니다.</span>
         </p>
 
       </div>
@@ -185,14 +183,12 @@
                 <v-card light color="#BEFBFF">
                   <v-card-text class="px-10">
                     <p>
-                      <span style="font-size:16px">
+                      <span class = "korean">
                       <b>엔지니어들은 하나의 칩에 수만 개의 인공 뇌 시냅스를 넣습니다.</b>
                     </span>
                     </p>
                     <p>
-                      <span style="font-size:16px">
-                      멤리스터는 인간의 뇌에서 정보를 전달하는 시냅스를 모방하는 실리콘 기반의 구성요소이다. 이 새로 디자인된 '브레인 온 어 칩'은 거의 만 개의 인공 뇌 시냅스로 만들어진 색종이 조각보다 더 작습니다.
-                      이 새로운 디자인은 소형 휴대용 AI 기기의 개발을 앞당길 수 있습니다.
+                      <span class = "korean">멤리스터는 인간의 뇌에서 정보를 전달하는 시냅스를 모방하는 실리콘 기반의 구성요소이다. 이 새로 디자인된 '브레인 온 어 칩'은 거의 만 개의 인공 뇌 시냅스로 만들어진 색종이 조각보다 더 작습니다. 이 새로운 디자인은 소형 휴대용 AI 기기의 개발을 앞당길 수 있습니다.
                       </span>
                     </p>
                   </v-card-text>
@@ -327,5 +323,10 @@ body{
   padding-bottom: 10px;
 }
 
-
+.korean {
+   
+  white-space: pre-line; 
+  line-break:strict; 
+  word-break:keep-all;
+}
 </style>

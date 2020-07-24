@@ -62,11 +62,48 @@
 
 </div>
 
+ <h3 style="background-color: #95FF9A;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Translation</h3>
+               <div style="padding : 16px;">
+
+   <ol style="margin: 12px;">
+     <li class="mb-2">
+        친구나 가족에게서 마지막으로 험담을 들은 것이 언제입니까?
+     </li>
+     <br />
+     <li class="mb-2">
+        최근에 뉴스에서 어떤 소문을 들었습니까?
+     </li>
+     <br />
+     <li class="mb-2">
+        당신은 소문을 퍼뜨린 적이 있나요?
+        <ul>
+        <li class="mt-2">만약 그렇다면, 뭐라고 했나요?</li>
+        <li>그렇지 않다면, 왜 그러지 않았죠?</li>
+        </ul>
+     </li>
+     <br />
+     <li class="mb-2">
+        남자든 여자든 누가 더 험담합니까?
+        <ul>
+        <li class="mt-2">왜 그렇게 생각하세요?</li>
+        </ul>
+     </li>
+     <br />
+     <li class="mb-2">
+       당신은 대부분의 가십이 진실이라고 생각하나요 아니면 거짓이라고 생각하나요? 왜죠? 
+       <ul>
+       <li class="mt-2">당신은 험담을 하는 것이 옳다고 생각하나요, 그르다고 생각하나요? 왜죠?</li>
+       </ul>
+     </li>
+   </ol>
+
+
+
+</div>
+
 
        </v-layout>
      </v-container>
-  </v-layout>
-  </v-container>
 </div>
 
 
@@ -124,11 +161,6 @@ p{
 
 h3{
   padding-top: 7px;
-
-}
-
-li{
-
 
 }
 

@@ -6,7 +6,7 @@
 
       <v-layout column>
         <v-img
-        src="https://marketplace.canva.com/MADGv8RmfkY/6/screen_2x/canva-man-and-woman-sitting-on-chair-in-front-of-desk-MADGv8RmfkY.jpg">
+        src="https://static.dezeen.com/uploads/2019/12/station-of-being-arctic-bus-stop-rombout-frieling-lab_dezeen_2364_col_6.jpg">
 
         <v-layout
         align-end
@@ -24,7 +24,7 @@
   </v-img>
 
   <hr style="border: 3px solid rgba(32, 64, 81, 1);" width="100%">
-  <h3 style="padding-top : 10px;  padding-left : 15px; padding-bottom: 10px;">Dialogue <br>( 선생님의 안내에 따라 문장을 읽어 주세요 )</h3>
+  <h3 style="padding-top : 10px;  padding-left : 15px; padding-bottom: 10px;">Dialogue <br /> ( 선생님의 안내에 따라 문장을 읽어 주세요 )</h3>
   <hr width="60%">
   <div style = "padding : 16px;">
 
@@ -58,12 +58,12 @@
 
         <ol style="margin: 12px;">
           <li>
-              There <u> &emsp; &emsp; &emsp; </u> a computer on the desk.<br />
-                (책상 위에 컴퓨터가 있습니다.)
+            There <u> &emsp; &emsp; &emsp; </u> a computer on the desk.<br />
+              (책상 위에 컴퓨터가 있습니다.)
           </li>
           <li>
-              What <u> &emsp; &emsp; &emsp; </u> computer is it? - <u> &emsp; &emsp; &emsp; </u> a laptop.<br />
-                (그것은 무슨 종류의 컴퓨터입니까?  -  노트북입니다.)
+            What <u> &emsp; &emsp; &emsp; </u> computer is it? - <u> &emsp; &emsp; &emsp; </u> a laptop.<br />
+              (그것은 무슨 종류의 컴퓨터입니까?  -  노트북입니다.)
           </li>
         </ol>
 
@@ -116,12 +116,14 @@
                     <li>
                       Notes
                     </li>
+                    <ol style="margin: 12px;">
                     <li>
-                      1) what kind of ...? ~ 은 무슨 종류의 ~이니?
+                      what kind of ...? ~ 은 무슨 종류의 ~이니?
                     </li>
                     <li>
-                      2) the front yard 는 앞뜰입니다 (the back yard는 뒤뜰) in front of (~의앞에)와 혼돈하지 맙시다.
+                      the front yard 는 앞뜰입니다 (the back yard는 뒤뜰) in front of (~의앞에)와 혼돈하지 맙시다.
                     </li>
+                    </ol>
                     </v-card-text>
                   </v-card>
                 </v-flex>
@@ -357,6 +359,11 @@ p{
 
 h3{
   padding-top: 7px;
+
+}
+
+li{
+
 
 }
 

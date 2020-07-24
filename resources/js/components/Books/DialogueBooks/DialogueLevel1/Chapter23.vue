@@ -6,7 +6,7 @@
 
       <v-layout column>
         <v-img
-        src="https://marketplace.canva.com/MADGv8RmfkY/6/screen_2x/canva-man-and-woman-sitting-on-chair-in-front-of-desk-MADGv8RmfkY.jpg">
+        src="https://www.hearinglink.org/wp-content/uploads/2018/09/We-give-guidance-about-communicating-when-shopping.jpeg">
 
         <v-layout
         align-end
@@ -24,7 +24,7 @@
   </v-img>
 
   <hr style="border: 3px solid rgba(32, 64, 81, 1);" width="100%">
-  <h3 style="padding-top : 10px;  padding-left : 15px; padding-bottom: 10px;">Dialogue <br>( 선생님의 안내에 따라 문장을 읽어 주세요 )</h3>
+  <h3 style="padding-top : 10px;  padding-left : 15px; padding-bottom: 10px;">Dialogue <br /> ( 선생님의 안내에 따라 문장을 읽어 주세요 )</h3>
   <hr width="60%">
   <div style = "padding : 16px;">
 
@@ -58,16 +58,16 @@
 
         <ol style="margin: 12px;">
           <li>
-              Do you <u> &emsp; &emsp; &emsp; </u> apples? <br />
-                사과있습니까?
+            Do you <u> &emsp; &emsp; &emsp; </u> apples? <br />
+              사과있습니까?
           </li>
           <li>
-              <u> &emsp; &emsp; &emsp; </u> they fresh? <br />
-                그들은 신선합니까?
+            <u> &emsp; &emsp; &emsp; </u> they fresh? <br />
+              그들은 신선합니까?
           </li>
           <li>
-              <u> &emsp; &emsp; &emsp; </u> a kilo of apples, please. <br />
-                사과 1kg 주세요.
+            <u> &emsp; &emsp; &emsp; </u> a kilo of apples, please. <br />
+              사과 1kg 주세요.
           </li>
         </ol>
 
@@ -121,11 +121,13 @@
                     <li>
                       Notes
                     </li>
+                    <ol style="margin: 12px;">
                     <li>
-                      1) not ~ any ... : 조금도 ~이 아닌 <br />
-                      there isn't any milk (우유가 전혀없다) : 우유는 셀 수 없기 때문에 there isn't 가 왔습니다. <br />
-                      there aren't any bananas (바나나가 전혀없다)
+                      not ~ any ... : 조금도 ~이 아닌 <br />
+                        there isn't any milk (우유가 전혀없다) : 우유는 셀 수 없기 때문에 there isn't 가 왔습니다. <br />
+                        there aren't any bananas (바나나가 전혀없다)
                     </li>
+                    </ol>
                     </v-card-text>
                   </v-card>
                 </v-flex>
@@ -305,6 +307,11 @@ p{
 
 h3{
   padding-top: 7px;
+
+}
+
+li{
+
 
 }
 

@@ -6,7 +6,7 @@
 
       <v-layout column>
         <v-img
-        src="https://marketplace.canva.com/MADGv8RmfkY/6/screen_2x/canva-man-and-woman-sitting-on-chair-in-front-of-desk-MADGv8RmfkY.jpg">
+        src="https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2016/06/4941376519_52d374fbfc_o.jpg">
 
         <v-layout
         align-end
@@ -24,7 +24,7 @@
   </v-img>
 
   <hr style="border: 3px solid rgba(32, 64, 81, 1);" width="100%">
-  <h3 style="padding-top : 10px;  padding-left : 15px; padding-bottom: 10px;">Dialogue <br>( 선생님의 안내에 따라 문장을 읽어 주세요 )</h3>
+  <h3 style="padding-top : 10px;  padding-left : 15px; padding-bottom: 10px;">Dialogue <br /> ( 선생님의 안내에 따라 문장을 읽어 주세요 )</h3>
   <hr width="60%">
   <div style = "padding : 16px;">
 
@@ -58,15 +58,15 @@
 
         <ol style="margin: 12px;">
           <li>
-              Hurry up! The taxi driver is <u> &emsp; &emsp; &emsp; </u> <u> &emsp; &emsp; &emsp; </u> us.<br />
+            Hurry up! The taxi driver is <u> &emsp; &emsp; &emsp; </u> <u> &emsp; &emsp; &emsp; </u> us.<br />
                 (wait for)<br />
           </li>
           <li>
-              They <u> &emsp; &emsp; &emsp; </u> <u> &emsp; &emsp; &emsp; </u> on the Internet.<br />
+            They <u> &emsp; &emsp; &emsp; </u> <u> &emsp; &emsp; &emsp; </u> on the Internet.<br />
                 (chat)<br />
           </li>
           <li>
-              The restaurant is expensive. He <u> &emsp; &emsp; &emsp; </u> spending <u> &emsp; &emsp; &emsp; </u> money.<br />
+            The restaurant is expensive. He <u> &emsp; &emsp; &emsp; </u> spending <u> &emsp; &emsp; &emsp; </u> money.<br />
                 (a lot of)<br />
           </li>
         </ol>
@@ -119,9 +119,11 @@
                     <li>
                       Notes
                     </li>
+                    <ol style="margin: 12px;">
                     <li>
-                      1) a lot of : '많은' 의 뜻으로 셀 수 있는 명사와 셀 수 없는 명사에 모두 쓰입니다.
+                      a lot of : '많은' 의 뜻으로 셀 수 있는 명사와 셀 수 없는 명사에 모두 쓰입니다.
                     </li>
+                    </ol>
                     </v-card-text>
                   </v-card>
                 </v-flex>
@@ -232,7 +234,7 @@ export default {
         },
         {
           name:'A:',
-          speech:'형은 돈 많이 쓰고 있니'
+          speech:'형은 돈 많이 쓰고 있니?'
         },
         {
           name:'B:',
@@ -284,7 +286,7 @@ export default {
         },
         {
           name:'B:',
-          speech:'특별히 없어. TV보면서 과자 먹고 있어.'
+          speech:'별거 없어. TV보면서 과자 먹고 있어.'
         },
         ]
 
@@ -325,6 +327,11 @@ p{
 
 h3{
   padding-top: 7px;
+
+}
+
+li{
+
 
 }
 

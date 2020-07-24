@@ -57,7 +57,7 @@
           ( 저는 당신이 원하는 기술을 배우고 익혔습니다. )
         </li>
         <li>
-          I can be an asset in your company.<br />
+          I can be an asset to your company.<br />
           ( 저는 당신의 회사에서 자산이 될 수 있습니다. )
         </li>
         <li>
@@ -168,7 +168,7 @@ export default {
         dialogs:[
         {
           name:'A.',
-          speech:"I wanted to share what I have learned with my previous job that I can see is applicable in this job vacancy. With my 5 years experience in the sales department I've studied and mastered the skill that you are looking for. I know that I can be very effective and an asset in your company."
+          speech:"I wanted to share what I have learned with my previous job that I can see is applicable in this job vacancy. With my five years of experience in the sales department I've studied and mastered the skill that you are looking for. I know that I can be very effective and an asset to your company."
         },
         {
           name:'B.',

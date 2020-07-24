@@ -53,7 +53,7 @@
 
       <ol style="margin: 12px;">
         <li>
-          Since I was studying in the university I've been working as a private tutor.<br />
+          Since I was studying at the university I've been working as a private tutor.<br />
           ( 저는 대학교에서 공부한 이후로 과외 교사로 일하고 있습니다. )
         </li>
         <li>
@@ -161,7 +161,7 @@ export default {
         dialogs:[
         {
           name:'A.',
-          speech:"Since I was studying in the university I've been working as a private tutor with elementary students. I also had experienced working in a 24/7 groceries store as a cashier where I've stayed for almost a year. I was forced to stop with my work schedule which is a graveyard shift because I find it difficult to balance with my studies during that time."
+          speech:"Since I was studying at the university I've been working as a private tutor with elementary students. I also had experienced working in a 24/7 grocery store as a cashier where I've stayed for almost a year. I was forced to stop with my work schedule which is a graveyard shift because I find it difficult to balance with my studies during that time."
         },
         {
           name:'B.',

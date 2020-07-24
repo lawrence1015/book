@@ -52,15 +52,42 @@
      </li>
    </ol>
 
-
-
 </div>
+
+<h3 style="background-color: #95FF9A;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Translation</h3>
+               <div style="padding : 16px;">
+
+                 <ol style="margin: 12px;">
+     <li class="mb-2">
+       한국 속담 중에 아는 것이 있나요?
+     </li>
+     <br />
+     <li class="mb-2">
+        속담은 우리 조상들에 의해 만들어졌습니다.
+        <ul>
+        <li class="mt-2">그것들은 현대 생활에서 여전히 사실인가요?</li>
+        </ul>
+     </li>
+     <br />
+     <li class="mb-2">
+       여기 몇 가지 현대 속담이 있습니다.
+       <ul>
+       <li class="mt-2">재활용할 수 없는 한 가지는 시간을 낭비하는 것입니다.</li>
+       <li>더위 못 견디신다면요, 부엌에서 나가요.</li>
+       <li>티셔츠에 어떤 단어를 쓰시겠어요?</li>
+       </ul>
+     </li>
+     <br />
+     <li class="mb-2">
+       우리에게 교훈을 주는 영화 몇 편을 생각해 볼 수 있나요?
+     </li>
+   </ol>
+
+               </div>
 
 
        </v-layout>
      </v-container>
-  </v-layout>
-  </v-container>
 </div>
 
 
@@ -121,10 +148,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

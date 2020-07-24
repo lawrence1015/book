@@ -64,11 +64,50 @@
 
 </div>
 
+<h3 style="background-color: #FF6E6E;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Translation</h3>
+               <div style="padding : 16px;">
+
+   <ol style="margin: 12px;">
+     <li class="mb-2">
+       당신은 신을 믿나요?
+     </li>
+     <br />
+     <li class="mb-2">
+       당신은 어떤 종교를 가지고 있습니까?
+     </li>
+     <br />
+     <li class="mb-2">
+       종교가 우리에게 어떤 혜택을 준다고 생각하세요?
+     </li>
+     <br />
+     <li class="mb-2">
+       당신은 종교인이 비종교인보다 더 행복하다고 생각하나요?
+     </li>
+     <br />
+     <li class="mb-2">
+       당신은 종교가 우리의 현재 삶을 위한 것이라고 생각하나요 아니면 다음 삶을 위한 것이라고 생각하나요?
+     </li>
+     <br />
+     <li class="mb-2">
+       당신은 종교가 우리의 현재 문제를 해결할 수 있다고 생각하나요?
+     </li>
+     <br />
+     <li class="mb-2">
+       종교의 긍정적인 면과 부정적인 면에 대해 이야기하세요.
+     </li>
+     <br />
+     <li class="mb-2">
+       과학의 긍정적인 효과와 부정적인 효과를 토론하세요.
+     </li>
+   </ol>
+
+
+
+</div>
+
 
        </v-layout>
      </v-container>
-  </v-layout>
-  </v-container>
 </div>
 
 
@@ -129,10 +168,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

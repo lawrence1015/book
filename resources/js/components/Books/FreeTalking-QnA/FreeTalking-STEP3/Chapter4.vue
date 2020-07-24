@@ -58,11 +58,45 @@
 
 </div>
 
+<h3 style="background-color: #95FF9A;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Translation</h3>
+               <div style="padding : 16px;">
+
+   <ol style="margin: 12px;">
+     <li class="mb-2">
+       현대 세계의 어떤 점이 마음에 드세요?
+       <ul>
+       <li class="mt-2">현대 세계의 어떤 점이 마음에 들지 않나요?</li>
+       </ul>
+     </li>
+     <br />
+     <li class="mb-2">
+        지구 온난화에 어떻게 대처해야 할까요?
+     </li>
+     <br />
+     <li class="mb-2">
+       전기 없이 살 수 있나요?
+     </li>
+     <br />
+     <li class="mb-2">
+       오늘날 세계에서 가장 큰 문제는 무엇입니까?
+     </li>
+     <br />
+     <li class="mb-2">
+       만약 당신이 시간을 거슬러 여행할 수 있다면, 몇 년도에 방문하겠습니까?
+       <ul>
+       <li class="mt-2">누구를 만나고 싶습니까?</li>
+       </ul>
+     </li>
+   </ol>
+
+
+
+</div>
+
+
 
        </v-layout>
      </v-container>
-  </v-layout>
-  </v-container>
 </div>
 
 
@@ -123,10 +157,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

@@ -63,11 +63,49 @@
 
 </div>
 
+<h3 style="background-color: #FF6E6E;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Translation</h3>
+               <div style="padding : 16px;">
+
+   <ol style="margin: 12px;">
+     <li class="mb-2">
+       당신은 왜 영어를 공부합니까?
+     </li>
+     <br />
+     <li class="mb-2">
+       당신의 영어 공부에서 가장 어려운 것은 무엇입니까?
+     </li>
+     <br />
+     <li class="mb-2">
+       영어를 공부하는 가장 좋은 방법은 무엇이라고 생각합니까?
+     </li>
+     <br />
+     <li class="mb-2">
+       당신은 현재의 중고등학교 영어 교수법에 대해 어떻게 생각하나요?
+     </li>
+     <br />
+     <li class="mb-2">
+        다른 외국어를 공부해 본 적이 있나요?
+       <ul>
+       <li class="mt-2">그것과 영어의 차이점은 무엇입니까?</li>
+       </ul>
+     </li>
+     <br />
+     <li class="mb-2">
+       당신은 영어를 말하는 것과 쓰는 것 중 어느 것이 더 어렵다고 생각합니까?
+     </li>
+     <br />
+     <li class="mb-2">
+       영어로 편지나 일기를 써본 적이 있나요?
+     </li>
+   </ol>
+
+
+
+</div>
+
 
        </v-layout>
      </v-container>
-  </v-layout>
-  </v-container>
 </div>
 
 
@@ -125,11 +163,6 @@ p{
 
 h3{
   padding-top: 7px;
-
-}
-
-li{
-
 
 }
 

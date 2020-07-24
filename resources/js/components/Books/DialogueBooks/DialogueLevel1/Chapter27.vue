@@ -6,7 +6,7 @@
 
       <v-layout column>
         <v-img
-        src="https://marketplace.canva.com/MADGv8RmfkY/6/screen_2x/canva-man-and-woman-sitting-on-chair-in-front-of-desk-MADGv8RmfkY.jpg">
+        src="https://image.freepik.com/free-photo/fresh-tasty-sandwich_144627-15298.jpgg">
 
         <v-layout
         align-end
@@ -21,10 +21,11 @@
         padding-bottom: 10px;">What do you want?
       </h1>
     </v-layout>
+
   </v-img>
 
   <hr style="border: 3px solid rgba(32, 64, 81, 1);" width="100%">
-  <h3 style="padding-top : 10px;  padding-left : 15px; padding-bottom: 10px;">Dialogue <br>( 선생님의 안내에 따라 문장을 읽어 주세요 )</h3>
+  <h3 style="padding-top : 10px;  padding-left : 15px; padding-bottom: 10px;">Dialogue <br /> ( 선생님의 안내에 따라 문장을 읽어 주세요 )</h3>
   <hr width="60%">
   <div style = "padding : 16px;">
 
@@ -58,16 +59,16 @@
 
         <ol style="margin: 12px;">
           <li>
-              I'm really hungry. I <u> &emsp; &emsp; &emsp; </u> a big steak. <br />
-                저는 정말 배가 고픕니다. 저는 큰 스테이크를 원합니다.
+            I'm really hungry. I <u> &emsp; &emsp; &emsp; </u> a big steak. <br />
+              저는 정말 배가 고픕니다. 저는 큰 스테이크를 원합니다.
           </li>
           <li>
-              What <u> &emsp; &emsp; &emsp; </u> want? <br />
-                무엇을 원하십니까?
+            What <u> &emsp; &emsp; &emsp; </u> want? <br />
+              무엇을 원하십니까?
           </li>
           <li>
-              Do <u> &emsp; &emsp; &emsp; </u> coke or juice? <br />
-                콜라를 원하세요 쥬스를 원하세요?
+            Do <u> &emsp; &emsp; &emsp; </u> coke or juice? <br />
+              콜라를 원하세요 쥬스를 원하세요?
           </li>
         </ol>
 
@@ -120,13 +121,16 @@
                     <li>
                       Notes
                     </li>
+                    <ol style="margin: 12px;">
                     <li>
-                      1) 셀 수 없는 명사 : 복수형이 없고 a 도 쓰지 않습니다. 하지만 셀 수 없는 명사를 셀 수 있게 해 주는 어구들이 있습니다.<br />
-                      a loaf of bread(빵 한 덩어리) / a piece of cake(케이크 한 조각) / a glass of water(물 한잔) / a bottle of beer(맥주 한병)          
+                     셀 수 없는 명사 : <br/>
+                      복수형이 없고 a 도 쓰지 않습니다. 하지만 셀 수 없는 명사를 셀 수 있게 해 주는 어구들이 있습니다.<br />
+                      a loaf of bread(빵 한 덩어리) / a piece of cake(케이크 한 조각) / a glass of water(물 한잔) / a bottle of beer(맥주 한병)<br />   
                     </li>
                     <li>
-                      2) I want.../ you want... / What do you want..? / Do you want..?
+                      I want.../ you want... / What do you want..? / Do you want..?
                     </li>
+                    </ol>
                     </v-card-text>
                   </v-card>
                 </v-flex>
@@ -162,7 +166,7 @@ export default {
         dialogs:[
         {
           name:'Waiter:',
-          speech:'What do you want for lunch ma’am?'
+          speech:'What do you want for lunch, ma’am?'
         },
         {
           name:'Customer:',
@@ -314,6 +318,11 @@ p{
 
 h3{
   padding-top: 7px;
+
+}
+
+li{
+
 
 }
 

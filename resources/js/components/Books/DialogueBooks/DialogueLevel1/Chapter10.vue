@@ -6,7 +6,7 @@
 
       <v-layout column>
         <v-img
-        src="https://marketplace.canva.com/MADGv8RmfkY/6/screen_2x/canva-man-and-woman-sitting-on-chair-in-front-of-desk-MADGv8RmfkY.jpg">
+        src="https://image.freepik.com/free-photo/busy-junction-full-cars-people_23-2148184362.jpg">
 
         <v-layout
         align-end
@@ -24,7 +24,7 @@
   </v-img>
 
   <hr style="border: 3px solid rgba(32, 64, 81, 1);" width="100%">
-  <h3 style="padding-top : 10px;  padding-left : 15px; padding-bottom: 10px;">Dialogue <br>( 선생님의 안내에 따라 문장을 읽어 주세요 )</h3>
+  <h3 style="padding-top : 10px;  padding-left : 15px; padding-bottom: 10px;">Dialogue <br /> ( 선생님의 안내에 따라 문장을 읽어 주세요 )</h3>
   <hr width="60%">
   <div style = "padding : 16px;">
 
@@ -58,14 +58,14 @@
 
         <ol style="margin: 12px;">
           <li>
-              Some people <u> &emsp; &emsp; &emsp; </u> waiting <u> &emsp; &emsp; &emsp; </u> a bus on a chair.<br />
+            Some people <u> &emsp; &emsp; &emsp; </u> waiting <u> &emsp; &emsp; &emsp; </u> a bus on a chair.<br />
           </li>
           <li>
-              He <u> &emsp; &emsp; &emsp; </u> <u> &emsp; &emsp; &emsp; </u> coffee into a small white cup. <br />
+            He <u> &emsp; &emsp; &emsp; </u> <u> &emsp; &emsp; &emsp; </u> coffee into a small white cup. <br />
                 (pour) <br />
           </li>
           <li>
-              We <u> &emsp; &emsp; &emsp; </u> <u> &emsp; &emsp; &emsp; </u> Kimchi in November or December. <br />
+            We <u> &emsp; &emsp; &emsp; </u> <u> &emsp; &emsp; &emsp; </u> Kimchi in November or December. <br />
                 (make) <br />
           </li>
         </ol>
@@ -119,21 +119,23 @@
                     <li>
                       Notes
                     </li>
+                    <ol style="margin: 12px;">
                     <li>
-                      1) 이미 예정되어 있는 가까운 미래의 일을 표현할 때 현재진행형을 쓸 수 있습니다. <br />
+                      이미 예정되어 있는 가까운 미래의 일을 표현할 때 현재진행형을 쓸 수 있습니다. <br />
                           ex) What are you doing tonight? - I'm meeting David for dinner.<br />
                             ( David과 같이 저녁을 먹을 예정임 ) <br />
                     </li>
                     <li>
-                      2)  come : 오다라고 주로 해석을 하지만 상대방에게 또는 상대방이 가는 쪽으로<br />
-                                '가다'라고 표현 할 때에도 쓰입니다.<br />
-                          ex) I’m going to the movie. Are you coming, too?<br />
-                            ( 난 영화보러 갈 거야. 너도 갈 거지? ) <br />
+                      come : 오다라고 주로 해석을 하지만 상대방에게 또는 상대방이 가는 쪽으로<br />
+                            '가다'라고 표현 할 때에도 쓰입니다.<br />
+                              ex) I’m going to the movie. Are you coming, too?<br />
+                                ( 난 영화보러 갈 거야. 너도 갈 거지? ) <br />
                     </li>
                     <li>
-                      1) wait for ~ : ~를 기다리다<br />
-                          wave at ~ : ~에게 손을 흔들다<br />
+                      wait for ~ : ~를 기다리다<br />
+                        wave at ~ : ~에게 손을 흔들다<br />
                     </li>
+                    </ol>
                     </v-card-text>
                   </v-card>
                 </v-flex>
@@ -197,7 +199,7 @@ export default {
         },
         {
           name:'B:',
-          speech:'She’s sitting on a bench with Marty. They are waving at the passerby’s.'
+          speech:'She’s sitting on a bench with Marty. They are waving at the passerby.'
         },
         {
           name:'B:',
@@ -316,6 +318,10 @@ h3{
 
 }
 
+li{
+
+
+}
 
 body{
 

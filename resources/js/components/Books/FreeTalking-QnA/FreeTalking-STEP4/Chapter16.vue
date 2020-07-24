@@ -55,11 +55,41 @@
 
 </div>
 
+<h3 style="background-color: #FF6E6E;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Translation</h3>
+               <div style="padding : 16px;">
+
+   <ol style="margin: 12px;">
+     <li class="mb-2">
+       당신은 첫사랑이 반드시 실패한다고 믿나요?
+     </li>
+     <br />
+     <li class="mb-2">
+       당신은 얼마나 자주 당신의 아이들에게 키스하고 포옹하나요?
+     </li>
+     <br />
+     <li class="mb-2">
+       아빠의 사랑과 엄마의 사랑에는 어떤 차이가 있나요?
+     </li>
+     <br />
+     <li class="mb-2">
+       사랑에 빠지면 꼭 결혼해야 한다고 생각하세요?
+     </li>
+     <br />
+     <li class="mb-2">
+       당신은 플라토닉한 사랑이 남자와 여자 사이에 존재할 수 있다고 생각하나요?
+       <ul>
+       <li class="mt-2">개인적인 경험이 있습니까?</li>
+       </ul>
+     </li>
+   </ol>
+
+
+
+</div>
+
 
        </v-layout>
      </v-container>
-  </v-layout>
-  </v-container>
 </div>
 
 
@@ -117,11 +147,6 @@ p{
 
 h3{
   padding-top: 7px;
-
-}
-
-li{
-
 
 }
 

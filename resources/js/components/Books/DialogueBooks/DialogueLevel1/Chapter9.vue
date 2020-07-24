@@ -6,7 +6,7 @@
 
       <v-layout column>
         <v-img
-        src="https://marketplace.canva.com/MADGv8RmfkY/6/screen_2x/canva-man-and-woman-sitting-on-chair-in-front-of-desk-MADGv8RmfkY.jpg">
+        src="https://image.freepik.com/free-photo/faceless-man-relaxing-armchair_23-2147800039.jpg">
 
         <v-layout
         align-end
@@ -24,7 +24,7 @@
   </v-img>
 
   <hr style="border: 3px solid rgba(32, 64, 81, 1);" width="100%">
-  <h3 style="padding-top : 10px;  padding-left : 15px; padding-bottom: 10px;">Dialogue <br>( 선생님의 안내에 따라 문장을 읽어 주세요 )</h3>
+  <h3 style="padding-top : 10px;  padding-left : 15px; padding-bottom: 10px;">Dialogue <br /> ( 선생님의 안내에 따라 문장을 읽어 주세요 )</h3>
   <hr width="60%">
   <div style = "padding : 16px;">
 
@@ -58,15 +58,15 @@
 
         <ol style="margin: 12px;">
           <li>
-              What is your brother doing? He is <u> &emsp; &emsp; &emsp; </u> TV. <br />
+            What is your brother doing? He is <u> &emsp; &emsp; &emsp; </u> TV. <br />
                   ( watch ) <br />
           </li>
           <li>
-              Grandmother is <u> &emsp; &emsp; &emsp; </u> radio and grandfather is <u> &emsp; &emsp; &emsp; </u> a book. <br />
+            Grandmother is <u> &emsp; &emsp; &emsp; </u> radio and grandfather is <u> &emsp; &emsp; &emsp; </u> a book. <br />
                   ( listen, read ) <br />
           </li>
           <li>
-              I'm <u> &emsp; &emsp; &emsp; </u> the sky and <u> &emsp; &emsp; &emsp; </u> about my friend.<br />
+            I'm <u> &emsp; &emsp; &emsp; </u> the sky and <u> &emsp; &emsp; &emsp; </u> about my friend.<br />
                   ( look, think ) <br />
           </li>
         </ol>
@@ -120,11 +120,13 @@
                     <li>
                       Notes
                     </li>
+                    <ol style="margin: 12px;">
                     <li>
-                      1)  listen to(귀기울여 듣다)는 동사와 전치사가 함께 쓰이고 문장에서 부사구의 역할을 하여 뒤에<br />
-                          반드시 목적어가 옵니다.<br />
-                          listen music(X)/ listen to music(O) / listen to radio(O)<br />
+                      listen to(귀기울여 듣다)는 동사와 전치사가 함께 쓰이고 문장에서 부사구의 역할을 하여 뒤에<br />
+                        반드시 목적어가 옵니다.<br />
+                        listen music(X)/ listen to music(O) / listen to radio(O)<br />
                     </li>
+                    </ol>
                     </v-card-text>
                   </v-card>
                 </v-flex>
@@ -216,7 +218,11 @@ export default {
         },
         {
           name:'B:',
-          speech:'Yeah. I … wait! It is moving now. Thank goodness!'
+          speech:'Yeah. I … wait! It is moving now.'
+        },
+        {
+          name:'A:',
+          speech:'Thank goodness!'
         },
         ],
 
@@ -279,7 +285,11 @@ export default {
         },
         {
           name:'B:',
-          speech:'응. 난... 기다려! 지금 움직이고 있어. 잘됐다!'
+          speech:'응. 난... 기다려! 지금 움직이고 있어.'
+        },
+        {
+          name:'A:',
+          speech:'다행이다!'
         },
         ]
 
@@ -323,6 +333,10 @@ h3{
 
 }
 
+li{
+
+
+}
 
 body{
 

@@ -5,8 +5,8 @@
     <v-container fluid ma-0 pa-0>
 
       <v-layout column>
-        <v-img
-        src="images/IT-Issues-Unit3.jpg" class="center" style=" display:block; ">
+        <v-img :aspect-ratio="14/7"
+        src="https://upload.wikimedia.org/wikipedia/commons/4/46/BigData_2267x1146_white.png"  >
 
         <v-layout
         align-end
@@ -58,16 +58,16 @@
       <div style="padding : 16px;">
 
         <p>
-          potential
+          <b>potential</b> <span class = "korean">가능성이 있는, 잠재적인, 가능성, 잠재력, 퍼텐셜</span>
         </p>
         <p>
-          channeling
+          <b>channeling</b> <span class = "korean">급류, 마구 쏟아짐[퍼부음], 빗발침</span>
         </p>
         <p>
-          torrents
+          <b>torrents</b> <span class = "korean">채널링, 홈조각 장식</span>
         </p>
         <p>
-          interactions
+          <b>interactions</b> <span class = "korean">상호 작용, 상호의 영향; [컴퓨터] 대화, 상호 작용</span>
         </p>
 
       </div>
@@ -96,16 +96,16 @@
       <div style="padding : 16px;">
 
         <p>
-          potential for channeling
+          <b>potential for channeling</b> <span class = "korean">채널링의 잠재력입니다.</span>
         </p>
         <p>
-          these torrents of data into actionable information
+          <b>these torrents of data into actionable information</b> <span class = "korean">이러한 데이터의 급류를 실행 가능한 정보로 변환합니다.</span>
         </p>
         <p>
-          to identify needs &amp; provide services for the benefit of low-income populations.
+          <b>to identify needs &amp; provide services for the benefit of low-income populations.</b> <span class = "korean">필요한 사항을 파악하고 저소득층의 이익을 위한 서비스를 제공합니다.</span>
         </p>
         <p>
-          You’ll know what people want.
+          <b>You’ll know what people want.</b> <span class = "korean">사람들이 무엇을 원하는지 알게 될 거예요.</span>
         </p>
 
       </div>
@@ -182,12 +182,12 @@
                 <v-card light color="#BEFBFF">
                   <v-card-text class="px-10">
                     <p>
-                      <span style="font-size:16px">
+                      <span class = "korean">
                       <b>빅 데이터, 빅 임팩트: 국제 발전을 위한 새로운 가능성</b>
                     </span>
                     </p>
                     <p>
-                      <span style="font-size:16px">
+                      <span class = "korean">
                       연구자들은 이러한 급증하는 데이터를 활용 가능한 정보로 전환하여 저소득층의 이익을 위한 서비스를 제공할 수 있는 가능성을 깨닫기 시작했습니다.데이터의 많은 부분은 개발 도상국의 사람들이 사용하는 모바일 장치에 대한 상호 작용에서 비롯됩니다. 즉, 지금까지 필요와 습관을 제대로 이해하지 못하고 있는 사람들입니다. 빅 데이터를 학습하면 사람들이 무엇을 원하는지 알 수 있습니다.
                       </span>
                     </p>
@@ -329,6 +329,13 @@ body{
   margin-right: auto;
   margin-top: 65px;
   width: 100%;
+}
+
+.korean {
+   
+  white-space: pre-line; 
+  line-break:strict; 
+  word-break:keep-all;
 }
 
 </style>

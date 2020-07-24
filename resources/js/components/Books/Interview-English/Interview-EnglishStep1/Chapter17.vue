@@ -166,7 +166,7 @@
           dialogs:[
           {
             name:'A.',
-            speech:"Before I applied for this job, I've been involved in some various community activities. I like to help street children to mold them to be better persons, because I believe that they will be the future of our country. I want to endorse  them to opportunities to make good use of my time."
+            speech:"Before I applied for this job, I've been involved in various community activities. I like to help street children to mold them to be better persons because I believe that they will be the future of our country. I want to endorse  them to opportunities to make good use of my time."
           },
           {
             name:'B.',

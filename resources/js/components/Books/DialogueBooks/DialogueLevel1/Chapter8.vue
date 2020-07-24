@@ -6,7 +6,7 @@
 
       <v-layout column>
         <v-img
-        src="https://marketplace.canva.com/MADGv8RmfkY/6/screen_2x/canva-man-and-woman-sitting-on-chair-in-front-of-desk-MADGv8RmfkY.jpg">
+        src="https://image.freepik.com/free-photo/dentists-from-perspective-patient_23-2148104942.jpg">
 
         <v-layout
         align-end
@@ -24,7 +24,7 @@
   </v-img>
 
   <hr style="border: 3px solid rgba(32, 64, 81, 1);" width="100%">
-  <h3 style="padding-top : 10px;  padding-left : 15px; padding-bottom: 10px;">Dialogue <br>( 선생님의 안내에 따라 문장을 읽어 주세요 )</h3>
+  <h3 style="padding-top : 10px;  padding-left : 15px; padding-bottom: 10px;">Dialogue <br /> ( 선생님의 안내에 따라 문장을 읽어 주세요 )</h3>
   <hr width="60%">
   <div style = "padding : 16px;">
 
@@ -57,20 +57,20 @@
 
         <ol style="margin: 12px;">
           <li>
-              Where’s Mr. Wilson?<br />
-                (Wilson씨는 어디에 있습니까?)<br />
+            Where’s Mr. Wilson?<br />
+              (Wilson씨는 어디에 있습니까?)<br />
           </li>
           <li>
-              Who is Miss Tracy?<br />
-                (Tracy씨는 누구입니까?)<br />
+            Who is Miss Tracy?<br />
+              (Tracy씨는 누구입니까?)<br />
           </li>
           <li>
-              What is aspirin good for?<br />
-                (아스피린은 무엇에 좋습니까?)<br />
+            What is aspirin good for?<br />
+              (아스피린은 무엇에 좋습니까?)<br />
           </li>
           <li>
-              How are Mr. Wilson’s teeth?<br />
-                (Wilson씨의 이는 어떻습니까?)<br />
+            How are Mr. Wilson’s teeth?<br />
+             (Wilson씨의 이는 어떻습니까?)<br />
           </li>
         </ol>
 
@@ -133,17 +133,19 @@
                     <li>
                       Notes
                     </li>
+                    <ol style="margin: 12px;">
                     <li>
-                    1) you are in good hands : 직역을 하면 환자가 좋은 손들 안에 놓여 있다라는 뜻인데, 이 표현에서<br />
-                      전치사는 on이 아니라 in을 씁니다.<br />
-                          on good hands라고 하면 마치 손바닥 위에 올려놓은 것 같은 느낌을 주는데 그다지 안정감이<br />
-                            없습니다. 그보다는 두 손 안에 들어가 있을 때 좀 더 안정감을 느낍니다.<br />
-                            손도 하나가 아니라 둘을 써서 hands라는 복수를 쓰는 것입니다.<br />
+                      you are in good hands : 직역을 하면 환자가 좋은 손들 안에 놓여 있다라는 뜻인데, 이 표현에서<br />
+                        전치사는 on이 아니라 in을 씁니다.<br />
+                        on good hands라고 하면 마치 손바닥 위에 올려놓은 것 같은 느낌을 주는데 그다지 안정감이<br />
+                        없습니다. 그보다는 두 손 안에 들어가 있을 때 좀 더 안정감을 느낍니다.<br />
+                        손도 하나가 아니라 둘을 써서 hands라는 복수를 쓰는 것입니다.<br />
                     </li>
                     <li>
-                      2) 명사의 복수형: 대부분의 명사 뒤에는 s 혹은 es가 붙지만 불규칙적으로 변하는 명사도 있습니다. <br />
-                           ex)  man-men; woman-women; foot-feet; tooth-teeth; child-children; mouse-mice<br />
+                      명사의 복수형: 대부분의 명사 뒤에는 s 혹은 es가 붙지만 불규칙적으로 변하는 명사도 있습니다. <br />
+                         ex)  man-men; woman-women; foot-feet; tooth-teeth; child-children; mouse-mice<br />
                     </li>
+                    </ol>
                     </v-card-text>
                   </v-card>
                 </v-flex>
@@ -334,6 +336,10 @@ h3{
 
 }
 
+li{
+
+
+}
 
 body{
 

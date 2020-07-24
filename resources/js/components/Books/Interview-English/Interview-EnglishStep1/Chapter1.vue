@@ -148,6 +148,8 @@
 
   </v-layout>
 </v-container>
+</v-layout>
+</v-container>
 </div>
 
 
@@ -225,7 +227,10 @@ h3{
 
 }
 
+li{
 
+
+}
 
 body{
 

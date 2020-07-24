@@ -52,11 +52,38 @@
 
 </div>
 
+<h3 style="background-color: #95FF9A;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Translation</h3>
+               <div style="padding : 16px;">
+
+   <ol style="margin: 12px;">
+     <li class="mb-2">
+       취미가 뭐예요?
+     </li>
+     <br />
+     <li class="mb-2">
+       당신은 누구와 함께 취미를 즐기나요?
+     </li>
+     <br />
+     <li class="mb-2">
+       조만간 해보고 싶은 취미가 있나요?
+     </li>
+     <br />
+     <li class="mb-2">
+       포기한 취미가 있나요? 왜요?
+     </li>
+     <br />
+     <li class="mb-2">
+       당신은 가족 구성원들과 당신의 취미를 공유하려고 추천한 적이 있나요?
+     </li>
+   </ol>
+
+
+
+</div>
+
 
        </v-layout>
      </v-container>
-  </v-layout>
-  </v-container>
 </div>
 
 
@@ -114,11 +141,6 @@ p{
 
 h3{
   padding-top: 7px;
-
-}
-
-li{
-
 
 }
 

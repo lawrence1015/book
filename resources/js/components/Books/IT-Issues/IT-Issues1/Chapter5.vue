@@ -61,32 +61,25 @@
       <div style="padding : 16px;">
 
         <p>
-          derive<br />
-          <span style="font-size:16px">&lt;이익·즐거움 등을&gt; 끌어내다, 얻다, &lt;단어·관습 등이&gt; …에서 비롯되다, &lt;사람이&gt;</span>
+          <b>derive</b> <span class = "korean">&lt;이익·즐거움 등을&gt; 끌어내다, 얻다, &lt;단어·관습 등이&gt; …에서 비롯되다, &lt;사람이&gt;</span>
         </p>
         <p>
-          optimize…<br />
-          <span style="font-size:16px">을 최대한 좋게[적합하게] 만들다[활용하다]</span>
+          <b>optimize…</b> <span class = "korean">을 최대한 좋게[적합하게] 만들다[활용하다]</span>
         </p>
         <p>
-          worthless<br />
-          <span style="font-size:16px">가치 없는, 쓸모없는, 무가치한, 쓸모없는, 무가치한</span>
+          <b>worthless</b> <span class = "korean">가치 없는, 쓸모없는, 무가치한, 쓸모없는, 무가치한</span>
         </p>
         <p>
-          analysis<br />
-          <span style="font-size:16px">분석 연구, 분석</span>
+          <b>analysis</b> <span class = "korean">분석 연구, 분석</span>
         </p>
         <p>
-          utilize<br />
-          <span style="font-size:16px">활용[이용]하다</span>
+          <b>utilize</b> <span class = "korean">활용[이용]하다</span>
         </p>
         <p>
-          onerous<br />
-          <span style="font-size:16px">아주 힘든; 부담되는, 짐스러운</span>
+          <b>onerous</b> <span class = "korean">아주 힘든; 부담되는, 짐스러운</span>
         </p>
         <p>
-          predict<br />
-          <span style="font-size:16px">예측[예견]하다</span>
+         <b>predict</b> <span class = "korean">예측[예견]하다</span>
         </p>
 
       </div>
@@ -115,16 +108,16 @@
       <div style="padding : 16px;">
 
         <p>
-          can derive a number of benefits from it
+          <b>can derive a number of benefits from it</b> <span class = "korean">그것으로부터 많은 이익을 얻을 수 있습니다.</span>
         </p>
         <p>
-          to improve day-to-day business operations
+          <b>to improve day-to-day business operations</b> <span class = "korean">일상적인 비즈니스 운영을 개선합니다.</span>
         </p>
         <p>
-         could only be tracked manually.
+          <b>could only be tracked manually.</b> <span class = "korean">수동으로만 추적할 수 있습니다</span>
         </p>
         <p>
-         used to predict customer needs.
+          <b>used to predict customer needs.</b> <span class = "korean">고객의 니즈를 예측하는 데 사용됩니다.</span>
         </p>
 
       </div>
@@ -201,18 +194,16 @@
                 <v-card light color="#BEFBFF">
                   <v-card-text class="px-10">
                     <p>
-                      <span style="font-size:16px">
+                      <span class = "korean">
                       <b>귀사는 IoT 데이터 분석의 이점을 어떻게 얻을 수 있습니까?</b>
                     </span>
                     </p>
                     <p>
-                      <span style="font-size:16px">
-                      조직은 운영 최적화, 프로세스 자동 제어, 더 많은 고객 참여, 직원 역량 강화 등 다양한 이점을 얻을 수 있습니다.<br>
-                      기기가 인터넷에 연결되고 데이터를 공유함에 따라 조직의 IoT 데이터의 가치는 분석 없이는 가치가 없지만 IoT 분석 솔루션을 구축하면 조직에서 생산한 데이터를 효과적으로 수집, 분석 및 저장할 수 있습니다. 첫째, 향상된 인적 생산성을 향상시켜 이후 일상적인 비즈니스 운영을 개선하고 직원 시간과 에너지를 보다 효율적으로 활용할 수 있도록 지원합니다. 다음으로 장비 유지관리가 개선되었습니다. 그러면 Operations 최적화 및 자동화는 이전에 수동으로만 추적할 수 있었던 프로세스를 자동으로 제어할 수 있습니다. 마지막으로, IoT 데이터 분석의 향상된 고객 경험과 구현이 이러한 부담스러운 작업에 도움이 될 수 있습니다. IoT 데이터는 고객의 니즈를 예측하기 위해 분석 및 사용할 수 있는 다양한 고객 행동 및 선호도를 보여줍니다.
+                      <span class = "korean">조직은 운영 최적화, 프로세스 자동 제어, 더 많은 고객 참여, 직원 역량 강화 등 다양한 이점을 얻을 수 있습니다. 기기가 인터넷에 연결되고 데이터를 공유함에 따라 조직의 IoT 데이터의 가치는 분석 없이는 가치가 없지만 IoT 분석 솔루션을 구축하면 조직에서 생산한 데이터를 효과적으로 수집, 분석 및 저장할 수 있습니다. 첫째, 향상된 인적 생산성을 향상시켜 이후 일상적인 비즈니스 운영을 개선하고 직원 시간과 에너지를 보다 효율적으로 활용할 수 있도록 지원합니다. 다음으로 장비 유지관리가 개선되었습니다. 그러면 Operations 최적화 및 자동화는 이전에 수동으로만 추적할 수 있었던 프로세스를 자동으로 제어할 수 있습니다. 마지막으로, IoT 데이터 분석의 향상된 고객 경험과 구현이 이러한 부담스러운 작업에 도움이 될 수 있습니다. IoT 데이터는 고객의 니즈를 예측하기 위해 분석 및 사용할 수 있는 다양한 고객 행동 및 선호도를 보여줍니다.
                       </span>
                     </p>
                     <p>
-                      <span style="font-size:16px">*최고 데이터 책임자(CDO)입니다.</span>
+                      <span class = "korean">*최고 데이터 책임자(CDO)입니다.</span>
                     </p>
                   </v-card-text>
                 </v-card>
@@ -354,5 +345,10 @@ body{
   width: 100%;
 }
 
-
+.korean {
+   
+  white-space: pre-line; 
+  line-break:strict; 
+  word-break:keep-all;
+}
 </style>

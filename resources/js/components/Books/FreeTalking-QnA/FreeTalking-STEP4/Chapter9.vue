@@ -60,11 +60,46 @@
 
 </div>
 
+<h3 style="background-color: #FF6E6E;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Translation</h3>
+               <div style="padding : 16px;">
+
+   <ol style="margin: 12px;">
+     <li class="mb-2">
+       대가족과 소핵가족 중 어느 쪽을 더 좋아하세요?
+     </li>
+     <br />
+     <li class="mb-2">
+       만약 당신의 아내가 부모님과 함께 사는 것에 반대한다면, 당신은 어떻게 하겠습니까?
+     </li>
+     <br />
+     <li class="mb-2">
+       당신은 부모님을 얼마나 자주 만납니까?
+     </li>
+     <br />
+     <li class="mb-2">
+       부모님이 늙었을 때 돌보는 것이 당신의 의무라고 생각하세요?
+     </li>
+     <br />
+     <li class="mb-2">
+       아이들이 잘못된 길에 빠지면 때릴 건가요?
+     </li>
+     <br />
+     <li class="mb-2">
+       아이는 얼마나 낳고 싶은가요?
+     </li>
+     <br />
+     <li class="mb-2">
+       만약 당신에게 딸이 둘 있다면, 다시 아들을 갖도록 노력하겠습니까?
+     </li>
+   </ol>
+
+
+
+</div>
+
 
        </v-layout>
      </v-container>
-  </v-layout>
-  </v-container>
 </div>
 
 
@@ -125,10 +160,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

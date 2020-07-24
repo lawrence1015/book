@@ -58,7 +58,7 @@
           ( 저는 그것들을 제 자신과 직업윤리를 향상시키는 기회로 보려고 노력합니다. )
         </li>
         <li>
-          I believe that criticisms, especially the constructive ones are important parts of my professional career.<br />
+          I believe that criticisms, especially constructive ones are important parts of my professional career.<br />
           ( 저는 비판, 특히 건설적인 비판은 제 직업 경력의 중요한 부분이라고 생각합니다. )
         </li>
         <li>

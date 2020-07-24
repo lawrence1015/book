@@ -59,11 +59,45 @@
 
 </div>
 
+<h3 style="background-color: #FF6E6E;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Translation</h3>
+               <div style="padding : 16px;">
+
+   <ol style="margin: 12px;">
+     <li class="mb-2">
+       왜 사람들은 프로 스포츠에 열광할까요?
+     </li>
+     <br />
+     <li class="mb-2">
+       아마추어 스포츠와 프로 스포츠의 차이점은 무엇이라고 생각합니까?
+     </li>
+     <br />
+     <li class="mb-2">
+       아마추어와 프로 중에 어떤 운동을 더 좋아하세요?
+     </li>
+     <br />
+     <li class="mb-2">
+       스포츠를 하는 것, TV로 보는 것, 아니면 "라이브"를 보는 것 중 어느 것을 더 좋아하세요?
+     </li>
+     <br />
+     <li class="mb-2">
+       프로 선수들이 최선을 다하게 만드는 것은 무엇일까요?
+     </li>
+     <br />
+     <li class="mb-2">
+       자녀가 운동선수가 되는 것이 괜찮다고 생각하세요?
+       <ul>
+       <li class="mt-2">자녀에게 어떤 스포츠를 추천해 주시겠어요?</li>
+       </ul>
+     </li>
+   </ol>
+
+
+
+</div>
+
 
        </v-layout>
      </v-container>
-  </v-layout>
-  </v-container>
 </div>
 
 
@@ -124,10 +158,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

@@ -6,7 +6,7 @@
 
       <v-layout column>
         <v-img
-        src="https://marketplace.canva.com/MADGv8RmfkY/6/screen_2x/canva-man-and-woman-sitting-on-chair-in-front-of-desk-MADGv8RmfkY.jpg">
+        src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Fire_inside_an_abandoned_convent_in_Massueville%2C_Quebec%2C_Canada.jpg">
 
         <v-layout
         align-end
@@ -24,7 +24,7 @@
   </v-img>
 
   <hr style="border: 3px solid rgba(32, 64, 81, 1);" width="100%">
-  <h3 style="padding-top : 10px;  padding-left : 15px; padding-bottom: 10px;">Dialogue <br>( 선생님의 안내에 따라 문장을 읽어 주세요 )</h3>
+  <h3 style="padding-top : 10px;  padding-left : 15px; padding-bottom: 10px;">Dialogue <br /> ( 선생님의 안내에 따라 문장을 읽어 주세요 )</h3>
   <hr width="60%">
   <div style = "padding : 16px;">
 
@@ -58,15 +58,15 @@
 
         <ol style="margin: 12px;">
           <li>
-              The library is <u> &emsp; &emsp; &emsp; </u> the hospital.<br />
+            The library is <u> &emsp; &emsp; &emsp; </u> the hospital.<br />
                 (그 도서관은 병원 근처에 있습니다)<br />
           </li>
           <li>
-              It's <u> &emsp; &emsp; &emsp; </u> the street.<br />
+            It's <u> &emsp; &emsp; &emsp; </u> the street.<br />
                  (그것은 거리 건너 편에 있습니다)<br />
           </li>
           <li>
-              Wait for me <u> &emsp; &emsp; &emsp; </u>.<br />
+            Wait for me <u> &emsp; &emsp; &emsp; </u>.<br />
                 (밖에서 나를 기다리세요)<br />
           </li>
         </ol>
@@ -128,14 +128,16 @@
                     <li>
                       Notes
                     </li>
+                    <ol style="margin: 12px;">
                     <li>
-                      1) Be동사의 의문문: Be 주어...? / Am I...?; Are you(we,they)...?; Is he(she,it)...?<br />
+                      Be동사의 의문문: Be 주어...? / Am I...?; Are you ( we, they )...?; Is he ( she, it )...?<br />
                           대답: Yes, 주어 be동사 / 짧게 대답하는 경우 주어와 동사를 줄여 쓰지 않습니다.<br />
                           Yes, I am (O) / Yes, I'm(X)<br />
                     </li>
                     <li>
-                      2) 의문사 be동사를 줄여쓸 수 있지만(that's, what's), this is는 this's로 쓰지 않습니다.<br />
+                      의문사 be동사를 줄여쓸 수 있지만(that's, what's), this is는 this's로 쓰지 않습니다.<br />
                     </li>
+                    </ol>
                     </v-card-text>
                   </v-card>
                 </v-flex>
@@ -341,6 +343,11 @@ p{
 
 h3{
   padding-top: 7px;
+
+}
+
+li{
+
 
 }
 

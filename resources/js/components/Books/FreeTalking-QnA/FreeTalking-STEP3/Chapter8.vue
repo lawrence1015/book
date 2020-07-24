@@ -23,35 +23,35 @@
     </v-img>
 
 
-          <h3 style="background-color: #95FF9A;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Q &amp; A</h3>
+          <h3 style="background-color: #95FF9A;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Translation</h3>
                <div style="padding : 16px;">
 
    <ol style="margin: 12px;">
      <li class="mb-2">
-        Give some reasons why people become homeless.
+        사람들이 노숙자가 되는 몇 가지 이유를 말해보세요.
      </li>
      <br />
      <li class="mb-2">
-        Have you ever seen any homeless people on the street?
+        길거리에서 노숙자들을 본 적이 있나요?
         <ul>
-        <li class="mt-2"> What do you do when you see them?</li>
-        <li> Have you ever given a homeless person anything? What? Why?</li>
+        <li class="mt-2">당신은 그들을 보면 무엇을 하나요?</li>
+        <li>노숙자에게 무언가를 준 적이 있나요? 무엇을 주었나요? 왜요?</li>
         </ul>
      </li>
      <br />
      <li class="mb-2">
-         What do you think is the best way to help a homeless person? Give an example.
+         노숙자를 돕는 가장 좋은 방법이 뭐라고 생각하세요? 예를 들어 보세요.
      </li>
      <br />
      <li class="mb-2">
-         Are there any homeless people in your country?
+         당신 나라에는 노숙자가 있습니까?
         <ul>
-        <li class="mt-2"> What does the government do to help them?</li>
+        <li class="mt-2">정부는 그들을 돕기 위해 무엇을 하나요?</li>
         </ul>
      </li>
      <br />
      <li class="mb-2">
-       If you were the president or leader of your country, how would you end poverty?
+       만약 당신이 당신의 나라의 대통령이나 지도자라면, 당신은 가난을 어떻게 끝낼 것입니까?
      </li>
    </ol>
 
@@ -62,8 +62,6 @@
 
        </v-layout>
      </v-container>
-  </v-layout>
-  </v-container>
 </div>
 
 
@@ -124,10 +122,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

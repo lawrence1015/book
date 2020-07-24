@@ -64,11 +64,50 @@
 
 </div>
 
+<h3 style="background-color: #FF6E6E;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Translation</h3>
+               <div style="padding : 16px;">
+
+   <ol style="margin: 12px;">
+     <li class="mb-2">
+       당신은 조간 신문과 저녁 신문 중 어느 것을 더 좋아합니까? 그 이유는요?
+     </li>
+     <br />
+     <li class="mb-2">
+       신문에서 어느 부분을 먼저 읽습니까?
+     </li>
+     <br />
+     <li class="mb-2">
+       당신이 신문을 읽는 가장 중요한 이유는 무엇입니까?
+     </li>
+     <br />
+     <li class="mb-2">
+       당신이 잡지를 읽는 가장 중요한 이유는 무엇입니까?
+     </li>
+     <br />
+     <li class="mb-2">
+       신문에서 읽는 모든 것을 믿으세요? 잡지에서는요?
+     </li>
+     <br />
+     <li class="mb-2">
+       광고에 나오는 말을 믿으세요?
+     </li>
+     <br />
+     <li class="mb-2">
+       당신은 얼마나 자주 서점을 방문합니까?
+     </li>
+     <br />
+     <li class="mb-2">
+       지금까지 읽은 책 중에서 가장 인상 깊었던 책에 대해 이야기해보세요.
+     </li>
+   </ol>
+
+
+
+</div>
+
 
        </v-layout>
      </v-container>
-  </v-layout>
-  </v-container>
 </div>
 
 
@@ -129,10 +168,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

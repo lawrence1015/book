@@ -53,11 +53,11 @@
             <div class="card-body">
               <h2>Speaking Pattern 100 Course</h2>
               <br />
-                <a href ="/book#/SpeakingPattern/SpeakingPatternStep1/chapter1">Speaking Pattern - White 1</a><br />
-                <a href ="/book#/SpeakingPattern/SpeakingPatternStep2/chapter1">Speaking Pattern - Yellow 2</a><br />
-                <a href ="/book#/SpeakingPattern/SpeakingPatternStep3/chapter1">Speaking Pattern - Green 3</a><br />
-                <a href ="/book#/SpeakingPattern/SpeakingPatternStep4/chapter1">Speaking Pattern - Red 4</a><br />
-                <!-- <a href ="/book#/SpeakingPattern/SpeakingPatternStep5/chapter1">Speaking Pattern - Black 5</a><br /> -->
+                <a href ="/book#/SpeakingPattern/SpeakingPatternWhite1/chapter1">Speaking Pattern - White 1</a><br />
+                <a href ="/book#/SpeakingPattern/SpeakingPatternYellow2/chapter1">Speaking Pattern - Yellow 2</a><br />
+                <a href ="/book#/SpeakingPattern/SpeakingPatternGreen3/chapter1">Speaking Pattern - Green 3</a><br />
+                <a href ="/book#/SpeakingPattern/SpeakingPatternRed4/chapter1">Speaking Pattern - Red 4</a><br />
+                <a href ="/book#/SpeakingPattern/SpeakingPatternBlack5/chapter1">Speaking Pattern - Black 5</a><br /> 
             </div>
         </div>
     </div>
@@ -79,7 +79,7 @@
               <h2>Daily Dialogue Course</h2>
               <br />
                 <a href ="/book#/DialogueBooks/DialogueLevel1/chapter1">Daily Dialogue - White 1</a><br />
-                <a href ="/book#/DialogueBooks/DialogueLevel2/chapter1">Daily Dialogue - Yellow 2</a><br />
+                <a href ="/book#/DialogueBooks/DialogueLevel2/unit1">Daily Dialogue - Yellow 2</a><br />
             </div>
         </div>
     </div>

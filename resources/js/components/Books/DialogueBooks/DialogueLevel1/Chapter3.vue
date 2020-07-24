@@ -6,7 +6,7 @@
 
       <v-layout column>
         <v-img
-        src="https://image.freepik.com/free-photo/talk-friends_1098-13493.jpg">
+        src="https://image.freepik.com/free-photo/friends-laughing_1098-14522.jpg">
 
         <v-layout
         align-end
@@ -24,7 +24,7 @@
   </v-img>
 
   <hr style="border: 3px solid rgba(32, 64, 81, 1);" width="100%">
-  <h3 style="padding-top : 10px;  padding-left : 15px; padding-bottom: 10px;">Dialogue <br>( 선생님의 안내에 따라 문장을 읽어 주세요 )</h3>
+  <h3 style="padding-top : 10px;  padding-left : 15px; padding-bottom: 10px;">Dialogue <br /> ( 선생님의 안내에 따라 문장을 읽어 주세요 )</h3>
   <hr width="60%">
   <div style = "padding : 16px;">
 
@@ -58,12 +58,12 @@
 
         <ol style="margin: 12px;">
           <li>
-              서울은 어떻습니까?<br />
+            서울은 어떻습니까?<br />
                 What <u> &emsp; &emsp; &emsp; </u> Seoul <u> &emsp; &emsp; &emsp; </u>?<br />
           </li>
           <li>
-              그곳은 크고 흥미진진합니다.<br />
-                <u> &emsp; &emsp; &emsp; </u> ig and exciting. <br />
+            그곳은 크고 흥미진진합니다.<br />
+                <u> &emsp; &emsp; &emsp; </u> big and exciting. <br />
           </li>
         </ol>
 
@@ -124,13 +124,15 @@
                     <li>
                       Notes
                     </li>
+                    <ol style="margin: 12px;">
                     <li>
-                      1) be동사의 의문문 : be동사 + 주어...? ...입니까? ...있습니까?)<br />
-                        질문: Am I...? / Are you...? / Is he( she,it )...? / Are we( they )...?<br />
-                        대답: Yes, I am ( No, I'm not ) / Yes, you are ( No, you aren't ) / Yes, he( she, it ) is ( No, he( she,it )<br />
-                        isn't ) / Yes, we are ( No, we aren't ) / Yes, they are( No, they aren't )<br />
-
+                      be동사의 의문문 : be동사 + 주어...? ...입니까? ...있습니까?)<br />
+                        질문: Am I...? / Are you...? / Is he( she,it )...? / Are we ( they )...?<br />
+                        대답: Yes, I am ( No, I'm not ) / Yes, you are ( No, you aren't ) /<br />
+                        Yes, he ( she, it ) is ( No, he ( she,it ) isn't )  / <br />
+                        Yes, we are ( No, we aren't ) / Yes, they are( No, they aren't )<br />
                     </li>
+                    </ol>
                     </v-card-text>
                   </v-card>
                 </v-flex>
@@ -321,6 +323,10 @@ h3{
 
 }
 
+li{
+
+
+}
 
 body{
 

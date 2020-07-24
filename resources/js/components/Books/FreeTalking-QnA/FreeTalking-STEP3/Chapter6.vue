@@ -55,11 +55,41 @@
 
 </div>
 
+<h3 style="background-color: #95FF9A;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Translation</h3>
+               <div style="padding : 16px;">
+
+   <ol style="margin: 12px;">
+     <li class="mb-2">
+       당신은 신앙치유를 믿나요?
+     </li>
+     <br />
+     <li class="mb-2">
+        당신은 얼마나 자주 감기에 걸리나요?
+        <ul>
+        <li class="mt-2">당신은 그것을 치료하기 위해 무엇을 합니까?</li>
+        </ul>
+     </li>
+     <br />
+     <li class="mb-2">
+        어떤 질병이나 질병에 자주 문제가 있습니까? 
+     </li>
+     <br />
+     <li class="mb-2">
+       많은 사람들이 의사들에 대해 불평하는 것은 무엇입니까?
+     </li>
+     <br />
+     <li class="mb-2">
+       여러분은 암과 에이즈가 가까운 미래에 정복될 것이라고 생각하나요?
+     </li>
+   </ol>
+
+
+
+</div>
+
 
        </v-layout>
      </v-container>
-  </v-layout>
-  </v-container>
 </div>
 
 
@@ -117,11 +147,6 @@ p{
 
 h3{
   padding-top: 7px;
-
-}
-
-li{
-
 
 }
 

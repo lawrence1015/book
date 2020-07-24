@@ -68,11 +68,54 @@
 
 </div>
 
+<h3 style="background-color: #95FF9A;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Translation</h3>
+               <div style="padding : 16px;">
+
+   <ol style="margin: 12px;">
+     <li class="mb-2">
+       누가 마지막으로 당신에게 거짓말을 했나요? 언제요?
+       <ul>
+       <li class="mt-2">진실을 알았을 때 기분이 어땠나요?</li>
+      </ul>
+     </li>
+     <br />
+     <li class="mb-2">
+        언제 거짓말을 했거나 변명을 했나요?
+        <ul>
+        <li class="mt-2">왜 그랬어요?</li>
+       </ul>
+     </li>
+     <br />
+     <li class="mb-2">
+        선의의 거짓말을 한 적이 있나요?
+        <ul>
+        <li class="mt-2">이것은 다른 어떤 거짓말과 어떻게 다른가요? (또는 변명과)</li>
+       </ul>
+     </li>
+     <br />
+     <li class="mb-2">
+        당신은 거짓말을 들킨 적이 있습니까? 언제요? 뭐라고 하셨어요?
+     </li>
+     <br />
+     <li class="mb-2">
+        당신은 왜 몇몇 사람들이 진실을 말하는 대신 거짓말을 하거나 변명을 자주 한다고 생각합니까?
+     </li>
+     <br />
+     <li class="mb-2">
+        모두가 항상 진실을 말해야 하는 세상을 상상해 보세요. 이 세상을 묘사해보세요.
+        <ul>
+        <li class="mt-2">당신은 어떤 상황에서는 거짓말을 하는 것이 더 낫다고 생각하나요? 아니면 핑계를 대는 것이 더 낫다고 생각하나요? 왜 그런가요, 아니면 왜 아닌가요?</li>
+       </ul>
+     </li>
+   </ol>
+
+
+
+</div>
+
 
        </v-layout>
      </v-container>
-  </v-layout>
-  </v-container>
 </div>
 
 
@@ -130,11 +173,6 @@ p{
 
 h3{
   padding-top: 7px;
-
-}
-
-li{
-
 
 }
 

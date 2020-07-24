@@ -6,7 +6,7 @@
 
       <v-layout column>
         <v-img
-        src="https://marketplace.canva.com/MADGv8RmfkY/6/screen_2x/canva-man-and-woman-sitting-on-chair-in-front-of-desk-MADGv8RmfkY.jpg">
+        src="https://image.freepik.com/free-photo/two-businesswoman-arguing-with-each-other-office_23-2147857244.jpg">
 
         <v-layout
         align-end
@@ -24,7 +24,7 @@
   </v-img>
 
   <hr style="border: 3px solid rgba(32, 64, 81, 1);" width="100%">
-  <h3 style="padding-top : 10px;  padding-left : 15px; padding-bottom: 10px;">Dialogue <br>( 선생님의 안내에 따라 문장을 읽어 주세요 )</h3>
+  <h3 style="padding-top : 10px;  padding-left : 15px; padding-bottom: 10px;">Dialogue <br /> ( 선생님의 안내에 따라 문장을 읽어 주세요 )</h3>
   <hr width="60%">
   <div style = "padding : 16px;">
 
@@ -121,12 +121,14 @@
                     <li>
                       Notes
                     </li>
+                    <ol style="margin: 12px;">
                     <li>
-                      1) 일반동사의 부정문 : 주어 do(does) not 동사원형 (축약형: don't, doesn't)<br />
+                      일반동사의 부정문 : 주어 do(does) not 동사원형 (축약형: don't, doesn't)<br />
                     </li>
                     <li>
-                      2) (1) have는 가지다라는 소유의 뜻이 아니라 먹다라는 뜻입니다. <br />
+                      have는 가지다라는 소유의 뜻이 아니라 먹다라는 뜻입니다. <br />
                     </li>
+                    </ol>
                     </v-card-text>
                   </v-card>
                 </v-flex>
@@ -202,11 +204,11 @@ export default {
         },
         {
           name:'Liz:',
-          speech:'Let’s have a lunch together'
+          speech:'Let’s have lunch together'
         },
         {
           name:'Barbara:',
-          speech:'Why not? Let’s go.(1) I’ll have a sandwich.'
+          speech:'Why not? Let’s go. I’ll have a sandwich.'
         },
         ],
 
@@ -299,6 +301,11 @@ p{
 
 h3{
   padding-top: 7px;
+
+}
+
+li{
+
 
 }
 

@@ -53,7 +53,7 @@
       <ol style="margin: 12px;">
         <li>
           I am the type that is very dedicated to my work.<br />
-          ( 저는 그룹 활동을 잘하고 도전을 해결할 수 있는 능력을 가지고 있습니다. )
+          ( 저는 제 일에 매우 헌신적인 타입입니다. )
         </li>
         <li>
           I would be willing to stay after hours.<br />

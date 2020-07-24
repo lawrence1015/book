@@ -56,11 +56,42 @@
 
 </div>
 
+ <h3 style="background-color: #FF6E6E;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Translation</h3>
+               <div style="padding : 16px;">
+
+   <ol style="margin: 12px;">
+     <li class="mb-2">
+       우리 사회에서 남자와 여자는 평등합니까?
+     </li>
+     <br />
+     <li class="mb-2">
+       당신은 남자가 여자보다 강하다고 생각하나요?
+     </li>
+     <br />
+     <li class="mb-2">
+       당신은 여성 대통령 후보에게 투표할 건가요?
+     </li>
+     <br />
+     <li class="mb-2">
+       당신은 누가 우리 사회에서 사는 것이 더 어렵다고 생각합니까? 남성 또는 여성?
+     </li>
+     <br />
+     <li class="mb-2">
+       당신이 직장생활을 하는 동안 육아 등 집안일을 모두 관리하는 가정 남편이 있다면 어떻게 생각하겠습니까?
+     </li>
+     <br />
+     <li class="mb-2">
+       가정 남편이 되는 것이 남자가 해야 할 적절한 일인가요? 당신은 가정 남편이 되는 것을 고려해 본 적이 있나요?
+     </li>
+   </ol>
+
+
+
+</div>
+
 
        </v-layout>
      </v-container>
-  </v-layout>
-  </v-container>
 </div>
 
 
@@ -121,10 +152,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

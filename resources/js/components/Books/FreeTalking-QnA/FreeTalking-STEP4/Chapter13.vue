@@ -59,11 +59,46 @@
 
 </div>
 
+<h3 style="background-color: #FF6E6E;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Translation</h3>
+               <div style="padding : 16px;">
+
+   <ol style="margin: 12px;">
+     <li class="mb-2">
+       당신은 대학 학위가 필수라고 생각하나요?
+     </li>
+     <br />
+     <li class="mb-2">
+       당신은 대학 학위가 당신의 아이가 더 좋은 직장을 얻는 데 도움이 된다고 생각하나요?
+     </li>
+     <br />
+     <li class="mb-2">
+       학창 시절에 아르바이트를 했나요?
+     </li>
+     <br />
+     <li class="mb-2">
+       당신의 자녀들이 아르바이트를 할 수 있도록 허락해 주시겠어요?
+       <ul>
+       <li class="mt-2">격려해 주시겠어요?</li>
+       </ul>
+     </li>
+     <br />
+     <li class="mb-2">
+       학교에서 가장 좋아하는 과목은 무엇이었나요/ 무엇인가요?
+     </li>
+     <br />
+     <li class="mb-2">
+       당신은 당신의 어린 아이들에게 영어를 가르칠 건가요?
+     </li>
+   </ol>
+
+
+
+</div>
+
+
 
        </v-layout>
      </v-container>
-  </v-layout>
-  </v-container>
 </div>
 
 
@@ -121,11 +156,6 @@ p{
 
 h3{
   padding-top: 7px;
-
-}
-
-li{
-
 
 }
 

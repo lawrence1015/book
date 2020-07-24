@@ -63,7 +63,7 @@
             ( 만약 제가 이 직책에 채용되지 않는다면 저는 당신의 결정을 존중하겠습니다. )
           </li>
           <li>
-            I understand that I may not be the perfect person and there is somebody that is best fit with this job.<br />
+            I understand that I may not be the perfect person and there is somebody that is the best fit for this job.<br />
             ( 저는 제가 완벽한 사람이 아닐 수도 있고 이 일에 가장 적합한 사람이 있다는 것을 이해합니다. )
           </li>
           <li>
@@ -170,7 +170,7 @@
           },
           {
             name:'B.',
-            speech:" I would respect your decision if ever I won't be hired for this position. I understand that I may not be the perfect person and there is somebody that is best fit with this job. But then I will try to check what I need to improve for myself and will be very happy to listen for your constructive feedback."
+            speech:" I would respect your decision if ever I won't be hired for this position. I understand that I may not be the perfect person and there is somebody that is best the fit for this job. But then I will try to check what I need to improve for myself and will be very happy to listen for your constructive feedback."
           },
           ],
   

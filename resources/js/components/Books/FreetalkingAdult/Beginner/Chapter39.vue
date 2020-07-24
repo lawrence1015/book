@@ -23,7 +23,7 @@
     </v-img>
 
 
-          <h3 style="background-color: #a7d7c5;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Reading Practice</h3>
+          <h3 style="background-color: #a7d7c5;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Reading Practice <span style="font-size:18px">( 선생님의 안내에 따라 문장을 읽어 주세요 )</span></h3>
                <div style="padding : 16px;">
 
    <p>For the past millennia, humans have created wondrous, useful things. This proves our ingenuity and skill, setting us apart from other creatures. Through the years, we have kept on upgrading. The super computers we now have only started with the abacus; the massive fleets, from simple rafts; and the spacecrafts and airplanes, from kites and the mere wish to fly. Only our will and imagination is the limit. We must never forget though that whatever we create should not destroy our planet or humanity itself.
@@ -35,29 +35,23 @@
 
 
 
-<li style="list-style-type: none;"><u>Millennium(n)</u> - 1,000 years (plural form is millennia)
+<li style="list-style-type: none;"><u>Millennium</u> - 1,000 years (plural form is millennia) <span style="font-size:16px">천년, 새로운 천년이 시작되는 시기</span>
 </li>
 
-<li style="list-style-type: none;"><u>Wondrous(adj)</u> - exciting and amazing
+<li style="list-style-type: none;"><u>Wondrous</u> - exciting and amazing <span style="font-size:16px">경이로운, 경탄스러운</span>
 </li>
 
-<li style="list-style-type: none;"><u>Ingenuity(n)</u> -  inventiveness or cleverness
+<li style="list-style-type: none;"><u>Ingenuity</u> -  inventiveness or cleverness <span style="font-size:16px">기발한 재주, 재간, 독창성</span>
 </li>
 
-<li style="list-style-type: none;"><u>Set apart(v)</u> - to make something different
+<li style="list-style-type: none;"><u>Set apart</u> - to make something different <span style="font-size:16px">떼어 두다, 따로 하다; 구별하다, 눈에 띄게 하다; 보류하다.</span>
 </li>
 
-<li style="list-style-type: none;"><u>Upgrade(v)</u> - to improve in quality
+<li style="list-style-type: none;"><u>Upgrade</u> - to improve in quality <span style="font-size:16px">개선하다, 승진[승급]시키다, 상위 등급으로 높여주다</span>
 </li>
 
-<li style="list-style-type: none;"><u>Humanity(n)</u> - the human race
+<li style="list-style-type: none;"><u>Humanity</u> - the human race <span style="font-size:16px">인류, 인간, 인간성, 인간임, 인간애; 인도적임, 인문학</span>
 </li>
-
-</div>
-
-
-<h3 style="padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 10px; margin-top: 10px; background-color: #a7d7c5;">Vocabulary Stop</h3>
-     <div style="padding : 16px;">
 
 
 <p>Fill in the blanks using the words above.
@@ -89,23 +83,128 @@
 <h3 style="padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 10px; margin-top: 10px; background-color: #a7d7c5;">Comprehension</h3>
      <div style="padding : 16px;">
 
-
-<li style="list-style-type: none;">What set humans apart from other creatures?
+<ol style="margin: 12px;">
+<li>What set humans apart from other creatures?
 </li>
 
-<li style="list-style-type: none;">From what did computers start?
+<li>From what did computers start?
 </li>
 
-<li style="list-style-type: none;">What is humanity’s limit?
+<li>What is humanity’s limit?
 </li>
 
-<li style="list-style-type: none;">What should we never forget?
+<li>What should we never forget?
 </li>
-
+</ol>
 
 </div>
 
-<h3 style="padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 10px; margin-top: 10px; background-color: #a7d7c5;">Grammar Stop!</h3>
+<h3 style="padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 10px; margin-top: 10px; background-color: #a7d7c5;">Translation</h3>
+     <div style="padding : 16px;">
+
+<p>지난 천년 동안 인간은 경이롭고 유용한 것들을 창조해 왔다. 이것은 우리의 독창성과 기술을 증명하여 우리를 다른 생물들과 차별화시킨다. 지난 몇 년 동안 우리는 계속 업그레이드해왔다. 우리가 지금 가지고 있는 슈퍼 컴퓨터는 주판에서 시작되었고 거대한 함대는 단순한 뗏목에서, 우주선과 비행기들은 연과 날고 싶은 단순한 소망으로 시작한 것이다. 우리의 의지와 상상력만이 한계다. 비록 우리가 창조하는 것이 무엇이든 우리의 행성이나 인류 자체를 파괴해서는 안 된다는 것을 결코 잊어서는 안 된다.
+</p>
+
+     </div>
+
+
+<div style="margin-left: -18px;
+margin-right: -18px;
+margin-bottom: -10px;">
+<v-img
+           src="https://img.freepik.com/free-photo/man-portrait-alva-edison-thomas-inventor_121-67763.jpg?size=338&ext=jpg"></v-img>
+</div>
+
+
+<h3 style="padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 10px; margin-top: 10px; background-color: #a7d7c5;">Reading Practice <span style="font-size:18px">( 선생님의 안내에 따라 문장을 읽어 주세요 )</span></h3>
+     <div style="padding : 16px;">
+
+<p>Thomas Alva Edison will always be the epitome of an inventor. He is the famous inventor of the light bulb, early motion picture cameras, recorded music, electric car battery and others. As the creator of the phonograph, he was actually slightly deaf in both ears due to scarlet fever in his youth. As a student, his mind often wandered in his class. His teachers found him difficult to deal with. His mother pulled him out from school and taught him at home herself.
+He was only 22 years old when his first invention was sold for $40,000. Several of his inventions failed and many of his businesses went bankrupt but Edison remained persistent and resilient. He once said, “I have not failed, I just found 10,000 ways that won’t work.”
+</p>
+
+</div>
+
+<h3 style="padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 10px; margin-top: 10px; background-color: #a7d7c5;">Vocabulary Review</h3>
+     <div style="padding : 16px;">
+
+
+
+       <li style="list-style-type: none;"><u>Epitome</u> - model or the best example <span style="font-size:16px">완벽한 보기, 전형</span>
+       </li>
+
+       <li style="list-style-type: none;"><u>Deaf</u> - not able to hear <span style="font-size:16px">귀가 먹은, 청각 장애가 있는, 청각 장애인, ~에 귀[주의]를 기울이지 않는</span>
+       </li>
+
+       <li style="list-style-type: none;"><u>Wander</u> - to daydream; travel without destination <span style="font-size:16px">거닐다, 돌아다니다, 헤매다, 다른 데로 가다, 떨어져 나가다</span>
+       </li>
+
+       <li style="list-style-type: none;"><u>Persistent</u> - continuing despite difficulties <span style="font-size:16px">끈질긴, 집요한, 끊임없이 지속[반복]되는</span>
+       </li>
+
+       <li style="list-style-type: none;"><u>Resilient</u> - recovering quickly <span style="font-size:16px">회복력 있는, 탄력 있는</span>
+       </li>
+
+<p>Fill in the blanks using the words above.
+</p>
+
+<ol style="margin: 12px;">
+  <li>The people of my country are ________. After the war in the 1880’s, we established a stronger government.
+  </li>
+
+  <li>Nice, smart and respectful, she is the ______ of a good daughter.
+  </li>
+
+  <li>Sometimes letting your mind _____ can give you great ideas.
+  </li>
+
+  <li>Please don’t yell at her, she’s not ____!
+  </li>
+
+  <li>Schooling is difficult but stay __________.
+  </li>
+
+
+
+
+</ol>
+
+</div>
+
+<h3 style="padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 10px; margin-top: 10px; background-color: #a7d7c5;">Comprehension</h3>
+     <div style="padding : 16px;">
+
+<ol style="margin: 12px;">
+<li>What were Edison’s famous inventions?
+</li>
+
+<li>Why was he slightly deaf?
+</li>
+
+<li>Why did his teachers find him difficult to deal with?
+</li>
+
+<li>What did his mother do?
+</li>
+
+<li>What did he do when his businesses failed?
+</li>
+
+<li>What Edison quote was mentioned in the reading?
+</li>
+</ol>
+
+</div>
+
+<h3 style="padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 10px; margin-top: 10px; background-color: #a7d7c5;">Translation</h3>
+     <div style="padding : 16px;">
+
+       <p>토마스 알바 에디슨은 항상 발명가의 전형일 것이다. 그는 유명한 전구, 초기 영화 카메라, 녹음된 음악, 전기 자동차 배터리 등을 발명했다. 축음기를 만든 사람으로서 그는 사실 젊은 시절 성홍열로 양쪽 귀가 약간 들리지 않았다. 학생으로서, 그의 마음은 종종 그의 반에서 방황했다. 그의 선생님들은 그를 다루기 힘들다고 생각했다. 그의 어머니는 그를 학교에서 끌어내서 집에서 직접 가르쳤다. 그의 첫 발명품이 4만 달러에 팔렸을 때 그는 겨우 22살이었다. 그의 발명품들 중 몇몇은 실패했고 그의 많은 사업들은 파산했지만 에디슨은 끈질기고 회복력이 있었다. 그는 "실패한 게 아니라 적용되지 않는 1만 가지 방법을 찾았을 뿐"이라고 말한 적이 있다.
+       </p>
+
+     </div>
+
+<h3 style="padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 10px; margin-top: 10px; background-color: #a7d7c5;">Tips</h3>
      <div style="padding : 16px;">
 
 
@@ -191,117 +290,9 @@
 
   <li>I want to know what’s on _____ minds.
   </li>
-
-
-
-
-
 </ol>
 
 </div>
-
-
-
-
-<div style="margin-left: -18px;
-margin-right: -18px;
-margin-bottom: -10px;">
-<v-img
-           src="https://img.freepik.com/free-photo/man-portrait-alva-edison-thomas-inventor_121-67763.jpg?size=338&ext=jpg"></v-img>
-</div>
-
-
-<h3 style="padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 10px; margin-top: 10px; background-color: #a7d7c5;">Reading Practice</h3>
-     <div style="padding : 16px;">
-
-<p>Thomas Alva Edison will always be the epitome of an inventor. He is the famous inventor of the light bulb, early motion picture cameras, recorded music, electric car battery and others. As the creator of the phonograph, he was actually slightly deaf in both ears due to scarlet fever in his youth. As a student, his mind often wandered in his class. His teachers found him difficult to deal with. His mother pulled him out from school and taught him at home herself.
-He was only 22 years old when his first invention was sold for $40,000. Several of his inventions failed and many of his businesses went bankrupt but Edison remained persistent and resilient. He once said, “I have not failed, I just found 10,000 ways that won’t work.”
-</p>
-
-</div>
-
-<h3 style="padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 10px; margin-top: 10px; background-color: #a7d7c5;">Vocabulary Review</h3>
-     <div style="padding : 16px;">
-
-
-
-       <li style="list-style-type: none;"><u>Epitome (n)</u> - model or the best example
-       </li>
-
-       <li style="list-style-type: none;"><u>Deaf (adj)</u> - not able to hear
-       </li>
-
-       <li style="list-style-type: none;"><u>Wander (adj)</u> - to daydream; travel without destination
-       </li>
-
-       <li style="list-style-type: none;"><u>Persistent (adj)</u> - continuing despite difficulties
-       </li>
-
-       <li style="list-style-type: none;"><u>Resilient  (v)</u> - recovering quickly
-       </li>
-
-
-
-
-
-</div>
-
-<h3 style="padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 10px; margin-top: 10px; background-color: #a7d7c5;">Vocabulary Stop</h3>
-     <div style="padding : 16px;">
-
-
-<p>Fill in the blanks using the words above.
-</p>
-
-<ol style="margin: 12px;">
-  <li>The people of my country are ________. After the war in the 1880’s, we established a stronger government.
-  </li>
-
-  <li>Nice, smart and respectful, she is the ______ of a good daughter.
-  </li>
-
-  <li>Sometimes letting your mind _____ can give you great ideas.
-  </li>
-
-  <li>Please don’t yell at her, she’s not ____!
-  </li>
-
-  <li>Schooling is difficult but stay __________.
-  </li>
-
-
-
-
-</ol>
-
-</div>
-
-<h3 style="padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 10px; margin-top: 10px; background-color: #a7d7c5;">Comprehension</h3>
-     <div style="padding : 16px;">
-
-
-<li style="list-style-type: none;">What were Edison’s famous inventions?
-</li>
-
-<li style="list-style-type: none;">Why was he slightly deaf?
-</li>
-
-<li style="list-style-type: none;">Why did his teachers find him difficult to deal with?
-</li>
-
-<li style="list-style-type: none;">What did his mother do?
-</li>
-
-<li style="list-style-type: none;">What did he do when his businesses failed?
-</li>
-
-<li style="list-style-type: none;">What Edison quote was mentioned in the reading?
-</li>
-
-
-
-</div>
-
 
 
 
@@ -363,9 +354,6 @@ He was only 22 years old when his first invention was sold for $40,000. Several 
 
   <li>Should scientist invent something to make a person immortal? Why or why not?
   </li>
-
-
-
 </ol>
 
 </div>
@@ -392,8 +380,6 @@ He was only 22 years old when his first invention was sold for $40,000. Several 
 
        </v-layout>
      </v-container>
-  </v-layout>
-  </v-container>
 </div>
 </template>
 
@@ -444,11 +430,6 @@ p{
 
 h3{
   padding-top: 7px;
-
-}
-
-li{
-
 
 }
 

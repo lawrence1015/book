@@ -6,7 +6,7 @@
 
       <v-layout column>
         <v-img
-        src="https://marketplace.canva.com/MADGv8RmfkY/6/screen_2x/canva-man-and-woman-sitting-on-chair-in-front-of-desk-MADGv8RmfkY.jpg">
+        src="https://image.freepik.com/free-photo/man-woman-talking_23-2147678990.jpg">
 
         <v-layout
         align-end
@@ -24,7 +24,7 @@
   </v-img>
 
   <hr style="border: 3px solid rgba(32, 64, 81, 1);" width="100%">
-  <h3 style="padding-top : 10px;  padding-left : 15px; padding-bottom: 10px;">Dialogue <br>( 선생님의 안내에 따라 문장을 읽어 주세요 )</h3>
+  <h3 style="padding-top : 10px;  padding-left : 15px; padding-bottom: 10px;">Dialogue <br />( 선생님의 안내에 따라 문장을 읽어 주세요 )</h3>
   <hr width="60%">
   <div style = "padding : 16px;">
 
@@ -58,16 +58,16 @@
 
         <ol style="margin: 12px;">
           <li>
-              <u> &emsp; &emsp; &emsp; </u> you <u> &emsp; &emsp; &emsp; </u> comedy? <br />
-                코미디를 좋아하십니까?
+            <u> &emsp; &emsp; &emsp; </u> you <u> &emsp; &emsp; &emsp; </u> comedy? <br />
+              코미디를 좋아하십니까?
           </li>
           <li>
-              What kind of movies <u> &emsp; &emsp; &emsp; </u> ? <br />
-                당신은 무슨 종류의 영화를 좋아하십니까?
+            What kind of movies <u> &emsp; &emsp; &emsp; </u> ? <br />
+              당신은 무슨 종류의 영화를 좋아하십니까?
           </li>
           <li>
-              <u> &emsp; &emsp; &emsp; </u> action movies the most. <br />
-                저는 액션 영화를 가장 좋아합니다.
+            <u> &emsp; &emsp; &emsp; </u> action movies the most. <br />
+              저는 액션 영화를 가장 좋아합니다.
           </li>
         </ol>
 
@@ -132,15 +132,16 @@
                     <li>
                       Notes
                     </li>
+                    <ol style="margin: 12px;">
                     <li>
-                      1) I guess나 I think는 개인적인 의견을 표현할 때 사용됨 <br />
+                      I guess나 I think는 개인적인 의견을 표현할 때 사용됨 <br />
                     </li>
                     <li>
-                      2) What kind of....do you like? 너는 무슨 종류의 (   )을 좋아하니? / 대답: I like....<br />
-                      Do you like...? 너는 ...을 좋아하니? / 대답: Yes, I do. or No, I don't.<br />
-                      I like....(나는 ....을 좋아한다) / I don't like....(나는 ....을 좋아하지 않는다) <br />
-                 
+                      What kind of....do you like? 너는 무슨 종류의 (   )을 좋아하니? / 대답: I like....<br />
+                        Do you like...? 너는 ...을 좋아하니? / 대답: Yes, I do. or No, I don't.<br />
+                        I like....(나는 ....을 좋아한다) / I don't like....(나는 ....을 좋아하지 않는다) <br />
                     </li>
+                    </ol>
                     </v-card-text>
                   </v-card>
                 </v-flex>
@@ -352,6 +353,11 @@ p{
 
 h3{
   padding-top: 7px;
+
+}
+
+li{
+
 
 }
 

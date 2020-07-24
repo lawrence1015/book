@@ -6,7 +6,7 @@
 
       <v-layout column>
         <v-img
-        src="https://marketplace.canva.com/MADGv8RmfkY/6/screen_2x/canva-man-and-woman-sitting-on-chair-in-front-of-desk-MADGv8RmfkY.jpg">
+        src="https://image.freepik.com/free-photo/portrait-beautiful-cheerful-redhead-woman-with-flying-curly-hair-smiling-laughing_176420-14460.jpg">
 
         <v-layout
         align-end
@@ -24,7 +24,7 @@
   </v-img>
 
   <hr style="border: 3px solid rgba(32, 64, 81, 1);" width="100%">
-  <h3 style="padding-top : 10px;  padding-left : 15px; padding-bottom: 10px;">Dialogue <br>( 선생님의 안내에 따라 문장을 읽어 주세요 )</h3>
+  <h3 style="padding-top : 10px;  padding-left : 15px; padding-bottom: 10px;">Dialogue <br /> ( 선생님의 안내에 따라 문장을 읽어 주세요 )</h3>
   <hr width="60%">
   <div style = "padding : 16px;">
 
@@ -58,13 +58,13 @@
 
         <ol style="margin: 12px;">
           <li>
-              Who is Alicia?<br />
+            Who is Alicia?<br />
           </li>
           <li>
-              What color is her hair?<br />
+            What color is her hair?<br />
           </li>
           <li>
-              How old is she?<br />
+            How old is she?<br />
           </li>
         </ol>
 
@@ -127,32 +127,34 @@
                     <li>
                       Notes
                     </li>
+                    <ol style="margin: 12px;">
                     <li>
-                      1) 6 feet 2 inches = 188cm<br />
+                      6 feet 2 inches = 188cm<br />
                     </li>
                     <li>
-                      2) 2) Hair style: long(긴머리), short(짧은머리), straight(생머리),<br />
+                      Hair style: long(긴머리), short(짧은머리), straight(생머리),<br />
                         wavy(곱슬머리), curly(곱슬머리), a ponytail(뒤로묶은머리), bald(대머리);<br />
                     </li>
                     <li>
-                      3) Hair color: black(검정의), brown(갈색의), red(붉은색의), blond(금발의), gray(회색의)<br />
+                      Hair color: black(검정의), brown(갈색의), red(붉은색의), blond(금발의), gray(회색의)<br />
                         Ex) She has long blond hair. Jim is bald.(그녀의 머리는 긴 금발이다. 짐은 대머리이다)<br />
                     </li>
                     <li>
-                      4) Age: young(젊은), middle aged(중년의), elderly(나이가 지긋한) / about twenty(약20), <br />
-                            in one’s (my, your, his, her) fifties(50대)<br />
+                      Age: young(젊은), middle-aged(중년의), elderly(나이가 지긋한) / about twenty(약20), <br />
+                            in one’s (my, your, his, her) the fifties(50대)<br />
                         Ex) How old are your parents? – They are elderly.<br />
                           (네 부모님의 연세는 어떻게 되니? - 그들은 나이가 지긋하셔)<br />
                     </li>
                     <li>
-                      5) Looks: handsome (잘생긴, 남자에 사용), good-looking (잘생긴, 남자와 여자에 둘 다 사용),<br />
+                      Looks: handsome (잘생긴, 남자에 사용), good-looking (잘생긴, 남자와 여자에 둘 다 사용),<br />
                             pretty (예쁜, 여자에 사용), beautiful(아름다운), cute(귀여운), heavy(무거운), thin(마른)<br />
                         Ex) Is your teacher good-looking? – Yes, she’s very pretty.(네 선생님은 예쁘시니? - 응, 매우 예쁘셔)<br />
                     </li>
                     <li>
-                      6) Eyes: black eyes(검정눈), dark eyes(짙은눈), blue eyes(파란눈), green eyes(초록색눈)<br />
+                      Eyes: black eyes(검정눈), dark eyes(짙은눈), blue eyes(파란눈), green eyes(초록색눈)<br />
                         Ex) He has blues eyes and blond hair.(그의 눈은 파랗고 머리는 금색이다)<br />
                     </li>
+                    </ol>
                     </v-card-text>
                   </v-card>
                 </v-flex>
@@ -308,6 +310,11 @@ p{
 
 h3{
   padding-top: 7px;
+
+}
+
+li{
+
 
 }
 

@@ -24,7 +24,7 @@
   </v-img>
 
   <hr style="border: 3px solid rgba(32, 64, 81, 1);" width="100%">
-  <h3 style="padding-top : 10px;  padding-left : 15px; padding-bottom: 10px;">Dialogue <br>( 선생님의 안내에 따라 문장을 읽어 주세요 )</h3>
+  <h3 style="padding-top : 10px;  padding-left : 15px; padding-bottom: 10px;">Dialogue <br /> ( 선생님의 안내에 따라 문장을 읽어 주세요 )</h3>
   <hr width="60%">
   <div style = "padding : 16px;">
 
@@ -58,15 +58,15 @@
 
         <ol style="margin: 12px;">
           <li>
-              안녕하세요. 제 이름은 Peter입니다. <br />
+            안녕하세요. 제 이름은 Peter입니다. <br />
                 Hello. My <u> &emsp; &emsp; &emsp; </u> Peter. <br />
           </li>
           <li>
-              당신의 이름은 무엇입니까? <br />
+            당신의 이름은 무엇입니까? <br />
                 <u> &emsp; &emsp; &emsp; </u> Peter. <br />
           </li>
           <li>
-              당신은 어디에서 오셨습니까? - 저는 한국에서 왔습니다 <br />
+            당신은 어디에서 오셨습니까? - 저는 한국에서 왔습니다 <br />
                 <u> &emsp; &emsp; &emsp; </u> are you from> - <u> &emsp; &emsp; &emsp; </u> Korea. <br />
           </li>
         </ol>
@@ -97,7 +97,7 @@
 
         <table style = "border-collapse: collapse;">
 
-          <tr v-for="translation in translations" :key="translation">
+          <tr v-for="translation in translations"  :key="translation">
             <td class = "uppertable" >{{translation.name}}</td>
             <td class = "lowertable" >{{translation.speech}}</td>
           </tr>
@@ -130,13 +130,15 @@
                     <li>
                       Notes
                     </li>
+                    <ol style="margin: 12px;">
                     <li>
-                      1) be동사와 인칭대명사 : be동사(...이다/있다), 인칭대명사(사람, 사물을 지칭하는 말)<br />
+                      be동사와 인칭대명사 : be동사(...이다/있다), 인칭대명사(사람, 사물을 지칭하는 말)<br />
                           I am (I'm-축약형)  / You are (you're)<br />
                     </li>
                     <li>
-                      2) please call me Ben : 사람들은 이름대신 애칭을 많이 사용합니다. <br />
+                      please call me Ben : 사람들은 이름대신 애칭을 많이 사용합니다. <br />
                     </li>
+                    </ol>
                     </v-card-text>
                   </v-card>
                 </v-flex>
@@ -319,6 +321,10 @@ h3{
 
 }
 
+li{
+
+
+}
 
 body{
 

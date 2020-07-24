@@ -69,11 +69,55 @@
 
 </div>
 
+<h3 style="background-color: #95FF9A;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Translation</h3>
+               <div style="padding : 16px;">
+
+   <ol style="margin: 12px;">
+     <li class="mb-2">
+        편견이란 무엇일까요?
+        <ul>
+        <li class="mt-2">차별이란 무엇일까요?</li>
+        <li>왜 편견과 차별이 존재한다고 생각합니까?</li>
+        </ul>
+     </li>
+     <br />
+     <li class="mb-2">
+        당신은 지금 살고 있는 곳에 편견이나 차별이 있다고 생각하나요?
+        <ul>
+        <li class="mt-2">당신의 답변을 뒷받침할 예를 들어보세요.</li>
+        </ul>
+     </li>
+     <br />
+     <li class="mb-2">
+          편견이나 차별을 경험해 본 적이 있나요? 누구랑요?
+          <ul>
+            <li class="mt-2">당신은 그 사람을 화나게 하는 어떤 일을 했나요?</li>
+            <li>
+              설명해 주세요. (편견이나 차별을 경험해 본 적이 없다면, 왜 그런 것에 노출되지 않았다고 생각합니까?)
+            </li>
+          </ul>
+     </li>
+     <br />
+     <li class="mb-2">
+         사람들이 편견과 차별을 없애기 위해 어떻게 세상을 바꿀 수 있을까요?
+     </li>
+      <br />
+     <li class="mb-2">
+        차별이 필요한가요?
+        <ul>
+        <li class="mt-2">키가 작은 남자에게 농구를 할 수 없다고 말하는 것이 옳다고 생각하나요?</li>
+        <li>키 큰 선수들만큼 잘한다면요? (다른 비슷한 예를 생각해보세요.)</li>
+        </ul>
+     </li>
+   </ol>
+
+
+
+</div>
+
 
        </v-layout>
      </v-container>
-  </v-layout>
-  </v-container>
 </div>
 
 
@@ -131,11 +175,6 @@ p{
 
 h3{
   padding-top: 7px;
-
-}
-
-li{
-
 
 }
 

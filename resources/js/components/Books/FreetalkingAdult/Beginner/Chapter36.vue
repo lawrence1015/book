@@ -23,7 +23,7 @@
     </v-img>
 
 
-          <h3 style="background-color: #a7d7c5;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Reading Practice</h3>
+          <h3 style="background-color: #a7d7c5;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Reading Practice <span style="font-size:18px">( 선생님의 안내에 따라 문장을 읽어 주세요 )</span></h3>
                <div style="padding : 16px;">
 
    <p>My name is Michael and I am a Filipino. There are about 170 languages in our country! Because my parents are from different regions, they spoke different languages to me when I was very young. This made me want to learn languages. Interest is the greatest motivating factor in learning anything. For example, I was interested in learning English and in fairy tales so I just quickly picked up the language as I read story books and adventure novels. It also helps that the TV programs shown in the national television have a lot of English in it. When you want to learn a new language, be sincerely interested. Most of all, love it and have fun!
@@ -35,25 +35,17 @@
 
 
 
-<li style="list-style-type: none;"><u>Region(n)</u> - area; political unit within a country
+<li style="list-style-type: none;"><u>Region(n)</u> - area; political unit within a country <span style="font-size:16px">지방, 지역, 지방, 부위[부분]</span>
 </li>
 
-<li style="list-style-type: none;"><u>Motivating(adj)</u> - giving reason and inspiration
+<li style="list-style-type: none;"><u>Motivating(adj)</u> - giving reason and inspiration <span style="font-size:16px">동기부여</span>
 </li>
 
-<li style="list-style-type: none;"><u>Pick up(v)</u> - acquire something casually or not intending it
+<li style="list-style-type: none;"><u>Pick up(v)</u> - acquire something casually or not intending it <span style="font-size:16px">태우러[데리러] 감; 찾으러 감</span>
 </li>
 
-<li style="list-style-type: none;"><u>Sincerely(adv)</u> - honestly
+<li style="list-style-type: none;"><u>Sincerely(adv)</u> - honestly <span style="font-size:16px">진심으로</span>
 </li>
-
-
-</div>
-
-
-<h3 style="padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 10px; margin-top: 10px; background-color: #a7d7c5;">Vocabulary Stop</h3>
-     <div style="padding : 16px;">
-
 
 <p>Fill in the blanks using the words above.
 </p>
@@ -78,23 +70,32 @@
 <h3 style="padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 10px; margin-top: 10px; background-color: #a7d7c5;">Comprehension</h3>
      <div style="padding : 16px;">
 
-
-<li style="list-style-type: none;">How many languages are there in his country?
+<ol style="margin: 12px;">
+<li>How many languages are there in his country?
 </li>
 
-<li style="list-style-type: none;">How did he become interested in languages?
+<li>How did he become interested in languages?
 </li>
 
-<li style="list-style-type: none;">What was he interested in?
+<li>What was he interested in?
 </li>
 
-<li style="list-style-type: none;">How was he able to pick up the English language?
+<li>How was he able to pick up the English language?
 </li>
 
-<li style="list-style-type: none;">How did TV programs help him?
+<li>How did TV programs help him?
 </li>
+</ol>
 
 </div>
+
+<h3 style="padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 10px; margin-top: 10px; background-color: #a7d7c5;">Translation</h3>
+     <div style="padding : 16px;">
+
+       <p>내 이름은 마이클이고 필리핀 사람입니다. 우리나라에는 170여 개의 언어가 있답니다! 우리 부모님은 다른 지역 출신이기 때문에 내가 아주 어렸을 때 다른 언어를 사용하셨습니다. 이것은 내가 언어를 배우고 싶게 만들었습니다. 흥미는 어떤 것을 배우는데 있어서 가장 큰 동기부여 요인입니다. 예를 들어, 저는 영어와 동화에 관심이 있어서 이야기책과 모험 소설을 읽으면서 금방 언어를 습득했습니다. 그것은 또한 국영 TV에 방영되는 TV프로그램에 영어가 많이 포함되어 있다는 것은 또 도움이 되었습니다. 새로운 언어를 배우고 싶을 때, 진심으로 관심을 가지세요. 무엇보다도, 그것을 사랑하고 재미있게 보내세요!
+       </p>
+
+     </div>
 
 <div style="margin-left: -18px;
 margin-right: -18px;
@@ -104,7 +105,7 @@ margin-bottom: -10px;">
 </div>
 
 
-<h3 style="padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 10px; margin-top: 10px; background-color: #a7d7c5;">Reading Practice</h3>
+<h3 style="padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 10px; margin-top: 10px; background-color: #a7d7c5;">Reading Practice <span style="font-size:18px">( 선생님의 안내에 따라 문장을 읽어 주세요 )</span></h3>
      <div style="padding : 16px;">
 
 <p>As an English professor for over eight years, here are some recommendations for learning the language easily. First, expose yourself to English as often as possible. Read an article aloud every day. Make it a habit to read in English. It doesn't matter if it is a magazine, a book or the back of a cereal box. Second, try not to fear it. Of course, it is intimidating to learn a foreign language. It will look hard at first but trust me, the more you expose yourself to it, the easier it gets. Third, practice making sentences even when you are alone. As you wash the dishes, talk to yourself aloud in English. And finally, learn to have fun in it! Watch English comedy shows, movies and learn songs!
@@ -117,24 +118,17 @@ margin-bottom: -10px;">
 
 
 
-       <li style="list-style-type: none;"><u>Recommendation(n)</u> - suggestion or tips
+       <li style="list-style-type: none;"><u>Recommendation(n)</u> - suggestion or tips <span style="font-size:16px">권고, 추천, 추천장[서]</span>
        </li>
 
-       <li style="list-style-type: none;"><u>Expose(v)</u> - to experience often
+       <li style="list-style-type: none;"><u>Expose(v)</u> - to experience often <span style="font-size:16px">드러내다, 폭로하다, 노출시키다, 접하게[경험하게] 하다</span>
        </li>
 
-       <li style="list-style-type: none;"><u>Fear(v)</u> - to be afraid of
+       <li style="list-style-type: none;"><u>Fear(v)</u> - to be afraid of <span style="font-size:16px">공포, 두려움, 무서움, 두려워[무서워]하다, 우려[염려]하다</span>
        </li>
 
-       <li style="list-style-type: none;"><u>Intimidating(adj)</u> - causing fear, awe or a sense of being inadequate
+       <li style="list-style-type: none;"><u>Intimidating(adj)</u> - causing fear, awe or a sense of being inadequate <span style="font-size:16px">겁을 주는[겁나는]</span>
        </li>
-
-
-
-</div>
-
-<h3 style="padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 10px; margin-top: 10px; background-color: #a7d7c5;">Vocabulary Stop</h3>
-     <div style="padding : 16px;">
 
 
 <p>Fill in the blanks using the words above.
@@ -162,27 +156,35 @@ margin-bottom: -10px;">
      <div style="padding : 16px;">
 
 
-<li style="list-style-type: none;">Who is the writer of the reading?
+<ol style="margin: 12px;">
+<li>Who is the writer of the reading?
 </li>
 
-<li style="list-style-type: none;">What is his first recommendation?
+<li>What is his first recommendation?
 </li>
 
-<li style="list-style-type: none;">What do you have to read often?
+<li>What do you have to read often?
 </li>
 
-<li style="list-style-type: none;">When will English become easier to get?
+<li>When will English become easier to get?
 </li>
 
-<li style="list-style-type: none;">What is his third recommendation?
+<li>What is his third recommendation?
 </li>
 
-<li style="list-style-type: none;">How will you have fun in learning English?
+<li>How will you have fun in learning English?
 </li>
+</ol>
 
 </div>
 
+<h3 style="padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 10px; margin-top: 10px; background-color: #a7d7c5;">Translation</h3>
+     <div style="padding : 16px;">
 
+       <p>8년 이상 동안 영어 교수로서, 여기 영어를 쉽게 배울 수 있는 몇 가지 추천사항이 있다. 첫째, 가능한 한 자주 영어에 자신을 노출하라. 매일 큰 소리로 기사를 읽는다. 영어로 읽는 것을 습관화하라. 잡지든 책이든 시리얼 상자 뒷면이든 상관없다. 둘째, 두려워하지 않도록 노력하라. 물론 외국어를 배우는 것은 겁나는 것이다. 처음에는 어려워 보이겠지만, 날 믿어라, 당신이 더 많이 노출될수록, 더 쉬워질 것이다. 셋째, 혼자 있을 때도 문장을 만드는 연습을 한다. 설거지를 하면서 영어로 혼자 큰 소리로 말해라. 그리고 마지막으로, 재미있게 노는 법을 배워라! 영어 코미디 쇼와 영화를 보고 노래를 배워라!
+       </p>
+
+       </div>
 
 
 <h3 style="padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 10px; margin-top: 10px; background-color: #a7d7c5;">You’re on the limelight!</h3>
@@ -254,11 +256,6 @@ margin-bottom: -10px;">
 
 
 
-
-
-
-
-
  </div>
 
 
@@ -273,8 +270,6 @@ margin-bottom: -10px;">
 
        </v-layout>
      </v-container>
-  </v-layout>
-  </v-container>
 </div>
 </template>
 
@@ -328,10 +323,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

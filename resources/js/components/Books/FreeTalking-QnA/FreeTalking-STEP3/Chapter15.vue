@@ -62,10 +62,48 @@
 </div>
 
 
+<h3 style="background-color: #95FF9A;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Translation</h3>
+               <div style="padding : 16px;">
+
+   <ol style="margin: 12px;">
+     <li class="mb-2">
+       만약 당신이 1억 달러를 땄다면, 무엇을 살 것입니까? 적어도 세 가지를 말하세요.
+     </li>
+     <br />
+     <li class="mb-2">
+        만약 당신이 세계 어느 나라의 지도자가 될 수 있다면, 어느 나라를 선택하겠습니까? 왜요?
+        <ul>
+        <li class="mt-2">그 나라에서 어떤 변화를 만들겠습니까?</li>
+        </ul>
+     </li>
+     <br />
+     <li class="mb-2">
+         만약 당신이 사람 대신에 동물이 되었다면, 당신은 어떤 동물이 되었을 것이라고 생각합니까? 왜 그렇습니까?
+     </li>
+     <br />
+     <li class="mb-2">
+          지역 식당에서 점심식사를 하는 동안, 다른 사람을 죽인 것을 인정하는 다른 사람의 말을 엿듣게 됩니다. 누군지 보려고 뒤돌아보았고 당신은 그 사람을 알고 있습니다.
+        <ul>
+        <li class="mt-2">경찰에 알려 주시겠어요? 왜 그럴까요, 아니면 왜 아닐까요?</li>
+       </ul>
+     </li>
+     <br />
+     <li class="mb-2">
+        여러분은 다른 장소나 시간에 태어나기를 바란 적이 있나요?
+        <ul>
+        <li class="mt-2">당신은 언제 어디서 태어났으면 좋았을까요? 왜죠?</li>
+       </ul>
+     </li>
+   </ol>
+
+
+
+</div>
+
+
+
        </v-layout>
      </v-container>
-  </v-layout>
-  </v-container>
 </div>
 
 
@@ -126,10 +164,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

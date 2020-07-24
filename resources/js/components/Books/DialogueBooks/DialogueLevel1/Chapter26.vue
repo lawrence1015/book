@@ -6,7 +6,7 @@
 
       <v-layout column>
         <v-img
-        src="https://marketplace.canva.com/MADGv8RmfkY/6/screen_2x/canva-man-and-woman-sitting-on-chair-in-front-of-desk-MADGv8RmfkY.jpg">
+        src="https://image.freepik.com/free-photo/two-professional-boxer-boxing-black-smoky-background_155003-10549.jpg">
 
         <v-layout
         align-end
@@ -24,7 +24,7 @@
   </v-img>
 
   <hr style="border: 3px solid rgba(32, 64, 81, 1);" width="100%">
-  <h3 style="padding-top : 10px;  padding-left : 15px; padding-bottom: 10px;">Dialogue <br>( 선생님의 안내에 따라 문장을 읽어 주세요 )</h3>
+  <h3 style="padding-top : 10px;  padding-left : 15px; padding-bottom: 10px;">Dialogue <br /> ( 선생님의 안내에 따라 문장을 읽어 주세요 )</h3>
   <hr width="60%">
   <div style = "padding : 16px;">
 
@@ -58,16 +58,16 @@
 
         <ol style="margin: 12px;">
           <li>
-              Do you <u> &emsp; &emsp; &emsp; </u> music? - Yes, I <u> &emsp; &emsp; &emsp; </u>. <br />
-                (당신은 음악을 좋아하십니까? - 네, 좋아합니다.)
+            Do you <u> &emsp; &emsp; &emsp; </u> music? - Yes, I <u> &emsp; &emsp; &emsp; </u>. <br />
+              (당신은 음악을 좋아하십니까? - 네, 좋아합니다.)
           </li>
           <li>
-              There's an interesting <u> &emsp; &emsp; &emsp; </u> tonight. <br />
-                (오늘 밤에 재밌는 콘서트가 있습니다..)
+            There's an interesting <u> &emsp; &emsp; &emsp; </u> tonight. <br />
+              (오늘 밤에 재밌는 콘서트가 있습니다..)
           </li>
           <li>
-              I'm sorry. I'm <u> &emsp; &emsp; &emsp; </u> tonight. <br />
-                (죄송합니다. 저는 오늘밤 바쁩니다.)
+            I'm sorry. I'm <u> &emsp; &emsp; &emsp; </u> tonight. <br />
+              (죄송합니다. 저는 오늘밤 바쁩니다.)
           </li>
         </ol>
 
@@ -120,13 +120,16 @@
                     <li>
                       Notes
                     </li>
+                    <ol style="margin: 12px;">
                     <li>
-                      1) I like v-ing : ~하는 것을 좋아하다.<br />
-                      I like singing / I like cooking / I like dancing
+                      I like v-ing :<br />
+                        ~하는 것을 좋아하다.<br />
+                        I like singing / I like cooking / I like dancing<br />
                     </li>
                     <li>
-                      2) why don't you...? ~하는게 어때?
+                      why don't you...? ~하는게 어때?
                     </li>
+                    </ol>
                     </v-card-text>
                   </v-card>
                 </v-flex>
@@ -353,6 +356,11 @@ p{
 
 h3{
   padding-top: 7px;
+
+}
+
+li{
+
 
 }
 

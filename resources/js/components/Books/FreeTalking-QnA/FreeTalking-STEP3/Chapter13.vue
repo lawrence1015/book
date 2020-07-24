@@ -59,11 +59,45 @@
 
 </div>
 
+ <h3 style="background-color: #95FF9A;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Translation</h3>
+               <div style="padding : 16px;">
+
+   <ol style="margin: 12px;">
+     <li class="mb-2">
+       약이라는 단어와 마약이라는 단어는 어떤 차이가 있나요?
+     </li>
+     <br />
+     <li class="mb-2">
+       의사들이 처방할 수 없는 다섯 가지 인기 있는 약은 무엇인가요?
+     </li>
+     <br />
+     <li class="mb-2">
+        당신 나라 사람들이 불법 마약을 하다 걸리면 어떻게 되나요?
+        <ul>
+        <li class="mt-2">그들은 병원, 재활 센터 혹은 감옥에 갇히나요? 설명해 주세요.</li>
+        </ul>
+     </li>
+     <br />
+     <li class="mb-2">
+         당신의 나라 사람들이 아플 때, 그들은 인삼, 마늘, 생강 뿌리 같은 약초를 사용하나요?
+        <ul>
+        <li class="mt-2">그렇다면, 어떻게효과가 있는지 설명해 주시겠어요?</li>
+        <li>그렇지 않다면 왜 허브가 사용되지 않는지 아세요?</li>
+        </ul>
+     </li>
+     <br />
+     <li class="mb-2">
+        술도 마약이라고 생각해요? 왜 그런가요, 아니면 왜 아닌가요?
+     </li>
+   </ol>
+
+
+
+</div>
+
 
        </v-layout>
      </v-container>
-  </v-layout>
-  </v-container>
 </div>
 
 
@@ -121,11 +155,6 @@ p{
 
 h3{
   padding-top: 7px;
-
-}
-
-li{
-
 
 }
 

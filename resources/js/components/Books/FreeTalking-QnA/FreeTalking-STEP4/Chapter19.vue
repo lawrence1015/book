@@ -55,11 +55,41 @@
 
 </div>
 
+<h3 style="background-color: #FF6E6E;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Translation</h3>
+               <div style="padding : 16px;">
+
+   <ol style="margin: 12px;">
+     <li class="mb-2">
+       당신은 복권을 사 본 적이 있나요?
+       <ul>
+       <li class="mt-2">왜 샀나요, 아니라면 왜 안샀나요?</li>
+       </ul>
+     </li>
+     <br />
+     <li class="mb-2">
+       만약 당신이 거액을 얻었다면, 그 돈으로 무엇을 하겠습니까?
+     </li>
+     <br />
+     <li class="mb-2">
+       복권에 당첨되면 일을 계속할 건가요?
+     </li>
+     <br />
+     <li class="mb-2">
+        사람들은 복권에 당첨된 지 10년이 지나면 가난해질 거라고 말해요.
+       <ul>
+       <li class="mt-2">그게 사실이라고 생각하세요?</li>
+       <li>왜 그럴까요, 아니라면 왜 아닐까요?</li>
+       </ul>
+     </li>
+   </ol>
+
+
+
+</div>
+
 
        </v-layout>
      </v-container>
-  </v-layout>
-  </v-container>
 </div>
 
 
@@ -120,10 +150,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

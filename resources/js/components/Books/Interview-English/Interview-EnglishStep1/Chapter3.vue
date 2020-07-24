@@ -160,11 +160,11 @@ export default {
         dialogs:[
         {
           name:'A.',
-          speech:"I am much aware that for my future to be brighter I need to be in a reliable university to cater my needs in terms of the preparation for my major. In this university programs have different specific requirements but share the common structure that provide the foundation for higher level."
+          speech:"I am much aware that for my future to be brighter I need to be in a reliable university to cater to my needs in terms of the preparation for my major. In this university, programs have different specific requirements but share the common structure that provides the foundation for a higher level."
         },
         {
           name:'B.',
-          speech:"I am much aware that for my future to be brighter I need to be in a reliable university to cater my needs in terms of the preparation for my major. In this university programs have different specific requirements but share the common structure that provide the foundation for higher level."
+          speech:"It's been my dream since I was a kid to be a graduate of that university. I have known that this university has maintained a high standard and best quality alumni. It offers excellent preparation for my future career."
         },
         ],
 

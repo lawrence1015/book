@@ -6,7 +6,7 @@
 
       <v-layout column>
         <v-img
-        src="https://marketplace.canva.com/MADGv8RmfkY/6/screen_2x/canva-man-and-woman-sitting-on-chair-in-front-of-desk-MADGv8RmfkY.jpg">
+        src="https://www.rd.com/wp-content/uploads/2020/01/GettyImages-621857854-e1580411091427-scaled.jpg">
 
         <v-layout
         align-end
@@ -24,7 +24,7 @@
   </v-img>
 
   <hr style="border: 3px solid rgba(32, 64, 81, 1);" width="100%">
-  <h3 style="padding-top : 10px;  padding-left : 15px; padding-bottom: 10px;">Dialogue <br>( 선생님의 안내에 따라 문장을 읽어 주세요 )</h3>
+  <h3 style="padding-top : 10px;  padding-left : 15px; padding-bottom: 10px;">Dialogue <br /> ( 선생님의 안내에 따라 문장을 읽어 주세요 )</h3>
   <hr width="60%">
   <div style = "padding : 16px;">
 
@@ -58,16 +58,15 @@
 
         <ol style="margin: 12px;">
           <li>
-              <u> &emsp; &emsp; &emsp; </u> on the floor? - There's a red carpet. <br />
-                바닥에 무엇이 있습니까? - 붉은 카펫이 있습니다.
+            <u> &emsp; &emsp; &emsp; </u> on the floor? - There's a red carpet. <br />
+            바닥에 무엇이 있습니까? - 붉은 카펫이 있습니다.
           </li>
           <li>
-              <u> &emsp; &emsp; &emsp; </u> a gray hair on my head. <br />
-                내 머리 위에 회색 머리카락이 있습니다.
+            2. <u> &emsp; &emsp; &emsp; </u> a gray hair on my head. <br />
+            내 머리 위에 회색 머리카락이 있습니다.
           </li>
-          <li>
-              Is <u> &emsp; &emsp; &emsp; </u> a cafeteria in the building?
-                그 건물 안에는 식당이 있습니까?
+          <li>Is <u> &emsp; &emsp; &emsp; </u> a cafeteria in the building?
+            그 건물 안에는 식당이 있습니까?
           </li>
         </ol>
 
@@ -121,15 +120,17 @@
                     <li>
                       Notes
                     </li>
+                    <ol style="margin: 12px;">
                     <li>
-                      1) There's a ... : 생각하거나 보고 있는 무언가를 묘사할 때 명사가 단수라면 항상 there is 뒤에 a  
-                      를 써주어야 합니다.                  
+                      There's a ... : <br />
+                        생각하거나 보고 있는 무언가를 묘사할 때 명사가 단수라면 항상 there is 뒤에 a 를 써주어야 합니다. <br />                 
                     </li>
                     <li>
-                      2) There's의 쓰임 : <br />
+                      There's의 쓰임 : <br />
                         ex) The cup is on the table (Where's the cup?에 대한 대답을 할 때) <br />
                         There's a cup on the table (What's on the table? 에 대한 대답을 할 때)
                     </li>
+                    </ol>
                     </v-card-text>
                   </v-card>
                 </v-flex>
@@ -165,7 +166,7 @@ export default {
         dialogs:[
         {
           name:'A:',
-          speech:'What’s on the picture?'
+          speech:'What’s in the picture?'
         },
         {
           name:'B:',
@@ -304,6 +305,10 @@ h3{
 
 }
 
+li{
+
+
+}
 
 body{
 

@@ -56,7 +56,7 @@
             ( 저는 절대적으로 자기 동기를 부여합니다. )
           </li>
           <li>
-            I am very open for challenges and enjoy innovative ideas to bring to a project.<br />
+            I am very open to challenges and enjoy innovative ideas to bring to a project.<br />
             ( 저는 프로젝트에 참여하기 위해 도전을 매우 개방적이고 혁신적인 아이디어를 즐깁니다.)
           <li>
             I have always been self motivated.<br />
@@ -162,7 +162,7 @@
           dialogs:[
           {
             name:'A.',
-            speech:"I am absolutely a self motivator. I am very open for challenges and enjoy innovative ideas to bring to a project."
+            speech:"I am absolutely a self motivator. I am very open to challenges and enjoy innovative ideas to bring to a project."
           },
           {
             name:'B.',

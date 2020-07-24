@@ -6,7 +6,7 @@
 
       <v-layout column>
         <v-img
-        src="https://marketplace.canva.com/MADGv8RmfkY/6/screen_2x/canva-man-and-woman-sitting-on-chair-in-front-of-desk-MADGv8RmfkY.jpg">
+        src="https://image.freepik.com/free-photo/elegant-design-modern-kitchen_23-2148363560.jpg">
 
         <v-layout
         align-end
@@ -24,19 +24,19 @@
   </v-img>
 
   <hr style="border: 3px solid rgba(32, 64, 81, 1);" width="100%">
-  <h3 style="padding-top : 10px;  padding-left : 15px; padding-bottom: 10px;">Dialogue <br>( 선생님의 안내에 따라 문장을 읽어 주세요 )</h3>
+  <h3 style="padding-top : 10px;  padding-left : 15px; padding-bottom: 10px;">Dialogue <br /> ( 선생님의 안내에 따라 문장을 읽어 주세요 )</h3>
   <hr width="60%">
   <div style = "padding : 16px;">
 
       <li style="list-style-type: none;">Do we have any food?</li><br />
 
       <table style = "border-collapse: collapse;">
-
+    
         <tr v-for="dialog in dialogs" :key="dialog">
           <td class = "uppertable" >{{dialog.name}}</td>
           <td class = "lowertable" >{{dialog.speech}}</td>
         </tr>
-
+  
       </table>
 
       <div style="margin-left: -18px; margin-right: -18px; margin-top: 10px; border-color: #204051; border-style: solid; border-width: 2px;">
@@ -62,7 +62,7 @@
             <v-flex xs12 md4 >
               <v-card hover>
 
-                <v-img src="images/dialogue-books-table.png" />
+                <v-img src="images/kfcmap.gif" />
 
               </v-card>
             </v-flex>
@@ -115,7 +115,7 @@
             <td class = "uppertable" >{{translation.name}}</td>
             <td class = "lowertable" >{{translation.speech}}</td>
           </tr>
-
+  
         </table>
 
 </div>
@@ -143,16 +143,18 @@
                     <li>
                       Notes
                     </li>
+                    <ol style="margin: 12px;">
                     <li>
-                      1) some, any : 다소,얼마간 이라고 해석하며 대명사 또는 형용사로 쓰입니다.<br />
-                      some : 긍정의 평소문, 권유의 뜻을 나타내는 의문문에서 사용 <br />
-                      any : 부정문, 의문문, 조건문에서 사용
+                      some, any : 다소,얼마간 이라고 해석하며 대명사 또는 형용사로 쓰입니다.<br />
+                        some : 긍정의 평소문, 권유의 뜻을 나타내는 의문문에서 사용 <br />
+                        any : 부정문, 의문문, 조건문에서 사용                 
                     </li>
                     <li>
-                      2) 명사의 복수형 : 대부분의 명사 뒤에는 s, es가 붙고, 끝이 f, fe로 끝나면 f 를 v로 고치고 s 를 붙입니다. <br />
-                      ex) knife ? knives; wife ? wives; life ? lives <br />
-                      셀 수 없는 명사에는 s를 붙이지 않습니다.
+                      명사의 복수형 : 대부분의 명사 뒤에는 s, es가 붙고, 끝이 f, fe로 끝나면 f 를 v로 고치고 s 를 붙입니다. <br />
+                        ex) knife ? knives; wife ? wives; life ? lives <br />
+                        셀 수 없는 명사에는 s를 붙이지 않습니다.
                     </li>
+                    </ol>
                     </v-card-text>
                   </v-card>
                 </v-flex>
@@ -200,7 +202,7 @@ export default {
         },
         {
           name:'B:',
-          speech:'There’s some cheese and some butter in the fridge.'
+          speech:'There are some cheese and some butter in the fridge.'
         },
         {
           name:'A:',
@@ -388,6 +390,11 @@ p{
 
 h3{
   padding-top: 7px;
+
+}
+
+li{
+
 
 }
 

@@ -6,7 +6,7 @@
 
       <v-layout column>
         <v-img
-        src="https://marketplace.canva.com/MADGv8RmfkY/6/screen_2x/canva-man-and-woman-sitting-on-chair-in-front-of-desk-MADGv8RmfkY.jpg">
+        src="https://image.freepik.com/free-photo/senior-couple-enjoying-dancing-home_23-2147901299.jpg">
 
         <v-layout
         align-end
@@ -24,7 +24,7 @@
   </v-img>
 
   <hr style="border: 3px solid rgba(32, 64, 81, 1);" width="100%">
-  <h3 style="padding-top : 10px;  padding-left : 15px; padding-bottom: 10px;">Dialogue <br>( 선생님의 안내에 따라 문장을 읽어 주세요 )</h3>
+  <h3 style="padding-top : 10px;  padding-left : 15px; padding-bottom: 10px;">Dialogue <br /> ( 선생님의 안내에 따라 문장을 읽어 주세요 )</h3>
   <hr width="60%">
   <div style = "padding : 16px;">
 
@@ -58,16 +58,16 @@
 
         <ol style="margin: 12px;">
           <li>
-              <u> &emsp; &emsp; &emsp; </u> motorbike <u> &emsp; &emsp; &emsp; </u> this? - It's Zed's. <br />
-                (이것은 누구의 오토바이입니까? - Zed의 것입니다.)
+            <u> &emsp; &emsp; &emsp; </u> motorbike <u> &emsp; &emsp; &emsp; </u> this? - It's Zed's. <br />
+              (이것은 누구의 오토바이입니까? - Zed의 것입니다.)
           </li>
           <li>
-              <u> &emsp; &emsp; &emsp; </u> is Zed? - Zed is a friend. <br />
-                (Zed는 누구입니까? - Zed는 친구입니다.)
+            <u> &emsp; &emsp; &emsp; </u> is Zed? - Zed is a friend. <br />
+              (Zed는 누구입니까? - Zed는 친구입니다.)
           </li>
           <li>
-              Whose books <u> &emsp; &emsp; &emsp; </u> those? -  <u> &emsp; &emsp; &emsp; </u> are my <u> &emsp; &emsp; &emsp; </u>. <br />
-                (저것들은 누구의 책입니까? - 그것들은 저의 책들입니다.)
+            Whose books <u> &emsp; &emsp; &emsp; </u> those? -  <u> &emsp; &emsp; &emsp; </u> are my <u> &emsp; &emsp; &emsp; </u>. <br />
+              (저것들은 누구의 책입니까? - 그것들은 저의 책들입니다.)
           </li>
         </ol>
 
@@ -120,16 +120,17 @@
                     <li>
                       Notes
                     </li>
+                    <ol style="margin: 12px;">
                     <li>
-                      1) the Parks = the Park family (Park씨 가족)
+                      the Parks = the Park family (Park씨 가족)
                     </li>
                     <li>
-                      2) 고유명사의 소유격과 소유대명사: 이름이나 명사 뒤에 's를 붙여서 사용합니다. 그러나 이름이 
-                      복수일 때에는 's를 쓰지 않습니다 <br />
-                       ex) Paul's car, Kate's lipstick <br />
+                      고유명사의 소유격과 소유대명사: 이름이나 명사 뒤에 's를 붙여서 사용합니다. 그러나 이름이 
+                        복수일 때에는 's를 쓰지 않습니다 <br />
+                        ex) Paul's car, Kate's lipstick <br />
                         The Parks' house (o)  the Parks's (x)
-                  
                     </li>
+                    </ol>
                     </v-card-text>
                   </v-card>
                 </v-flex>
@@ -193,11 +194,11 @@ export default {
         },
         {
           name:'Mrs. Senil:',
-          speech:'What’s wrong with you? It’s the Park’s house.'
+          speech:'What’s wrong with you? It’s Park’s house.'
         },
         {
           name:'Mr. Senil:',
-          speech:'Really? I thought it was the Kim’s house.'
+          speech:'Really? I thought it was Kim’s house.'
         },
         {
           name:'Mrs. Senil:',
@@ -301,6 +302,11 @@ p{
 
 h3{
   padding-top: 7px;
+
+}
+
+li{
+
 
 }
 

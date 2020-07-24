@@ -48,11 +48,34 @@
 
 </div>
 
+<h3 style="background-color: #95FF9A;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Translation</h3>
+               <div style="padding : 16px;">
+
+   <ol style="margin: 12px;">
+     <li class="mb-2">
+        당신 나라 정부가 돈을 쓰는 프로그램은 무엇입니까?
+     </li>
+     <br />
+     <li class="mb-2">
+        만약 당신이 당신의 나라의 대통령이나 지도자라면, 당신의 나라 예산에서 무엇을 바꾸겠습니까?
+     </li>
+     <br />
+     <li class="mb-2">
+        만약 여러분이 정부 지출을 줄일 수 있는 힘이 있다면, 어떤 프로그램을 없앨 건가요? 왜요?
+     </li>
+     <br />
+     <li class="mb-2">
+        여러분은 정부가 돈을 현명하게 쓴다고 생각하나요? 왜 그렇게 생각하나요, 아니라면 왜 아니라고 생각하나요?
+     </li>
+   </ol>
+
+
+
+</div>
+
 
        </v-layout>
      </v-container>
-  </v-layout>
-  </v-container>
 </div>
 
 
@@ -113,10 +136,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

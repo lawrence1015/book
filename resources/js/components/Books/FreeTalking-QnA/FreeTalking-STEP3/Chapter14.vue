@@ -64,11 +64,51 @@
 
 </div>
 
+<h3 style="background-color: #95FF9A;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Translation</h3>
+               <div style="padding : 16px;">
+
+   <ol style="margin: 12px;">
+     <li class="mb-2">
+       패션은 왜 이렇게 빨리 변할까요?
+     </li>
+     <br />
+     <li class="mb-2">
+        왜 패션은 순환하는 것일까요?
+        <ul>
+        <li class="mt-2">왜 옷은 유행이 지난 후에 다시 돌아오는 걸까요?</li>
+        </ul>
+     </li>
+     <br />
+     <li class="mb-2">
+        여러분은 친구들과 똑같이 입는 것을 좋아하나요?
+        <ul>
+        <li class="mt-2">왜 그런가요? 왜 그렇지 않나요?</li>
+        </ul>
+     </li>
+     <br />
+     <li class="mb-2">
+          당신은 '브랜드' 옷을 입나요?
+        <ul>
+        <li class="mt-2">왜 그런가요? 왜 그렇지 않나요?</li>
+       </ul>
+     </li>
+     <br />
+     <li class="mb-2">
+        옷으로 성격을 알 수 있나요?
+        <ul>
+        <li class="mt-2">당신의 의견을 지지해보세요. 몇 가지 예를 들어 보세요.</li>
+       </ul>
+     </li>
+   </ol>
+
+
+
+</div>
+
+
 
        </v-layout>
      </v-container>
-  </v-layout>
-  </v-container>
 </div>
 
 
@@ -129,10 +169,7 @@ h3{
 
 }
 
-li{
 
-
-}
 
 body{
 

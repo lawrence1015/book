@@ -166,14 +166,14 @@
           },
           {
             name:'B.',
-            speech:"My previous job molded me to be a better employee, I learned to discipline myself more, work under pressure and with less supervision. It also taught me to be considerate when it comes to dealing with others. I do thank my previous employer for all the good traits I have acquired. Nonetheless, I am looking for a job that is more challenging. I believe that if given the chance, I can perform better and become an excellent employee."
+            speech:"My previous job molded me to be a better employee, I learned to discipline myself more, work under pressure, and with less supervision. It also taught me to be considerate when it comes to dealing with others. I do thank my previous employer for all the good traits I have acquired. Nonetheless, I am looking for a job that is more challenging. I believe that if given the chance, I can perform better and become an excellent employee."
           },
           ],
   
           translations:[
           {
             name:'A.',
-            speech:'마지막으로 함께 일했던 회사는 영업 전략에 관해 많은 것을 가르쳐 주었습니다. 그래서 저는 그 일을 아주 잘 할 수 있고, 저를 고용하는 것이 여러분이 할 수 있는 최선의 방법이라고 확신할 수 있습니다.'
+            speech:'이전 직장에서의 분위기는 좋았었습니다. 저는 동료들과 함께 일하는 것이 즐거웠고 제 상사는 결정을 내리는 데 매우 현명했습니다. 하지만, 그 일은 더 이상 도전적이지 않았고 그것이 제가 제 자리를 떠나는 계기가 되었습니다. 저는 몇 년 동안 회사에 있었고, 제 경력을 성장시킬 수 있는 일을 더 많이 해야 한다고 느꼈고, 제 잠재력을 최대한 발휘할 수 있는 새로운 책무를 맡고 싶습니다.'
           },
           {
             name:'B.',

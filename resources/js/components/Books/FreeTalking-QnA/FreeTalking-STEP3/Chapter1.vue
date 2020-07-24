@@ -67,6 +67,52 @@
      </li>
    </ol>
 
+</div>
+
+<h2 style="background-color: #95FF9A;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Translation</h2>
+  <div style="padding : 16px;">
+                
+    <ol style="margin: 12px;">
+     <li class="mb-2">
+       어떤종류의 음악이 가장 좋으세요?
+       <ul>
+       <li class="mt-2">좋아하는 가수는 누구입니까?</li>
+       <li>그 사람이 10년 안에 인기가 있을 것 같아요?</li>
+       <li>왜 그럴까요, 아니면 왜 아닐까요?</li>
+       </ul>
+     </li>
+     <br />
+     <li class="mb-2">
+       당신이 가장 좋아하는 취미들은 무엇입니까?
+       <ul>
+       <li class="mt-2">당신은 앞으로 어떤 것을 계속 할 계획인가요?</li>
+       <li>왜요?</li>
+       </ul>
+     </li>
+     <br />
+     <li class="mb-2">
+       최근에 본 영화는 무엇입니까?
+       <ul>
+       <li class="mt-2">그 중 하나에 대해 말해보세요.</li>
+       </ul>
+     </li>
+     <br />
+     <li class="mb-2">
+       당신은 어떤 종류의 민족 음식을 먹었나요?
+       <ul>
+       <li class="mt-2">당신은 어느 것을 좋아했습니까? 어느 것이 마음에 들지 않았나요?</li>
+       </ul>
+     </li>
+     <br />
+     <li class="mb-2">
+       이번 달에 식당에 가본 적 있어요?
+       <ul>
+       <li class="mt-2">어떤 식당에 갔나요?</li>
+       <li>당신이 가장 좋아하는 음식은 무엇입니까?</li>
+       </ul>
+     </li>
+   </ol>
+               
 
 
 </div>
@@ -74,8 +120,6 @@
 
        </v-layout>
      </v-container>
-  </v-layout>
-  </v-container>
 </div>
 
 
@@ -136,10 +180,7 @@ h2{
 
 }
 
-li{
 
-
-}
 
 body{
 

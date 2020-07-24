@@ -6,7 +6,7 @@
 
       <v-layout column>
         <v-img
-        src="https://marketplace.canva.com/MADGv8RmfkY/6/screen_2x/canva-man-and-woman-sitting-on-chair-in-front-of-desk-MADGv8RmfkY.jpg">
+        src="https://img.freepik.com/free-photo/asian-tourists-young-man-with-smart-mobile-phone-his-hands-asks-directions-from-old-caucasian-elder-man-who-sit-with-woman-he-pointed-finger-way_73740-328.jpg?size=626&ext=jpg">
 
         <v-layout
         align-end
@@ -24,7 +24,7 @@
   </v-img>
 
   <hr style="border: 3px solid rgba(32, 64, 81, 1);" width="100%">
-  <h3 style="padding-top : 10px;  padding-left : 15px; padding-bottom: 10px;">Dialogue <br>( 선생님의 안내에 따라 문장을 읽어 주세요 )</h3>
+  <h3 style="padding-top : 10px;  padding-left : 15px; padding-bottom: 10px;">Dialogue <br /> ( 선생님의 안내에 따라 문장을 읽어 주세요 )</h3>
   <hr width="60%">
   <div style = "padding : 16px;">
 
@@ -72,22 +72,22 @@
 
         <ol style="margin: 12px;">
           <li>
-              KFC는 어디에 있습니까? 음반사옆에 있습니다. <br />
+            KFC는 어디에 있습니까? 음반사옆에 있습니다. <br />
                 Where is KFC? It's <u> &emsp; &emsp; &emsp; </u> <u> &emsp; &emsp; &emsp; </u> the record shop. <br />
           </li>
           <li>
-              식당은 어디에 있습니까? 서점 맞은 편에 있습니다.<br />
+            식당은 어디에 있습니까? 서점 맞은 편에 있습니다.<br />
                 Where is the restaurant? It's <u> &emsp; &emsp; &emsp; </u> <u> &emsp; &emsp; &emsp; </u> the bookstore.<br />
           </li>
           <li>
-              서점은 어디에 있습니까? 신발가게와 우체국 사이에 있습니다. <br />
+            서점은 어디에 있습니까? 신발가게와 우체국 사이에 있습니다. <br />
                 Where is the bookstore? It's <u> &emsp; &emsp; &emsp; </u> the shoe store <u> &emsp; &emsp; &emsp; </u> the post office.<br />
           </li>
         </ol>
 
         <p>
           Free response:<br />
-            Why do you think the old lady mentioned the barber shop? – Because, the boy’s hair is …<br />
+            Why do you think the old lady mentioned the barber shop? – Because the boy’s hair is …<br />
             당신은 왜 그 노인이 이발소를 언급했다고 생각합니까? - 왜냐하면 그 소년의 머리가....<br />
 
 
@@ -143,13 +143,15 @@
                     <li>
                       Notes
                     </li>
+                    <ol style="margin: 12px;">
                     <li>
-                      1) 전치사구들: next to:~옆에, ~곁에/ across from:~맞은편에(=opposite)/<br />
+                      전치사구들: next to:~옆에, ~곁에/ across from:~맞은편에(=opposite)/<br />
                           between A and B:A와 B사이에/ <br />
                     </li>
                     <li>
-                      2) look for(~을 찾다) 처럼 동사와 전치사가 하나의 동사처럼 쓰이는 경우가 있습니다.<br />
+                      look for(~을 찾다) 처럼 동사와 전치사가 하나의 동사처럼 쓰이는 경우가 있습니다.<br />
                     </li>
+                    </ol>
                     </v-card-text>
                   </v-card>
                 </v-flex>
@@ -348,6 +350,10 @@ h3{
 
 }
 
+li{
+
+
+}
 
 body{
 

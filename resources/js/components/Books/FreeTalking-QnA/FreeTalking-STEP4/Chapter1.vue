@@ -71,11 +71,57 @@
 
 </div>
 
+<h3 style="background-color: #FF6E6E;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Translation</h3>
+               <div style="padding : 16px;">
+
+   <ol style="margin: 12px;">
+     <li class="mb-2">
+       당신은 어떤 종류의 사회 활동을 합니까?<br />
+     </li>
+     <br />
+     <li class="mb-2">
+       당신은 여가 시간을 어떻게 보내나요?
+       <ul>
+      <li class="mt-2">당신은 혼자 보내는 것을 좋아하나요 아니면 친구들과 보내는 것을 좋아하나요?</li>
+       </ul>
+     </li>
+     <br />
+     <li class="mb-2">
+       신부, 수도사, 수녀가 되는 것에 대해 어떻게 생각하나요?
+     </li>
+     <br />
+     <li class="mb-2">
+       여러분은 삶의 질이 향상되고 있다고 생각하나요 아니면 나빠지고 있다고 생각하나요?
+     </li>
+     <br />
+     <li class="mb-2">
+       당신은 어떤 악기를 연주할 수 있습니까?
+     </li>
+     <br />
+     <li class="mb-2">
+       당신은 자원봉사 활동을 해 본 적이 있어요?
+     </li>
+     <br />
+     <li class="mb-2">
+       당신은 보통 약속 시간을 잘 지키나요?
+     </li>
+     <br />
+     <li class="mb-2">
+       스트레스를 어떻게 푸세요?
+     </li>
+     <br />
+     <li class="mb-2">
+       당신은 당신이 행복하다고 생각하나요? 왜 그렇게 생각하나요, 아니라면 왜 아니라고 생각하나요?
+     </li>
+   </ol>
+
+
+
+</div>
+
 
        </v-layout>
      </v-container>
-  </v-layout>
-  </v-container>
 </div>
 
 
@@ -133,11 +179,6 @@ p{
 
 h3{
   padding-top: 7px;
-
-}
-
-li{
-
 
 }
 

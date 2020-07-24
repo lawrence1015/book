@@ -75,11 +75,60 @@
 
 </div>
 
+<h3 style="background-color: #FF6E6E;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Translation</h3>
+               <div style="padding : 16px;">
+
+   <ol style="margin: 12px;">
+     <li class="mb-2">
+       당신은 당신이 건강하다고 생각하나요?
+     </li>
+     <br />
+     <li class="mb-2">
+       당신은 하루에 세 끼를 먹습니까?
+     </li>
+     <br />
+     <li class="mb-2">
+       당신은 비타민을 매일 섭취하나요?
+       <ul>
+       <li class="mt-2">그것들이 여러분의 건강에 도움이 된다고 생각하나요?</li>
+       </ul>
+     </li>
+     <br />
+     <li class="mb-2">
+       당신은 매일 운동을 하나요?
+     </li>
+     <br />
+     <li class="mb-2">
+       입원해본적 있나요? 왜요?
+     </li>
+     <br />
+     <li class="mb-2">
+       감기에 걸렸을 때, 당신은 바로 의사를 만나나요, 아니면 그냥 집에서 쉬나요?
+     </li>
+     <br />
+     <li class="mb-2">
+       당신은 의사들이 당신에게 하는 말을 믿나요?
+     </li>
+     <br />
+     <li class="mb-2">
+       당신이 가장 두려워하는 질병은 무엇입니까?
+     </li>
+     <br />
+     <li class="mb-2">
+       스트레스를 받을 때 당신은 무엇을 하나요?
+     </li>
+     <br />
+     <li class="mb-2">
+       불면증에 시달린 적이 있나요? 수면제를 드신 적이 있나요?
+     </li>
+   </ol>
+
+
+
+</div>
 
        </v-layout>
      </v-container>
-  </v-layout>
-  </v-container>
 </div>
 
 
@@ -140,10 +189,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

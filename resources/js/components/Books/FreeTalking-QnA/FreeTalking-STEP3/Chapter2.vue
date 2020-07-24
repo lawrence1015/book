@@ -61,11 +61,47 @@
 
 </div>
 
+<h3 style="background-color: #95FF9A;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Translation</h3>
+               <div style="padding : 16px;">
+
+   <ol style="margin: 12px;">
+     <li class="mb-2">
+       당신은 어떤 종류의 교통수단을 가장 많이 이용합니까? 그 이유는요?
+     </li>
+     <br />
+     <li class="mb-2">
+       당신의 조국은 10년 전에 어떤 종류의 교통수단을 가지고 있었나요?
+     </li>
+     <br />
+     <li class="mb-2">
+       당신은 지하철을 타 본 적이 있습니까?
+       <ul>
+       <li class="mt-2">비행기는요?</li>
+       <li>기차는요?</li>
+       <li>버스는요?</li>
+       <li>당신의 경험에 대해 이야기해보세요.</li>
+       </ul>
+     </li>
+     <br />
+     <li class="mb-2">
+       오늘날의 교통 시스템을 어떻게 개선할 수 있다고 생각하세요?
+     </li>
+     <br />
+     <li class="mb-2">
+       20년 후 세상이 어떨지 상상해 보세요.
+       <ul>
+       <li class="mt-2">어떤 종류의 교통수단이 있을 것 같습니까?</li>
+       </ul>
+     </li>
+   </ol>
+
+
+
+</div>
+
 
        </v-layout>
      </v-container>
-  </v-layout>
-  </v-container>
 </div>
 
 
@@ -123,11 +159,6 @@ p{
 
 h3{
   padding-top: 7px;
-
-}
-
-li{
-
 
 }
 

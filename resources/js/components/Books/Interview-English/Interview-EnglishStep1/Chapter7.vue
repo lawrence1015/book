@@ -56,7 +56,7 @@
             ( 저는 그 일을 아주 잘 해낼 자신이 있습니다. )
           </li>
           <li>
-            I can give you assurance that hiring me is the best thing that you will do.<br />
+            I can give you the assurance that hiring me is the best thing that you will do.<br />
             ( 저를 고용하는 것이 당신이 할 수 있는 최선이라고 확신할 수 있습니다. )
           <li>
             My skill is a perfect match for the job requirements.<br />
@@ -162,7 +162,7 @@
           dialogs:[
           {
             name:'A.',
-            speech:"The last company that I had worked with has taught me a lot of things when it comes to sales strategy. So I'm very much confident that I can do the job very well and that I can give you assurance that hiring me is the best thing that you will do."
+            speech:"The last company that I had worked with has taught me a lot of things when it comes to sales strategy. So I'm very much confident that I can do the job very well and that I can give you the assurance that hiring me is the best thing that you will do."
           },
           {
             name:'B.',

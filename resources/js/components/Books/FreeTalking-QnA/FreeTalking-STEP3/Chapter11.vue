@@ -69,11 +69,55 @@
 
 </div>
 
+ <h3 style="background-color: #95FF9A;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Translation</h3>
+               <div style="padding : 16px;">
+
+   <ol style="margin: 12px;">
+     <li class="mb-2">
+        사형이란 무엇입니까?
+        <ul>
+        <li class="mt-2">그것에 대해 어떻게 생각하세요?</li>
+        <li>당신은 정부가 사형을 집행할 권리를 가지고 있다고 생각합니까?</li>
+        <li>만약 그렇다면, 어떤 범죄에 대해서요? 그렇지 않다면 왜 안 될까요?</li>
+        </ul>
+     </li>
+     <br />
+     <li class="mb-2">
+        당신 나라에는 사형제도가 있나요?
+        <ul>
+        <li class="mt-2">만약 있다면 어떤 범죄 때문인가요?</li>
+        <li>사형수들은 어떤 대우를 받나요?</li>
+        </ul>
+     </li>
+     <br />
+     <li class="mb-2">
+        당신의 나라에서 사람들이 감옥에 가는 5가지 이유는 무엇입니까?
+     </li>
+     <br />
+     <li class="mb-2">
+         감옥에 있는 사람에 대해 알고 있거나 들은 적이 있나요?
+        <ul>
+        <li class="mt-2">그 사람이 그 범죄를 저질렀나요?</li>
+        <li>그 사람은 감옥에 보내졌어야 했나요? 왜 그런가요, 아니라면 왜 아닌가요?</li>
+        </ul>
+     </li>
+     <br />
+     <li class="mb-2">
+        많은 종류의 범죄가 있습니다: 살인, 절도, 정열의 범죄, 강간. 이 중 어느 것이 종신형을 받을 자격이 있다고 생각합니까?
+        <ul>
+        <li class="mt-2">이런 범죄를 저지르는 범죄자들 중 누가 최고 보안 교도소에 수감되어야 한다고 생각하세요?</li>
+        <li>최소 보안 교도소는요? 왜 그렇게 생각하시나요?</li>
+        </ul>
+     </li>
+   </ol>
+
+
+
+</div>
+
 
        </v-layout>
      </v-container>
-  </v-layout>
-  </v-container>
 </div>
 
 
@@ -131,11 +175,6 @@ p{
 
 h3{
   padding-top: 7px;
-
-}
-
-li{
-
 
 }
 

@@ -71,7 +71,7 @@
             ( 제 경험과 유연성에 대해 공정하게 보상받고 싶습니다. )
           </li>
           <li>
-            I am open for negotiation for the compensation structure for this position.<br />
+            I am open to negotiation for the compensation structure for this position.<br />
             ( 저는 이 직책에 대한 보상은 협상할 수 있습니다. )
           </li>
         </ol>
@@ -174,7 +174,7 @@
           },
           {
             name:'B.',
-            speech:"I'm eager to prove myself if ever given a chance to work in your company. I would like to be compensated fairly for my experience and flexibility, but I am open for negotiation for the compensation for this position."
+            speech:"I'm eager to prove myself if ever given a chance to work in your company. I would like to be compensated fairly for my experience and flexibility, but I am open to negotiation for the compensation for this position."
           },
           ],
   

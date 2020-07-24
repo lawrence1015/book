@@ -64,11 +64,50 @@
 
 </div>
 
+<h3 style="background-color: #FF6E6E;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Translation</h3>
+               <div style="padding : 16px;">
+
+   <ol style="margin: 12px;">
+     <li class="mb-2">
+       당신은 보통 아침을 먹습니까?
+     </li>
+     <br />
+     <li class="mb-2">
+       당신의 가족 중 누가 아침식사를 준비합니까?
+     </li>
+     <br />
+     <li class="mb-2">
+       당신은 수수한 서양식 아침을 먹는 것에 대해 어떻게 생각하나요?
+     </li>
+     <br />
+     <li class="mb-2">
+       도시락을 들고 출근하는 것에 대해 어떻게 생각하세요?
+     </li>
+     <br />
+     <li class="mb-2">
+       당신은 보통 동료들의 점심 값을 자진해서 지불하나요?
+     </li>
+     <br />
+     <li class="mb-2">
+       더치페이에 대해 어떻게 생각하세요?
+     </li>
+     <br />
+     <li class="mb-2">
+       점심 식사 후에 낮잠을 자는 것이 좋다고 생각하세요?
+     </li>
+     <br />
+     <li class="mb-2">
+       과일을 먹을 때 살충제가 걱정되나요?
+     </li>
+   </ol>
+
+
+
+</div>
+
 
        </v-layout>
      </v-container>
-  </v-layout>
-  </v-container>
 </div>
 
 
@@ -129,10 +168,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

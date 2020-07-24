@@ -55,11 +55,41 @@
 
 </div>
 
+<h3 style="background-color: #95FF9A;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Translation</h3>
+               <div style="padding : 16px;">
+
+   <ol style="margin: 12px;">
+     <li class="mb-2">
+       마지막으로 영화를 본 게 언제입니까?
+     </li>
+     <br />
+     <li class="mb-2">
+        할리우드 영화에 대해 어떻게 생각하세요?
+        <ul>
+        <li class="mt-2">한국 영화에 대해 어떻게 생각하세요?</li>
+       </ul>
+     </li>
+     <br />
+     <li class="mb-2">
+        영화 저작권에 대해 어떻게 생각하세요?
+        <ul>
+        <li class="mt-2">DVD를 복사해도 괜찮습니까?</li>
+        <li>무료 웹사이트에서 영화를 다운로드해도 괜찮을까요?</li>
+       </ul>
+     </li>
+     <br />
+     <li class="mb-2">
+        영화배우들이 돈을 너무 많이 번다고 생각하세요?
+     </li>
+   </ol>
+
+
+
+</div>
+
 
        </v-layout>
      </v-container>
-  </v-layout>
-  </v-container>
 </div>
 
 
@@ -120,10 +150,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

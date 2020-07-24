@@ -55,11 +55,41 @@
 
 </div>
 
+<h3 style="background-color: #FF6E6E;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Translation</h3>
+               <div style="padding : 16px;">
+
+   <ol style="margin: 12px;">
+     <li class="mb-2">
+       당신은 컴퓨터를 무엇에 사용합니까?
+     </li>
+     <br />
+     <li class="mb-2">
+       인터넷이 당신의 삶에 어떤 영향을 끼쳤나요?
+     </li>
+     <br />
+     <li class="mb-2">
+       컴퓨터가 당신의 삶에 어떤 나쁜 영향을 끼쳤나요?
+       <ul>
+       <li class="mt-2">일반적으로 어떤 위험이 있습니까?</li>
+       </ul>
+     </li>
+     <br />
+     <li class="mb-2">
+       어떻게 하면 우리 사회의 컴퓨터 문맹을 끝낼 수 있을까요? 끝내야만 할까요?
+     </li>
+     <br />
+     <li class="mb-2">
+       모든 컴퓨터 시스템이 갑자기 충돌하면 어떻게 될까요?
+     </li>
+   </ol>
+
+
+
+</div>
+
 
        </v-layout>
      </v-container>
-  </v-layout>
-  </v-container>
 </div>
 
 
@@ -120,10 +150,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

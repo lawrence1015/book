@@ -6,7 +6,7 @@
 
       <v-layout column>
         <v-img
-        src="https://marketplace.canva.com/MADGv8RmfkY/6/screen_2x/canva-man-and-woman-sitting-on-chair-in-front-of-desk-MADGv8RmfkY.jpg">
+        src="https://image.freepik.com/free-photo/two-male-friends-clenching-their-fist-looking-mobile-phone-against-blue-background_23-2148160240.jpg">
 
         <v-layout
         align-end
@@ -24,7 +24,7 @@
   </v-img>
 
   <hr style="border: 3px solid rgba(32, 64, 81, 1);" width="100%">
-  <h3 style="padding-top : 10px;  padding-left : 15px; padding-bottom: 10px;">Dialogue <br>( 선생님의 안내에 따라 문장을 읽어 주세요 )</h3>
+  <h3 style="padding-top : 10px;  padding-left : 15px; padding-bottom: 10px;">Dialogue <br /> ( 선생님의 안내에 따라 문장을 읽어 주세요 )</h3>
   <hr width="60%">
   <div style = "padding : 16px;">
 
@@ -58,16 +58,16 @@
 
         <ol style="margin: 12px;">
           <li>
-              Who has a girlfriend? <br />
+            Who has a girlfriend? <br />
           </li>
           <li>
-              What does she look like? <br />
+            What does she look like? <br />
           </li>
           <li>
-              Does Tino have a picture of her?<br />
+            Does Tino have a picture of her?<br />
           </li>
           <li>
-              Is she young or old?<br />
+            Is she young or old?<br />
           </li>
         </ol>
 
@@ -119,16 +119,18 @@
                     <li>
                       Notes
                     </li>
+                    <ol style="margin: 12px;">
                     <li>
-                      1) 영어에서는 외모를 표현할 때 have 동사를 씁니다. 하지만 가지고 있다라고 해석하기 보다는 <br />
+                      영어에서는 외모를 표현할 때 have 동사를 씁니다. 하지만 가지고 있다라고 해석하기 보다는 <br />
                           ~이다 혹은 있다로 해석을 하면 됩니다. <br />
                     </li>
                     <li>
-                      2) have동사는 ~있습니까?로 해석이 되었습니다 .<br />
+                      have동사는 ~있습니까?로 해석이 되었습니다 .<br />
                     </li>
                     <li>
-                      3) twenty(20의) : She is in her early twenties (그녀는 20초반입니다) <br />
+                      twenty(20의) : She is in her early twenties (그녀는 20초반입니다) <br />
                     </li>
+                    </ol>
                     </v-card-text>
                   </v-card>
                 </v-flex>
@@ -227,7 +229,7 @@ export default {
         },
         {
           name:'Louie:',
-          speech:'Tino는 귀여운 여자 친구가 있다. 키가 크고 머리는 금발이며 눈은 파랐다.'
+          speech:'Tino는 귀여운 여자 친구가 있다. 키가 크고 머리는 금발이며 눈은 파란색이야.'
         },
         {
           name:'Nick:',
@@ -303,6 +305,10 @@ h3{
 
 }
 
+li{
+
+
+}
 
 body{
 

@@ -52,7 +52,7 @@
   
         <ol style="margin: 12px;">
           <li>
-            I am the type of a person that is a perfectionist and efficient.<br />
+            I am the type of person that is a perfectionist and efficient.<br />
             ( 저는 완벽주의자이고 능률적인 사람입니다. )
           </li>
           <li>
@@ -166,7 +166,7 @@
           dialogs:[
           {
             name:'A.',
-            speech:"I am the type of a person that is a perfectionist and efficient. I never had a bad record with attendance with my previous job experience. I am dedicated and want to finish the work that I started on."
+            speech:"I am the type of person that is a perfectionist and efficient. I never had a bad record with attendance with my previous job experience. I am dedicated and want to finish the work that I started on."
           },
           {
             name:'B.',

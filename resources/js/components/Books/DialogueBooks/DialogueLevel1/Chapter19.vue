@@ -6,7 +6,7 @@
 
       <v-layout column>
         <v-img
-        src="https://marketplace.canva.com/MADGv8RmfkY/6/screen_2x/canva-man-and-woman-sitting-on-chair-in-front-of-desk-MADGv8RmfkY.jpg">
+        src="https://static.livebooks.com/d17c79496c264db7a0a2d61cdba878bf/i/be75c978548940d49be6edc90d5abecf/1/4SoifmQp45JMgBnHp7ed2/Mannequin%20in%20Window%2C%20NYC%2C%20NY%201975%20B.jpg">
 
         <v-layout
         align-end
@@ -24,19 +24,19 @@
   </v-img>
 
   <hr style="border: 3px solid rgba(32, 64, 81, 1);" width="100%">
-  <h3 style="padding-top : 10px;  padding-left : 15px; padding-bottom: 10px;">Dialogue <br>( 선생님의 안내에 따라 문장을 읽어 주세요 )</h3>
+  <h3 style="padding-top : 10px;  padding-left : 15px; padding-bottom: 10px;">Dialogue <br /> ( 선생님의 안내에 따라 문장을 읽어 주세요 )</h3>
   <hr width="60%">
   <div style = "padding : 16px;">
 
       <li style="list-style-type: none;">There are some people</li><br />
 
       <table style = "border-collapse: collapse;">
-
+    
         <tr v-for="dialog in dialogs" :key="dialog">
           <td class = "uppertable" >{{dialog.name}}</td>
           <td class = "lowertable" >{{dialog.speech}}</td>
         </tr>
-
+  
       </table>
 
       <div style="margin-left: -18px; margin-right: -18px; margin-top: 10px; border-color: #204051; border-style: solid; border-width: 2px;">
@@ -58,16 +58,16 @@
 
         <ol style="margin: 12px;">
           <li>
-              What’s in the street? - <u> &emsp; &emsp; &emsp; </u> a red van next <u> &emsp; &emsp; &emsp; </u> bookstore.
-                거리에 무엇이 있습니까? - 서점 옆에 붉은색 벤이 있습니다.
+            What’s in the street? - <u> &emsp; &emsp; &emsp; </u> a red van next <u> &emsp; &emsp; &emsp; </u> bookstore.
+              거리에 무엇이 있습니까? - 서점 옆에 붉은색 벤이 있습니다.
           </li>
           <li>
-              Who's in the van? - <u> &emsp; &emsp; &emsp; </u> two strange-looking guys.
-                벤 안에 누가 있습니까? - 이상하게 생긴 두 명의 남자들이 있습니다.
+            Who's in the van? - <u> &emsp; &emsp; &emsp; </u> two strange-looking guys.
+              벤 안에 누가 있습니까? - 이상하게 생긴 두 명의 남자들이 있습니다.
           </li>
           <li>
-              What are they doing? - <u> &emsp; &emsp; &emsp; </u> watching our house!
-                그들은 무엇을 하고 있습니까? - 그들은 우리 집을 보고 있습니다.
+            What are they doing? - <u> &emsp; &emsp; &emsp; </u> watching our house!
+              그들은 무엇을 하고 있습니까? - 그들은 우리 집을 보고 있습니다.
           </li>
         </ol>
 
@@ -102,7 +102,7 @@
           </tr>
 
         </table>
-
+        
 </div>
         <div style="margin-left: -18px; margin-right: -18px; margin-top: 10px; border-color: #204051; border-style: solid; border-width: 2px;">
         </div>
@@ -128,15 +128,18 @@
                     <li>
                       Notes
                     </li>
+                    <ol style="margin: 12px;">
                     <li>
-                      1) There are ... : 생각하거나 보고 있는 무언가를 묘사할 때 명사가 복수일 때 사용하고 뒤에는 a 를 쓰지 않습니다. <br />
-                      There are some.... / There are two cups..../ There are many books....
+                      There are ... : <br />
+                        생각하거나 보고 있는 무언가를 묘사할 때 명사가 복수일 때 사용하고 뒤에는 a 를 쓰지 않습니다. <br />
+                        There are some.... / There are two cups..../ There are many books.... <br />                 
                     </li>
                     <li>
-                      2) There is(are)의 의문문 : <br />
-                      Is there...? Yes, there is ..... , No, there isn't.....<br />
-                      Are there....? Yes, there are...., No, there aren't....
+                      There is(are)의 의문문 : <br />
+                        Is there...? Yes, there is ..... , No, there isn't.....<br />
+                        Are there....? Yes, there are...., No, there aren't....
                     </li>
+                    </ol>
                     </v-card-text>
                   </v-card>
                 </v-flex>
@@ -184,7 +187,7 @@ export default {
         },
         {
           name:'Joe:',
-          speech:'There are some people standing at the bus stop. There are some black birds on the sidewalk. A small girl is feeding them. There are some high school kids in front of the theater. There’s probably a good show on tonight.'
+          speech:'There are some people standing at the bus stop. There are some black birds on the sidewalk. A small girl is feeding them. There are some high school kids in front of the theater. There’s probably a good show tonight.'
         },
         {
           name:'Jack:',
@@ -308,6 +311,11 @@ p{
 
 h3{
   padding-top: 7px;
+
+}
+
+li{
+
 
 }
 

@@ -60,11 +60,46 @@
 
 </div>
 
+<h3 style="background-color: #FF6E6E;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Translation</h3>
+               <div style="padding : 16px;">
+
+   <ol style="margin: 12px;">
+     <li class="mb-2">
+       왜 사람들은 친구를 사귈 필요가 있을까요?
+     </li>
+     <br />
+     <li class="mb-2">
+       당신의 배우자는 이성 친구를 사귀어도 괜찮습니까?
+     </li>
+     <br />
+     <li class="mb-2">
+       당신은 당신의 가장 친한 친구를 어떻게 만났나요?
+     </li>
+     <br />
+     <li class="mb-2">
+       보통 친구 사이에 문제를 일으키는 것은 무엇입니까?
+     </li>
+     <br />
+     <li class="mb-2">
+       "눈에서 멀어지면 마음에서 멀어진다"는 말을 믿으세요?
+     </li>
+     <br />
+     <li class="mb-2">
+       남자 친구가 있는 것과 여자 친구가 있는 것의 차이점은 무엇인가요?
+     </li>
+     <br />
+     <li class="mb-2">
+       초, 중, 고등학교 때 사귄 친구랑 대학교 때 사귄 친구랑 뭐가 달라요?
+     </li>
+   </ol>
+
+
+
+</div>
+
 
        </v-layout>
      </v-container>
-  </v-layout>
-  </v-container>
 </div>
 
 
@@ -122,11 +157,6 @@ p{
 
 h3{
   padding-top: 7px;
-
-}
-
-li{
-
 
 }
 

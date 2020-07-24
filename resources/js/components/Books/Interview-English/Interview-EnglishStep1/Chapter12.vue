@@ -52,7 +52,7 @@
   
         <ol style="margin: 12px;">
           <li>
-            I'm very much confident that I can do the job very well.<br />
+            I am looking forward to working in an adaptive work environment where I can handle fast-paced work.<br />
             ( 저는 빠른 속도의 작업을 처리할 수 있는 적응형 작업 환경으로의 작업을 고대합니다.  )
           </li>
           <li>
@@ -162,7 +162,7 @@
           },
           {
             name:'B.',
-            speech:" I am looking forward to working in an adaptive work environment, where I can handle fast paced work, and am also ready for challenges that may arise, but also slow down when work is slow, and recognize the natural shifts in business and respond accordingly."
+            speech:" I wish to be a part of an environment that encourages commitment and communication. I firmly believe that having open communication within a workplace can resolve any problem easily and have a fast improvement in any situation where we can have our business react well to change."
           },
           ],
   

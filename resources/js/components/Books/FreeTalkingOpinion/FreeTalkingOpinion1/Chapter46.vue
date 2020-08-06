@@ -29,7 +29,7 @@
   </div>
 
   <h3  class = "border white--text" style = "border-radius: 0px 0px 70px 0px;" >Topic</h3>
-  <div style = "padding : 16px; line-height: 200%;">
+  <div style = "padding : 16px; line-height: 1.6;">
 
     <table style = "border-collapse: collapse;">
 
@@ -37,7 +37,7 @@
       <td class = "uppertable" ><b>Jane :</b></td>
       <td class = "lowertable" >Marriage is still important. Being busy is an excuse in our modern world. When people are in love, they want a special bond that forever ties them together. That’s marriage!</td>
     </tr>
-    <tr>
+    <tr style="color:#1565C0;">
       <td class = "uppertable" ><b>Tom :</b></td>
       <td class = "lowertable" >A person may fall out of love. Today’s society generally accepts that people change and move on. No one should feel pressured to marry or stay in a marriage that will leave them unhappy.</td>
     </tr>
@@ -53,39 +53,39 @@
                  margin-right: -18px;
                  padding-left: 10px;
                  padding-bottom: 10px;
-                 padding-top: 0px;
+                 padding-top: 5px;
                  margin-top: 0px;">Vocabulary</h3>
       <div style="padding : 16px;">
 
         <p>
-          <b>busy 바쁜 </b>
+          <b>busy</b> 바쁜 
         </p>
         <p>
-          <b>excuse 변명 </b>
+          <b>excuse</b> 변명 
         </p>
         <p>
-          <b>modern 현대의</b>
+          <b>modern</b> 현대의
         </p>
         <p>
-          <b>bond 유대</b>
+          <b>bond</b> 유대
         </p>
         <p>
-          <b>fall out 떨어지다 </b>
+          <b>fall out</b> 떨어지다 
         </p>
         <p>
-          <b>generally 대부분의 사람들이 </b>
+          <b>generally</b> 대부분의 사람들이 
         </p>
         <p>
-          <b>accept 받아들이다 </b>
+          <b>accept</b> 받아들이다 
         </p>
         <p>
-          <b>move on 넘어가다 </b>
+          <b>move on</b> 넘어가다 
         </p>
         <p>
-          <b>pressured 부담되는 </b>
+          <b>pressured</b> 부담되는 
         </p>
         <p>
-          <b>unhappy 불행한</b>
+          <b>unhappy</b> 불행한
         </p>
 
       </div>
@@ -99,7 +99,7 @@
                  margin-right: -18px;
                  padding-left: 10px;
                  padding-bottom: 10px;
-                 padding-top: 0px;              
+                 padding-top: 5px;              
                  margin-top: 0px;
                  width: 100px;">해석</h3>
       <div style="padding : 16px;">
@@ -110,7 +110,7 @@
             <td class = "uppertable" ><b>제인 :</b></td>
             <td class = "lowertable" >결혼은 여전히 중요해. 바쁘다는 것은 우리 현대 사회의 핑계야. 사람들은 사랑에 빠졌을 때 그들을 영원히 함께 묶는 특별한 유대감을 원하지. 그게 결혼이야!</td>
           </tr>
-          <tr>
+          <tr style="color:#1565C0;">
             <td class = "uppertable" ><b>탐 :</b></td>
             <td class = "lowertable" >사람은 사랑이 식을 수도 있어. 오늘날의 사회는 일반적으로 사람들이 변화하고 나아가고 있다는 것을 받아들여. 아무도 결혼하거나 불행하게 될 결혼 생활을 해야 한다는 압박감을 느껴서는 안 되지.</td>
           </tr>
@@ -120,14 +120,31 @@
 
       </div>
 
-    
+      <div style="margin-left: -18px; margin-right: -18px; margin-top: 10px; border-color: #2F4674; border-style: solid; border-width: 2px;">
+      </div>
+      <h3 class = "border white--text"
+          style="border-radius: 0px 0px 70px 0px;
+                 padding-top: 7px;
+                 margin-left: -18px;
+                 margin-right: -18px;
+                 padding-left: 10px;
+                 padding-bottom: 10px;
+                 padding-top: 5px;
+                 margin-top: 0px;">Questions</h3>
+      <div style="padding : 16px;">
 
+        <ol style="margin: 12px;">
+          <li>When do you think is the best age to get married? Why?</li>
+          <li>Do you think getting married is important? Why or why not?</li>
+          <li>What are the common reasons why some people do not want to get married?</li>
+        </ol>
+
+    
+      </div>
     </div>
 
 
   </v-layout>
-</v-container>
-</v-layout>
 </v-container>
 </div>
 
@@ -189,11 +206,6 @@ p{
 
 h3{
   padding-top: 7px;
-
-}
-
-li{
-
 
 }
 

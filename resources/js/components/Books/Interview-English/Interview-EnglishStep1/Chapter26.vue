@@ -6,7 +6,7 @@
 
       <v-layout column>
         <v-img
-        src="https://marketplace.canva.com/MADGv2TwJlM/7/screen_2x/canva-two-woman-in-black-sits-on-chair-near-table-MADGv2TwJlM.jpg" style="max-width: 100%; display:block; height: auto;">
+        src="https://image.freepik.com/free-photo/two-businessmen-shaking-hands-congratulating-promotion_23-2147923371.jpg" style="max-width: 100%; display:block; height: auto;">
 
         <v-layout
         align-end

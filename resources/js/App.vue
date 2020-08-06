@@ -28,196 +28,196 @@
                 <h2>Table of Contents</h2>
               </v-list-tile>
               <p>
-                <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/chapter' + 1)">Ch. 1 Getting to Know</v-list-tile>
+                <v-list-tile class = "ch" >Ch. 1 Getting to Know</v-list-tile>
                 <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit1Chapter1')">- Unit 1</v-list-tile>
                 <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit2Chapter1')">- Unit 2</v-list-tile>
                 <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit3Chapter1')">- Unit 3</v-list-tile>
               </p>
-              <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/chapter' + 2)">Ch. 2 Travelling</v-list-tile>
+              <v-list-tile class = "ch" >Ch. 2 Travelling</v-list-tile>
               <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit1Chapter2')">- Unit 1</v-list-tile>
               <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit2Chapter2')">- Unit 2</v-list-tile>
               <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit3Chapter2')">- Unit 3</v-list-tile>
               <p>
-                <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/chapter' + 3)">Ch. 3 Colors</v-list-tile>
+                <v-list-tile class = "ch" >Ch. 3 Colors</v-list-tile>
                 <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit1Chapter3')">- Unit 1</v-list-tile>
                 <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit2Chapter3')">- Unit 2</v-list-tile>
                 <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit3Chapter3')">- Unit 3</v-list-tile>
               </p>
-              <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/chapter' + 4)">Ch. 4 Memories</v-list-tile>
+              <v-list-tile class = "ch" >Ch. 4 Memories</v-list-tile>
               <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit1Chapter4')">- Unit 1</v-list-tile>
               <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit2Chapter4')">- Unit 2</v-list-tile>
               <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit3Chapter4')">- Unit 3</v-list-tile>
               <p>
-                <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/chapter' + 5)">Ch. 5 Music</v-list-tile>
+                <v-list-tile class = "ch" >Ch. 5 Music</v-list-tile>
                 <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit1Chapter5')">- Unit 1</v-list-tile>
                 <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit2Chapter5')">- Unit 2</v-list-tile>
                 <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit3Chapter5')">- Unit 3</v-list-tile>
               </p>
-              <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/chapter' + 6)">Ch. 6 Food</v-list-tile>
+              <v-list-tile class = "ch" >Ch. 6 Food</v-list-tile>
               <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit1Chapter6')">- Unit 1</v-list-tile>
               <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit2Chapter6')">- Unit 2</v-list-tile>
               <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit3Chapter6')">- Unit 3</v-list-tile>
               <p>
-                <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/chapter' + 7)">Ch. 7 Family Members</v-list-tile>
+                <v-list-tile class = "ch" >Ch. 7 Family Members</v-list-tile>
                 <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit1Chapter7')">- Unit 1</v-list-tile>
                 <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit2Chapter7')">- Unit 2</v-list-tile>
                 <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit3Chapter7')">- Unit 3</v-list-tile>
               </p>
-              <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/chapter' + 8)">Ch. 8 Friendship</v-list-tile>
+              <v-list-tile class = "ch" >Ch. 8 Friendship</v-list-tile>
               <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit1Chapter8')">- Unit 1</v-list-tile>
               <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit2Chapter8')">- Unit 2</v-list-tile>
               <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit3Chapter8')">- Unit 3</v-list-tile>
               <p>
-                <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/chapter' + 9)">Ch. 9 The Weather</v-list-tile>
+                <v-list-tile class = "ch" >Ch. 9 The Weather</v-list-tile>
                 <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit1Chapter9')">- Unit 1</v-list-tile>
                 <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit2Chapter9')">- Unit 2</v-list-tile>
                 <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit3Chapter9')">- Unit 3</v-list-tile>
               </p>
-              <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/chapter' + 10)">Ch. 10 Favorite Things</v-list-tile>
+              <v-list-tile class = "ch" >Ch. 10 Favorite Things</v-list-tile>
               <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit1Chapter10')">- Unit 1</v-list-tile>
               <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit2Chapter10')">- Unit 2</v-list-tile>
               <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit3Chapter10')">- Unit 3</v-list-tile>
               <p>
-                <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/chapter' + 11)">Ch. 11 Right Now</v-list-tile>
+                <v-list-tile class = "ch" >Ch. 11 Right Now</v-list-tile>
                 <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit1Chapter11')">- Unit 1</v-list-tile>
                 <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit2Chapter11')">- Unit 2</v-list-tile>
               </p>
-              <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/chapter' + 12)">Ch. 12 Past Happenings</v-list-tile>
+              <v-list-tile class = "ch" >Ch. 12 Past Happenings</v-list-tile>
               <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit1Chapter12')">- Unit 1</v-list-tile>
               <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit2Chapter12')">- Unit 2</v-list-tile>
               <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit3Chapter12')">- Unit 3</v-list-tile>
               <p>
-                <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/chapter' + 13)">Ch. 13 The Future</v-list-tile>
+                <v-list-tile class = "ch" >Ch. 13 The Future</v-list-tile>
                 <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit1Chapter13')">- Unit 1</v-list-tile>
                 <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit2Chapter13')">- Unit 2</v-list-tile>
                 <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit3Chapter13')">- Unit 3</v-list-tile>
               </p>
-              <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/chapter' + 14)">Ch. 14 Nature</v-list-tile>
+              <v-list-tile class = "ch" >Ch. 14 Nature</v-list-tile>
               <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit1Chapter14')">- Unit 1</v-list-tile>
               <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit2Chapter14')">- Unit 2</v-list-tile>
               <p>
-                <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/chapter' + 15)">Ch. 15 The Fauna</v-list-tile>
+                <v-list-tile class = "ch" >Ch. 15 The Fauna</v-list-tile>
                 <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit1Chapter15')">- Unit 1</v-list-tile>
                 <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit2Chapter15')">- Unit 2</v-list-tile>
                 <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit3Chapter15')">- Unit 3</v-list-tile>
               </p>
-              <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/chapter' + 16)">Ch. 16 The Flora</v-list-tile>
+              <v-list-tile class = "ch" >Ch. 16 The Flora</v-list-tile>
               <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit1Chapter16')">- Unit 1</v-list-tile>
               <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit2Chapter16')">- Unit 2</v-list-tile>
               <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit3Chapter16')">- Unit 3</v-list-tile>
               <p>
-                <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/chapter' + 17)">Ch. 17 Time</v-list-tile>
+                <v-list-tile class = "ch" >Ch. 17 Time</v-list-tile>
                 <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit1Chapter17')">- Unit 1</v-list-tile>
                 <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit2Chapter17')">- Unit 2</v-list-tile>
                 <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit3Chapter17')">- Unit 3</v-list-tile>
               </p>
-              <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/chapter' + 18)">Ch. 18 Movies</v-list-tile>
+              <v-list-tile class = "ch" >Ch. 18 Movies</v-list-tile>
               <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit1Chapter18')">- Unit 1</v-list-tile>
               <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit2Chapter18')">- Unit 2</v-list-tile>   
               <p>
-                <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/chapter' + 19)">Ch. 19 Pets</v-list-tile>
+                <v-list-tile class = "ch" >Ch. 19 Pets</v-list-tile>
                 <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit1Chapter19')">- Unit 1</v-list-tile>
                 <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit2Chapter19')">- Unit 2</v-list-tile>
                 <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit3Chapter19')">- Unit 3</v-list-tile>
               </p>
-              <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/chapter' + 20)">Ch. 20 Inspiring People</v-list-tile>
+              <v-list-tile class = "ch" >Ch. 20 Inspiring People</v-list-tile>
               <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit1Chapter20')">- Unit 1</v-list-tile>
               <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit2Chapter20')">- Unit 2</v-list-tile>
               <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit3Chapter20')">- Unit 3</v-list-tile>
               <p>
-                <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/chapter' + 21)">Ch. 21 Superheroes</v-list-tile>
+                <v-list-tile class = "ch" >Ch. 21 Superheroes</v-list-tile>
                 <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit1Chapter21')">- Unit 1</v-list-tile>
                 <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit2Chapter21')">- Unit 2</v-list-tile>
                 <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit3Chapter21')">- Unit 3</v-list-tile>
               </p>
-              <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/chapter' + 22)">Ch. 22 Time Travel</v-list-tile>
+              <v-list-tile class = "ch" >Ch. 22 Time Travel</v-list-tile>
               <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit1Chapter22')">- Unit 1</v-list-tile>
               <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit2Chapter22')">- Unit 2</v-list-tile>
               <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit3Chapter22')">- Unit 3</v-list-tile>
               <p>
-                <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/chapter' + 23)">Ch. 23 Hobbies</v-list-tile>
+                <v-list-tile class = "ch" >Ch. 23 Hobbies</v-list-tile>
                 <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit1Chapter23')">- Unit 1</v-list-tile>
                 <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit2Chapter23')">- Unit 2</v-list-tile>
                 <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit3Chapter23')">- Unit 3</v-list-tile>
               </p>
-              <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/chapter' + 24)">Ch. 24 Personal Habits</v-list-tile>
+              <v-list-tile class = "ch" >Ch. 24 Personal Habits</v-list-tile>
               <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit1Chapter24')">- Unit 1</v-list-tile>
               <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit2Chapter24')">- Unit 2</v-list-tile>
               <p>
-                <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/chapter' + 25)">Ch. 25 Nations of the World</v-list-tile>
+                <v-list-tile class = "ch" >Ch. 25 Nations of the World</v-list-tile>
                 <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit1Chapter25')">- Unit 1</v-list-tile>
                 <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit2Chapter25')">- Unit 2</v-list-tile>
                 <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit3Chapter25')">- Unit 3</v-list-tile>
               </p>
-              <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/chapter' + 26)">Ch. 26 Business</v-list-tile>
+              <v-list-tile class = "ch" >Ch. 26 Business</v-list-tile>
               <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit1Chapter26')">- Unit 1</v-list-tile>
               <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit2Chapter26')">- Unit 2</v-list-tile>
               <p>
-                <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/chapter' + 27)">Ch. 27 Jobs and Occupation</v-list-tile>
+                <v-list-tile class = "ch" >Ch. 27 Jobs and Occupation</v-list-tile>
                 <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit1Chapter27')">- Unit 1</v-list-tile>
                 <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit2Chapter27')">- Unit 2</v-list-tile>
               </p>
-              <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/chapter' + 28)">Ch. 28 Relaxation</v-list-tile>
+              <v-list-tile class = "ch" >Ch. 28 Relaxation</v-list-tile>
               <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit1Chapter28')">- Unit 1</v-list-tile>
               <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit2Chapter28')">- Unit 2</v-list-tile>
               <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit3Chapter28')">- Unit 3</v-list-tile>
               <p>
-                <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/chapter' + 29)">Ch. 29 Rights and Duties</v-list-tile>
+                <v-list-tile class = "ch" >Ch. 29 Rights and Duties</v-list-tile>
                 <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit1Chapter29')">- Unit 1</v-list-tile>
                 <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit2Chapter29')">- Unit 2</v-list-tile>
                 <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit3Chapter29')">- Unit 3</v-list-tile>
               </p>
-              <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/chapter' + 30)">Ch. 30 Laws</v-list-tile>
+              <v-list-tile class = "ch" >Ch. 30 Laws</v-list-tile>
               <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit1Chapter30')">- Unit 1</v-list-tile>
               <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit2Chapter30')">- Unit 2</v-list-tile>
               <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit3Chapter30')">- Unit 3</v-list-tile>
               <p>
-                <v-list-tile class = "unit1" @click="$router.push('/freetalking/beginner/chapter' + 31)">Ch. 31 Making Acquaintances and Friends</v-list-tile>
+                <v-list-tile class = "ch" >Ch. 31 Making Acquaintances and Friends</v-list-tile>
                 <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit1Chapter31')">- Unit 1</v-list-tile>
                 <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit2Chapter31')">- Unit 2</v-list-tile>
                 <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit3Chapter31')">- Unit 3</v-list-tile>
               </p>
-              <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/chapter' + 32)">Ch. 32 Culture</v-list-tile>
+              <v-list-tile class = "ch" >Ch. 32 Culture</v-list-tile>
               <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit1Chapter32')">- Unit 1</v-list-tile>
               <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit2Chapter32')">- Unit 2</v-list-tile>
               <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit3Chapter32')">- Unit 3</v-list-tile>
               <p>
-                <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/chapter' + 33)">Ch. 33 Neighborhood</v-list-tile>
+                <v-list-tile class = "ch" >Ch. 33 Neighborhood</v-list-tile>
                 <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit1Chapter33')">- Unit 1</v-list-tile>
                 <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit2Chapter33')">- Unit 2</v-list-tile>
                 <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit3Chapter33')">- Unit 3</v-list-tile>
               </p>
-              <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/chapter' + 34)">Ch. 34 My City</v-list-tile>
+              <v-list-tile class = "ch" >Ch. 34 My City</v-list-tile>
               <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit1Chapter34')">- Unit 1</v-list-tile>
               <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit2Chapter34')">- Unit 2</v-list-tile>
               <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit3Chapter34')">- Unit 3</v-list-tile>
               <p>
-                <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/chapter' + 35)">Ch. 35 Superstition</v-list-tile>
+                <v-list-tile class = "ch" >Ch. 35 Superstition</v-list-tile>
                 <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit1Chapter35')">- Unit 1</v-list-tile>
                 <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit2Chapter35')">- Unit 2</v-list-tile>
                 <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit3Chapter35')">- Unit 3</v-list-tile>
               </p>
-              <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/chapter' + 36)">Ch. 36 Learning Foreign Languages</v-list-tile>
+              <v-list-tile class = "ch" >Ch. 36 Learning Foreign Languages</v-list-tile>
               <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit1Chapter36')">- Unit 1</v-list-tile>
               <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit2Chapter36')">- Unit 2</v-list-tile>
               <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit3Chapter36')">- Unit 3</v-list-tile>
               <p>
-                <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/chapter' + 37)">Ch. 37 Fashion</v-list-tile>
+                <v-list-tile class = "ch" >Ch. 37 Fashion</v-list-tile>
                 <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit1Chapter37')">- Unit 1</v-list-tile>
                 <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit2Chapter37')">- Unit 2</v-list-tile>
                 <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit3Chapter37')">- Unit 3</v-list-tile>
               </p>
-              <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/chapter' + 38)">Ch. 38 Dreams</v-list-tile>
+              <v-list-tile class = "ch" >Ch. 38 Dreams</v-list-tile>
               <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit1Chapter38')">- Unit 1</v-list-tile>
               <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit2Chapter38')">- Unit 2</v-list-tile>
               <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit3Chapter38')">- Unit 3</v-list-tile>
               <p>
-                <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/chapter' + 39)">Ch. 39 Science and Technology</v-list-tile>
+                <v-list-tile class = "ch" >Ch. 39 Science and Technology</v-list-tile>
                 <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit1Chapter39')">- Unit 1</v-list-tile>
                 <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit2Chapter39')">- Unit 2</v-list-tile>
                 <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit3Chapter39')">- Unit 3</v-list-tile>
               </p>
-              <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/chapter' + 40)">Ch. 40 Holidays</v-list-tile>
+              <v-list-tile class = "ch" >Ch. 40 Holidays</v-list-tile>
               <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit1Chapter40')">- Unit 1</v-list-tile>
               <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit2Chapter40')">- Unit 2</v-list-tile>
               <v-list-tile class = "unit" @click="$router.push('/freetalking/beginner/Unit3Chapter40')">- Unit 3</v-list-tile>
@@ -429,16 +429,23 @@
       <v-toolbar-title style="margin-left: 0px; margin-right: 5px;">Grammar in Pattern</v-toolbar-title>
       <v-spacer></v-spacer>
       <template v-if="speechSlot" #extension>
-        <v-container>
+       <v-container>
           <v-row>
             <v-toolbar-items>
-              <v-col cols="4">
-                <v-icon @click="textToSpeech()" class="ml-5" large color="black">{{icon}}</v-icon>
+              <v-col cols="4" v-if = "playArrow">
+                <v-icon @click="playSound()" class="ml-5" large color="black">play_arrow</v-icon>
+              </v-col>
+              <v-col cols="4" v-if = "audioPlaying">
+                <v-icon @click="pauseSound()" class="ml-5" large color="black">pause</v-icon>
               </v-col>
               <v-spacer></v-spacer>
               <v-col cols="4">
                 <v-icon @click="stopSound()" large color="black">stop</v-icon>
               </v-col>
+
+             
+             <v-progress-linear id="progress" :value="percentage" rounded  style = "margin: 15px;" @click.native="onClickProgress($event)"></v-progress-linear>
+             
               <v-spacer></v-spacer>
               <v-col cols="4">
                 <v-menu offset-y>
@@ -667,6 +674,7 @@
     </v-toolbar>
   </v-layout>
 </div>
+
 <div v-if="$route.name === 'Business_Step1'">
   <v-layout>
     <v-navigation-drawer v-model="drawer" :mini-variant="mini" absolute style="background-color: #7690CF; position:fixed; top:0; left:0; overflow-y:hidden;" temporary>
@@ -725,34 +733,27 @@
         <v-container>
           <v-row>
             <v-toolbar-items>
-              <v-col cols="4">
-                <v-icon @click="textToSpeech()" class="ml-5" large color="black">{{icon}}</v-icon>
+               
+               <v-col cols="4" v-if = "playArrow">
+                <v-icon @click="playSound()" class="ml-5" large color="black">play_arrow</v-icon>
+              </v-col>
+              <v-col cols="4" v-if = "audioPlaying">
+                <v-icon @click="pauseSound()" class="ml-5" large color="black">pause</v-icon>
               </v-col>
               <v-spacer></v-spacer>
               <v-col cols="4">
                 <v-icon @click="stopSound()" large color="black">stop</v-icon>
-              </v-col>
+              </v-col>       
+                       
+              <v-progress-linear id="progress" :value="percentage" rounded  style = "margin: 15px;" @click.native="onClickProgress($event)"></v-progress-linear>
+
+              <!-- <audio controls @seeking = "onSeeking()">
+              <source src = "audio/Business-Book/BusinessStep1/Unit1.mp3" type="audio/mpeg">       
+              </audio> -->
+                        
               <v-spacer></v-spacer>
-              <v-col cols="4">
-                <v-menu offset-y>
-                  <template v-slot:activator="{ on }">
-                    <v-btn v-on="on" depressed block text color="#9692af">{{speechRateText}}</v-btn>
-                  </template>
-                  <v-list>
-                    <v-list-item>
-                      <v-list-item-title class="mx-2" @click="changeSpeechRate($event)"><center>0.75x</center></v-list-item-title>
-                    </v-list-item>
-                    <v-divider></v-divider>
-                    <v-list-item>
-                      <v-list-item-title  class="mx-2"  @click="changeSpeechRate($event)"><center>1x</center></v-list-item-title>
-                    </v-list-item>
-                    <v-divider></v-divider>
-                    <v-list-item>
-                      <v-list-item-title  class="mx-2" @click="changeSpeechRate($event)"><center>1.25x</center></v-list-item-title>
-                    </v-list-item>
-                  </v-list>
-                </v-menu>
-              </v-col>
+             
+
             </v-toolbar-items>
           </v-row>
         </v-container>
@@ -831,19 +832,27 @@
         <v-container>
           <v-row>
             <v-toolbar-items>
-              <v-col cols="4">
-                <v-icon @click="textToSpeech()" class="ml-5" large color="black">{{icon}}</v-icon>
+              <v-col cols="4" v-if = "playArrow">
+                <v-icon @click="playSound()" class="ml-5" large color="black">play_arrow</v-icon>
+              </v-col>
+              <v-col cols="4" v-if = "audioPlaying">
+                <v-icon @click="pauseSound()" class="ml-5" large color="black">pause</v-icon>
               </v-col>
               <v-spacer></v-spacer>
               <v-col cols="4">
                 <v-icon @click="stopSound()" large color="black">stop</v-icon>
               </v-col>
+
+             
+             <v-progress-linear id="progress" :value="percentage" rounded  style = "margin: 15px;" @click.native="onClickProgress($event)"></v-progress-linear>
+
+
               <v-spacer></v-spacer>
               <v-col cols="4">
                 <v-menu offset-y>
-                  <template v-slot:activator="{ on }">
+                  <!-- <template v-slot:activator="{ on }">
                     <v-btn v-on="on" depressed block text color="#9692af">{{speechRateText}}</v-btn>
-                  </template>
+                  </template> -->
                   <v-list>
                     <v-list-item>
                       <v-list-item-title class="mx-2" @click="changeSpeechRate($event)"><center>0.75x</center></v-list-item-title>
@@ -937,19 +946,27 @@
         <v-container>
           <v-row>
             <v-toolbar-items>
-              <v-col cols="4">
-                <v-icon @click="textToSpeech()" class="ml-5" large color="black">{{icon}}</v-icon>
+              <v-col cols="4" v-if = "playArrow">
+                <v-icon @click="playSound()" class="ml-5" large color="black">play_arrow</v-icon>
+              </v-col>
+              <v-col cols="4" v-if = "audioPlaying">
+                <v-icon @click="pauseSound()" class="ml-5" large color="black">pause</v-icon>
               </v-col>
               <v-spacer></v-spacer>
               <v-col cols="4">
                 <v-icon @click="stopSound()" large color="black">stop</v-icon>
               </v-col>
+
+             
+             <v-progress-linear id="progress" :value="percentage" rounded  style = "margin: 15px;" @click.native="onClickProgress($event)"></v-progress-linear>
+
+
               <v-spacer></v-spacer>
               <v-col cols="4">
                 <v-menu offset-y>
-                  <template v-slot:activator="{ on }">
+                  <!-- <template v-slot:activator="{ on }">
                     <v-btn v-on="on" depressed block text color="#9692af">{{speechRateText}}</v-btn>
-                  </template>
+                  </template> -->
                   <v-list>
                     <v-list-item>
                       <v-list-item-title class="mx-2" @click="changeSpeechRate($event)"><center>0.75x</center></v-list-item-title>
@@ -1043,19 +1060,26 @@
         <v-container>
           <v-row>
             <v-toolbar-items>
-              <v-col cols="4">
-                <v-icon @click="textToSpeech()" class="ml-5" large color="black">{{icon}}</v-icon>
+              <v-col cols="4" v-if = "playArrow">
+                <v-icon @click="playSound()" class="ml-5" large color="black">play_arrow</v-icon>
+              </v-col>
+              <v-col cols="4" v-if = "audioPlaying">
+                <v-icon @click="pauseSound()" class="ml-5" large color="black">pause</v-icon>
               </v-col>
               <v-spacer></v-spacer>
               <v-col cols="4">
                 <v-icon @click="stopSound()" large color="black">stop</v-icon>
               </v-col>
+
+             
+             <v-progress-linear id="progress" :value="percentage" rounded  style = "margin: 15px;" @click.native="onClickProgress($event)"></v-progress-linear>
+              
               <v-spacer></v-spacer>
               <v-col cols="4">
                 <v-menu offset-y>
-                  <template v-slot:activator="{ on }">
+                  <!-- <template v-slot:activator="{ on }">
                     <v-btn v-on="on" depressed block text color="#9692af">{{speechRateText}}</v-btn>
-                  </template>
+                  </template> -->
                   <v-list>
                     <v-list-item>
                       <v-list-item-title class="mx-2" @click="changeSpeechRate($event)"><center>0.75x</center></v-list-item-title>
@@ -1152,7 +1176,7 @@
         </v-list>
       </v-list>
     </v-navigation-drawer>
-    <v-toolbar app :fixed="toolbar.fixed" :clipped-left="toolbar.clippedLeft" style="background-color: #BC8462;">
+    <v-toolbar app :fixed="toolbar.fixed" :clipped-left="toolbar.clippedLeft" style="background-color: #84a9ac;">
       <v-toolbar-side-icon @click.stop="drawer = !drawer"></v-toolbar-side-icon>
       <v-toolbar-title style="margin-left: 0px; margin-right: 5px;">Daily Dialogues</v-toolbar-title>
       <v-spacer></v-spacer>
@@ -1171,7 +1195,7 @@
                 <v-icon @click="stopSound()" large color="black">stop</v-icon>
               </v-col>
 
-              <v-progress-linear :value="percentage" rounded  style = "margin: 15px;" @click.native="setPosition()"></v-progress-linear>
+              <v-progress-linear id="progress" :value="percentage" rounded  style = "margin: 15px;" @click.native="onClickProgress($event)"></v-progress-linear>
 
               <v-spacer></v-spacer>
               <v-col cols="4">
@@ -1214,6 +1238,7 @@
     </v-toolbar>
   </v-layout>
 </div>
+
 <div v-if="$route.name === 'Dialogue_Books2'">
   <v-layout>
     <v-navigation-drawer v-model="drawer" :mini-variant="mini" absolute style="background-color:#84a9ac; position:fixed; top:0; left:0; overflow-y:hidden;" temporary>
@@ -1280,6 +1305,22 @@
         <v-container>
           <v-row>
             <v-toolbar-items>
+
+              <v-col cols="4" v-if = "playArrow">
+                <v-icon @click="playSound()" class="ml-5" large color="black">play_arrow</v-icon>
+              </v-col>
+              <v-col cols="4" v-if = "audioPlaying">
+                <v-icon @click="pauseSound()" class="ml-5" large color="black">pause</v-icon>
+              </v-col>
+              <v-spacer></v-spacer>
+              <v-col cols="4">
+                <v-icon @click="stopSound()" large color="black">stop</v-icon>
+              </v-col>
+
+              <v-progress-linear id="progress" :value="percentage" rounded  style = "margin: 15px;" @click.native="onClickProgress($event)"></v-progress-linear>
+
+              <v-spacer></v-spacer>
+
               <v-col cols="4">
                 <v-icon @click="textToSpeech()" class="ml-5" large color="black">{{icon}}</v-icon>
               </v-col>
@@ -1328,6 +1369,131 @@
     </v-toolbar>
   </v-layout>
 </div>
+
+<div v-if="$route.name === 'Dialogue_Books3'">
+  <v-layout>
+    <v-navigation-drawer v-model="drawer" :mini-variant="mini" absolute style="background-color:#84a9ac; position:fixed; top:0; left:0; overflow-y:hidden;" temporary>
+      <v-list class="pa-1">
+        <v-list-tile avatar>
+          <v-list-tile-avatar>
+            <img src="http://cdn.onlinewebfonts.com/svg/img_97686.png">
+          </v-list-tile-avatar>
+          <v-list-tile-content>
+            <v-list-tile-title>Dialogue Books</v-list-tile-title>
+          </v-list-tile-content>
+        </v-list-tile>
+      </v-list>
+      <v-divider></v-divider>
+      <v-list>
+        <template v-slot:activator>
+          <v-list-tile>
+            <v-list-tile-action>
+              <v-icon>book</v-icon>
+            </v-list-tile-action>
+            <v-list-tile-title>Table of Contents</v-list-tile-title>
+          </v-list-tile>
+        </template>
+        <v-list class="custom-list">
+          <v-list-tile>
+            <h2>Table of Contents</h2>
+          </v-list-tile>
+          <v-list-tile @click="$router.push('/DialogueBooks/DialogueLevelGreen3/unit' + 1)">[Unit 1] Return from space</v-list-tile>
+          <v-list-tile @click="$router.push('/DialogueBooks/DialogueLevelGreen3/unit' + 2)">[Unit 2] In the office</v-list-tile>
+          <v-list-tile @click="$router.push('/DialogueBooks/DialogueLevelGreen3/unit' + 3)">[Unit 3] In the office</v-list-tile>
+          <v-list-tile @click="$router.push('/DialogueBooks/DialogueLevelGreen3/unit' + 4)">[Unit 4] Talking about the past</v-list-tile>
+          <v-list-tile @click="$router.push('/DialogueBooks/DialogueLevelGreen3/unit' + 5)">[Unit 5] In prison</v-list-tile>
+          <v-list-tile @click="$router.push('/DialogueBooks/DialogueLevelGreen3/unit' + 6)">[Unit 6] Going to movies</v-list-tile>
+          <v-list-tile @click="$router.push('/DialogueBooks/DialogueLevelGreen3/unit' + 7)">[Unit 7] Musical</v-list-tile>
+          <v-list-tile @click="$router.push('/DialogueBooks/DialogueLevelGreen3/unit' + 8)">[Unit 8] Secretary</v-list-tile>
+          <v-list-tile @click="$router.push('/DialogueBooks/DialogueLevelGreen3/unit' + 9)">[Unit 9] Dinner with a star</v-list-tile>
+          <v-list-tile @click="$router.push('/DialogueBooks/DialogueLevelGreen3/unit' + 10)">[Unit 10] Going out for dinner</v-list-tile>
+          <v-list-tile @click="$router.push('/DialogueBooks/DialogueLevelGreen3/unit' + 11)">[Unit 11] What are you doing tonight?</v-list-tile>
+          <v-list-tile @click="$router.push('/DialogueBooks/DialogueLevelGreen3/unit' + 12)">[Unit 12] Leisure Time</v-list-tile>
+          <v-list-tile @click="$router.push('/DialogueBooks/DialogueLevelGreen3/unit' + 13)">[Unit 13] Health problems</v-list-tile>
+          <v-list-tile @click="$router.push('/DialogueBooks/DialogueLevelGreen3/unit' + 14)">[Unit 14] At the drugstore</v-list-tile>
+          <v-list-tile @click="$router.push('/DialogueBooks/DialogueLevelGreen3/unit' + 15)">[Unit 15] You're not much help</v-list-tile>
+          <v-list-tile @click="$router.push('/DialogueBooks/DialogueLevelGreen3/unit' + 16)">[Unit 16] How many siblings do you have?</v-list-tile>
+          <v-list-tile @click="$router.push('/DialogueBooks/DialogueLevelGreen3/unit' + 17)">[Unit 17] I need a loan</v-list-tile>
+          <v-list-tile @click="$router.push('/DialogueBooks/DialogueLevelGreen3/unit' + 18)">[Unit 18] That's my business</v-list-tile>
+          <v-list-tile @click="$router.push('/DialogueBooks/DialogueLevelGreen3/unit' + 19)">[Unit 19] When is your birthday?</v-list-tile>
+          <v-list-tile @click="$router.push('/DialogueBooks/DialogueLevelGreen3/unit' + 20)">[Unit 20] City and country</v-list-tile>
+          <v-list-tile @click="$router.push('/DialogueBooks/DialogueLevelGreen3/unit' + 21)">[Unit 21] Buying a book</v-list-tile>
+          <v-list-tile @click="$router.push('/DialogueBooks/DialogueLevelGreen3/unit' + 22)">[Unit 22] The life of Bob Moore – Looking for new apartment</v-list-tile>
+          <v-list-tile @click="$router.push('/DialogueBooks/DialogueLevelGreen3/unit' + 23)">[Unit 23] The life of Bob Moore – Nice view</v-list-tile>
+          <v-list-tile @click="$router.push('/DialogueBooks/DialogueLevelGreen3/unit' + 24)">[Unit 24] How can I help you??</v-list-tile>
+          <v-list-tile @click="$router.push('/DialogueBooks/DialogueLevelGreen3/unit' + 25)">[Unit 25] The Life of Bob Moore – Lucky day</v-list-tile>
+          <v-list-tile @click="$router.push('/DialogueBooks/DialogueLevelGreen3/unit' + 26)">[Unit 26] Waiting for a friend</v-list-tile>
+          <v-list-tile @click="$router.push('/DialogueBooks/DialogueLevelGreen3/unit' + 27)">[Unit 27] Monday morning</v-list-tile>
+          <v-list-tile @click="$router.push('/DialogueBooks/DialogueLevelGreen3/unit' + 28)">[Unit 28] Good luck, Waldo</v-list-tile>
+        </v-list>
+      </v-list>
+    </v-navigation-drawer>
+    <v-toolbar app :fixed="toolbar.fixed" :clipped-left="toolbar.clippedLeft" style="background-color: #84a9ac;">
+      <v-toolbar-side-icon @click.stop="drawer = !drawer"></v-toolbar-side-icon>
+      <v-toolbar-title style="margin-left: 0px; margin-right: 5px;">Daily Dialogues</v-toolbar-title>
+      <v-spacer></v-spacer>
+      <template v-if="speechSlot" #extension>
+        <v-container>
+          <v-row>
+            <v-toolbar-items>
+
+              <v-col cols="4" v-if = "playArrow">
+                <v-icon @click="playSound()" class="ml-5" large color="black">play_arrow</v-icon>
+              </v-col>
+              <v-col cols="4" v-if = "audioPlaying">
+                <v-icon @click="pauseSound()" class="ml-5" large color="black">pause</v-icon>
+              </v-col>
+              <v-spacer></v-spacer>
+              <v-col cols="4">
+                <v-icon @click="stopSound()" large color="black">stop</v-icon>
+              </v-col>
+
+              <v-progress-linear id="progress" :value="percentage" rounded  style = "margin: 15px;" @click.native="onClickProgress($event)"></v-progress-linear>
+
+              <v-spacer></v-spacer>
+        
+              <v-col cols="4">
+                <v-menu offset-y>
+                  <!-- <template v-slot:activator="{ on }">
+                    <v-btn v-on="on" depressed block text color="#c38b8b">{{speechRateText}}</v-btn>
+                  </template> -->
+                  <v-list>
+                    <v-list-item>
+                      <v-list-item-title class="mx-2" @click="changeSpeechRate($event)"><center>0.75x</center></v-list-item-title>
+                    </v-list-item>
+                    <v-divider></v-divider>
+                    <v-list-item>
+                      <v-list-item-title  class="mx-2"  @click="changeSpeechRate($event)"><center>1x</center></v-list-item-title>
+                    </v-list-item>
+                    <v-divider></v-divider>
+                    <v-list-item>
+                      <v-list-item-title  class="mx-2" @click="changeSpeechRate($event)"><center>1.25x</center></v-list-item-title>
+                    </v-list-item>
+                  </v-list>
+                </v-menu>
+              </v-col>
+            </v-toolbar-items>
+          </v-row>
+        </v-container>
+      </template>
+      <v-icon v-on="on" color="black" @click="speechSlot = !speechSlot" large>volume_up</v-icon>
+      <v-menu min-width="100%" offset-y>
+        <template v-slot:activator="{ on }" style="min-width:100%;">
+          <v-toolbar-title v-on="on">
+            <span>ᴀA</span>
+          </v-toolbar-title>
+        </template>
+        <v-list style="overflow-y: hidden;">
+          <v-list-tile>
+            <v-slider v-model="fontSize" :min="1" :max="40" :step="1"></v-slider>
+          </v-list-tile>
+        </v-list>
+      </v-menu>
+    </v-toolbar>
+  </v-layout>
+</div>
+
+
 <div v-if="$route.name === 'FreeTalking_STEP1'">
   <v-layout>
     <v-navigation-drawer v-model="drawer" :mini-variant="mini" absolute style="background-color:#D9D9D6; position:fixed; top:0; left:0; overflow-y:hidden;" temporary>
@@ -1395,9 +1561,11 @@
               <v-spacer></v-spacer>
               <v-col cols="4">
                 <v-icon @click="stopSound()" large color="black">stop</v-icon>
-              </v-col>       
-                       
-              <v-progress-linear :value="percentage" rounded  style = "margin: 15px;" @click.native="setPosition()"></v-progress-linear>
+              </v-col>
+
+             
+             <v-progress-linear id="progress" :value="percentage" rounded  style = "margin: 15px;" @click.native="onClickProgress($event)"></v-progress-linear>
+
                         
               <v-spacer></v-spacer>
               <v-col cols="4">
@@ -1509,8 +1677,10 @@
               <v-col cols="4">
                 <v-icon @click="stopSound()" large color="black">stop</v-icon>
               </v-col>
-              
-              <v-progress-linear :value="percentage" rounded  style = "margin: 15px;" @click.native="setPosition()"></v-progress-linear>
+
+             
+             <v-progress-linear id="progress" :value="percentage" rounded  style = "margin: 15px;" @click.native="onClickProgress($event)"></v-progress-linear>
+
               
               <v-spacer></v-spacer>
               <v-col cols="4">
@@ -1622,7 +1792,7 @@
                 <v-icon @click="stopSound()" large color="black">stop</v-icon>
               </v-col>
 
-              <v-progress-linear :value="percentage" rounded  style = "margin: 15px;" @click.native="setPosition()"></v-progress-linear>
+              <v-progress-linear id="progress" :value="percentage" rounded  style = "margin: 15px;" @click.native="onClickProgress($event)"></v-progress-linear>
 
               <v-spacer></v-spacer>
               <v-col cols="4">
@@ -1734,7 +1904,7 @@
                 <v-icon @click="stopSound()" large color="black">stop</v-icon>
               </v-col>
 
-              <v-progress-linear :value="percentage" rounded  style = "margin: 15px;" @click.native="setPosition()"></v-progress-linear>
+              <v-progress-linear id="progress" :value="percentage" rounded  style = "margin: 15px;" @click.native="onClickProgress($event)"></v-progress-linear>
 
               <v-spacer></v-spacer>
               <v-col cols="4">
@@ -2443,6 +2613,7 @@
     </v-toolbar>
   </v-layout>
 </div>
+
 <div v-if="$route.name === 'FreeTalking_Opinion'">
   <v-layout>
     <v-navigation-drawer v-model="drawer" :mini-variant="mini" absolute style="background-color:#F76830; position:fixed; top:0; left:0; overflow-y:hidden;" temporary>
@@ -2567,7 +2738,8 @@
                 <v-icon @click="stopSound()" large color="black">stop</v-icon>
               </v-col>
 
-              <v-progress-linear :value="percentage" rounded  style = "margin: 15px;" @click.native="setPosition()"></v-progress-linear>
+             
+             <v-progress-linear id="progress" :value="percentage" rounded  style = "margin: 15px;" @click.native="onClickProgress($event)"></v-progress-linear>
               
               <v-spacer></v-spacer>
               <v-col cols="4">
@@ -2610,6 +2782,123 @@
     </v-toolbar>
   </v-layout>
 </div>
+
+<div v-if="$route.name === 'FreeTalking_Opinion_LG'">
+  <v-layout>
+    <v-navigation-drawer v-model="drawer" :mini-variant="mini" absolute style="background-color:#F76830; position:fixed; top:0; left:0; overflow-y:hidden;" temporary>
+      <v-list class="pa-1">
+        <v-list-tile avatar>
+          <v-list-tile-avatar>
+            <img src="http://cdn.onlinewebfonts.com/svg/img_97686.png">
+          </v-list-tile-avatar>
+          <v-list-tile-content>
+            <v-list-tile-title>Free Talking - Opinion</v-list-tile-title>
+          </v-list-tile-content>
+        </v-list-tile>
+      </v-list>
+      <v-divider></v-divider>
+      <v-list>
+        <template v-slot:activator>
+          <v-list-tile>
+            <v-list-tile-action>
+              <v-icon>book</v-icon>
+            </v-list-tile-action>
+            <v-list-tile-title>Table of Contents</v-list-tile-title>
+          </v-list-tile>
+        </template>
+        <v-list class="custom-list" style = "line-height: 1.6;">
+          <v-list-tile>
+            <h2>Table of Contents</h2>
+          </v-list-tile>
+          <p><v-list-tile @click="$router.push('/FreeTalking-Opinion-LG/unit' + 1)">[2020-08-10] Does Cold Weather Cause Colds?</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/FreeTalking-Opinion-LG/unit' + 2)">[2020-08-11] Will Flying Cars Ever Exist?</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/FreeTalking-Opinion-LG/unit' + 3)">[2020-08-12] How Important Is Marriage in Today’s Society?</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/FreeTalking-Opinion-LG/unit' + 4)">[2020-08-13] Are Cough Drops Unhealthy?</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/FreeTalking-Opinion-LG/unit' + 5)">[2020-08-14] Should Christmas Presents Be Mandatory?</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/FreeTalking-Opinion-LG/unit' + 6)">[2020-08-18] Are Hand Sanitizers Unhealthy?</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/FreeTalking-Opinion-LG/unit' + 7)">[2020-08-19] Natural Talent Versus Hard Work</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/FreeTalking-Opinion-LG/unit' + 8)">[2020-08-20] Short Hair Versus Long Hair</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/FreeTalking-Opinion-LG/unit' + 9)">[2020-08-21] 2D Animation Versus 3D Animation</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/FreeTalking-Opinion-LG/unit' + 10)">[2020-08-24] DIY Versus Professional Services</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/FreeTalking-Opinion-LG/unit' + 11)">[2020-08-25] Are Mukbangs Dangerous?</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/FreeTalking-Opinion-LG/unit' + 12)">[2020-08-26] Spontaneous Action Versus Planned Action</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/FreeTalking-Opinion-LG/unit' + 13)">[2020-08-27] Fruits Versus Vegetables</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/FreeTalking-Opinion-LG/unit' + 14)">[2020-08-28] Fresh Food Versus Frozen Food</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/FreeTalking-Opinion-LG/unit' + 15)">[2020-08-31] Is Eating in Public Rude?</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/FreeTalking-Opinion-LG/unit' + 16)">[2020-09-01] Are Regular Visits to the Dentist Necessary?</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/FreeTalking-Opinion-LG/unit' + 17)">[2020-09-02] Plays Versus Musicals</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/FreeTalking-Opinion-LG/unit' + 18)">[2020-09-03] Pianos Versus Guitars</v-list-tile></p>
+          <p><v-list-tile @click="$router.push('/FreeTalking-Opinion-LG/unit' + 19)">[2020-09-04] Is It Okay to Tell White Lies?</v-list-tile></p>
+         
+            
+        </v-list>
+      </v-list>
+    </v-navigation-drawer>
+    <v-toolbar app :fixed="toolbar.fixed" :clipped-left="toolbar.clippedLeft" style="background-color: #F76830;">
+      <v-toolbar-side-icon @click.stop="drawer = !drawer"></v-toolbar-side-icon>
+      <v-toolbar-title style="margin-left: 0px; margin-right: 5px;">Free Talking - Opinion</v-toolbar-title>
+      <v-spacer></v-spacer>
+      <template v-if="speechSlot" #extension>
+        <v-container>
+          <v-row>
+            <v-toolbar-items>
+              <v-col cols="4" v-if = "playArrow">
+                <v-icon @click="playSound()" class="ml-5" large color="black">play_arrow</v-icon>
+              </v-col>
+              <v-col cols="4" v-if = "audioPlaying">
+                <v-icon @click="pauseSound()" class="ml-5" large color="black">pause</v-icon>
+              </v-col>
+              <v-spacer></v-spacer>
+              <v-col cols="4">
+                <v-icon @click="stopSound()" large color="black">stop</v-icon>
+              </v-col>
+
+             
+             <v-progress-linear id="progress" :value="percentage" rounded  style = "margin: 15px;" @click.native="onClickProgress($event)"></v-progress-linear>
+              
+              <v-spacer></v-spacer>
+              <v-col cols="4">
+                <v-menu offset-y>
+                  <!-- <template v-slot:activator="{ on }">
+                     <v-btn v-on="on" depressed block text color="#c38b8b">{{speechRateText}}</v-btn> 
+                  </template> -->
+                  <v-list>
+                    <v-list-item>
+                      <v-list-item-title class="mx-2" @click="changeSpeechRate($event)"><center>0.75x</center></v-list-item-title>
+                    </v-list-item>
+                    <v-divider></v-divider>
+                    <v-list-item>
+                      <v-list-item-title  class="mx-2"  @click="changeSpeechRate($event)"><center>1x</center></v-list-item-title>
+                    </v-list-item>
+                    <v-divider></v-divider>
+                    <v-list-item>
+                      <v-list-item-title  class="mx-2" @click="changeSpeechRate($event)"><center>1.25x</center></v-list-item-title>
+                    </v-list-item>
+                  </v-list>
+                </v-menu>
+              </v-col>
+            </v-toolbar-items>
+          </v-row>
+        </v-container>
+      </template>
+      <v-icon v-on="on" color="black" @click="speechSlot = !speechSlot" large>volume_up</v-icon>
+      <v-menu min-width="100%" offset-y>
+        <template v-slot:activator="{ on }" style="min-width:100%;">
+          <v-toolbar-title v-on="on">
+            <span>ᴀA</span>
+          </v-toolbar-title>
+        </template>
+        <v-list style="overflow-y: hidden;">
+          <v-list-tile>
+            <v-slider v-model="fontSize" :min="1" :max="40" :step="1"></v-slider>
+          </v-list-tile>
+        </v-list>
+      </v-menu>
+    </v-toolbar>
+  </v-layout>
+</div>
+
+
 <div v-if="$route.name === 'Level_test'">
   <v-layout>
     <v-navigation-drawer v-model="drawer" :mini-variant="mini" absolute style="background-color:#F76830; position:fixed; top:0; left:0; overflow-y:hidden;" temporary>
@@ -2637,7 +2926,9 @@
           <v-list-tile>
             <h2>Table of Contents</h2>
           </v-list-tile>
-          <v-list-tile @click="$router.push('/LevelTest/Adult/AdultBeginner' + 1)">[Unit 1] Family</v-list-tile>
+          <v-list-tile @click="$router.push('/LevelTest/Adult/AdultBeginner')">Beginner</v-list-tile>
+          <v-list-tile @click="$router.push('/LevelTest/Adult/AdultInt')"> Intermediate</v-list-tile>
+          <v-list-tile @click="$router.push('/LevelTest/Adult/AdultAdv')">Advanced</v-list-tile>
         </v-list>
       </v-list>
     </v-navigation-drawer>
@@ -2697,6 +2988,8 @@
     </v-toolbar>
   </v-layout>
 </div>
+
+
 <div v-if="$route.name === 'Interview_Step1'">
   <v-layout>
     <v-navigation-drawer v-model="drawer" :mini-variant="mini" absolute style="background-color:#de7119; position:fixed; top:0; left:0; overflow-y:hidden;" temporary>
@@ -2846,6 +3139,30 @@
           <v-list-tile @click="$router.push('/TravelEnglish/TravelEnglish1/chapter' + 4)">[Unit 4] In-flight Service</v-list-tile>
           <v-list-tile @click="$router.push('/TravelEnglish/TravelEnglish1/chapter' + 5)">[Unit 5] At The Airport</v-list-tile>
           <v-list-tile @click="$router.push('/TravelEnglish/TravelEnglish1/chapter' + 6)">[Unit 6] Immigration Counter</v-list-tile>
+          <v-list-tile @click="$router.push('/TravelEnglish/TravelEnglish1/chapter' + 7)">[Unit 7] Baggage Claim</v-list-tile>
+          <v-list-tile @click="$router.push('/TravelEnglish/TravelEnglish1/chapter' + 8)">[Unit 8] Exchange</v-list-tile>
+          <v-list-tile @click="$router.push('/TravelEnglish/TravelEnglish1/chapter' + 9)">[Unit 9] Going to the Hotel</v-list-tile>
+          <v-list-tile @click="$router.push('/TravelEnglish/TravelEnglish1/chapter' + 10)">[Unit 10] At a Hotel</v-list-tile>
+          <v-list-tile @click="$router.push('/TravelEnglish/TravelEnglish1/chapter' + 11)">[Unit 11] Room Card</v-list-tile>
+          <v-list-tile @click="$router.push('/TravelEnglish/TravelEnglish1/chapter' + 12)">[Unit 12] Wake Up Call</v-list-tile>
+          <v-list-tile @click="$router.push('/TravelEnglish/TravelEnglish1/chapter' + 13)">[Unit 13] Fitness Center</v-list-tile>
+          <v-list-tile @click="$router.push('/TravelEnglish/TravelEnglish1/chapter' + 14)">[Unit 14] Swimming Pool</v-list-tile>
+          <v-list-tile @click="$router.push('/TravelEnglish/TravelEnglish1/chapter' + 15)">[Unit 15] Information Center</v-list-tile>
+          <v-list-tile @click="$router.push('/TravelEnglish/TravelEnglish1/chapter' + 16)">[Unit 16] Tourist Books</v-list-tile>
+          <v-list-tile @click="$router.push('/TravelEnglish/TravelEnglish1/chapter' + 17)">[Unit 17] Finding a Way 2</v-list-tile>
+          <v-list-tile @click="$router.push('/TravelEnglish/TravelEnglish1/chapter' + 18)">[Unit 18] At Tourist Spots</v-list-tile>
+          <v-list-tile @click="$router.push('/TravelEnglish/TravelEnglish1/chapter' + 19)">[Unit 19] At a Tourist Spot 1</v-list-tile>
+          <v-list-tile @click="$router.push('/TravelEnglish/TravelEnglish1/chapter' + 20)">[Unit 20] At a Tourist Spot 2</v-list-tile>
+          <v-list-tile @click="$router.push('/TravelEnglish/TravelEnglish1/chapter' + 21)">[Unit 21] Shopping</v-list-tile>
+          <v-list-tile @click="$router.push('/TravelEnglish/TravelEnglish1/chapter' + 22)">[Unit 22] Shopping 1</v-list-tile>
+          <v-list-tile @click="$router.push('/TravelEnglish/TravelEnglish1/chapter' + 23)">[Unit 23] Shopping 2</v-list-tile>
+          <v-list-tile @click="$router.push('/TravelEnglish/TravelEnglish1/chapter' + 24)">[Unit 24] In an Emergency 1</v-list-tile>
+          <v-list-tile @click="$router.push('/TravelEnglish/TravelEnglish1/chapter' + 25)">[Unit 25] In an Emergency 2</v-list-tile>
+          <v-list-tile @click="$router.push('/TravelEnglish/TravelEnglish1/chapter' + 26)">[Unit 26] At a Hotel, Check-out</v-list-tile>
+          <v-list-tile @click="$router.push('/TravelEnglish/TravelEnglish1/chapter' + 27)">[Unit 27] At the Airport, check-in</v-list-tile>
+          <v-list-tile @click="$router.push('/TravelEnglish/TravelEnglish1/chapter' + 28)">[Unit 28] At the Airport, Going Through Security</v-list-tile>
+          <v-list-tile @click="$router.push('/TravelEnglish/TravelEnglish1/chapter' + 29)">[Unit 29] At the Airport, Tax Refund</v-list-tile>
+          <v-list-tile @click="$router.push('/TravelEnglish/TravelEnglish1/chapter' + 30)">[Unit 30] At the Airport, Departing</v-list-tile>
         </v-list>
       </v-list>
     </v-navigation-drawer>
@@ -2855,22 +3172,29 @@
       <img src="https://img.icons8.com/ios-filled/50/000000/airplane-take-off.png" style="max-width: 30%; display:block; height: 55%;"/>
       <v-spacer></v-spacer>
       <template v-if="speechSlot" #extension>
-        <v-container>
+         <v-container>
           <v-row>
             <v-toolbar-items>
-              <v-col cols="4">
-                <v-icon @click="textToSpeech()" class="ml-5" large color="black">{{icon}}</v-icon>
+              <v-col cols="4" v-if = "playArrow">
+                <v-icon @click="playSound()" class="ml-5" large color="black">play_arrow</v-icon>
+              </v-col>
+              <v-col cols="4" v-if = "audioPlaying">
+                <v-icon @click="pauseSound()" class="ml-5" large color="black">pause</v-icon>
               </v-col>
               <v-spacer></v-spacer>
               <v-col cols="4">
                 <v-icon @click="stopSound()" large color="black">stop</v-icon>
               </v-col>
+
+             
+             <v-progress-linear id="progress" :value="percentage" rounded  style = "margin: 15px;" @click.native="onClickProgress($event)"></v-progress-linear>
+
               <v-spacer></v-spacer>
               <v-col cols="4">
                 <v-menu offset-y>
-                  <template v-slot:activator="{ on }">
+                  <!-- <template v-slot:activator="{ on }">
                     <v-btn v-on="on" depressed block text color="#c38b8b">{{speechRateText}}</v-btn>
-                  </template>
+                  </template> -->
                   <v-list>
                     <v-list-item>
                       <v-list-item-title class="mx-2" @click="changeSpeechRate($event)"><center>0.75x</center></v-list-item-title>
@@ -2906,6 +3230,7 @@
     </v-toolbar>
   </v-layout>
 </div>
+
 <div v-if="$route.name === 'IT_Issues'">
   <v-layout>
     <v-navigation-drawer v-model="drawer" :mini-variant="mini" absolute style="background-color:#59CCD9; position:fixed; top:0; left:0; overflow-y:hidden;" temporary>
@@ -3012,16 +3337,114 @@
     </v-toolbar>
   </v-layout>
 </div>
+
+<div v-if="$route.name === 'Speaking_Pattern_Drills'">
+  <v-layout>
+    <v-navigation-drawer v-model="drawer" :mini-variant="mini" absolute style="background-color: #a6c1ee; position:fixed; top:0; left:0; overflow-y:hidden;" temporary>
+      <v-list class="pa-1">
+        <v-list-tile avatar>
+          <v-list-tile-avatar>
+            <img src="http://cdn.onlinewebfonts.com/svg/img_97686.png">
+          </v-list-tile-avatar>
+          <v-list-tile-content>
+            <v-list-tile-title>Speaking Pattern Drills</v-list-tile-title>
+          </v-list-tile-content>
+        </v-list-tile>
+      </v-list>
+      <v-divider></v-divider>
+      <v-list>
+        <template v-slot:activator>
+          <v-list-tile>
+            <v-list-tile-action>
+              <v-icon>book</v-icon>
+            </v-list-tile-action>
+            <v-list-tile-title>Table of Contents</v-list-tile-title>
+          </v-list-tile>
+        </template>
+        <v-list class="custom-list">
+          <v-list-tile>
+            <h2>Table of Contents</h2>
+          </v-list-tile>
+          <v-list-tile @click="$router.push('/LevelTest/Adult/AdultBeginner')">Beginner</v-list-tile>
+          <v-list-tile @click="$router.push('/LevelTest/Adult/AdultInt')"> Intermediate</v-list-tile>
+          <v-list-tile @click="$router.push('/LevelTest/Adult/AdultAdv')">Advanced</v-list-tile>
+        </v-list>
+      </v-list>
+    </v-navigation-drawer>
+    <v-toolbar app :fixed="toolbar.fixed" :clipped-left="toolbar.clippedLeft" style="background-color: #a6c1ee;">
+      <v-toolbar-side-icon @click.stop="drawer = !drawer"></v-toolbar-side-icon>
+      <v-toolbar-title style="margin-left: 0px; margin-right: 5px;">Speaking Pattern Drills</v-toolbar-title>
+      <v-spacer></v-spacer>
+      <template v-if="speechSlot" #extension>
+        <v-container>
+          <v-row>
+            <v-toolbar-items>
+              <v-col cols="4">
+                <v-icon @click="textToSpeech()" class="ml-5" large color="black">{{icon}}</v-icon>
+              </v-col>
+              <v-spacer></v-spacer>
+              <v-col cols="4">
+                <v-icon @click="stopSound()" large color="black">stop</v-icon>
+              </v-col>
+              <v-spacer></v-spacer>
+              <v-col cols="4">
+                <v-menu offset-y>
+                  <template v-slot:activator="{ on }">
+                    <v-btn v-on="on" depressed block text color="#c38b8b">{{speechRateText}}</v-btn>
+                  </template>
+                  <v-list>
+                    <v-list-item>
+                      <v-list-item-title class="mx-2" @click="changeSpeechRate($event)"><center>0.75x</center></v-list-item-title>
+                    </v-list-item>
+                    <v-divider></v-divider>
+                    <v-list-item>
+                      <v-list-item-title  class="mx-2"  @click="changeSpeechRate($event)"><center>1x</center></v-list-item-title>
+                    </v-list-item>
+                    <v-divider></v-divider>
+                    <v-list-item>
+                      <v-list-item-title  class="mx-2" @click="changeSpeechRate($event)"><center>1.25x</center></v-list-item-title>
+                    </v-list-item>
+                  </v-list>
+                </v-menu>
+              </v-col>
+            </v-toolbar-items>
+          </v-row>
+        </v-container>
+      </template>
+      <v-icon v-on="on" color="black" @click="speechSlot = !speechSlot" large>volume_up</v-icon>
+      <v-menu min-width="100%" offset-y>
+        <template v-slot:activator="{ on }" style="min-width:100%;">
+          <v-toolbar-title v-on="on">
+            <span>ᴀA</span>
+          </v-toolbar-title>
+        </template>
+        <v-list style="overflow-y: hidden;">
+          <v-list-tile>
+            <v-slider v-model="fontSize" :min="1" :max="40" :step="1"></v-slider>
+          </v-list-tile>
+        </v-list>
+      </v-menu>
+    </v-toolbar>
+  </v-layout>
+</div>
+
 <router-view :fontSize="fontSize"></router-view>
 </v-app>
 </template>
 
+
+
 <script>
+
 import Speech from 'speak-tts'
 import Vue from 'vue'
+import axios from 'axios'
+
+
 export default {
-  data() {
-    return {
+ 
+  data: () => ({
+  
       drawer: null,
       pathname: window.location.pathname,
       items: [{
@@ -3054,8 +3477,11 @@ export default {
     audioPlaying: false,
     audio: '',
     percentage: 0,
-  }
-},
+    audioPercent: 0,
+
+    bookSrc: '',
+  }),
+  
 watch: {
   fontSize(current, old) {
   },
@@ -3076,9 +3502,36 @@ mounted() {
 },
 
 methods: {
-  setPosition () {
-               this.percentage = Math.round(this.audio.currentTime / this.audio.duration * 100);
-               console.log(this.percentage)
+
+  onSeeking(){
+    console.log('seek')
+  },
+
+   onClickProgress(event) {
+           
+            let el = document.getElementById("progress"),
+               mousePos = event.offsetX,
+               elWidth = el.clientWidth,
+               percents = (mousePos / elWidth) * 100;
+
+                this.audioPercent = percents
+                this.percentage = this.audioPercent
+                this.audio.currentTime = this.percentage
+             // this.audio.preload = 'metadata'
+              // var vm = this
+              // this.audio.addEventListener('canplaythrough', function(){
+              //     console.log(vm.percentage)
+              //     vm.audio.currentTime = 10
+              // })
+
+              console.log(this.audio.currentTime)
+              console.log(this.percentage)
+              
+            
+        },
+
+  setPosition () {     
+              this.percentage  =  this.audio.currentTime / this.audio.duration * 100
                if(this.percentage == 100){
                  this.percentage = 0;
                  this.stopSound()
@@ -3086,19 +3539,20 @@ methods: {
             },
 
   playSound() {
-    console.log(this.audio.paused, 'hi')
+
 
     if(this.audio.paused && !this.audioPlaying){
-      this.audio.play(); 
-      this.playArrow = false
-    }else{
+          this.audio.play(); 
+          this.playArrow = false
+      } else{
+
         if(this.$router.history.current.fullPath.indexOf('/FreeTalking-QnA/FreeTalking-STEP1') != -1){
-      for(var i = 0; i < 21; i++){
+        for(var i = 0; i < 21; i++){
         if(this.$router.history.current.fullPath === '/FreeTalking-QnA/FreeTalking-STEP1/chapter' + i){
           this.audio = new Audio('../../audio/FreeTalkingQ&A/White/Unit' +i+ '.mp3')
           this.icon = "pause";
           this.audioPlaying = true;
-          this.playArrow = false;
+          this.playArrow = false;      
           setInterval(this.setPosition, 50)
         }
       }
@@ -3152,6 +3606,30 @@ methods: {
       }
     }
 
+    if(this.$router.history.current.fullPath.indexOf('/DialogueBooks/DialogueLevel2') != -1){
+      for(var i = 0; i < 29; i++){
+        if(this.$router.history.current.fullPath === '/DialogueBooks/DialogueLevel2/unit' + i){
+          this.audio = new Audio('../../audio/DialogueBooks/Yellow/Unit' +i+ '.mp3')
+          this.icon = "pause";
+          this.audioPlaying = true;
+          this.playArrow = false;
+          setInterval(this.setPosition, 50)
+        }
+      }
+    }
+
+    if(this.$router.history.current.fullPath.indexOf('/DialogueBooks/DialogueLevelGreen3') != -1){
+      for(var i = 0; i < 29; i++){
+        if(this.$router.history.current.fullPath === '/DialogueBooks/DialogueLevelGreen3/unit' + i){
+          this.audio = new Audio('../../audio/DialogueBooks/Green/Unit' +i+ '.mp3')
+          this.icon = "pause";
+          this.audioPlaying = true;
+          this.playArrow = false;
+          setInterval(this.setPosition, 50)
+        }
+      }
+    }
+
     if(this.$router.history.current.fullPath.indexOf('/FreeTalkingOpinion/FreeTalkingOpinion1') != -1){
       for(var i = 0; i < 76; i++){
         if(this.$router.history.current.fullPath === '/FreeTalkingOpinion/FreeTalkingOpinion1/chapter' + i){
@@ -3164,10 +3642,95 @@ methods: {
       }
     }
 
+    if(this.$router.history.current.fullPath.indexOf('/FreeTalking-Opinion-LG') != -1){
+      for(var i = 0; i < 76; i++){
+        if(this.$router.history.current.fullPath === '/FreeTalking-Opinion-LG/unit' + i){
+          this.audio = new Audio('../../audio/FreeTalking-Opinion-LG/Unit' +i+ '.mp3')
+          this.icon = "pause";
+          this.audioPlaying = true;
+          this.playArrow = false;
+          setInterval(this.setPosition, 50)
+        }
+      }
+    }
+
+    if(this.$router.history.current.fullPath.indexOf('/PrototypeBusiness/BusinessStep1') != -1){
+      for(var i = 0; i < 21; i++){
+        if(this.$router.history.current.fullPath === '/PrototypeBusiness/BusinessStep1/chapter' + i){
+          this.audio = new Audio('../../audio/Business-Book/BusinessStep1/Unit'  +i+ '.mp3')
+          this.icon = "pause";
+          this.audioPlaying = true;
+          this.playArrow = false;
+          setInterval(this.setPosition, 50)
+        }
+      }
+    }
+    
+    if(this.$router.history.current.fullPath.indexOf('/PrototypeBusiness/BusinessStep2') != -1){
+      for(var i = 0; i < 21; i++){
+        if(this.$router.history.current.fullPath === '/PrototypeBusiness/BusinessStep2/chapter' + i){
+          this.audio = new Audio('../../audio/Business-Book/BusinessStep2/Unit' +i+ '.mp3')
+          this.icon = "pause";
+          this.audioPlaying = true;
+          this.playArrow = false;
+          setInterval(this.setPosition, 50)
+        }
+      }
+    }
+
+    if(this.$router.history.current.fullPath.indexOf('/PrototypeBusiness/BusinessStep3') != -1){
+      for(var i = 0; i < 21; i++){
+        if(this.$router.history.current.fullPath === '/PrototypeBusiness/BusinessStep3/chapter' + i){
+          this.audio = new Audio('../../audio/Business-Book/BusinessStep3/Unit' +i+ '.mp3')
+          this.icon = "pause";
+          this.audioPlaying = true;
+          this.playArrow = false;
+          setInterval(this.setPosition, 50)
+        }
+      }
+    }
+
+    if(this.$router.history.current.fullPath.indexOf('/PrototypeBusiness/BusinessStep4') != -1){
+      for(var i = 0; i < 21; i++){
+        if(this.$router.history.current.fullPath === '/PrototypeBusiness/BusinessStep4/chapter' + i){
+          this.audio = new Audio('../../audio/Business-Book/BusinessStep4/Unit' +i+ '.mp3')
+          this.icon = "pause";
+          this.audioPlaying = true;
+          this.playArrow = false;
+          setInterval(this.setPosition, 50)
+        }
+      }
+    }
+
+    if(this.$router.history.current.fullPath.indexOf('/TravelEnglish/TravelEnglish1') != -1){
+      for(var i = 0; i < 31; i++){
+        if(this.$router.history.current.fullPath === '/TravelEnglish/TravelEnglish1/chapter' + i){
+          this.audio = new Audio('../../audio/TravelEnglish/Unit' +i+ '.mp3')
+          this.icon = "pause";
+          this.audioPlaying = true;
+          this.playArrow = false;
+          setInterval(this.setPosition, 50)
+        }
+      }
+    }
+
+    if(this.$router.history.current.fullPath.indexOf('/pattern-course/adultbasic') != -1){
+      for(var i = 0; i < 31; i++){
+        if(this.$router.history.current.fullPath === '/pattern-course/adultbasic/chapter' + i){
+          this.audio = new Audio('../../audio/GrammarPattern_Basic/Unit' +i+ '.mp3')
+          this.icon = "pause";
+          this.audioPlaying = true;
+          this.playArrow = false;
+          setInterval(this.setPosition, 50)
+        }
+      }
+    }
+
 
     }
     this.audio.play()
     this.audioPlaying = true
+    console.log(this.bookSrc)
   },
 
   pauseSound() {
@@ -3308,7 +3871,8 @@ changeSpeechRate(selected){
 
 }
 
-.unit1 a{
+
+.ch {
   height: 35px;
 
 }

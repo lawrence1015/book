@@ -30,7 +30,7 @@
   <div style = "padding : 16px;">
 
       <h3>
-        The upper picture shows the Girls Generation that is composed of nine members. The picture below shows The Wonder Girls that consist of five members. The female groups are popular and they are highly competing themselves in Korean pop culture.
+        The upper picture shows the Girls Generation that is composed of nine members. The picture below shows The Wonder Girls that consist of five members. These female groups are popular and they are highly competing themselves in Korean pop culture.
       </h3>
 
       <p>

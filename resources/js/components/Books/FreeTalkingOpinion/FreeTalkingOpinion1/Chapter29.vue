@@ -28,7 +28,7 @@
   </div>
 
   <h3  class = "border white--text" style = "border-radius: 0px 0px 70px 0px;" >Topic</h3>
-  <div style = "padding : 16px; line-height: 200%;">
+  <div style = "padding : 16px; line-height: 1.6;">
 
     <table style = "border-collapse: collapse;">
 
@@ -36,7 +36,7 @@
       <td class = "uppertable" ><b>Jane :</b></td>
       <td class = "lowertable" >People need to bathe every day, especially in the summer. The smell of body odor is repulsive! It’s better to feel fresh, clean, and smell nice than to be dirty and stinky.</td>
     </tr>
-    <tr>
+    <tr style="color:#1565C0;">
       <td class = "uppertable" ><b>Tom :</b></td>
       <td class = "lowertable" >Studies have shown daily showers are not good. People irritate and dry out their skin from constant washing. They could also be removing helpful bacteria that helps skin stay healthy.</td>
     </tr>
@@ -57,34 +57,34 @@
       <div style="padding : 16px;">
 
         <p>
-          <b>odor 냄새</b>
+          <b>odor</b> 냄새
         </p>
         <p>
-          <b>repulsive 역겨운 </b>
+          <b>repulsive</b> 역겨운 
         </p>
         <p>
-          <b>fresh 상쾌한 </b>
+          <b>fresh</b> 상쾌한 
         </p>
         <p>
-          <b>dirty 더러운 </b>
+          <b>dirty</b> 더러운 
         </p>
         <p>
-          <b>stinky 악취가 나는 </b>
+          <b>stinky</b> 악취가 나는 
         </p>
         <p>
-          <b>irritate 자극하다 </b>
+          <b>irritate</b> 자극하다 
         </p>
         <p>
-          <b>constant 끊임없는 </b>
+          <b>constant</b> 끊임없는 
         </p>
         <p>
-          <b>remove 없애다 </b>
+          <b>remove</b> 없애다 
         </p>
         <p>
-          <b>helpful 도움이 되는 </b>
+          <b>helpful</b> 도움이 되는 
         </p>
         <p>
-          <b>bacteria 세균</b>
+          <b>bacteria</b> 세균
         </p>
 
       </div>
@@ -103,15 +103,16 @@
                  width: 100px;">해석</h3>
       <div style="padding : 16px;">
 
+
         <table style = "border-collapse: collapse;">
 
           <tr>
             <td class = "uppertable" ><b>제인 :</b></td>
-            <td class = "lowertable" >사람들은 특히 여름에 매일 목욕을 해야 해 체취 냄새가 역겨워! 더럽고 악취가 나는 것보다는 신선하고 깨끗하며 좋은 냄새가 나는 것이 좋아.</td>
+            <td class = "lowertable" style = "word-break: keep-all">사람들은 특히 여름에 매일 목욕을 해야 해 체취 냄새가 역겨워! 더럽고 악취가 나는 것보다는 신선하고 깨끗하며 좋은 냄새가 나는 것이 좋아.</td>
           </tr>
-          <tr>
+          <tr style="color:#1565C0;">
             <td class = "uppertable" ><b>탐 :</b></td>
-            <td class = "lowertable" >매일 샤워하는 것이 좋지 않다는 연구 결과가 있어. 사람들은 끊임없는 씻는 것을 통해 피부를 자극하고 건조시켜. 또한 피부를 건강하게 하는 데 도움이 되는 박테리아를 제거할 수도 있어.</td>
+            <td class = "lowertable" style = "word-break: keep-all">매일 샤워하는 것이 좋지 않다는 연구 결과가 있어. 사람들은 끊임없는 씻는 것을 통해 피부를 자극하고 건조시켜. 또한 피부를 건강하게 하는 데 도움이 되는 박테리아를 제거할 수도 있어.</td>
           </tr>
       
           </table>
@@ -125,8 +126,6 @@
 
 
   </v-layout>
-</v-container>
-</v-layout>
 </v-container>
 </div>
 
@@ -191,10 +190,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

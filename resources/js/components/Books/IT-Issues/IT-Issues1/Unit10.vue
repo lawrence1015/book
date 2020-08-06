@@ -34,7 +34,7 @@
         *GDPR- General Data Protection Regulation
       </p>
 
-      <p>Distributed computing innovation altogether depends on the virtualizations of equipment and programming and its administration situated engineering and a few other words included administrations. We have a couple of cloud inclines that will have an incredible effect in the up and coming years. Joining 5G with distributed computing advances can offer quicker portable assistance associations, Quantum Computing is relied upon to change numerical, material science, and software engineering hypotheses into the real world, Hybrid cloud arrangements guarantees that the danger of progress and by and large expenses are decreased, Dealing with General Data Protection Regulation, AI stages are principally intended to work more adequately and insightfully than progressively customary systems and Enhancing Multi-cloud, so accordingly, distributed computing ends up being a practical choice.
+      <p>Distributed computing innovation altogether depends on the virtualizations of equipment and programming and its administration situated engineering and a few other words included administrations. We have a couple of cloud inclines that will have an incredible effect in the up and coming years. Joining 5G with distributed computing advances can offer quicker portable assistance associations, Quantum Computing is relied upon to change numerical, material science, and software engineering hypotheses into the real world. Hybrid cloud arrangements guarantees that the danger of progress and by and large expenses are decreased. Dealing with General Data Protection Regulation, AI stages are principally intended to work more adequately and insightfully than progressively customary systems and Enhancing Multi-cloud, so accordingly, distributed computing ends up being a practical choice.
       </p>
 
       <h3 class = "reverseborder white--text" style="padding-top: 7px;
@@ -64,19 +64,19 @@
           <b>virtualization</b> <span class = "korean">가상 현실화.</span>
         </p>
         <p>
-          <b>trend</b> <span class = "korean">동향, 추세</span>
+          <b>administrations</b> <span class = "korean">관리, 집행</span>
         </p>
         <p>
-          <b>transition</b> <span class = "korean">이행[과도]</span>
+          <b>portable</b> <span class = "korean">휴대하기 쉬운</span>
         </p>
         <p>
-          <b>impact</b> <span class = "korean">영향, 충격, 충돌, 충격, 영향[충격]을 주다, 충돌하다</span>
+          <b>principally</b> <span class = "korean">주로</span>
         </p>
         <p>
-          <b>platform</b> <span class = "korean">플랫폼, 단, 연단, 강단, 대, 정견[공약], 정견 발표장, 의견 발표 기회; 발판</span>
+          <b>adequately</b> <span class = "korean">적절하게</span>
         </p>
         <p>
-          <b>framework</b> <span class = "korean">뼈대[골조], 틀, 체제, 체계</span>
+          <b>insightfully</b> <span class = "korean">통찰력있게</span>
         </p>
 
       </div>
@@ -105,13 +105,16 @@
       <div style="padding : 16px;">
 
         <p>
-          <b>entirely relies on the virtualizations</b> <span class = "korean">가상화에 전적으로 의존합니다.</span>
+          <b>a couple of</b> <span class = "korean">몇 개의</span>
         </p>
         <p>
-          <b>service-oriented architecture</b> <span class = "korean">서비스 지향 아키텍처입니다.</span>
+          <b>accordingly</b> <span class = "korean">부응해서, 그런 이유로</span>
         </p>
         <p>
-          <b>value-added services</b> <span class = "korean">부가 가치 서비스입니다.</span>
+          <b>rely upon</b> <span class = "korean">~에 의지하다</span>
+        </p>
+        <p>
+          <b>end up</b> <span class = "korean"> (결국) 끝내다</span>
         </p>
 
       </div>
@@ -192,10 +195,10 @@
                       <b>클라우드 아키텍처 및 클라우드 컴퓨팅 동향입니다.</b></span>
                     </p>
                     <p>
-                      <span class = "korean">*GDPR- 일반 데이터 보호 규정입니다.</span>
+                      <span class = "korean">*GDPR- 일반 데이터 보호 규정</span>
                     </p>
                     <p>
-                      <span class = "korean">분산 컴퓨팅 혁신은 모두 장비 및 프로그래밍의 가상화, 관리 위치 엔지니어링 및 기타 몇 가지 가치에 포함된 관리 작업에 달려 있습니다. 앞으로 몇 년 동안 놀라운 효과를 가져올 클라우드 인클라인도 몇 개 있습니다. 5G에 분산 컴퓨팅 기술을 도입하면 보다 빠른 휴대용 지원 연결을 제공할 수 있습니다. Quantum Computing은 수치, 재료 과학 및 소프트웨어 엔지니어링 가설을 현실로 바꿀 수 있습니다. 하이브리드 클라우드 배열은 진행 및 비용 절감의 위험을 보장합니다. General과의 거래데이터 보호 규정(Eral Data Protection Regulation), AI 단계는 주로 점진적인 관습적인 시스템과 멀티 클라우드 개선보다 더 적절하고 통찰력 있게 작동하도록 의도되어 있으므로 분산 컴퓨팅은 결국 실용적인 선택이 됩니다.
+                      <span class = "korean">분산 컴퓨팅의 혁신은 기기와 프로그래밍의 가상화와 그 관리 현장에서의 엔지니어링 및 수어에 걸친 관리에 의존합니다. 클라우드의 경향은 몇 가지 있으며 앞으로 몇 년간은 믿을 수 없을 정도의 영향을 미칠 것입니다. 제 5세대를 분산 컴퓨팅의 진보와 연결시킴으로써 보다 고속의 휴대하기 쉬운 도움을 제공할 수 있습니다. 양자 컴퓨팅은, 수치, 재료 과학, 및 소프트웨어 엔지니어링의 가설을 현실 세계로 바꾸는 것에 의지하고 있습니다. 하이브리드 클라우드 도입으로 진보의 위험성이 줄고 비용도 대폭 절감됩니다. 일반적인 데이터 보호규칙에서 AI스테이지는 기존의 시스템과 멀티 클라우드 강화보다도 보다 적절하고 통찰력 있는 작업을 하는 것을 주목적으로 하고 있습니다. 따라서 분산 컴퓨팅은 현실적인 선택사항이 됩니다.
                       </span>
                     </p>
                   </v-card-text>

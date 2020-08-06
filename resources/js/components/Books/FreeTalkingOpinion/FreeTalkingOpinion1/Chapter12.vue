@@ -29,7 +29,7 @@
   </div>
 
   <h3  class = "border white--text" style = "border-radius: 0px 0px 70px 0px;" >Topic</h3>
-  <div style = "padding : 16px; line-height: 200%;">
+  <div style = "padding : 16px; line-height: 1.6;">
 
     <table style = "border-collapse: collapse;">
 
@@ -39,7 +39,7 @@
       Many terminally Ill patients are forced to live when there is not much hope.
       This gives them and their caregivers a lot of mental, physical, and financial stress.</td>
     </tr>
-    <tr>
+    <tr style="color:#1565C0;">
       <td class = "uppertable" ><b>B :</b></td>
       <td class = "lowertable" >I think allowing euthanasia puts doctors in a very difficult position.
       It is hard for doctors to end somebody else's life.</td>
@@ -61,40 +61,40 @@
       <div style="padding : 16px;">
 
         <p>
-          <b>euthanasia 안락사</b>
+          <b>euthanasia</b> 안락사
         </p>
         <p>
-          <b>discuss 의논하다</b>
+          <b>discuss</b> 의논하다
         </p>
         <p>
-          <b>whether ~ 인지 아닌지</b>
+          <b>whether</b> ~ 인지 아닌지
         </p>
         <p>
-          <b>allow 허용하다</b>
+          <b>allow</b> 허용하다
         </p>
         <p>
-          <b>terminally 사망할 정도로</b>
+          <b>terminally</b> 사망할 정도로
         </p>
         <p>
-          <b>dignity 존엄감</b>
+          <b>dignity</b> 존엄감
         </p>
         <p>
-          <b>force 강제되다</b>
+          <b>force</b> 강제되다
         </p>
         <p>
-          <b>caregiver 돌보는 사람</b>
+          <b>caregiver</b> 돌보는 사람
         </p>
         <p>
-          <b>mental 정신적인</b>
+          <b>mental</b> 정신적인
         </p>
         <p>
-          <b>physical 신체적인</b>
+          <b>physical</b> 신체적인
         </p>
         <p>
-          <b>financial 재정적인</b>
+          <b>financial</b> 재정적인
         </p>
         <p>
-          <b>position 위치</b>
+          <b>position</b> 위치
         </p>
 
       </div>
@@ -113,38 +113,28 @@
                  width: 100px;">해석</h3>
       <div style="padding : 16px;">
 
-        <p>
-
-          <v-container grid-list-md text-xs-left>
-            <v-layout row wrap>
-
-
-              <v-flex xs12>
-                <v-card light color="#FFE7D5">
-                  <v-card-text class="px-10">
-                    <p>
+                     
+                      <p class = "korean">
+                        <b>
                         안락사를 허용해야 할까요?
-                    </p>
-                    <ol class="replace" type = "A" style="font-weight: bold;">
-                      <li><span class = "normaltext">
-                          사람들은 존엄하게 죽을 권리가 있습니다.
+                        </b>
+                      </p>
+
+                      <table style = "border-collapse: collapse;">
+
+                       <tr>
+                        <td class = "uppertable" ><b>A :</b></td>
+                        <td class = "lowertable" style = "word-break: keep-all" >사람들은 존엄하게 죽을 권리가 있습니다.
                           많은 불치병 환자들은 희망이 별로 없을 때에도 살도록 강요 받습니다.
-                          이것은 그들과 그들의 간병인들에게 많은 정신적, 육체적, 재정적 스트레스를 줍니다.
-                        </span>
-                      </li>
-                      <li><span class = "normaltext">
-                        안락사를 허용하는 것이 의사들을 매우 곤란하게 한다고 생각합니다. 의사들이 다른 사람의 삶을 끝내는 것은 어렵습니다.
-                      </span>
-                      </li>
-                    </ol>
+                          이것은 그들과 그들의 간병인들에게 많은 정신적, 육체적, 재정적 스트레스를 줍니다.</td>
+                      </tr>
+                      <tr style="color:#1565C0;">
+                        <td class = "uppertable" ><b>B :</b></td>
+                        <td class = "lowertable" style = "word-break: keep-all" >안락사를 허용하는 것이 의사들을 매우 곤란하게 한다고 생각합니다. 의사들이 다른 사람의 삶을 끝내는 것은 어렵습니다.</td>
+                      </tr>
 
-                  </v-card-text>
-                </v-card>
-              </v-flex>
-            </v-layout>
-          </v-container>
-
-        </p>
+                    
+                      </table>
 
 
       </div>
@@ -154,8 +144,6 @@
 
 
   </v-layout>
-</v-container>
-</v-layout>
 </v-container>
 </div>
 
@@ -220,10 +208,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

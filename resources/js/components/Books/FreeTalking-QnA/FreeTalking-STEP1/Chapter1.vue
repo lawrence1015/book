@@ -67,9 +67,6 @@
        What family member do you want to see that you haven't seen in a long time?<br />
        Why do you want to see that person?<br />
        Why haven't you seen that person in a long time?</li>
-       <ul>
-       <li class="mt-2"> If so, how many children do you have? Talk about them.</li>
-       </ul>
      </li>
      <br />
      <li class="mb-2">

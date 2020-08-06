@@ -30,7 +30,7 @@
   <div style = "padding : 16px;">
 
       <h3>
-        This is preparation for a special occasion. The red carpet is used for a very influential person (V.I.P). It shows a high level of treatment and honor.
+        This is a preparation for a special occasion. The red carpet is used for a very influential person (V.I.P). It shows a high level of treatment and honor.
       </h3>
 
       <p>

@@ -29,7 +29,7 @@
   </div>
 
   <h3  class = "border white--text" style = "border-radius: 0px 0px 70px 0px;" >Topic</h3>
-  <div style = "padding : 16px; line-height: 200%;">
+  <div style = "padding : 16px; line-height: 1.6;">
 
     <table style = "border-collapse: collapse;">
 
@@ -37,7 +37,7 @@
       <td class = "uppertable" ><b>Jane :</b></td>
       <td class = "lowertable" >It’s a basic human instinct to judge others by their appearance. Why do you think our ancestors learned this behavior? It’s because a person’s true character always comes out through their physical form!</td>
     </tr>
-    <tr>
+    <tr style="color:#1565C0;">
       <td class = "uppertable" ><b>Tom :</b></td>
       <td class = "lowertable" >Deciding someone’s temperament and character from their appearance is ridiculous and shallow. Taking physiognomy seriously is dangerous because it lacks scientific evidence and commonly results in discrimination based on race and sex.</td>
     </tr>
@@ -58,43 +58,42 @@
       <div style="padding : 16px;">
 
         <p>
-          <b>basic 기본적인 </b>
+          <b>basic</b> 기본적인 
         </p>
         <p>
-          <b>instinct 본능 </b>
+          <b>instinct</b> 본능 
         </p>
         <p>
-          <b>appearance 외모 </b>
+          <b>appearance</b> 외모 
         </p>
         <p>
-          <b>behavior 행동 </b>
+          <b>behavior</b> 행동 
         </p>
         <p>
-          <b>character 성격 </b>
+          <b>character</b> 성격 
         </p>
         <p>
-          <b>physical 신체적 </b>
+          <b>physical</b> 신체적 
         </p>
         <p>
-          <b>form 모습 </b>
+          <b>form</b> 모습 
         </p>
         <p>
-          <b>temperament 기질</b>
+          <b>temperament</b> 기질
         </p>
         <p>
-          <b>shallow 천박한 </b>
+          <b>shallow</b> 천박한 
         </p>
         <p>
-          <b>evidence 증거 </b>
+          <b>evidence</b> 증거 
         </p>
         <p>
-          <b>discrimination 차별 </b>
+          <b>discrimination</b> 차별 
+        <p>
+          <b>race</b> 인종 
         </p>
         <p>
-          <b>race 인종 </b>
-        </p>
-        <p>
-          <b>sex 성별</b>
+          <b>sex</b> 성별
         </p>
 
       </div>
@@ -119,9 +118,9 @@
             <td class = "uppertable" ><b>제인 :</b></td>
             <td class = "lowertable" >외모로 남을 판단하는 건 인간의 기본 본능이야. 왜 우리 조상들이 이런 행동을 배웠다고 생각하니? 사람의 진정한 성격은 항상 신체적 형태로 나오기 때문이야!</td>
           </tr>
-          <tr>
+          <tr style="color:#1565C0;">
             <td class = "uppertable" ><b>탐 :</b></td>
-            <td class = "lowertable" >외모로 누군가의 기질과 성격을 결정하는 건 말도 안되고 천박해. 관상학을 심각하게 받아들이는 것은 과학적 증거가 부족하고 흔히 인종과 성에 따른 차별을 초래하기 때문에 위험해.</td>
+            <td class = "lowertable" style = "word-break: keep-all">외모로 누군가의 기질과 성격을 결정하는 건 말도 안되고 천박해. 관상학을 심각하게 받아들이는 것은 과학적 증거가 부족하고 흔히 인종과 성에 따른 차별을 초래하기 때문에 위험해.</td>
           </tr>
       
           </table>
@@ -135,8 +134,6 @@
 
 
   </v-layout>
-</v-container>
-</v-layout>
 </v-container>
 </div>
 
@@ -201,10 +198,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

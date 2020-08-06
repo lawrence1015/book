@@ -30,14 +30,14 @@
      <li class="mb-2">
        Some people in the United States think a four-leaf clover is "lucky."
        <ul>
-         <li class="mt-2">What do you think are five lucky things in your country?</li>
+         <li class="mt-2">What do you think are lucky things in your country?</li>
        </ul>
        <br />
      </li>
      <li class="mb-2">
        Many people in the United States believe if you walk under a ladder, you will have bad luck. <br />
        <ul>
-         <li class="mt-2">What are five things people in your country believe bring bad luck?</li>
+         <li class="mt-2">In your country, what things do people believe to bring bad luck?</li>
        </ul>
        <br />
      </li>
@@ -56,7 +56,7 @@
        <br />
      </li>
      <li class="mb-2">
-       Have you ever had a superstition come true? Tell about your experience.
+       Have you ever had a superstition come true? Talk about your experience.
      </li>
    </ol>
 
@@ -69,14 +69,14 @@
      <li class="mb-2">
        미국의 몇몇 사람들은 네 잎 클로버가 "행운"라고 생각합니다.
        <ul>
-       <li class="mt-2">당신의 나라에서 행운을 나타내는 다섯 가지는 무엇이라고 생각합니까?</li>
+       <li class="mt-2">너희 나라에서는 무엇이 행운이라고 생각하니?</li>
        </ul>
      </li>
      <br />
      <li class="mb-2">
        미국의 많은 사람들은 당신이 사다리 아래로 걸어가면, 운이 나쁠 것이라고 믿습니다.
        <ul>
-       <li class="mt-2">당신의 나라 사람들이 불운을 가져온다고 믿는 다섯 가지는 무엇입니까?</li>
+       <li class="mt-2">너희 나라에서는 사람들이 불운을 가져온다고 믿는 것이 무엇이니?</li>
      </ul>
      </li>
      <br />
@@ -93,17 +93,14 @@
    </li>
    <br />
    <li class="mb-2">
-       미신이 현실이 된 적이 있습니까? 당신의 경험에 대해 말해보세요.
+    미신이 실현된 적이 있는가? 네 경험에 대해 말해봐.
    </li>
    </ol>
 
 </div>
 
-
        </v-layout>
      </v-container>
-  </v-layout>
-  </v-container>
 </div>
 
 

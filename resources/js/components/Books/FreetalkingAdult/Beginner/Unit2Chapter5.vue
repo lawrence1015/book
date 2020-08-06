@@ -16,7 +16,7 @@ margin-bottom: -10px;">
 </div>
 
 
-<h3 style="padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 10px; margin-top: 10px; background-color: #a7d7c5;">Reading Practice <span style="font-size:18px">( 선생님의 안내에 따라 문장을 읽어 주세요 )</span></h3>
+<h3 style="padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 10px; margin-top: 10px; background-color: #a7d7c5;">Reading Practice <br><span class = "korean">( 선생님의 안내에 따라 문장을 읽어 주세요 )</span></h3>
      <div style="padding : 16px;">
 
 <p>I have been exposed to music at an early age because both my father and mother are musicians. First, I learned to play the piano when I was four years old. However, it was not very handy so I shifted to the guitar when I was eight. Second, I learned the flute because I got bored with the guitar. After some time, I became uncomfortable with wind instruments and wanted to play the strings. At last, I decided to take up violin lessons and fell in love with it! I just love how beautiful its sound is! Now, I work as a concert violinist.
@@ -29,22 +29,22 @@ margin-bottom: -10px;">
 
 
 
-<li style="list-style-type: none;"><u>Expose</u> - to make accessible to some action or influence <span style="font-size:16px">(보통 때는 가려져 있는 것을) 드러내다 </span>
+<li style="list-style-type: none;"><u>Expose</u> - to make accessible to some action or influence <span class = "korean">(보통 때는 가려져 있는 것을) 드러내다 </span>
 </li>
 
-<li style="list-style-type: none;"><u>Musician</u> - someone who plays a musical instrument <span style="font-size:16px">음악가, 뮤지션</span>
+<li style="list-style-type: none;"><u>Musician</u> - someone who plays a musical instrument <span class = "korean">음악가, 뮤지션</span>
 </li>
 
-<li style="list-style-type: none;"><u>Handy</u> - easy to use <span style="font-size:16px">유용한, 편리한, 가까운[이용하기 편한] 곳에 있는</span>
+<li style="list-style-type: none;"><u>Handy</u> - easy to use <span class = "korean">유용한, 편리한, 가까운[이용하기 편한] 곳에 있는</span>
 </li>
 
-<li style="list-style-type: none;"><u>Wind instruments</u> - instruments that make music through breathes <span style="font-size:16px">관악기</span>
+<li style="list-style-type: none;"><u>Wind instruments</u> - instruments that make music through breathes <span class = "korean">관악기</span>
 </li>
 
-<li style="list-style-type: none;"><u>Strings</u> - refers to instruments that have strings like the violin and guitar <span style="font-size:16px">현악기, 현악기</span>
+<li style="list-style-type: none;"><u>Strings</u> - refers to instruments that have strings like the violin and guitar <span class = "korean">현악기, 현악기</span>
 </li>
 
-<li style="list-style-type: none;"><u>Shift</u> - to exchange for another <span style="font-size:16px">옮기다, 이동하다[되다]; 자세를 바꾸다</span>
+<li style="list-style-type: none;"><u>Shift</u> - to exchange for another <span class = "korean">옮기다, 이동하다[되다]; 자세를 바꾸다</span>
 </li>
 
 <p>Fill in the blanks using the words above.
@@ -99,7 +99,7 @@ margin-bottom: -10px;">
 </div>
 
 <h3 style="padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 10px; margin-top: 10px; background-color: #a7d7c5;">Translation</h3>
-     <div style="padding : 16px;">
+     <div style="padding : 16px;" class = "korean">
        <p>
          아버지와 어머니 모두 음악가여서 어릴 적부터 음악을 접해 왔다. 우선, 나는 4살 때 피아노를 배웠다.
          하지만, 그것은 그다지 편리하지 않아서 나는 8살 때 기타로 바꾸었다. 둘째, 기타가 지루해져서 플루트를 배웠다.
@@ -166,10 +166,7 @@ h3{
 
 }
 
-li{
 
-
-}
 
 body{
 

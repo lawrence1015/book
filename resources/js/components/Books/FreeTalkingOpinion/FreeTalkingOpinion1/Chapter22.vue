@@ -29,7 +29,7 @@
   </div>
 
   <h3  class = "border white--text" style = "border-radius: 0px 0px 70px 0px;" >Topic</h3>
-  <div style = "padding : 16px; line-height: 200%;">
+  <div style = "padding : 16px; line-height: 1.6;">
 
     <table style = "border-collapse: collapse;">
 
@@ -38,7 +38,7 @@
       <td class = "lowertable" >Plastic bags shouldn't be banned, because people are accustomed to them.
       They're so convenient, too! I'm sure that Scientists are looking for solutions to make plastic bags become ecofriendly.</td>
     </tr>
-    <tr>
+    <tr style="color:#1565C0;">
       <td class = "uppertable" ><b>B :</b></td>
       <td class = "lowertable" >Plastic bags are extremely harmful to all life on Earth.
       They pollute our water and land, and they contribute to climate change.
@@ -61,34 +61,34 @@
       <div style="padding : 16px;">
 
         <p>
-          <b>accustomed 익숙한</b>
+          <b>accustomed</b> 익숙한
         </p>
         <p>
-          <b>convenient 편리한</b>
+          <b>convenient</b> 편리한
         </p>
         <p>
-          <b>solution 해법</b>
+          <b>solution</b> 해법
         </p>
         <p>
-          <b>eco friendly 친환경적인</b>
+          <b>eco friendly</b> 친환경적인
         </p>
         <p>
-          <b>extremely 극도로</b>
+          <b>extremely</b> 극도로
         </p>
         <p>
-          <b>harmful 해로운</b>
+          <b>harmful</b> 해로운
         </p>
         <p>
-          <b>pollute 오염시키다</b>
+          <b>pollute</b> 오염시키다
         </p>
         <p>
-          <b>contribute 한 원인이 되다</b>
+          <b>contribute</b> 한 원인이 되다
         </p>
         <p>
-          <b>climate 기후</b>
+          <b>climate</b> 기후
         </p>
         <p>
-          <b>alternative CHP immediately 즉시</b>
+          <b>alternative CHP immediately</b> 즉시
         </p>
         <br />
         <p style="color: #56AAFF;">
@@ -111,40 +111,31 @@
                  width: 100px;">해석</h3>
       <div style="padding : 16px;">
 
-        <p>
 
-          <v-container grid-list-md text-xs-left>
-            <v-layout row wrap>
-
-
-              <v-flex xs12>
-                <v-card light color="#FFE7D5">
-                  <v-card-text class="px-10">
-                    <p>
+                      <p class = "korean">
+                        <b>
                         비닐봉지는 금지되어야 하는가?
-                    </p>
-                    <ol class="replace" type = "A" style="font-weight: bold;">
-                      <li><span class = "normaltext">
-                          사람들이 비닐봉지에 익숙하기 때문에 비닐봉투를 금지해서는 안 돼.
-                          그것들은 정말 편리해!! 난 과학자들이 비닐봉지를 친환경적으로 만들기 위한 해결책을 찾고 있다고 확신해.
-                        </span>
-                      </li>
-                      <li><span class = "normaltext">
-                          비닐 봉투는 지구상의 모든 생명체들의 게 매우 해로워.
+                        </b>
+                      </p>
+
+                      <table style = "border-collapse: collapse;">
+
+                       <tr>
+                        <td class = "uppertable" ><b>A :</b></td>
+                        <td class = "lowertable" style = "word-break: keep-all" >사람들이 비닐봉지에 익숙하기 때문에 비닐봉투를 금지해서는 안 돼.
+                          그것들은 정말 편리해!! 난 과학자들이 비닐봉지를 친환경적으로 만들기 위한 해결책을 찾고 있다고 확신해.</td>
+                      </tr>
+                      <tr style="color:#1565C0;">
+                        <td class = "uppertable" ><b>B :</b></td>
+                        <td class = "lowertable" style = "word-break: keep-all" >비닐 봉투는 지구상의 모든 생명체들의 게 매우 해로워.
                           그들은 우리의 물과 땅을 오염시키고, 기후변화에 기여하지.
-                          우리는 비닐봉투를 금지해야 하고 즉시 대안을 사용해야 해.
-                      </span>
-                      </li>
-                    </ol>
+                          우리는 비닐봉투를 금지해야 하고 즉시 대안을 사용해야 해.</td>
+                      </tr>
 
-                  </v-card-text>
-                </v-card>
-              </v-flex>
-            </v-layout>
-          </v-container>
+                    
+                      </table>
 
-        </p>
-
+      
 
       </div>
 
@@ -153,8 +144,6 @@
 
 
   </v-layout>
-</v-container>
-</v-layout>
 </v-container>
 </div>
 
@@ -219,10 +208,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

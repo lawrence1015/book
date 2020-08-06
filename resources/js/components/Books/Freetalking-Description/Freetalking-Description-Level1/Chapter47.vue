@@ -30,7 +30,7 @@
   <div style = "padding : 16px;">
 
       <h3>
-        The pictures show a King Crab and giant Lobsters. These species belong to one family called crustacean. Crab is an omnivore while the lobster is a scavenger. 
+        The pictures show a king crab and a giant lobster. These species belong to one family called crustacean. Crab is an omnivore while the lobster is a scavenger. 
       </h3>
 
       <h3>

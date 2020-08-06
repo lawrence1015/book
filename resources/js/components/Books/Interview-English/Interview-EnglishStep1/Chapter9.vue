@@ -6,7 +6,7 @@
   
         <v-layout column>
           <v-img
-          src="https://marketplace.canva.com/MADGv8BGwhs/7/screen_2x/canva-woman-wearing-blue-top-beside-table-MADGv8BGwhs.jpg" style="max-width: 100%; display:block; height: auto;">
+          src="https://image.freepik.com/free-photo/beautiful-stylish-staff-sitting-office-desk-using-laptop-listening-colleague_146671-15600.jpg" style="max-width: 100%; display:block; height: auto;">
   
           <v-layout
           align-end
@@ -31,7 +31,7 @@
   
           <table style = "border-collapse: collapse;">
       
-            <tr v-for="dialog in dialogs">
+            <tr v-for="dialog in dialogs" :key="dialog">
               <td class = "uppertable" >{{dialog.name}}</td>
               <td class = "lowertable" >{{dialog.speech}}</td>
             </tr>
@@ -60,7 +60,7 @@
             ( 저는 팀의 일원으로서 또는 독립적으로 일하는 데 어려움이 없었다고 말할 수 있어 자랑스럽게 생각합니다. )
           <li>
             I'm proud to say I didn't have a hard time working in a team or independently.<br />
-            ( 제가 긍정적인 영향을 끼치고 있다는 것을 아는 한, 저는 여기에 있고 싶습니다. )
+            ( 저는 팀에서 일하거나 독립적으로 일하는데 어려움을 겪지 않았다고 자신있게 말할 수 있습니다. )
           </li>
           <li>
             Any of the two situations will not give me a problem working on.<br />
@@ -126,7 +126,7 @@
   
           <table style = "border-collapse: collapse;">
   
-            <tr v-for="translation in translations">
+            <tr v-for="translation in translations" :key="translation">
               <td class = "uppertable" >{{translation.name}}</td>
               <td class = "lowertable" >{{translation.speech}}</td>
             </tr>
@@ -140,8 +140,6 @@
   
   
     </v-layout>
-  </v-container>
-  </v-layout>
   </v-container>
   </div>
   
@@ -221,10 +219,6 @@
   
   }
   
-  li{
-  
-  
-  }
   
   body{
   

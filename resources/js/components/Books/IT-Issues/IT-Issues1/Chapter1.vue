@@ -31,12 +31,12 @@
 
   <div style= "display: flex;">
       <div class = "paragraph">
-        Duke University researchers have developed an AI tool that can turn blurry,
-        unrecognizable pictures of people's faces into eerily convincing computer-generated portraits,
-        in finer detail than ever before. Previous methods can scale an image to eight times its original resolution.
-        But a team has come up with a way to take a handful of pixels and create realistic-looking faces with up to 64 times the resolution,
-        'imagining' features such as eyelashes and stubble that weren't there in the first place.
-        The researchers will present their method, called PULSE, next week at the 2020 Conference on Computer Vision and Pattern Recognition (CVPR), held virtually from June 14 to June 19.
+         Duke University specialists have built an AI apparatus that can turn hazy,
+         unrecognizable photos of individuals' countenances into frightfully persuading PC created pictures, in better detail than at any other time.
+         Past strategies can scale an image to multiple times its unique goal. Be that as it may,
+         a group has concocted an approach to take a bunch of pixels and make practical turning faces with upward to multiple times the goal,
+         'envisioning' highlights, for example, eyelashes and stubble that weren't there in any case.
+         The scientists will introduce their strategy, called PULSE, one week from now at the 2020 Conference on Computer Vision and Pattern Recognition (CVPR), held for all intents and purposes from June 14 to June 19.
       </div>
   </div>
       <p>
@@ -75,7 +75,10 @@
           <b>unrecognizable</b> <span class = "korean">알아 볼 수 없는[몰라 볼 정도의]</span>
         </p>
         <p>
-          <b>eerily</b> <span class = "korean">무시무시하게, 무서워하여; 불가사의하게</span>
+          <b>hazy</b> <span class = "korean">흐릿한, 흐릿한[모호한], </span>
+        </p>
+        <p>
+          <b>bunch</b> <span class = "korean">다발, 송이, 묶음,</span>
         </p>
         <p>
           <b>Pixels</b> <span class = "korean">픽셀</span>
@@ -83,6 +86,12 @@
         <p>
           <b>Resolution</b> <span class = "korean">해상도</span>
         </p>
+        <p>
+          <b>concoct</b> <span class = "korean">만들다, 지어내다</span>
+        </p>
+        
+        
+        
 
       </div>
 
@@ -110,16 +119,19 @@
       <div style="padding : 16px;">
 
         <p>
-          <b>Computer-generated</b> <span class = "korean">컴퓨터로 만들어진</span>
+          <b>turn hazy</b> <span class = "korean">흐릿하게 되다</span>
         </p>
         <p>
-          <b>come up with</b> <span class = "korean">찾아내다.</span>
+          <b>in better detail</b> <span class = "korean">더 상세하게</span>
         </p>
         <p>
-          <b>a handful of</b> <span class = "korean">소수의, 한 줌의</span>
+          <b>in any case</b> <span class = "korean">어떤 경우이든</span>
         </p>
         <p>
-          <b>realistic-looking faces</b> <span class = "korean">사실적으로 보이는 얼굴들</span>
+          <b>be held fo</b> <span class = "korean">개최되다, 열리다</span>
+        </p>
+        <p>
+          <b>at any other time</b> <span class = "korean"></span>
         </p>
 
       </div>
@@ -149,13 +161,16 @@
 
         <ol style="padding-right: 20px; padding-top: 10px;">
           <li>
-            In previous methods how many times it can scale from its original resolution?
+            In previous methods how many times it can scale from its original resolution?<br />
+            이전 방법에 따르면, 원래의 해상도보다 몇배 이상 확대할 수 있습니까?
           </li>
           <li>
-            What this AI tool can do?
+            What can this AI tool do?<br />
+            이 인공지능 장치는 무엇을 할 수 있습니까?<br />
           </li>
           <li>
-            In this new method, they can create how many times of resolution to the image?
+            What is your opinion on this new method?<br />
+            이 새로운 방법에 대해 어떻게 생각하세요?<br />
           </li>
         </ol>
 
@@ -197,18 +212,20 @@
                   <v-card-text class="px-10">
                     <p>
                       <span class = "korean">
-                      <b>인공지능이 흐릿한 얼굴을 60배 이상 더 선명하게 보이게 합니다.</b>
+                      <b>인공지능은 흐릿한 얼굴을 여러 번 더 예리하게 보이게 합니다.</b>
                     </span>
                     </p>
                     <p>
                       <span class = "korean">
-                      듀크 대학의 연구원들은 사람들의 얼굴 사진을 흐릿하고 알아볼 수 없는
-                      사진들을 그 어느 때보다 정교하게 컴퓨터로 만들어진 초상화들로 만들 수 있는 AI 도구를 개발했습니다.
-                      이전의 방법들 이미지를 원래 해상도의 8배까지 확장할 수 있습니다.
-                      하지만 한 팀이 한 줌의 픽셀을 가져다가 최대 64배의 해상도로 사실적으로 보이는 얼굴을 만들어 내는 방법을 고안해 냈는데,
-                      애초에 없던 속눈썹이나 뭉툭한 모습 등 '상상'하는 특징이 있습니다.
+                        듀크대 전문가들은 개인의 면면을 알 수 없는 사진을 어떤 때보다 세밀하고 무서울 정도로
+                        설득력 있는 PC 작성 화상으로 바꿀 수 있는 AI 장치를 만들었다. 과거 전략에서는
+                        이미지를 그 고유 목표의 몇 배까지 확장할 수 있다. 그러나, 그룹에서는, 예를 들면
+                        속눈썹이나 수염 등, 지금까지 없었던 것 같은 「시각화」의 하이라이트를 상향으로부터
+                        몇배의 범위에서 실용적인 방향 전환면을 만드는 접근법을 고안했다.<br />
                  
-                      연구원들은 다음 주 6월 14일부터 6월 19일까지 가상으로 열리는 2020 컴퓨터 비전 및 패턴 인식 컨퍼런스에서 PULSE라고 불리는 그들의 방법을 발표할 예정입니다.
+                        과학자들은 6월 14일부터 6월 19일까지 열리는 2020년 컴퓨터시각패턴인식회의(CVPR)에서 이들의 전략 PULSE를 일주일 뒤 발표할 예정이다.<br />
+
+                        펄스 *생성 모델의 잠재 공간 탐색을 통한 자체 감독 사진 업샘플링입니다. 생성 모델의 잠재 공간 탐색을 통한 자가진단 사진 업샘플링<br />
                       </span>
                     </p>
                   </v-card-text>
@@ -218,7 +235,7 @@
           </v-container>
 
         </p>
-<p>
+<p style = "font-size: small;">
   Image Source: "gizmodo"
 </p>
 
@@ -347,7 +364,7 @@ body{
 
 .korean {
    
-  white-space: pre-line; 
+  
   line-break:strict; 
   word-break:keep-all;
 }

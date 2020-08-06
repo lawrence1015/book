@@ -26,7 +26,7 @@
     <h3 style="background-color: #a7d7c5;   
                padding-top : 10px;  
                padding-left : 10px; 
-               padding-bottom: 10px;">Reading Practice <span style="font-size:18px">( 선생님의 안내에 따라 문장을 읽어 주세요 )</span></h3>
+               padding-bottom: 10px;">Reading Practice ( 선생님의 안내에 따라 문장을 읽어 주세요 )</h3>
     <div style="padding : 16px;">
 
 <p>The colourful and visually dazzling movies we enjoy now either at home or in the cinema have a long history. Its history began in the late 1890s with the invention of the movie camera. Actually, movies are only a series of photographs. When these photos move fast, they give an illusion of movement.  The earliest films were short and were shown only in black and white. They don't even have any sounds. It was only in the late 1920's that the films had sounds. They were called "talkies." The first talkie was entitled “The Jazz Singer.” Two of the first colored movies were "The Wizard of Oz" and "Gone with the Wind", both from 1939.
@@ -38,19 +38,19 @@
 
 
 
-<li style="list-style-type: none;"><u>Dazzling(adj)</u> - impressive display, very nice to look at <span style="font-size:16px">눈부신, 휘황찬란한; 현혹적인</span>
+<li style="list-style-type: none;"><u>Dazzling(adj)</u> - impressive display, very nice to look at 눈부신, 휘황찬란한; 현혹적인
 </li>
 
-<li style="list-style-type: none;"><u>Photographs(n)</u> -  pictures <span style="font-size:16px">사진</span>
+<li style="list-style-type: none;"><u>Photographs(n)</u> -  pictures 사진
 </li>
 
-<li style="list-style-type: none;"><u>Illusion(n)</u> -   something that tricks the mind and the eyes <span style="font-size:16px">오해[착각], 환상, 환각</span>
+<li style="list-style-type: none;"><u>Illusion(n)</u> -   something that tricks the mind and the eyes 오해[착각], 환상, 환각
 </li>
 
-<li style="list-style-type: none;"><u>Series(n)</u> -  same thing come one after the another <span style="font-size:16px">연속, 연쇄, 시리즈</span>
+<li style="list-style-type: none;"><u>Series(n)</u> -  same thing come one after the another 연속, 연쇄, 시리즈
 </li>
 
-<li style="list-style-type: none;"><u>Entitled(n)</u> - to be given the name or title <span style="font-size:16px">~라는 제목의</span>
+<li style="list-style-type: none;"><u>Entitled(n)</u> - to be given the name or title ~라는 제목의
 </li>
 
 <p>Fill in the blanks using the words above.

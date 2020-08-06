@@ -29,7 +29,7 @@
   </div>
 
   <h3  class = "border white--text" style = "border-radius: 0px 0px 70px 0px;" >Topic</h3>
-  <div style = "padding : 16px; line-height: 200%;">
+  <div style = "padding : 16px; line-height: 1.6;">
 
     <table style = "border-collapse: collapse;">
 
@@ -37,7 +37,7 @@
       <td class = "uppertable" ><b>Jane :</b></td>
       <td class = "lowertable" >Audio calls are better when you are busy doing something else. For example, there’s no point in having a video call to say you’re running late while rushing to an appointment. Also, an audio call generally has better connection than a video call.</td>
     </tr>
-    <tr>
+    <tr style="color:#1565C0;">
       <td class = "uppertable" ><b>Tom :</b></td>
       <td class = "lowertable" >Talking to someone face to face is always the best option when it comes to intimacy. When that’s not possible, having a video call is the next best thing. If you have the time, having video calls are better, especially when you’re talking to family and friends. </td>
     </tr>
@@ -53,39 +53,39 @@
                  margin-right: -18px;
                  padding-left: 10px;
                  padding-bottom: 10px;
-                 padding-top: 0px;
+                 padding-top: 5px;
                  margin-top: 0px;">Vocabulary</h3>
       <div style="padding : 16px;">
 
         <p>
-          <b>busy 바쁜</b>
+          <b>busy</b> 바쁜
         </p>
         <p>
-          <b>run late 시간에 늦다 </b>
+          <b>run late</b> 시간에 늦다 
         </p>
         <p>
-          <b>rush 서두르다 </b>
+          <b>rush</b> 서두르다 
         </p>
         <p>
-          <b>appointment 약속 </b>
+          <b>appointment</b> 약속 
         </p>
         <p>
-          <b>generally 보통 </b>
+          <b>generally</b> 보통 
         </p>
         <p>
-          <b>connection 연결 </b>
+          <b>connection</b> 연결 
         </p>
         <p>
-          <b>face to face 서로 얼굴을 맞대고 </b>
+          <b>face to face</b> 서로 얼굴을 맞대고 
         </p>
         <p>
-          <b>intimacy 친밀함 </b>
+          <b>intimacy</b> 친밀함 
         </p>
         <p>
-          <b>possible 가능한 </b>
+          <b>possible</b> 가능한 
         </p>
         <p>
-          <b>especially 특히 </b>
+          <b>especially</b> 특히 
         </p>
 
       </div>
@@ -99,7 +99,7 @@
                  margin-right: -18px;
                  padding-left: 10px;
                  padding-bottom: 10px;
-                 padding-top: 0px;              
+                 padding-top: 5px;              
                  margin-top: 0px;
                  width: 100px;">해석</h3>
       <div style="padding : 16px;">
@@ -110,7 +110,7 @@
             <td class = "uppertable" ><b>제인 :</b></td>
             <td class = "lowertable" >음성 통화는 다른 일을 하느라 바쁠 때 더 좋아. 예를 들어 약속장소로 급하게 가다가 늦었다고 영상 통화를 하는 것은 의미가 없어 또한, 음성 통화는 일반적으로 영상 통화보다 연결이 더 좋아.</td>
           </tr>
-          <tr>
+          <tr style="color:#1565C0;">
             <td class = "uppertable" ><b>탐 :</b></td>
             <td class = "lowertable" >친밀감에 있어서는 누군가와 얼굴을 마주 보는 것이 항상 최선의 선택이야 그게 불가능할 때는 영상통화를 하는 것이 차선책이지 네가 시간이 있다면, 영상통화를 하는 것이 더 나아. 특히 너의 가족과 친구들과 이야기를 할 때 말이야.</td>
           </tr>
@@ -120,14 +120,31 @@
 
       </div>
 
-    
+    <div style="margin-left: -18px; margin-right: -18px; margin-top: 10px; border-color: #2F4674; border-style: solid; border-width: 2px;">
+      </div>
+      <h3 class = "border white--text"
+          style="border-radius: 0px 0px 70px 0px;
+                 padding-top: 7px;
+                 margin-left: -18px;
+                 margin-right: -18px;
+                 padding-left: 10px;
+                 padding-bottom: 10px;
+                 padding-top: 5px;
+                 margin-top: 0px;">Questions</h3>
+      <div style="padding : 16px;">
+
+        <ol style="margin: 12px;">
+          <li>Which one do you prefer - audio calling and video calling? Why?</li>
+          <li>What are the advantages and disadvantages of audio calling and video calling?</li>
+          <li>When was the last time you talked to someone on the phone?</li>
+        </ol>
+
+      </div>
 
     </div>
 
 
   </v-layout>
-</v-container>
-</v-layout>
 </v-container>
 </div>
 
@@ -192,10 +209,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

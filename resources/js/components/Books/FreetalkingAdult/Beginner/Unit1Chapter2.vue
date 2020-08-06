@@ -23,7 +23,8 @@
     </v-img>
 
 
-          <h3 style="background-color: #a7d7c5;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Reading Practice <span style="font-size:18px">( 선생님의 안내에 따라 문장을 읽어 주세요 )</span></h3>
+          <h3 style="background-color: #a7d7c5;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Reading Practice <br>
+          <span class = "korean">( 선생님의 안내에 따라 문장을 읽어 주세요 )</span></h3>
                <div style="padding : 16px;">
 
    <p>My family had a memorable trip to Jeju Island in the autumn of 2010. I was twenty years old at that time. We rode an airplane from Seoul and it took us about an hour to get there. The wind was strong and fresh. The land was green with grass. We climbed the Halla Mountain. I was very thrilled. We also swam on a beach. The water was very clear. We ate black pigs and special orange fruit. My trip to Jeju Island is unforgettable!
@@ -105,7 +106,7 @@
            padding-top: 10px;
            margin-top: 10px;
            background-color: #a7d7c5;">Translation</h3>
-<div style="padding : 16px;">
+<div style="padding : 16px;" class = "korean">
 
 <p>
   우리 가족은 2010년 가을 제주도로 기억에 남는 여행을 했다. 그때 나는 스무 살이었다.
@@ -131,8 +132,6 @@
 
        </v-layout>
      </v-container>
-  </v-layout>
-  </v-container>
 </div>
 </template>
 
@@ -186,10 +185,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

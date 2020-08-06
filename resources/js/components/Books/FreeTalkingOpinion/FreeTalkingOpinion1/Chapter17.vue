@@ -29,7 +29,7 @@
   </div>
 
   <h3  class = "border white--text" style = "border-radius: 0px 0px 70px 0px;" >Topic</h3>
-  <div style = "padding : 16px; line-height: 200%;">
+  <div style = "padding : 16px; line-height: 1.6;">
 
     <table style = "border-collapse: collapse;">
 
@@ -39,7 +39,7 @@
       They also learn communication skills by studying and playing sports with classmates.
       Schools teach students how to live a successful and productive life..</td>
     </tr>
-    <tr>
+    <tr style="color:#1565C0;">
       <td class = "uppertable" ><b>B :</b></td>
       <td class = "lowertable" >Schools should fix their curriculums entirely. I think it's a waste of time to
       take science classes if you want to be a pianist or a professional basketball player.
@@ -62,34 +62,34 @@
       <div style="padding : 16px;">
 
         <p>
-          <b>subject 과목</b>
+          <b>subject</b> 과목
         </p>
         <p>
-          <b>communication 의사소통</b>
+          <b>communication</b> 의사소통
         </p>
         <p>
-          <b>classmate 반 친구</b>
+          <b>classmate</b> 반 친구
         </p>
         <p>
-          <b>productive 결실 있는</b>
+          <b>productive</b> 결실 있는
         </p>
         <p>
-          <b>fix 고치다</b>
+          <b>fix</b> 고치다
         </p>
         <p>
-          <b>entirely 완전히</b>
+          <b>entirely</b> 완전히
         </p>
         <p>
-          <b>waste 낭비</b>
+          <b>waste</b> 낭비
         </p>
         <p>
-          <b>professional 전문적인</b>
+          <b>professional</b> 전문적인
         </p>
         <p>
-          <b>current 현재의</b>
+          <b>current</b> 현재의
         </p>
         <p>
-          hate 몹시 싫어하다..
+          <b>hate</b> 몹시 싫어하다..
         </p>
 
       </div>
@@ -108,40 +108,31 @@
                  width: 100px;">해석</h3>
       <div style="padding : 16px;">
 
-        <p>
-
-          <v-container grid-list-md text-xs-left>
-            <v-layout row wrap>
-
-
-              <v-flex xs12>
-                <v-card light color="#FFE7D5">
-                  <v-card-text class="px-10">
-                    <p>
+                      <p class = "korean">
+                        <b>
                         학교들은 정말로 학생들을 성공적인 삶을 위해 준비시키는가?
-                    </p>
-                    <ol class="replace" type = "A" style="font-weight: bold;">
-                      <li><span class = "normaltext">
-                          학생들은 학교에서 중요한 기본 과목을 공부합니다.
+                        </b>
+                      </p>
+
+                      <table style = "border-collapse: collapse;">
+
+                       <tr>
+                        <td class = "uppertable" ><b>A :</b></td>
+                        <td class = "lowertable" style = "word-break: keep-all" >학생들은 학교에서 중요한 기본 과목을 공부합니다.
                           그들은 또한 공부를 하고 반 친구들과 스포츠를 하면서 의사소통 기술을 배웁니다.
-                          학교는 학생들에게 성공적이고 생산적인 삶을 사는 법을 가르칩니다.
-                        </span>
-                      </li>
-                      <li><span class = "normaltext">
-                          학교는 교과과정을 완전히 고쳐야 합니다.
+                          학교는 학생들에게 성공적이고 생산적인 삶을 사는 법을 가르칩니다.</td>
+                      </tr>
+                      <tr style="color:#1565C0;">
+                        <td class = "uppertable" ><b>B :</b></td>
+                        <td class = "lowertable" style = "word-break: keep-all" >학교는 교과과정을 완전히 고쳐야 합니다.
                           나는 만약 당신이 피아니스트 또는 프로 농구 선수가 되려고 한다면 과학 수업을 듣는 것이 시간 낭비라고 생각합니다.
-                          현재의 교육제도는 학생들이 공부를 몹시 싫어하게 할 뿐입니다.
-                      </span>
-                      </li>
-                    </ol>
+                          현재의 교육제도는 학생들이 공부를 몹시 싫어하게 할 뿐입니다.</td>
+                      </tr>
 
-                  </v-card-text>
-                </v-card>
-              </v-flex>
-            </v-layout>
-          </v-container>
+                    
+                      </table>
 
-        </p>
+      
 
 
       </div>
@@ -151,8 +142,6 @@
 
 
   </v-layout>
-</v-container>
-</v-layout>
 </v-container>
 </div>
 
@@ -217,10 +206,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

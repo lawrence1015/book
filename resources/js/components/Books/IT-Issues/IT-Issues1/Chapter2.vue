@@ -31,8 +31,8 @@
   <div style = "padding : 16px; line-height: 200%;">
 
       <p>
-        Memristors are silicon-based components that mimic the information-transmitting synapses in the human brain. This newly designed 'brain-on-a-chip is smaller than a piece of confetti that is made of tens of thousand artificial brain synapses.
-        This new design could advance the development of small portable AI devices.
+        Memristors are silicon-based parts that mirror the info transmitting neural connections within the human cerebrum. This recently planned 'mind on-a-chip’ is little than a small amount of confetti that is fabricated from many thousand fake cerebrum neurotransmitters.
+        This new plan could propel the advancement of little convenient AI gadgets.
       </p>
 
       <h3 class = "reverseborder white--text" style="padding-top: 7px;
@@ -59,16 +59,19 @@
       <div style="padding : 16px;">
 
         <p>
-          <b>mimic</b> <span class = "korean">흉내를 내다, …처럼 보이다; …을 모방하다[흉내내다]</span>
-        </p>
-        <p>
-          <b>synapses</b> <span class = "korean">시냅스</span>
+          <b>neurotransmitter</b> <span class = "korean">신경 전달 물질</span>
         </p>
         <p>
           <b>confetti</b> <span class = "korean">색종이 조각</span>
         </p>
         <p>
-          <b>portable</b> <span class = "korean">휴대[이동]가 쉬운, 휴대용의, 휴대용 제품</span>
+          <b>fabricated</b> <span class = "korean">제작된</span>
+        </p>
+        <p>
+          <b>mirror</b> <span class = "korean">반영하다</span>
+        </p>
+        <p>
+          <b>cerebrum</b> <span class = "korean">대뇌</span>
         </p>
 
       </div>
@@ -97,16 +100,10 @@
       <div style="padding : 16px;">
 
         <p>
-          <b>silicon-based components</b> <span class = "korean">실리콘 기반 구성 요소입니다.</span>
+          <b>as many as</b> <span class = "korean">만큼이나 많은</span>
         </p>
         <p>
-          <b>mimic the information</b> <span class = "korean">정보를 모방합니다.</span>
-        </p>
-        <p>
-          <b>transmitting synapses</b> <span class = "korean">시냅스를 전송합니다.</span>
-        </p>
-        <p>
-          <b>new designed'brain-on-a-chip</b> <span class = "korean">새로운 디자인의 브레인 온 칩입니다.</span>
+          <b>(all) done with mirrors</b> <span class = "korean">(모두) 거울로 된</span>
         </p>
 
       </div>
@@ -136,13 +133,16 @@
 
         <ol style="padding-right: 20px; padding-top: 10px;">
           <li>
-            This new design chip is composed of how many synapses?
+            This new design chip is composed of how many synapses?<br />
+            새로 디자인된 칩은 얼마나 많은 시냅스로 구성되어 있습니까?<br />
           </li>
           <li>
-            What is "memristors"?
+            What is "memristors"?<br />
+            “멤리스터”가 무엇입니까?<br />
           </li>
           <li>
-            What do you think is the purpose of this new design?
+            What do you think is the purpose of this new design?<br />
+            새로운 디자인의 목적은 무엇이라고 생각합니까?<br />
           </li>
         </ol>
 
@@ -184,11 +184,13 @@
                   <v-card-text class="px-10">
                     <p>
                       <span class = "korean">
-                      <b>엔지니어들은 하나의 칩에 수만 개의 인공 뇌 시냅스를 넣습니다.</b>
+                      <b>단일 칩의 인공 뇌 시냅스</b>
                     </span>
                     </p>
                     <p>
-                      <span class = "korean">멤리스터는 인간의 뇌에서 정보를 전달하는 시냅스를 모방하는 실리콘 기반의 구성요소이다. 이 새로 디자인된 '브레인 온 어 칩'은 거의 만 개의 인공 뇌 시냅스로 만들어진 색종이 조각보다 더 작습니다. 이 새로운 디자인은 소형 휴대용 AI 기기의 개발을 앞당길 수 있습니다.
+                      <span class = "korean">멤리스터는 인간의 대뇌 내에서 신경 연결을 전달하는 정보를 반영하는 실리콘 기반의 부품입니다. 이 최근 계획된 '마인드 온 어 칩'은 수천 개의 가짜 대뇌 신경 전달 물질로 만든 소량의 색종이보다 더 작습니다.
+                        <br/>
+                        이 새로운 계획은 작고 편리한 AI 기기들을 더 나아가게 할 것입니다.                        
                       </span>
                     </p>
                   </v-card-text>

@@ -93,7 +93,7 @@
                   <v-card-text class="px-10">
                     <p>
                       <b>
-                        Do you like watching beauty pageant?<br />
+                        Do you like watching beauty pageants?<br />
                         <br />
                         What makes a woman beautiful?<br />
                         <br />

@@ -29,7 +29,7 @@
   </div>
 
   <h3  class = "border white--text" style = "border-radius: 0px 0px 70px 0px;" >Topic</h3>
-  <div style = "padding : 16px; line-height: 200%;">
+  <div style = "padding : 16px; line-height: 1.6;">
 
     <table style = "border-collapse: collapse;">
 
@@ -39,7 +39,7 @@
       You just need to subtract their birth year from the current year and then add one.
       There is no need to calculate months or dates.</td>
     </tr>
-    <tr>
+    <tr style="color:#1565C0;">
       <td class = "uppertable" ><b>B :</b></td>
       <td class = "lowertable" >Most countries use the regular age system. In fact, counting in the regular age system is more accurate.
       Plus, many medical and government papers ask you to write down your regular age.</td>
@@ -62,28 +62,28 @@
       <div style="padding : 16px;">
 
         <p>
-          <b>find out 알아내다</b>
+          <b>find out</b> 알아내다
         </p>
         <p>
-          <b>subtract 빼다</b>
+          <b>subtract</b> 빼다
         </p>
         <p>
-          <b>current 지금의</b>
+          <b>current</b> 지금의
         </p>
         <p>
-          <b>calculate 계산하다</b>
+          <b>calculate</b> 계산하다
         </p>
         <p>
-          <b>count 수를 세다</b>
+          <b>count</b> 수를 세다
         </p>
         <p>
-          <b>Regular age system 단나이</b>
+          <b>Regular age system</b> 단나이
         </p>
         <p>
-          <b>accurate 정확한</b>
+          <b>accurate</b> 정확한
         </p>
         <p>
-          <b>medical 의료의..</b>
+          <b>medical</b> 의료의..
         </p>
 
       </div>
@@ -102,39 +102,30 @@
                  width: 100px;">해석</h3>
       <div style="padding : 16px;">
 
-        <p>
-
-          <v-container grid-list-md text-xs-left>
-            <v-layout row wrap>
-
-
-              <v-flex xs12>
-                <v-card light color="#FFE7D5">
-                  <v-card-text class="px-10">
-                    <p>
+                      <p class = "korean">
+                        <b>
                         한국 나이 시스템이 만 나이 시스템보다 더 유용한가요?
-                    </p>
-                    <ol class="replace" type = "A" style="font-weight: bold;">
-                      <li><span class = "normaltext">
-                          한국 나이 체계로는,
+                        </b>
+                      </p>
+
+                      <table style = "border-collapse: collapse;">
+
+                       <tr>
+                        <td class = "uppertable" ><b>A :</b></td>
+                        <td class = "lowertable" style = "word-break: keep-all" >한국 나이 체계로는,
                           누군가가 몇 살인지 알아내는 게 더 쉬워 너는 바로 그들의 생년월일을 현재 년도에서 빼서 한 해를 더하면 된다.
-                          월이나 날짜를 계산할 필요가 없어.
-                        </span>
-                      </li>
-                      <li><span class = "normaltext">
-                        대부분의 나라들 만 나이 시스템을 사용해 사실, 만 나이 시스템에서 세는 것이 더 정확해.
-                          게다가, 많은 의학 및 정부 서류들이 너의 만 나이를 적어달라고 요구해.
-                      </span>
-                      </li>
-                    </ol>
+                          월이나 날짜를 계산할 필요가 없어.</td>
+                      </tr>
+                      <tr style="color:#1565C0;">
+                        <td class = "uppertable" ><b>B :</b></td>
+                        <td class = "lowertable" style = "word-break: keep-all" >대부분의 나라들 만 나이 시스템을 사용해 사실, 만 나이 시스템에서 세는 것이 더 정확해.
+                          게다가, 많은 의학 및 정부 서류들이 너의 만 나이를 적어달라고 요구해.</td>
+                      </tr>
 
-                  </v-card-text>
-                </v-card>
-              </v-flex>
-            </v-layout>
-          </v-container>
+                    
+                      </table>
 
-        </p>
+        
 
 
       </div>
@@ -144,8 +135,6 @@
 
 
   </v-layout>
-</v-container>
-</v-layout>
 </v-container>
 </div>
 
@@ -210,10 +199,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

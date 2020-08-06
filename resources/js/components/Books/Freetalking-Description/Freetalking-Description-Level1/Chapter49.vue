@@ -30,7 +30,7 @@
   <div style = "padding : 16px;">
 
       <h3>
-        There are various structures spanning and providing passage of pedestrians and vehicles. It shows the greatest challenge in civil engineering.
+        There are various structures spanning and providing passage for pedestrians and vehicles. It shows the greatest challenge in civil engineering.
       </h3>
 
       <p>
@@ -87,7 +87,7 @@
                       <b>
                         Where can you find the golden gate?<br />
                         <br />
-                        What makes bridge the greatest challenge in civil engineering?<br />
+                        What makes bridges the greatest challenge in civil engineering?<br />
                         <br />
                         What bridge connects Kobe and Awaji in Japan?
                       </b>

@@ -95,7 +95,7 @@
                         <br />
                         What can you say about the situation in the shopping mall?<br />
                         <br />
-                        Which part of the mall many people usually go to?<br />
+                        Which part of the mall do many people usually go to?<br />
                         <br />
                         Why do you think people like to go to the shopping mall?
                       </b>

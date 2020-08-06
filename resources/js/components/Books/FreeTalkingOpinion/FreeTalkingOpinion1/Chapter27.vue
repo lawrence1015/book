@@ -29,7 +29,7 @@
   </div>
 
   <h3  class = "border white--text" style = "border-radius: 0px 0px 70px 0px;" >Topic</h3>
-  <div style = "padding : 16px; line-height: 200%;">
+  <div style = "padding : 16px; line-height: 1.6;">
 
     <table style = "border-collapse: collapse;">
 
@@ -37,7 +37,7 @@
       <td class = "uppertable" ><b>Jane :</b></td>
       <td class = "lowertable" >A wise singer named Whitney Houston once sang, “I believe the children are our future.” Well, if we’re the future, then we should be able to vote for the president!</td>
     </tr>
-    <tr>
+    <tr style="color:#1565C0;">
       <td class = "uppertable" ><b>Tom :</b></td>
       <td class = "lowertable" >We are the generation that will lead the future, but you can’t ignore the fact we’re still growing and learning. Most of us aren’t knowledgeable about the happenings in politics.</td>
     </tr>
@@ -58,40 +58,40 @@
       <div style="padding : 16px;">
 
         <p>
-          <b>wise 지혜로운 </b>
+          <b>wise</b> 지혜로운 
         </p>
         <p>
-          <b>children 아이들 | (child의 복수)</b>
+          <b>children</b> 아이들 | (child의 복수)
         </p>
         <p>
-          <b>future 미래</b>
+          <b>future</b> 미래
         </p>
         <p>
-          <b>generation 세대</b>
+          <b>generation</b> 세대
         </p>
         <p>
-          <b>lead 이끌다</b>
+          <b>lead</b> 이끌다
         </p>
         <p>
-          <b>ignore 무시하다</b>
+          <b>ignore</b> 무시하다
         </p>
         <p>
-          <b>fact 사실</b>
+          <b>fact</b> 사실
         </p>
         <p>
-          <b>grow 자라다</b>
+          <b>grow</b> 자라다
         </p>
         <p>
-          <b>learn 배우다</b>
+          <b>learn</b> 배우다
         </p>
         <p>
-          <b>knowledgeable 많이 아는</b>
+          <b>knowledgeable</b> 많이 아는
         </p>
         <p>
-          <b>happening 사건</b>
+          <b>happening</b> 사건
         </p>
         <p>
-          <b>politics 정치</b>
+          <b>politics</b> 정치
         </p>
 
       </div>
@@ -110,15 +110,18 @@
                  width: 100px;">해석</h3>
       <div style="padding : 16px;">
 
+    
+
+        
         <table style = "border-collapse: collapse;">
 
           <tr>
             <td class = "uppertable" ><b>제인 :</b></td>
-            <td class = "lowertable" >휘트니 휴스턴(Whitney Houston)이라는 한 현명한 가수가 "나는 아이들이 우리의 미래라고 믿어"라고 노래한 적이 있어. 음, 우리가 미래라면, 우리는 대통령에게 투표할 수 있을 거야!</td>
+            <td class = "lowertable" style = "word-break: keep-all">휘트니 휴스턴(Whitney Houston)이라는 한 현명한 가수가 "나는 아이들이 우리의 미래라고 믿어"라고 노래한 적이 있어. 음, 우리가 미래라면, 우리는 대통령에게 투표할 수 있을 거야!</td>
           </tr>
-          <tr>
+          <tr style="color:#1565C0;">
             <td class = "uppertable" ><b>탐 :</b></td>
-            <td class = "lowertable" >우리는 미래를 이끌 세대이지만, 넌 우리가 여전히 성장하고 있고 배우고 있다는 사실을 무시할 수는 없어. 우리들 대부분은 정치에서 일어나는 일에 대해 잘 모르지.</td>
+            <td class = "lowertable" style = "word-break: keep-all">우리는 미래를 이끌 세대이지만, 넌 우리가 여전히 성장하고 있고 배우고 있다는 사실을 무시할 수는 없어. 우리들 대부분은 정치에서 일어나는 일에 대해 잘 모르지.</td>
           </tr>
       
           </table>
@@ -132,8 +135,6 @@
 
 
   </v-layout>
-</v-container>
-</v-layout>
 </v-container>
 </div>
 
@@ -198,10 +199,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

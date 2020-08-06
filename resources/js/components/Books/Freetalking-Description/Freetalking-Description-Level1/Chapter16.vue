@@ -77,7 +77,7 @@
                   <v-card-text class="px-10">
                     <p>
                       <b>
-                        What can you say about business establishment in Korea?<br />
+                        What can you say about the business establishments in Korea?<br />
                         <br />
                         Do you want to have your own business establishment?
                       </b>

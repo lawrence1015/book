@@ -29,7 +29,7 @@
   </div>
 
   <h3  class = "border white--text" style = "border-radius: 0px 0px 70px 0px;" >Topic</h3>
-  <div style = "padding : 16px; line-height: 200%;">
+  <div style = "padding : 16px; line-height: 1.6;">
 
     <table style = "border-collapse: collapse;">
 
@@ -37,7 +37,7 @@
       <td class = "uppertable" ><b>Jane :</b></td>
       <td class = "lowertable" >Sighing is rude behavior because it can make other people worry and feel uncomfortable. People usually think that someone who sighs a lot is passive aggressive.      </td>
     </tr>
-    <tr>
+    <tr style="color:#1565C0;">
       <td class = "uppertable" ><b>Tom :</b></td>
       <td class = "lowertable" >Experts say sighing is a reflex that helps our physical and mental health. We often sigh when we’re stressed to relax and feel better.      </td>
     </tr>
@@ -58,34 +58,34 @@
       <div style="padding : 16px;">
 
         <p>
-          <b>behavior 행동  </b>
+          <b>behavior</b> 행동  
         </p>
         <p>
-          <b>worry 걱정하다 </b>
+          <b>worry</b> 걱정하다 
         </p>
         <p>
-          <b>uncomfortable 불편한 </b>
+          <b>uncomfortable</b> 불편한 
         </p>
         <p>
-          <b>usually 보통</b>
+          <b>usually</b> 보통
         </p>
         <p>
-          <b>passive aggressive 수동적 공격 성향의</b>
+          <b>passive aggressive</b> 수동적 공격 성향의
         </p>
         <p>
-          <b>expert 전문가 </b>
+          <b>expert</b> 전문가 
         </p>
         <p>
-          <b>reflex 반사적인 반응 </b>
+          <b>reflex</b> 반사적인 반응 
         </p>
         <p>
-          <b>physical 육체의 </b>
+          <b>physical</b> 육체의 
         </p>
         <p>
-          <b>mental 정신의 </b>
+          <b>mental</b> 정신의 
         </p>
         <p>
-          <b>relax 긴장을 풀다 </b>
+          <b>relax</b> 긴장을 풀다 
         </p>
 
       </div>
@@ -110,7 +110,7 @@
             <td class = "uppertable" ><b>제인 :</b></td>
             <td class = "lowertable" >한숨을 쉬는 것은 다른 사람들을 걱정시키고 불편하게 만들 수 있기 때문에 무례한 행동이야. 사람들은 보통 한숨을 많이 내쉬는 사람이 수동적공격성 인성을 가졌다고 생각해.</td>
           </tr>
-          <tr>
+          <tr style="color:#1565C0;">
             <td class = "uppertable" ><b>탐 :</b></td>
             <td class = "lowertable" >전문가들은 한숨이 우리의 신체적, 정신적 건강에 도움이 되는 반사작용이라고 말해. 우리는 스트레스를 받을 때 긴장을 풀고 기분이 나아지도록 종종 한숨을 쉬지. </td>
           </tr>
@@ -126,8 +126,6 @@
 
 
   </v-layout>
-</v-container>
-</v-layout>
 </v-container>
 </div>
 
@@ -192,10 +190,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

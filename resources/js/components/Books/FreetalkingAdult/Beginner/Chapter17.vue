@@ -19,7 +19,7 @@
 
                 <h3
                     style="background-color: #a7d7c5;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">
-                    Reading Practice <span style="font-size:18px">( 선생님의 안내에 따라 문장을 읽어 주세요 )</span></h3>
+                    Reading Practice ( 선생님의 안내에 따라 문장을 읽어 주세요 )</h3>
                 <div style="padding : 16px;">
 
                     <p>On September 11, 2001, I woke up at 7:30 AM. My alarm clock had ran out of batteries and I woke
@@ -39,27 +39,22 @@
 
 
 
-                        <li style="list-style-type: none;"><u>Panic(v)</u> - to feel great fear and distress <span
-                                style="font-size:16px">겁에 질려 어쩔 줄 모르다[모르게 하다]</span>
+                        <li style="list-style-type: none;"><u>Panic(v)</u> - to feel great fear and distress 겁에 질려 어쩔 줄 모르다[모르게 하다]
                         </li>
 
-                        <li style="list-style-type: none;"><u>Hastily(adv)</u> - very fast; in a hurry <span
-                                style="font-size:16px">급히, 서둘러서, 허둥지둥; 성급하게, 경솔하게</span>
+                        <li style="list-style-type: none;"><u>Hastily(adv)</u> - very fast; in a hurry 급히, 서둘러서, 허둥지둥; 성급하게, 경솔하게
                         </li>
 
-                        <li style="list-style-type: none;"><u>Exceptional(adj)</u> - extraordinary <span
-                                style="font-size:16px">이례적일 정도로 우수한, 특출한, 극히 예외적인 </span>
+                        <li style="list-style-type: none;"><u>Exceptional(adj)</u> - extraordinary 이례적일 정도로 우수한, 특출한, 극히 예외적인 
                         </li>
 
-                        <li style="list-style-type: none;"><u>Furthermore(adv)</u> - in addition <span
-                                style="font-size:16px">뿐만 아니라, 더욱이</span>
+                        <li style="list-style-type: none;"><u>Furthermore(adv)</u> - in addition 뿐만 아니라, 더욱이
                         </li>
 
-                        <li style="list-style-type: none;"><u>Cab(n)</u> - taxi <span style="font-size:16px">택시</span>
+                        <li style="list-style-type: none;"><u>Cab(n)</u> - taxi 택시
                         </li>
 
-                        <li style="list-style-type: none;"><u>Collapse (v)</u> - to fall; to break down <span
-                                style="font-size:16px">붕괴되다, 무너지다, 쓰러지다</span>
+                        <li style="list-style-type: none;"><u>Collapse (v)</u> - to fall; to break down 붕괴되다, 무너지다, 쓰러지다
                         </li>
 
 
@@ -337,7 +332,7 @@
 
                     <h3
                         style="padding-top: 7px;  margin-left: -18px; margin-right: -18px;  padding-bottom: 10px;  padding-top: 10px; padding-left: 10px; background-color: #a7d7c5; ">
-                        Conversation Samples <span style="font-size:18px">(선생님과 역할을 나눠서 연습해보세요)</span></h3>
+                        Conversation Samples (선생님과 역할을 나눠서 연습해보세요)</h3>
 
                     <div style="padding : 16px;">
 

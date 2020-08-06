@@ -41,6 +41,16 @@
     <div class="container mt-2 pt-2">
         <div class="card" style="width: 18rem;">
             <div class="card-body">
+              <h2>Free Talking - Opinion (LG)</h2>
+              <br />
+                <a href ="/book#/FreeTalking-Opinion-LG/unit1">Unit 1</a><br />
+            </div>
+        </div>
+    </div>
+
+    <div class="container mt-2 pt-2">
+        <div class="card" style="width: 18rem;">
+            <div class="card-body">
               <h2>Freetalking - Description</h2>
               <br />
                 <a href ="/book#/Freetalking-Description/Freetalking-Description-Level1/chapter1">Freetalking - Description - Level 1</a><br />
@@ -80,6 +90,7 @@
               <br />
                 <a href ="/book#/DialogueBooks/DialogueLevel1/chapter1">Daily Dialogue - White 1</a><br />
                 <a href ="/book#/DialogueBooks/DialogueLevel2/unit1">Daily Dialogue - Yellow 2</a><br />
+                <a href ="/book#/DialogueBooks/DialogueLevelGreen3/unit1">Daily Dialogue - Green 3</a><br />
             </div>
         </div>
     </div>
@@ -88,7 +99,7 @@
       <div class="container mt-2 pt-2">
           <div class="card" style="width: 18rem;">
               <div class="card-body">
-                  <a href ="/book#/freetalking/beginner/chapter1">Perfect Reading & Talking</a>
+                  <a href ="/book#/freetalking/beginner/Unit1Chapter1">Perfect Reading & Talking</a>
               </div>
           </div>
       </div>
@@ -117,7 +128,7 @@
       <div class="container mt-2 pt-2">
           <div class="card" style="width: 18rem;">
               <div class="card-body">
-                  <a href ="/book#/LevelTest/Adult/AdultBeginner">Adult Beginner</a><br />
+                  <a href ="/book#/LevelTest/Adult/AdultBeginner">Level Test</a><br />
               </div>
           </div>
       </div>
@@ -166,6 +177,16 @@
               </div>
           </div>
       </div>
+
+      <!-- <div class="container mt-2 pt-2">
+          <div class="card" style="width: 18rem;">
+              <div class="card-body">
+                <h2>Speaking Pattern Drills</h2>
+                <br>
+                  <a href ="/book#/Speaking-Pattern-Drills/Speaking-Pattern-Drills1/unit1">Speaking Pattern Drills 1</a>
+              </div>
+          </div>
+      </div> -->
 
 
 <style>

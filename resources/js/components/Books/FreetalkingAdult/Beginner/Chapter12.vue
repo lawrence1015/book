@@ -23,7 +23,7 @@
     </v-img>
 
 
-          <h3 style="background-color: #a7d7c5;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Reading Practice <span style="font-size:18px">( 선생님의 안내에 따라 문장을 읽어 주세요 )</span>
+          <h3 style="background-color: #a7d7c5;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Reading Practice ( 선생님의 안내에 따라 문장을 읽어 주세요 )
           </h3>
                <div style="padding : 16px;">
 
@@ -36,19 +36,19 @@
 
 
 
-<li style="list-style-type: none;"><u>Exhilarate(v)</u> - to make somebody feel happy and alive <span style="font-size:16px">아주 기쁘게 만들다</span>
+<li style="list-style-type: none;"><u>Exhilarate(v)</u> - to make somebody feel happy and alive 아주 기쁘게 만들다
 </li>
 
-<li style="list-style-type: none;"><u>Discount(n,v)</u> -  reduce the price of something <span style="font-size:16px">할인, 할인하다, 할인해서 팔다</span>
+<li style="list-style-type: none;"><u>Discount(n,v)</u> -  reduce the price of something 할인, 할인하다, 할인해서 팔다
 </li>
 
-<li style="list-style-type: none;"><u>Load(v)</u> -  to put something on a vehicle or animal <span style="font-size:16px">짐[화물], 짐의 양[적재량]</span>
+<li style="list-style-type: none;"><u>Load(v)</u> -  to put something on a vehicle or animal 짐[화물], 짐의 양[적재량]
 </li>
 
-<li style="list-style-type: none;"><u>Whistle(v)</u> -  make sound through the lips <span style="font-size:16px">호각[호루라기] 소리, 휘파람</span>
+<li style="list-style-type: none;"><u>Whistle(v)</u> -  make sound through the lips 호각[호루라기] 소리, 휘파람
 </li>
 
-<li style="list-style-type: none;"><u>Out of the blue</u> - unexpectedly <span style="font-size:16px">갑자기, 난데없이</span>
+<li style="list-style-type: none;"><u>Out of the blue</u> - unexpectedly 갑자기, 난데없이
 </li>
 
 <p>Fill in the blanks using the words above.
@@ -263,7 +263,7 @@ For the PAST TENSE, most verbs have to be added with -ed.
 </div>
 
 
-<h3  style="padding-top: 7px;  margin-left: -18px; margin-right: -18px;  padding-bottom: 10px;  padding-top: 10px; padding-left: 10px; background-color: #a7d7c5; ">Conversation Samples <span style="font-size:18px">(선생님과 역할을 나눠서 연습해보세요)</span></h3>
+<h3  style="padding-top: 7px;  margin-left: -18px; margin-right: -18px;  padding-bottom: 10px;  padding-top: 10px; padding-left: 10px; background-color: #a7d7c5; ">Conversation Samples (선생님과 역할을 나눠서 연습해보세요)</h3>
 
 <div style="padding : 16px;">
 

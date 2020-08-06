@@ -23,7 +23,7 @@
     </v-img>
 
 
-          <h3 style="background-color: #a7d7c5;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Reading Practice <span style="font-size:18px">( 선생님의 안내에 따라 문장을 읽어 주세요 )</span></h3>
+          <h3 style="background-color: #a7d7c5;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Reading Practice <br><span class = "korean">( 선생님의 안내에 따라 문장을 읽어 주세요 )</span></h3>
                <div style="padding : 16px;">
 
 <p>I own two, red luxury cars and a white townhouse but you may be surprised if I tell you that my most prized possessions are the three rectangular, yellow photo albums. They are not mere collections of pictures but diaries as well. My parents made them together. They posted our pictures and wrote down the experiences and ideas in words. They also pasted leaves and flowers that we got during our several excursions. They are very precious to me because my parents died when I was a teenager and these albums helped me not to feel that I was alone.
@@ -35,19 +35,19 @@
 
 
 
-<li style="list-style-type: none;"><u>Luxury(adj)</u> - rich and superior in quality <span style="font-size:16px">호화로움, 사치, 사치, 드문 호사</span>
+<li style="list-style-type: none;"><u>Luxury(adj)</u> - rich and superior in quality <span class = "korean">호화로움, 사치, 사치, 드문 호사</span>
 </li>
 
-<li style="list-style-type: none;"><u>Prized(v)</u> - Regard highly, think much of <span style="font-size:16px">소중한</span>
+<li style="list-style-type: none;"><u>Prized(v)</u> - Regard highly, think much of <span class = "korean">소중한</span>
 </li>
 
-<li style="list-style-type: none;"><u>Mere(adj)</u> - Being nothing more than specified <span style="font-size:16px">겨우 …의, …에 불과한, 단지 …만의</span>
+<li style="list-style-type: none;"><u>Mere(adj)</u> - Being nothing more than specified <span class = "korean">겨우 …의, …에 불과한, 단지 …만의</span>
 </li>
 
-<li style="list-style-type: none;"><u>Excursions(n)</u> -  a journey taken for pleasure <span style="font-size:16px">여행</span>
+<li style="list-style-type: none;"><u>Excursions(n)</u> -  a journey taken for pleasure <span class = "korean">여행</span>
 </li>
 
-<li style="list-style-type: none;"><u>Precious(adj)</u> - of high worth or cost <span style="font-size:16px">귀중한, 값비싼, 귀한[소중한]</span>
+<li style="list-style-type: none;"><u>Precious(adj)</u> - of high worth or cost <span class = "korean">귀중한, 값비싼, 귀한[소중한]</span>
 </li>
 
 <p>Fill in the blanks using the words above.
@@ -93,7 +93,7 @@
 </div>
 
 <h3  style="padding-top: 7px;  margin-left: -18px; margin-right: -18px;  padding-bottom: 10px;  padding-top: 10px; padding-left: 10px; background-color: #a7d7c5; ">Translation</h3>
-<div style="padding : 16px;">
+<div style="padding : 16px;" class = "korean">
   <p>
     나는 빨간 고급 승용차 두 대와 하얀 타운하우스를 가지고 있지만 내가 가장 아끼는 물건은 직사각형의 노란색 사진첩 세 장이라고 말한다면 놀랄지도 모른다.
     그것들은 단순한 그림의 모음이 아니라 일기장이다. 부모님이 함께 만드셨다.
@@ -107,8 +107,6 @@
 
        </v-layout>
      </v-container>
-  </v-layout>
-  </v-container>
 </div>
 </template>
 
@@ -162,10 +160,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

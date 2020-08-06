@@ -31,7 +31,7 @@
           <h2 style="padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Today's topic</h2>
 
   <hr width="60%">
-               <div style="padding : 10px; line-height: 200%;">
+               <div style="padding : 10px; line-height: 200%;" class = "korean">
 
                  <h2>Pattern 21 |   </h2>
                   <br />
@@ -109,14 +109,12 @@
           <b>165</b> 방법은 한 가지뿐이야. ( only, way ) <br />
         </p>
         <p>
-          <b>167</b>  <br />
+          <b>167</b> 태풍이 불었어요. <br />
         </p>
         <p>
-          <b>168</b>  <br />
+          <b>168</b> 로비에 낯선 사람이 있어요. <br />
         </p>
-        <p>
-          <b>169</b>  <br />
-        </p>
+    
 
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
@@ -130,9 +128,9 @@
               163 There’s a traffic jam.<br />
               164 There’s a strong wind.<br />
               165 There’s a only one way.<br />
-              166 <br />
-              167 <br />
-              168 <br />
+              166 There’s a typhoon.<br />
+              167 There’s a stranger in the lobby.<br />
+              168 There's always more fish in the sea.<br />
             </v-card-text>
           </v-card>
         </v-flex>

@@ -29,7 +29,7 @@
   </div>
 
   <h3  class = "border white--text" style = "border-radius: 0px 0px 70px 0px;" >Topic</h3>
-  <div style = "padding : 16px; line-height: 200%;">
+  <div style = "padding : 16px; line-height: 1.6;">
 
     <table style = "border-collapse: collapse;">
 
@@ -39,7 +39,7 @@
       we can easily see actual photos of space.
       We don't have much evidence that aliens exist, but it's too early to say that there are no aliens.</td>
     </tr>
-    <tr>
+    <tr style="color:#1565C0;">
       <td class = "uppertable" ><b>B :</b></td>
       <td class = "lowertable" >Some researchers say they have evidence that aliens are real, but NASA and many scientists are not convinced.
       News about aliens and spaceships don't last very long.
@@ -62,34 +62,34 @@
       <div style="padding : 16px;">
 
         <p>
-          <b>think 생각하다</b>
+          <b>think</b> 생각하다
         </p>
         <p>
-          <b>beyond ~저편에</b>
+          <b>beyond</b> ~저편에
         </p>
         <p>
-          <b>actual 실제의</b>
+          <b>actual</b> 실제의
         </p>
         <p>
-          <b>evidence 증거</b>
+          <b>evidence</b> 증거
         </p>
         <p>
-          <b>exist 존재하다</b>
+          <b>exist</b> 존재하다
         </p>
         <p>
-          <b>early 이른</b>
+          <b>early</b> 이른
         </p>
         <p>
-          <b>researcher 연구원</b>
+          <b>researcher</b> 연구원
         </p>
         <p>
-          <b>convinced 확신하는</b>
+          <b>convinced</b> 확신하는
         </p>
         <p>
-          <b>imaginary 상상에만 존재하는</b>
+          <b>imaginary</b> 상상에만 존재하는
         </p>
         <p>
-          <b>creature 생물</b>
+          <b>creature</b> 생물
         </p>
 
       </div>
@@ -108,41 +108,31 @@
                  width: 100px;">해석</h3>
       <div style="padding : 16px;">
 
-        <p>
 
-          <v-container grid-list-md text-xs-left>
-            <v-layout row wrap>
-
-
-              <v-flex xs12>
-                <v-card light color="#FFE7D5">
-                  <v-card-text class="px-10">
-                    <p>
+                      <p class = "korean">
+                        <b>
                         외계인은 진짜인가?
-                    </p>
-                    <ol class="replace" type = "A" style="font-weight: bold;">
-                      <li><span class = "normaltext">
-                        오래 전에, 사람들은 하늘 너머에 뭔가가 있다고 생각했습니다.
+                        </b>
+                      </p>
+
+                      <table style = "border-collapse: collapse;">
+
+                       <tr>
+                        <td class = "uppertable" ><b>A :</b></td>
+                        <td class = "lowertable" style = "word-break: keep-all" >오래 전에, 사람들은 하늘 너머에 뭔가가 있다고 생각했습니다.
                         하지만 이제는 실제 공간 사진을 쉽게 볼 수 있습니다.
                         우리는 외계인이 존재한다는 증거를 많이 가지고 있지 않지만,
-                        외계인이 없다고 말하기는 너무 이릅니다.
-                        </span>
-                      </li>
-                      <li><span class = "normaltext">
-                        몇몇 연구원들은 외계인이 존재한다는 증거를 가지고 있다고 말하지만,
+                        외계인이 없다고 말하기는 너무 이릅니다.</td>
+                      </tr>
+                      <tr style="color:#1565C0;">
+                        <td class = "uppertable" ><b>B :</b></td>
+                        <td class = "lowertable" style = "word-break: keep-all" >몇몇 연구원들은 외계인이 존재한다는 증거를 가지고 있다고 말하지만,
                         나사와 많은 과학자들은 확신하지 못합니다. 외계인과 우주선에 대한 소식은 그리 오래 가지 않습니다.
-                        이것은 외계인이 유니콘과 같은 상상의 생물이라는 것을 의미합니다.
-                      </span>
-                      </li>
-                    </ol>
+                        이것은 외계인이 유니콘과 같은 상상의 생물이라는 것을 의미합니다.</td>
+                      </tr>
 
-                  </v-card-text>
-                </v-card>
-              </v-flex>
-            </v-layout>
-          </v-container>
-
-        </p>
+                    
+                      </table>
 
 
       </div>
@@ -152,8 +142,6 @@
 
 
   </v-layout>
-</v-container>
-</v-layout>
 </v-container>
 </div>
 
@@ -215,11 +203,6 @@ p{
 
 h3{
   padding-top: 7px;
-
-}
-
-li{
-
 
 }
 

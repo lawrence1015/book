@@ -31,7 +31,7 @@
           <h2 style="padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Today's topic</h2>
 
   <hr width="60%">
-               <div style="padding : 10px; line-height: 200%;">
+               <div style="padding : 10px; line-height: 200%;" class = "korean">
 
                  <h2>Pattern 12 |  </h2>
                   <br />
@@ -64,7 +64,7 @@
           </p>
           <p style="line-height: 2;">
             A : 너 Pam을 잘 알고 있어<br />
-            B : 응. <mark style="background-color: #a7d7c5; color: #d9e7cd;">I’ve known her for 10 years</mark><br />.
+            B : 응. <mark style="background-color: #a7d7c5; color: #d9e7cd;">I’ve known her for 10 years</mark><br />
             A : 그 여자 믿을 만한 사람이야?<br />
             B : 아주 믿을 만하지.
           </p>

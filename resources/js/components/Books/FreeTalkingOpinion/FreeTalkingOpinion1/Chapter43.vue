@@ -29,7 +29,7 @@
   </div>
 
   <h3  class = "border white--text" style = "border-radius: 0px 0px 70px 0px;" >Topic</h3>
-  <div style = "padding : 16px; line-height: 200%;">
+  <div style = "padding : 16px; line-height: 1.6;">
 
     <table style = "border-collapse: collapse;">
 
@@ -37,7 +37,7 @@
       <td class = "uppertable" ><b>Jane :</b></td>
       <td class = "lowertable" >Comics are better than animations because they are more detailed and make us read. Comics deliver storytelling better, too. Animations would not have even existed without comics!</td>
     </tr>
-    <tr>
+    <tr style="color:#1565C0;">
       <td class = "uppertable" ><b>Tom :</b></td>
       <td class = "lowertable" >Sometimes, people want to watch instead of read. Besides, amazing details and storytelling can be seen in high-quality animations. Companies like Pixar and Studio Ghibli have proven countless times that animation is a respectable art form.</td>
     </tr>
@@ -58,34 +58,34 @@
       <div style="padding : 16px;">
 
         <p>
-          <b>detailed 상세한 </b>
+          <b>detailed</b> 상세한 
         </p>
         <p>
-          <b>deliver 하다 </b>
+          <b>deliver</b> 하다 
         </p>
         <p>
-          <b>storytelling 이야기하기 </b>
+          <b>storytelling</b> 이야기하기 
         </p>
         <p>
-          <b>exist 존재하다 </b>
+          <b>exist</b> 존재하다 
         </p>
         <p>
-          <b>amazing 놀라운 </b>
+          <b>amazing</b> 놀라운 
         </p>
         <p>
-          <b>high-quality 고급의 </b>
+          <b>high-quality</b> 고급의 
         </p>
         <p>
-          <b>countless 무수한 </b>
+          <b>countless</b> 무수한 
         </p>
         <p>
-          <b>respectable 훌륭한 </b>
+          <b>respectable</b> 훌륭한 
         </p>
         <p>
-          <b>art 예술 </b>
+          <b>art</b> 예술 
         </p>
         <p>
-          <b>form 형식 </b>
+          <b>form</b> 형식 
         </p>
 
       </div>
@@ -110,7 +110,7 @@
             <td class = "uppertable" ><b>제인 :</b></td>
             <td class = "lowertable" >만화는 애니메이션보다 더 섬세하고 우리가 읽게 하기 때문에 더 좋아. 만화는 스토리텔링도 더 잘 전달해. 만화가 없었다면 애니메이션은 존재하지도 않았을 거야!</td>
           </tr>
-          <tr>
+          <tr style="color:#1565C0;">
             <td class = "uppertable" ><b>탐 :</b></td>
             <td class = "lowertable" >때때로, 사람들은 읽는 대신에 보는 것을 원해. 게다가, 놀라운 상세함과 스토리텔링은 고품질의 애니메이션에서 볼 수 있어 픽사와 스튜디오 지브리와 같은 회사들은 애니메이션이 존경할 만한 예술 형태라는 것을 수없이 증명했어.</td>
           </tr>
@@ -126,8 +126,6 @@
 
 
   </v-layout>
-</v-container>
-</v-layout>
 </v-container>
 </div>
 
@@ -192,10 +190,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

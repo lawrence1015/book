@@ -28,7 +28,7 @@
 
    <ol style="margin: 12px;">
      <li class="mb-2">
-       What are five positive ways people deal with stress?<br />
+      How do people positively deal with stress?<br />
        <br />
      </li>
      <li class="mb-2">
@@ -68,7 +68,7 @@
 
   <ol style="margin: 12px;">
      <li class="mb-2">
-       사람들이 스트레스를 다루는 다섯 가지 긍정적인 방법은 무엇인가요?
+      사람들은 어떻게 스트레스를 긍정적으로 처리할까?
      </li>
      <br />
      <li class="mb-2">
@@ -106,8 +106,6 @@
 
        </v-layout>
      </v-container>
-  </v-layout>
-  </v-container>
 </div>
 
 

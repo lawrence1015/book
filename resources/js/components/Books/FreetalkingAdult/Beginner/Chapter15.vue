@@ -23,7 +23,7 @@
     </v-img>
 
 
-          <h3 style="background-color: #a7d7c5;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Reading Practice <span style="font-size:18px">( 선생님의 안내에 따라 문장을 읽어 주세요 )</span></h3>
+          <h3 style="background-color: #a7d7c5;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Reading Practice ( 선생님의 안내에 따라 문장을 읽어 주세요 )</h3>
                <div style="padding : 16px;">
 
 <p>Unfortunately, a lot of animal species are now on the verge of extinction.  The main reason of course are human activities like hunting and deforestation.  Many hunters kill animals for their meat and other body parts which are used for   commercial purposes like leather, fur and medicines. Conversion of forests and valleys into cities and buildings forces animals out of their habitats, causing them to die.
@@ -35,19 +35,19 @@
 
 
 
-<li style="list-style-type: none;"><u>Fauna(n)</u> - all animal life <span style="font-size:16px">동물상</span>
+<li style="list-style-type: none;"><u>Fauna(n)</u> - all animal life 동물상
 </li>
 
-<li style="list-style-type: none;"><u>Species(n)</u> -  a group or kind of the same kind<span style="font-size:16px">종</span>
+<li style="list-style-type: none;"><u>Species(n)</u> -  a group or kind of the same kind종
 </li>
 
-<li style="list-style-type: none;"><u>Verge(n)</u> -  point; edge<span style="font-size:16px">길가[도로변], 가장자리</span>
+<li style="list-style-type: none;"><u>Verge(n)</u> -  point; edge길가[도로변], 가장자리
 </li>
 
-<li style="list-style-type: none;"><u>Extinction(n)</u> -  the process when related organisms die out<span style="font-size:16px">멸종, 절멸, 소멸</span>
+<li style="list-style-type: none;"><u>Extinction(n)</u> -  the process when related organisms die out멸종, 절멸, 소멸
 </li>
 
-<li style="list-style-type: none;"><u>Deforestation(n)</u> - removing trees in an area<span style="font-size:16px">삼림 벌채[파괴]</span>
+<li style="list-style-type: none;"><u>Deforestation(n)</u> - removing trees in an area삼림 벌채[파괴]
 </li>
 
 
@@ -111,8 +111,8 @@ margin-bottom: -10px;">
 </div>
 
 
-<h3  style="padding-top: 7px; margin-left: -18px; margin-right: -18px; padding-left: 10px; margin-top: 10px; padding-bottom: 10px; margin-bottom: 12px;  padding-top: 10px; background-color: #a7d7c5;">Reading Practice <span style="font-size:18px"> ( 선생님의 안내에 따라 문장을 읽어 주세요 )
-</span>
+<h3  style="padding-top: 7px; margin-left: -18px; margin-right: -18px; padding-left: 10px; margin-top: 10px; padding-bottom: 10px; margin-bottom: 12px;  padding-top: 10px; background-color: #a7d7c5;">Reading Practice  ( 선생님의 안내에 따라 문장을 읽어 주세요 )
+
 </h3>
 
 <div style="padding : 16px;">
@@ -129,19 +129,19 @@ margin-bottom: -10px;">
 
 
 
-<li style="list-style-type: none;"><u>Aptly(adv)</u> - appropriate <span style="font-size:16px">적절히</span>
+<li style="list-style-type: none;"><u>Aptly(adv)</u> - appropriate 적절히
 </li>
 
-<li style="list-style-type: none;"><u>Indeed(adv)</u> -  word to give emphasis; really <span style="font-size:16px">정말[확실히], 정말[참으로]</span>
+<li style="list-style-type: none;"><u>Indeed(adv)</u> -  word to give emphasis; really 정말[확실히], 정말[참으로]
 </li>
 
-<li style="list-style-type: none;"><u>Threatened(adj)</u> -  likely to become extinct <span style="font-size:16px">&lt;야생 동물의 종이&gt; 멸종할 위기에 직면한</span>
+<li style="list-style-type: none;"><u>Threatened(adj)</u> -  likely to become extinct &lt;야생 동물의 종이&gt; 멸종할 위기에 직면한
 </li>
 
-<li style="list-style-type: none;"><u>Exist(v)</u> -  to live <span style="font-size:16px">존재[실재/현존]하다, 살아가다</span>
+<li style="list-style-type: none;"><u>Exist(v)</u> -  to live 존재[실재/현존]하다, 살아가다
 </li>
 
-<li style="list-style-type: none;"><u>Dwindle(v)</u> - to decrease little by little <span style="font-size:16px">줄어들다</span>
+<li style="list-style-type: none;"><u>Dwindle(v)</u> - to decrease little by little 줄어들다
 </li>
 
 <p>Fill in the blanks using the words above.
@@ -201,7 +201,7 @@ margin-bottom: -10px;">
 </p>
 </div>
 
-<h3  style="padding-top: 7px;  margin-left: -18px; margin-right: -18px;  padding-bottom: 10px;  padding-top: 10px; padding-left: 10px; background-color: #a7d7c5; ">Conversation Samples <span style="font-size:18px">(선생님과 역할을 나눠서 연습해보세요)</span>
+<h3  style="padding-top: 7px;  margin-left: -18px; margin-right: -18px;  padding-bottom: 10px;  padding-top: 10px; padding-left: 10px; background-color: #a7d7c5; ">Conversation Samples (선생님과 역할을 나눠서 연습해보세요)
 </h3>
 
 <div style="padding : 16px;">

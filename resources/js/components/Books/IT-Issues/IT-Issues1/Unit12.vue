@@ -35,7 +35,7 @@
         One ideal objective for AI is the examinations of visual information. 
       </p>
 
-      <p>Presently, screening mammography is becoming the dominant focal point as a conspicuous objective where 40 million ladies in the United States alone experience the test yearly.
+      <p>Presently, screening mammography is becoming the dominant focal point as a conspicuous objective as 40 million ladies in the United States alone experience the test yearly.
       </p>
 
       <p>This investigation is a promising case of the developing time of AI-based translation of clinical picture information. The investigation group looked at the presentation of their AI framework to radiologists' exhibition on 2652 computerized mammography screening tests. Their AI framework created a likelihood of threat score somewhere in the range of 1 and 10, though radiologists gave an evaluation depending on the Breast Imaging and Reporting Data System (BI-RADS) appraisal scale that ranges from 0 to 6. As we enter this energizing and quickly developing new outskirts, it will be significant that AI frameworks for bosom disease screening be approved on different, various imaging datasets delegate of screening populaces.
@@ -71,13 +71,19 @@
           <b>dominant</b> <span class = "korean">우세한, 지배적인, 우성의</span>
         </p>
         <p>
+          <b>focal</b> <span class = "korean">중심의, 초점의</span>
+        </p>
+        <p>
           <b>conspicuous</b> <span class = "korean">눈에 잘 띄는, 튀는; 뚜렷한</span>
+        </p>
+        <p>
+          <b>promising</b> <span class = "korean">유망한, 촉망되는</span>
         </p>
         <p>
           <b>radiologist</b> <span class = "korean">방사선 전문의</span>
         </p>
         <p>
-          <b>bosom bosom</b> <span class = "korean">가슴, 가슴, 단란함</span>
+          <b>likelihood</b> <span class = "korean">가능성</span>
         </p>
         <p>
           <b>populace</b> <span class = "korean">대중들[서민들]</span>
@@ -109,22 +115,10 @@
       <div style="padding : 16px;">
 
         <p>
-          <b>is becoming the dominant focal point</b> <span class = "korean">주안점이 되고 있습니다.</span>
+          <b>in the range</b> <span class = "korean">범위내에서</span>
         </p>
         <p>
-          <b>as a conspicuous objective</b> <span class = "korean">눈에 띄는 목표로서요</span>
-        </p>
-        <p>
-          <b>is a promising case of the developing time</b> <span class = "korean">개발 시간의 유망한 경우이다.</span>
-        </p>
-        <p>
-          <b>created a likelihood of threat score</b> <span class = "korean">위협 점수의 가능성이 생성되었습니다.</span>
-        </p>
-        <p>
-          <b>appraisal scale that ranges from 0 to 6.</b> <span class = "korean">평가 척도는 0에서 6 사이의 범위입니다.</span>
-        </p>
-        <p>
-          <b>delegate of screening populaces.</b> <span class = "korean">대중을 선별하는 대표입니다.</span>  
+          <b>range from A to B</b> <span class = "korean">A에서 B까지 범위</span>  
         </p>
 
       </div>
@@ -154,13 +148,16 @@
 
         <ol style="padding-right: 20px; padding-top: 10px;">
           <li>
-            In your own opinion do you think AI can be essential in the medical field?
+            In your own opinion do you think AI can be essential in the medical field?<br />
+            의료영역에서 AI는 필수적이라고 생각하십니까?<br />
           </li>
           <li>
-            What will be the effect if they successfully develop AI clinical image information?
+            What will be the effect if they successfully develop AI clinical image information?<br />
+            AI 임상이미지 정보를 성공적으로 개발하면 어떤 효과가 있을까요?<br />
           </li>
           <li>
-            What are the advantages of AI in the medical field? 
+            What are the advantages of AI in the medical field? <br />
+            의료영역에서 AI의 이점은 무엇인가요?<br />
           </li>
         </ol>
 
@@ -202,16 +199,16 @@
                   <v-card-text class="px-10">
                     <p>
                       <span class = "korean">
-                      <b>유방암 영상촬영을 위한 인공지능은 다음과 같습니다.</b></span>
+                      <b>유방암 영상촬영을 위한 인공지능</b></span>
                     </p>
                     <p>
-                      <span class = "korean">AI의 이상적인 목표 중 하나는 시각 정보의 검사입니다.</span>
+                      <span class = "korean">AI에 있어서 이상적인 목적은 시각정보 검사이다.</span>
                     </p>
                     <p>
-                      <span class = "korean">현재, 유방 촬영 검사는 미국에서만 4천만 명의 여성들이 매년 검사를 경험하는 눈에 띄는 목표로서 주된 초점이 되고 있습니다.</span>
+                      <span class = "korean">현재 매모그러피 검진은 미국 여성만 연간 4000만 명이 받는다는 눈에 띄는 목표로 큰 쟁점이 되고 있다.</span>
                     </p>
                     <p>
-                      <span class = "korean">이번 조사는 AI 기반 임상 사진 정보 번역의 개발 시기를 가늠할 수 있는 유망 사례이다. 조사단은 2652개의 컴퓨터 유방 촬영 검사 테스트에 대한 방사선 전문의들의 전시회에 AI 프레임워크의 프레젠테이션을 살펴봤습니다. 방사선과 의사가 평가한 AI 프레임워크는 0 - 6 범위의 Breast Imaging and Reporting Data System(BI-RADS) 평가 척도에 따라 다르지만, 이들의 AI 프레임워크는 1과 10의 범위 어딘가에서 위협 점수를 얻을 가능성이 있습니다. 이러한 활력이 넘치는 새로운 변두리로 진입하고 빠르게 발전함에 따라, 흉부 질환 검진을 위한 AI 프레임워크를 선별 대중성을 검사하는 다양한 이미지 데이터셋 대리인에게 승인하는 것이 중요해질 것입니다.
+                      <span class = "korean">이번 연구는 AI에 의한 임상영상정보 번역 개발 시기가 유망한 사례이다. 조사진은 2652건의 컴퓨터 맨모그래피 검사에서 방사선과 의사 전시에 AI의 틀을 제시했다. 이들의 AI 프레임워크는 1에서 10 범위의 위협 점수 가능성을 제시한 반면 방사선과 의사는 0에서 6 범위의 유방 영상보고 데이터 시스템(BI-RADS) 평가 척도에 따라 평가했다. 우리가 이 활력이 있고 급속하게 발전하고 있는 새로운 교외에 들어선다면 흉부질환 검진을 위한 AI 프레임워크가 검진 인구에게 위임된 다양한 영상 데이터 셋으로 승인되는 것은 중요한 의미를 가질 것이다.
                       </span>
                     </p>
                   </v-card-text>
@@ -222,7 +219,7 @@
 
         </p>
 
-<p>
+<p style = "font-size: small;">
   Image Source: "medium"
 </p>
 

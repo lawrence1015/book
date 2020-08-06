@@ -23,7 +23,7 @@
     </v-img>
 
 
-          <h3 style="background-color: #a7d7c5;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Reading Practice <span style="font-size:18px">( 선생님의 안내에 따라 문장을 읽어 주세요 )</span></h3>
+          <h3 style="background-color: #a7d7c5;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Reading Practice ( 선생님의 안내에 따라 문장을 읽어 주세요 )</h3>
                <div style="padding : 16px;">
 
 <p>Nature refers to the physical environment around us including the animals and plants. The word "nature"	is derived from the Latin word "natura" which means "essential qualities." Earth, the planet where we live in is the only one known to human knowledge to support life. It has the perfect conditions such as mineral composition and temperature to nurture the natural world as we know it now. From the mountains to the sea, we are enjoying the gifts of Nature so we must take care of it too!
@@ -35,19 +35,19 @@
 
 
 
-<li style="list-style-type: none;"><u>Physical(adj)</u> - having substance or material existence <span style="font-size:16px">육체[신체]의, 물질의</span>
+<li style="list-style-type: none;"><u>Physical(adj)</u> - having substance or material existence 육체[신체]의, 물질의
 </li>
 
-<li style="list-style-type: none;"><u>Derive(v)</u> -  come from <span style="font-size:16px">끌어내다, 얻다</span>
+<li style="list-style-type: none;"><u>Derive(v)</u> -  come from 끌어내다, 얻다
 </li>
 
-<li style="list-style-type: none;"><u>Mineral(n)</u> -  solid homogenous inorganic substances occurring in nature having a definite chemical composition <span style="font-size:16px">광물; 무기물, 미네랄</span>
+<li style="list-style-type: none;"><u>Mineral(n)</u> -  solid homogenous inorganic substances occurring in nature having a definite chemical composition 광물; 무기물, 미네랄
 </li>
 
-<li style="list-style-type: none;"><u>Composition(n)</u> -  something that is created by arranging several things to form a unified whole <span style="font-size:16px">구성 요소들; 구성</span>
+<li style="list-style-type: none;"><u>Composition(n)</u> -  something that is created by arranging several things to form a unified whole 구성 요소들; 구성
 </li>
 
-<li style="list-style-type: none;"><u>Nurture(v)</u> - help develop, help grow <span style="font-size:16px">육성[양성]하다, 키우다</span>
+<li style="list-style-type: none;"><u>Nurture(v)</u> - help develop, help grow 육성[양성]하다, 키우다
 </li>
 
 <p>Fill in the blanks using the words above.
@@ -109,7 +109,7 @@
             padding-bottom: 10px;  
             padding-top: 10px; 
             padding-left: 10px; 
-            background-color: #a7d7c5; ">Conversation Samples <span style="font-size:18px">(선생님과 역할을 나눠서 연습해보세요)</span></h3>
+            background-color: #a7d7c5; ">Conversation Samples (선생님과 역할을 나눠서 연습해보세요)</h3>
 
 <div style="padding : 16px;">
 

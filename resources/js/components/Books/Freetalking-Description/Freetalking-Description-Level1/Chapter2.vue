@@ -83,7 +83,7 @@
                         <br />
                         What kind of animal can you see inside the cage?<br />
                         <br />
-                        What is she doing in the picture?
+                        What is the girl doing in the picture?
                       </b>
                     </p>
                   </v-card-text>
@@ -113,7 +113,7 @@
                         <br />
                         우리 안에서 어떤 동물을 볼 수 있나요?<br />
                         <br />
-                        그녀는 사진에서 무엇을 하고 있나요?
+                        사진 속의 소녀는 무엇을 하고 있는가?
                       </b>
                     </p>
                   </v-card-text>

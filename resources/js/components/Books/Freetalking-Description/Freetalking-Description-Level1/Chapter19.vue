@@ -6,7 +6,7 @@
 
       <v-layout column>
         <v-img
-        src="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/2010_FIFA_World_Cup.svg/932px-2010_FIFA_World_Cup.svg.png" 
+        src="https://upload.wikimedia.org/wikipedia/en/thumb/8/81/2019_FIFA_U-20_World_Cup.svg/199px-2019_FIFA_U-20_World_Cup.svg.png" 
         style="max-width: 100%; display:block; height: auto;">
 
         <v-layout
@@ -19,7 +19,7 @@
         width: 100%;
         padding-top : 10px;
         padding-left : 10px;
-        padding-bottom: 10px;">South Africa
+        padding-bottom: 10px;">World Cup
       </h1>
     </v-layout>
   </v-img>
@@ -30,7 +30,7 @@
   <div style = "padding : 16px;">
 
       <h3>
-        This is the official logo of the World Cup 2010.
+        This is the official logo of the World Cup 2019.
       </h3>
 
       <h3>
@@ -38,7 +38,7 @@
       </h3>
 
       <p>
-        <h4>2010년 월드컵 공식 로고 입니다.</h4>
+        <h4>2019년 월드컵 공식 로고 입니다.</h4>
       </p>
         <h4>로고는 선수의 지구력을 상징한다.</h4>
 
@@ -74,9 +74,9 @@
                   <v-card-text class="px-10">
                     <p>
                       <b>
-                        2010년 월드컵 당시 한국 축구대표팀의 활약은 어땠나?<br />
+                        How was the performance of Korean soccer team during the 2019 World Cup?<br />
                         <br />
-                        너는 축구 경기 팬이니?
+                        Are you a fan of soccer game?
                       </b>
                     </p>
                   </v-card-text>
@@ -98,9 +98,9 @@
                   <v-card-text class="px-10">
                     <p>
                       <b>
-                        당신은 한국의 사업장에 대해 뭐라고 말할 수 있나요?<br />
+                        2019년 월드컵 때 한국 축구팀 경기 어땠나요?<br />
                         <br />
-                        당신은 당신만의 사업장을 갖고 싶습니까?
+                        당신은 축구 팬인가요?
                       </b>
                     </p>
                   </v-card-text>

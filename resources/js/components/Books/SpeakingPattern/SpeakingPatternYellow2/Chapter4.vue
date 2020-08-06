@@ -109,13 +109,13 @@
           <b>189</b> 4시에 회의를 할 거예요. ( meeting, four o’clock ) <br />
         </p>
         <p>
-          <b>190</b>  <br />
+          <b>190</b> 우승자에게는 상이 수여될 것입니다. ( winner )<br />
         </p>
         <p>
-          <b>191</b>  <br />
+          <b>191</b> 결혼식에 샴페인이 있을 거예요. ( wedding ) <br />
         </p>
         <p>
-          <b>192</b>  <br />
+          <b>192</b> 올해는 실직은 없을 것입니다. ( job, loss ) <br />
         </p>
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
@@ -129,9 +129,9 @@
               187 There will be many prizes at the event.<br />
               188 There will be no next time.<br />
               189 There will be a meeting at four o’clock.<br />
-              190 <br />
-              191 <br />
-              192 <br />
+              190 There will be a prize for the winner. <br />
+              191 There will be champagne at the wedding.<br />
+              192 There will be no job losses this year.<br />
             </v-card-text>
           </v-card>
         </v-flex>

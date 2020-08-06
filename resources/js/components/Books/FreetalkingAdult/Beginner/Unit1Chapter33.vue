@@ -16,7 +16,7 @@
             </v-img>
 
 
-            <h3 style="background-color: #a7d7c5;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Reading Practice <span style="font-size:18px">( 선생님의 안내에 따라 문장을 읽어 주세요 )</span></h3>
+            <h3 style="background-color: #a7d7c5;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Reading Practice <br><span class = "korean">( 선생님의 안내에 따라 문장을 읽어 주세요 )</span></h3>
             <div style="padding : 16px;">
 
                 <p>We are immigrants from Asia and it has only been a month since we settled in a neighborhood in California. Across our home lives the Dela Cruz family who became our friends. Last month, they invited us into their home for their
@@ -30,19 +30,19 @@
 
 
 
-                    <li style="list-style-type: none;"><u>Immigrants(n)</u> - a newcomer to a country and will settle there <span style="font-size:16px">이민자[이주민]</span>
+                    <li style="list-style-type: none;"><u>Immigrants(n)</u> - a newcomer to a country and will settle there <span class = "korean">이민자[이주민]</span>
                     </li>
 
-                    <li style="list-style-type: none;"><u>Across(prep)</u> - on the opposite side; going to the opposite side <span style="font-size:16px">건너서, 가로질러, …쪽으로, 맞은편에, 가로로, 가로 열쇠의</span>
+                    <li style="list-style-type: none;"><u>Across(prep)</u> - on the opposite side; going to the opposite side <span class = "korean">건너서, 가로질러, …쪽으로, 맞은편에, 가로로, 가로 열쇠의</span>
                     </li>
 
-                    <li style="list-style-type: none;"><u>Debut(n)</u> - first public appearance; a girl’s 18th birthday for many cultures <span style="font-size:16px">데뷔, 첫 출연[출전]</span>
+                    <li style="list-style-type: none;"><u>Debut(n)</u> - first public appearance; a girl’s 18th birthday for many cultures <span class = "korean">데뷔, 첫 출연[출전]</span>
                     </li>
 
-                    <li style="list-style-type: none;"><u>Acquaint(v)</u> - to be aware of something <span style="font-size:16px">익히다, 숙지하다</span>
+                    <li style="list-style-type: none;"><u>Acquaint(v)</u> - to be aware of something <span class = "korean">익히다, 숙지하다</span>
                     </li>
 
-                    <li style="list-style-type: none;"><u>Occupy(v)</u> - to take over or live in place <span style="font-size:16px">차지하다, 사용하다[거주하다], 점령[점거]하다</span>
+                    <li style="list-style-type: none;"><u>Occupy(v)</u> - to take over or live in place <span class = "korean">차지하다, 사용하다[거주하다], 점령[점거]하다</span>
                     </li>
 
 
@@ -95,7 +95,7 @@
                 
                 <h3 style="padding-top: 7px;  margin-left: -18px; margin-right: -18px;  padding-bottom: 10px;  padding-top: 10px; padding-left: 10px; background-color: #a7d7c5; ">Translation</h3>
 
-                <div style="padding : 16px;">
+                <div style="padding : 16px;" class = "korean">
 
                     <p>우리는 아시아에서 온 이민자들이며 캘리포니아의 한 동네에 정착한 지 한 달밖에 되지 않았다. 우리 집 건너편에는 친구가 된 델라 크루즈 가족이 살고 있다. 지난 달, 우리가 잘 알지 못하는데도 불구하고 그들은 딸의 데뷔 파티를 위해 우리를 그들의 집으로 초대했다. Dela Cruz씨는 우리 아버지가 번화한 도시의 거리와 일자리를 통해 길을 찾는 것을 돕는다. 극도로 사교적이고 재미있는 그의 아내 지나씨는 어머니가 새로운 요리를 만들고 슈퍼마켓에서 쇼핑하는 것을 돕는다. 오늘 아침, 나는 우리 옆에 있는 집에 새로운 가족이 이사오는 것을 보았다. 우리도 그들과 친구가 될 수 있을지 궁금하다.
                     </p>

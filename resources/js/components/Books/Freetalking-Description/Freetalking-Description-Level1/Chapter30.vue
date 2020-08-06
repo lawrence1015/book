@@ -85,7 +85,7 @@
                   <v-card-text class="px-10">
                     <p>
                       <b>
-                        Violent video games can affect the child's behavior. What is your opinion about it?<br />
+                        Violent video games can affect a child's behavior. What is your opinion about it?<br />
                       </b>
                     </p>
                   </v-card-text>

@@ -23,7 +23,7 @@
     </v-img>
 
 
-          <h3 style="background-color: #a7d7c5;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Reading Practice <span style="font-size:18px">( 선생님의 안내에 따라 문장을 읽어 주세요 )</span></h3>
+          <h3 style="background-color: #a7d7c5;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Reading Practice <br><span class = "korean">( 선생님의 안내에 따라 문장을 읽어 주세요 )</span></h3>
                <div style="padding : 16px;">
 
    <p>Colors are very important. The world would look very boring without any colors. Everything will be in gray even the flowers, the trees, and the sky! Can you imagine that? Colors can change your mood and attract your attention. Colors also bring up different meanings for people. For example, the color red can mean love or hatred depending on the person. Blue can mean peace or sorrow.
@@ -35,19 +35,19 @@
 
 
 
-<li style="list-style-type: none;"><u>Boring</u> - not interesting or special <span style="font-size:16px">재미없는, 지루한</span>
+<li style="list-style-type: none;"><u>Boring</u> - not interesting or special <span class = "korean">재미없는, 지루한</span>
 </li>
 
-<li style="list-style-type: none;"><u>Hatred</u> - intense dislike; hate <span style="font-size:16px">증오[혐오](감)</span>
+<li style="list-style-type: none;"><u>Hatred</u> - intense dislike; hate <span class = "korean">증오[혐오](감)</span>
 </li>
 
-<li style="list-style-type: none;"><u>Sorrow</u> - sadness <span style="font-size:16px">(큰) 슬픔, 비애 (=grief)</span>
+<li style="list-style-type: none;"><u>Sorrow</u> - sadness <span class = "korean">(큰) 슬픔, 비애 (=grief)</span>
 </li>
 
-<li style="list-style-type: none;"><u>Symbolize</u> - to mean or represent <span style="font-size:16px">상징하다</span>
+<li style="list-style-type: none;"><u>Symbolize</u> - to mean or represent <span class = "korean">상징하다</span>
 </li>
 
-<li style="list-style-type: none;"><u>Jealousy</u> - to want something that another person owns <span style="font-size:16px">질투[시기](심), 시샘</span>
+<li style="list-style-type: none;"><u>Jealousy</u> - to want something that another person owns <span class = "korean">질투[시기](심), 시샘</span>
 </li>
 
 <p>
@@ -84,26 +84,26 @@
 
 
 <ol style="margin: 12px;">
-<li>What will the world be like without colors?</span>
+<li>What will the world be like without colors?
 </li>
 
-<li>What can colors do?</span>
+<li>What can colors do?
 </li>
 
-<li>What does red mean?</span>
+<li>What does red mean?
 </li>
 
-<li>What does blue symbolize?</span>
+<li>What does blue symbolize?
 </li>
 
-<li>What is the meaning of yellow?</span>
+<li>What is the meaning of yellow?
 </li>
 </ol>
 
 </div>
 
 <h3 style="padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 10px; margin-top: 10px; background-color: #a7d7c5;">Translation</h3>
-     <div style="padding : 16px;">
+     <div style="padding : 16px;" class = "korean">
 
        <p>
           색은 매우 중요하다. 어떤 색깔도 없다면 세상은 매우 지루해 보일 것이다. 모든 것은 심지어 꽃, 나무, 하늘도 회색일 것이다! 상상이 가는가? 색깔은 당신의 기분을 바꿀 수 있고 당신의 관심을 끌 수 있다.
@@ -116,27 +116,12 @@
 
 
 
-
-
-
-
-
  </div>
-
-
-
-
-
-
-
-
 
 
 
        </v-layout>
      </v-container>
-  </v-layout>
-  </v-container>
 </div>
 </template>
 
@@ -187,11 +172,6 @@ p{
 
 h3{
   padding-top: 7px;
-
-}
-
-li{
-
 
 }
 

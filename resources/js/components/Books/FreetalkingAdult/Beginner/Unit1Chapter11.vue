@@ -23,7 +23,7 @@
     </v-img>
 
 
-          <h3 style="background-color: #a7d7c5;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Reading Practice <span style="font-size:18px">( 선생님의 안내에 따라 문장을 읽어 주세요 )</span></h3>
+          <h3 style="background-color: #a7d7c5;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Reading Practice <br><span class = "korean">( 선생님의 안내에 따라 문장을 읽어 주세요 )</span></h3>
                <div style="padding : 16px;">
 
 <p>We are having a picnic right now. It is very fun and exciting.  Let me explain what is happening as I look around the campsite. Danny and Jesse are putting up a tent. Tory is cooking pumpkin soup and some rice balls for lunch. As Jay is trying to cut the tall grasses and clearing the area, Tommy is gathering some wood for the bonfire tonight.
@@ -36,19 +36,19 @@ I can hear the waterfalls nearby. It is not very big but it looks so beautiful. 
 
 
 
-<li style="list-style-type: none;"><u>Gather(v)</u> - to collect <span style="font-size:16px">모으다[수집하다]</span>
+<li style="list-style-type: none;"><u>Gather(v)</u> - to collect <span class = "korean">모으다[수집하다]</span>
 </li>
 
-<li style="list-style-type: none;"><u>Bonfire(n)</u> - campfire, outdoor fire <span style="font-size:16px">모닥불</span>
+<li style="list-style-type: none;"><u>Bonfire(n)</u> - campfire, outdoor fire <span class = "korean">모닥불</span>
 </li>
 
-<li style="list-style-type: none;"><u>Nearby(adj)</u> - a place only a short distance away <span style="font-size:16px">인근에, 가까운 곳에</span>
+<li style="list-style-type: none;"><u>Nearby(adj)</u> - a place only a short distance away <span class = "korean">인근에, 가까운 곳에</span>
 </li>
 
-<li style="list-style-type: none;"><u>Shade(n)</u> - area out of direct sunlight <span style="font-size:16px">그늘</span>
+<li style="list-style-type: none;"><u>Shade(n)</u> - area out of direct sunlight <span class = "korean">그늘</span>
 </li>
 
-<li style="list-style-type: none;"><u>Neaten(v)</u> - to make something neat <span style="font-size:16px">정리[정돈]하다</span>
+<li style="list-style-type: none;"><u>Neaten(v)</u> - to make something neat <span class = "korean">정리[정돈]하다</span>
 </li>
 
 
@@ -101,7 +101,7 @@ I can hear the waterfalls nearby. It is not very big but it looks so beautiful. 
 </div>
 
 <h3  style="padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 10px; margin-top: 10px; background-color: #a7d7c5;">Translation</h3>
-<div style="padding : 16px;">
+<div style="padding : 16px;" class = "korean">
   <p>
     우리는 지금 소풍을 가고 있다. 그것은 매우 재미있고 흥미진진하다. 야영지를 둘러보면서 무슨 일이 일어나고 있는지 설명하겠다.
     대니와 제시는 텐트를 치고 있다. 토리는 점심으로 호박국과 주먹밥을 만들고 있다.
@@ -115,8 +115,6 @@ I can hear the waterfalls nearby. It is not very big but it looks so beautiful. 
 
        </v-layout>
      </v-container>
-  </v-layout>
-  </v-container>
 </div>
 </template>
 
@@ -170,10 +168,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

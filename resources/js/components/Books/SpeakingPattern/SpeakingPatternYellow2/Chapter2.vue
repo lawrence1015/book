@@ -31,7 +31,7 @@
           <h2 style="padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Today's topic</h2>
 
   <hr width="60%">
-               <div style="padding : 10px; line-height: 200%;">
+               <div style="padding : 10px; line-height: 200%;" class = "korean">
 
                  <h2>Pattern 22 |  </h2>
                   <br />
@@ -109,13 +109,13 @@
           <b>173</b> 여기는 볼 것이 참 많아. ( things, see, here ) <br />
         </p>
         <p>
-          <b>174</b>  <br />
+          <b>174</b> 행복해야 할 많은 아름다운 이유들이 있습니다. ( beautiful, reason ) <br />
         </p>
         <p>
-          <b>175</b>  <br />
+          <b>175</b> 오늘은 구름이 많이 끼었어요. (many,clouds) <br />
         </p>
         <p>
-          <b>176</b>  <br />
+          <b>176</b> 세상에는 매우 다양한 그룹들이 있습니다. (different, groups)<br />
         </p>
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
@@ -129,9 +129,9 @@
               171 There are so many things to do today.<br />
               172 There are too many problems with this.<br />
               173 There are so many things to see here.<br />
-              174 <br />
-              175 <br />
-              176 <br />
+              174 There are so many beautiful reasons to be happy.<br />
+              175 There are so many clouds today. <br />
+              176 There are so many different groups out there.<br />
             </v-card-text>
           </v-card>
         </v-flex>

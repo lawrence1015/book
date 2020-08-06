@@ -84,7 +84,7 @@
                       <b>
                         Do you study alone or study with a group?<br />
                         <br />
-                        How's your life as a student in university?
+                        How's your life as a university student?
                       </b>
                     </p>
                   </v-card-text>
@@ -108,7 +108,7 @@
                       <b>
                         너는 혼자 공부하니 아니면 그룹과 공부하니?<br />
                         <br />
-                        대학에서의 학생 생활은 어떠세요?
+                        대학생 생활은 어떠세요?
                       </b>
                     </p>
                   </v-card-text>

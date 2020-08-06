@@ -32,13 +32,9 @@
   <div style = "padding : 16px; line-height: 200%;">
 
       <p>
-        Teacher Qi's group, bolstered by the OIST Technology Development and Innovation Center's Proof-of-Concept Program, 
-        tended to these solidness and effectiveness issues utilizing another approach. 
-        Made utilizing a sort of material called perovskites. 
-        Perovskite sun-powered gadgets are various layers each with a particular capacity. 
-        Rather than concentrating on only one layer, 
-        they took a gander at the general execution of the gadget and how the layers associated with one another. 
-        These sun oriented modules can keep up a superior for more than 2000 hours. In cooperation with Dr. Said Kazaoui at the National Institute of Advanced Industrial Science and Technology (AIST), the OIST group tried the improved sun powered modules and acquired proficiency of 16.6% - high effectiveness for a sun-powered module of that size. Their discoveries, announced twentieth July 2020 in a driving diary, Nature Energy, have lit up possibilities of commercialization.
+        A group of a certain professor bolstered by the OIST Technology Development and Innovation Center's Proof-of-Concept Program tended to these solidness and effectiveness issues utilizing another approach like the material called perovskites. Perovskite sun-powered gadgets are various layers each with a particular capacity. 
+        Rather than concentrating on only one layer, they took a gander at the general execution of the gadget and how the layers associated with one another. 
+        These sun oriented modules can keep up a superior for more than 2000 hours. With the help of Dr. Said Kazaoui at the National Institute of Advanced Industrial Science and Technology (AIST), the group tried the improved sun powered modules and acquired proficiency of 16.6% - high effectiveness for a sun-powered module of that size. Their discoveries, announced twentieth July 2020 in a driving diary, Nature Energy, have lit up possibilities of commercialization.
       </p>
 
       <h3 class = "reverseborder white--text" style="padding-top: 7px;
@@ -66,9 +62,6 @@
 
         <p>
           <b>bolster</b> <span class = "korean">북돋우다, 강화[개선]하다, 베개 받침</span>
-        </p>
-        <p>
-          <b>gandergander</b> <span class = "korean">숫거위</span>
         </p>
         <p>
           <b>utilize</b> <span class = "korean">활용[이용]하다</span>
@@ -112,19 +105,13 @@
       <div style="padding : 16px;">
 
         <p>
-          <b>solidness and effectiveness issues</b> <span class = "korean">견고성 및 효과성 문제입니다.</span>
+          <b>take a gander at (sth)</b> <span class = "korean">견고성 및 효과성 문제입니다.take a gander at (sth)</span>
         </p>
         <p>
-          <b>a sort of material called perovskites</b> <span class = "korean">페로브스카이트라고 불리는 물질입니다.</span>
+          <b>keep up</b> <span class = "korean">계속하다</span>
         </p>
         <p>
-          <b>sun-powered gadgets</b> <span class = "korean">태양에너지로 움직이는 기계장치이다.</span>
-        </p>
-        <p>
-          <b>acquired proficiency of</b> <span class = "korean">의 숙련도를 얻었습니다.</span>
-        </p>
-        <p>
-          <b>have lit up possibilities</b> <span class = "korean">가능성이 있습니다.</span>  
+          <b>light up</b> <span class = "korean">~을 환하게 밝히다.</span>  
         </p>
 
       </div>
@@ -154,13 +141,16 @@
 
         <ol style="padding-right: 20px; padding-top: 10px;">
           <li>
-            What are perovskites? Why is it important?
+            What are perovskites? Why is it important?<br />
+            페로브스카이트는 무엇인가요? 왜 그것이 중요할까요?<br />
           </li>
           <li>
-            Do you think that sun-oriented modules can be really helpful?
+            Do you think that sun-oriented modules can be really helpful?<br />
+            태양중심 모듈이 정말 중요하다고 생각합니까?<br />
           </li>
           <li>
-            In what way ordinary people can benefit from it?
+            In what way can ordinary people benefit from it?<br />
+            보통 사람들은 어떤 방식으로 혜택을 받을 수 있을까요?<br />
           </li>
         </ol>
 
@@ -202,10 +192,10 @@
                   <v-card-text class="px-10">
                     <p>
                       <span class = "korean">
-                      <b>과학자들은 차세대 태양열 기술의 안정성과 효율성을 높입니다.</b></span>
+                      <b>과학자들은 차세대 태양열 기술의 안정성과 효율성을 높인다.</b></span>
                     </p>
                     <p>
-                      <span class = "korean">OIST 기술 개발 및 혁신 센터의 개념 증명 프로그램에 의해 힘을 얻은 제 교사의 그룹은 다른 접근 방식을 사용하는 이러한 견고성과 효과성에 영향을 미쳤습니다. 페로브스카이트라고 불리는 물질을 이용해서 만들어졌습니다. 페로브스카이트 태양열 가젯은 각각 특정 용량을 가진 다양한 레이어입니다. 한 층에만 집중하기보다는 일반적인 기기 실행 방식과 각 층이 서로 어떻게 연관되는지를 파악했습니다. 이러한 태양 지향 모듈은 상위 모듈을 2,000시간 이상 유지할 수 있습니다. 국립산업과학기술원(AIST)의 Said Kazaoui 박사와 협력하여 OIST 그룹은 개선된 태양열 모듈을 사용해 그 크기의 태양열 모듈을 위해 16.6%의 숙련도를 확보했습니다. 2020년 7월 20일 운전 일지 네이처 에너지에서 발표된 그들의 발견은 상업화의 가능성을 밝혀 주었습니다.
+                      <span class = "korean">OIST 기술개발·이노베이션 센터의 개념 실증 프로그램에 지원된 한 교수 그룹은 다른 접근법을 이용해 이러한 견실성과 유효성의 문제를 안고 있는 경향을 보였다. 페롭 스카이츠라고 불리는 물질과 같은 것이다. 페롭스카이트 태양 에너지 기기는 각각 특정 용량을 가진 다양한 층이다. 이들은 하나의 레이어에만 집중하는 것이 아니라 가젯의 일반적인 실행과 레이어 간 상호 연관성을 내비쳤다. 이들 태양 지향 모듈은 2000시간 이상 뛰어난 성능을 유지할 수 있다. 국립산업기술종합연구소(AIST) 사이드 카자위 박사의 도움으로 선파워 모듈을 개량해 16.6%의 능력을 획득했다.이것은 이 사이즈의 선파워 모듈로서는 높은 효과이다. 2020년 7월 20일 Nature Energy에서 발표된 이들의 발견은 상업화 가능성에 환하게 밝혔다.
                       </span>
                     </p>  
                   </v-card-text>
@@ -216,7 +206,7 @@
 
         </p>
 
-<p>
+<p style = "font-size: small;">
   Image Source: "scitechdaily"
 </p>
 

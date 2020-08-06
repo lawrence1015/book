@@ -29,7 +29,7 @@
   </div>
 
   <h3  class = "border white--text" style = "border-radius: 0px 0px 70px 0px;" >Topic</h3>
-  <div style = "padding : 16px; line-height: 200%;">
+  <div style = "padding : 16px; line-height: 1.6;">
 
     <table style = "border-collapse: collapse;">
 
@@ -37,7 +37,7 @@
       <td class = "uppertable" ><b>Jane :</b></td>
       <td class = "lowertable" >In school and the workplace, it is more reliable and professional to send information and documents through emails. You can easily print documents from an e-mail. Text messages are more limited than e-mails. </td>
     </tr>
-    <tr>
+    <tr style="color:#1565C0;">
       <td class = "uppertable" ><b>Tom :</b></td>
       <td class = "lowertable" >Text messaging is more convenient than e-mailing someone. People generally read text messages faster than they read e-mails. These days, messengers are good at sending big files like documents, too.      </td>
     </tr>
@@ -58,34 +58,34 @@
       <div style="padding : 16px;">
 
         <p>
-          <b>workplace 직장</b>
+          <b>workplace</b> 직장
         </p>
         <p>
-          <b>reliable 믿을[신뢰할] 수 있는 </b>
+          <b>reliable</b> 믿을[신뢰할] 수 있는 
         </p>
         <p>
-          <b>send 보내다 </b>
+          <b>send</b> 보내다 
         </p>
         <p>
-          <b>information 정보 </b>
+          <b>information</b> 정보 
         </p>
         <p>
-          <b>document 서류 </b>
+          <b>document</b> 서류 
         </p>
         <p>
-          <b>easily 쉽게</b>
+          <b>easily</b> 쉽게
         </p>
         <p>
-          <b>print 인쇄하다</b>
+          <b>print</b> 인쇄하다
         </p>
         <p>
-          <b>limited 한계가 있는 </b>
+          <b>limited</b> 한계가 있는 
         </p>
         <p>
-          <b>convenient 편리한 </b>
+          <b>convenient</b> 편리한 
         </p>
         <p>
-          <b>generally 일반적으로 </b>
+          <b>generally</b> 일반적으로 
         </p>
 
       </div>
@@ -110,7 +110,7 @@
             <td class = "uppertable" ><b>제인 :</b></td>
             <td class = "lowertable" >학교와 직장에서 이메일을 통해 정보와 서류를 보내는 것이 보다 안전하고 전문적이야. 이메일에서 서류를 쉽게 인쇄할 수 있어. 문자 메시지는 이메일 보다 더 한계가 있어.</td>
           </tr>
-          <tr>
+          <tr style="color:#1565C0;">
             <td class = "uppertable" ><b>탐 :</b></td>
             <td class = "lowertable" >누군가에게 이메일을 보내는 것보다 문자메시지를 보내는 것이 더 편리해. 사람들은 일반적으로 이메일을 읽는 것보다 문자 메시지를 더 빨리 읽어. 요즘 메신저는 서류와 같은 큰 파일을 잘 보내.</td>
           </tr>
@@ -126,8 +126,6 @@
 
 
   </v-layout>
-</v-container>
-</v-layout>
 </v-container>
 </div>
 
@@ -192,10 +190,7 @@ h3{
 
 }
 
-li{
 
-
-}
 
 body{
 

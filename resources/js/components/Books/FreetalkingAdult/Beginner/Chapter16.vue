@@ -23,7 +23,7 @@
     </v-img>
 
 
-          <h3 style="background-color: #a7d7c5;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Reading Practice <span style="font-size:18px">( 선생님의 안내에 따라 문장을 읽어 주세요 )</span>
+          <h3 style="background-color: #a7d7c5;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Reading Practice ( 선생님의 안내에 따라 문장을 읽어 주세요 )
           </h3>
                <div style="padding : 16px;">
 
@@ -36,19 +36,19 @@
 
 
 
-<li style="list-style-type: none;"><u>Flora(n)</u> - refers to a plant life <span style="font-size:16px">식물군[상]</span>
+<li style="list-style-type: none;"><u>Flora(n)</u> - refers to a plant life 식물군[상]
 </li>
 
-<li style="list-style-type: none;"><u>Parasite(n)</u> -  an organism that lives by getting the resources of another organism <span style="font-size:16px"> 기생 동물[식물], 기생충</span>
+<li style="list-style-type: none;"><u>Parasite(n)</u> -  an organism that lives by getting the resources of another organism  기생 동물[식물], 기생충
 </li>
 
-<li style="list-style-type: none;"><u>Blossoms(n)</u> -  flowers <span style="font-size:16px">꽃</span>
+<li style="list-style-type: none;"><u>Blossoms(n)</u> -  flowers 꽃
 </li>
  
-<li style="list-style-type: none;"><u>Rotten(adj)</u> -  to decompose <span style="font-size:16px"> 썩은, 부패[부식]한, 형편없는, 끔찍한</span>
+<li style="list-style-type: none;"><u>Rotten(adj)</u> -  to decompose  썩은, 부패[부식]한, 형편없는, 끔찍한
 </li>
 
-<li style="list-style-type: none;"><u>Corpse(n)</u> - dead body <span style="font-size:16px">시체, 송장</span>
+<li style="list-style-type: none;"><u>Corpse(n)</u> - dead body 시체, 송장
 </li>
 
 
@@ -251,7 +251,7 @@
 </div>
 
 
-<h3  style="padding-top: 7px;  margin-left: -18px; margin-right: -18px;  padding-bottom: 10px;  padding-top: 10px; padding-left: 10px; background-color: #a7d7c5; ">Conversation Samples <span style="font-size:18px">(선생님과 역할을 나눠서 연습해보세요)</span></h3>
+<h3  style="padding-top: 7px;  margin-left: -18px; margin-right: -18px;  padding-bottom: 10px;  padding-top: 10px; padding-left: 10px; background-color: #a7d7c5; ">Conversation Samples (선생님과 역할을 나눠서 연습해보세요)</h3>
 
 <div style="padding : 16px;">
 

@@ -26,7 +26,7 @@
          <h3 style="background-color: #a7d7c5;   
                     padding-top : 10px;  
                     padding-left : 10px; 
-                    padding-bottom: 10px;">Reading Practice <span style="font-size:18px">( 선생님의 안내에 따라 문장을 읽어 주세요 )</span></h3>
+                    padding-bottom: 10px;">Reading Practice <br><span class = "korean">( 선생님의 안내에 따라 문장을 읽어 주세요 )</span></h3>
               <div style="padding : 16px;">
 
 <p>I am Edward Stack, an architect. I am currently working at Owen Morse Architects located in Manhattan. Although I just graduated this year, my company absorbed me as a regular staff after my internship of six months. I really love my workplace. I share a neat and cozy office with two other staff. They are friendly and extremely helpful to me. Our office has a clear view of the city and it inspires me even more working on new building designs. At the moment, I am working on a shopping mall project. My starting salary for this year is one thousand dollars a month which allows me to buy my own condominium in the following year!
@@ -38,16 +38,16 @@
 
 
 
-<li style="list-style-type: none;"><u>Locate(v)</u> -  to establish a business or house in a particular place <span style="font-size:16px">…의 정확한 위치를 찾아내다, 두다[설치하다], 사업을 시작하다</span>
+<li style="list-style-type: none;"><u>Locate(v)</u> -  to establish a business or house in a particular place <span class = "korean">…의 정확한 위치를 찾아내다, 두다[설치하다], 사업을 시작하다</span>
 </li>
 
-<li style="list-style-type: none;"><u>Absorb(v)</u> -   to take something in <span style="font-size:16px">흡수하다[빨아들이다], 흡수하다, 받아들이다, 빼앗다, 빠지게 만들다</span>
+<li style="list-style-type: none;"><u>Absorb(v)</u> -   to take something in <span class = "korean">흡수하다[빨아들이다], 흡수하다, 받아들이다, 빼앗다, 빠지게 만들다</span>
 </li>
 
-<li style="list-style-type: none;"><u>Staff(n)</u> -  workers <span style="font-size:16px">직원, 사무직원, 참모, 지팡이, 직원으로 일하다; 직원을 제공하다</span>
+<li style="list-style-type: none;"><u>Staff(n)</u> -  workers <span class = "korean">직원, 사무직원, 참모, 지팡이, 직원으로 일하다; 직원을 제공하다</span>
 </li>
 
-<li style="list-style-type: none;"><u>Workplace(n)</u> -   place of employment <span style="font-size:16px">직장, 업무 현장</span>
+<li style="list-style-type: none;"><u>Workplace(n)</u> -   place of employment <span class = "korean">직장, 업무 현장</span>
 </li>
 
 
@@ -103,7 +103,7 @@
 
 <h3  style="padding-top: 7px;  margin-left: -18px; margin-right: -18px;  padding-bottom: 10px;  padding-top: 10px; padding-left: 10px; background-color: #a7d7c5; ">Translation</h3>
 
-<div style="padding : 16px;">
+<div style="padding : 16px;" class = "korean">
 
   <p>나는 건축가 에드워드 스택이다. 나는 현재 맨해튼에 위치한 오웬 모스 건축사에서 일하고 있다. 
      비록 나는 올해 막 졸업했지만, 우리 회사는 6개월의 인턴십을 마친 후 나를 정규 직원으로 채용했다. 

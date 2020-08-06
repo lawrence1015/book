@@ -28,7 +28,7 @@
 
    <ol style="margin: 12px;">
      <li>
-       What are five basic monthly bills most people have to pay?<br />
+       What are the basic monthly bills most people have to pay?<br />
        <br />
      </li>
      <li>
@@ -80,8 +80,6 @@
 
        </v-layout>
      </v-container>
-  </v-layout>
-  </v-container>
 </div>
 
 
@@ -140,10 +138,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

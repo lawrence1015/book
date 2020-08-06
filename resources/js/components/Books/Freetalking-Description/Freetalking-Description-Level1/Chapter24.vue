@@ -78,7 +78,7 @@
                   <v-card-text class="px-10">
                     <p>
                       <b>
-                        What are the benefits in eating rice?<br />
+                        What are the benefits of eating rice?<br />
                         <br />
                         Why do Asian people like to eat rice?
                       </b>

@@ -31,7 +31,7 @@
           <h2 style="padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Today's topic</h2>
 
   <hr width="60%">
-               <div style="padding : 10px; line-height: 200%;">
+               <div style="padding : 10px; line-height: 200%;" class = "korean">
 
                  <h2>Pattern 19 |  </h2>
                   <br />
@@ -109,13 +109,13 @@
           <b>149</b> 우리 숙제가 언제까지인지 아니? ( assignment, due ) <br />
         </p>
         <p>
-          <b>150</b>  <br />
+          <b>150</b> 랜디가 언제 부케를 줬는지 아세요? (give, bouquet) <br />
         </p>
         <p>
-          <b>151</b>  <br />
+          <b>151</b> 여러분은 언제 최초의 인공위성이 발사되었는지 알고 있나요? (artificial,satellite) <br />
         </p>
         <p>
-          <b>152</b>  <br />
+          <b>152</b> 빌이 언제 다시 출근하는지 아세요? (coming back) <br />
         </p>
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
@@ -129,9 +129,9 @@
               147 Do you know when the fireworks start?<br />
               148 Do you know when his Birthday is<br />
               149 Do you know when our assignment is due?<br />
-              150 <br />
-              151 <br />
-              152 <br />
+              150 Do you know when Randy gave her the bouquet? <br />
+              151 Do you know when the first artificial satellite was launched? <br />
+              152 Do you know when Bill is coming back to work?<br />
             </v-card-text>
           </v-card>
         </v-flex>

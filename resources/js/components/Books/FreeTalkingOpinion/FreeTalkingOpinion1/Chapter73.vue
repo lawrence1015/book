@@ -29,7 +29,7 @@
   </div>
 
   <h3  class = "border white--text" style = "border-radius: 0px 0px 70px 0px;" >Topic</h3>
-  <div style = "padding : 16px; line-height: 200%;">
+  <div style = "padding : 16px; line-height: 1.6;">
 
     <table style = "border-collapse: collapse;">
 
@@ -37,7 +37,7 @@
       <td class = "uppertable" ><b>Jane :</b></td>
       <td class = "lowertable" >Natural hair color should be embraced. Dyeing or bleaching is not healthy for your hair or scalp. Eccentric hair colors like blue, pink, and green only look okay on cartoon characters.</td>
     </tr>
-    <tr>
+    <tr style="color:#1565C0;">
       <td class = "uppertable" ><b>Tom :</b></td>
       <td class = "lowertable" >Many people dye their hair as a symbol of expression. If someone chooses to have unconventional hair, that is their choice. Also, there are hair dye products that do not cause harm.</td>
     </tr>
@@ -58,34 +58,34 @@
       <div style="padding : 16px;">
 
         <p>
-          <b>be embraced 받아들여지다</b>
+          <b>be embraced</b> 받아들여지다
         </p>
         <p>
-          <b>bleach 탈색하다 </b>
+          <b>bleach</b> 탈색하다 
         </p>
         <p>
-          <b>scalp 두피 </b>
+          <b>scalp</b> 두피 
         </p>
         <p>
-          <b>eccentric 별난 </b>
+          <b>eccentric</b> 별난 
         </p>
         <p>
-          <b>symbol 상징</b>
+          <b>symbol</b> 상징
         </p>
         <p>
-          <b>expression 표현 </b>
+          <b>expression</b> 표현 
         </p>
         <p>
-          <b>unconventional 색다른 </b>
+          <b>unconventional</b> 색다른 
         </p>
         <p>
-          <b>choice 선택 </b>
+          <b>choice</b> 선택 
         </p>
         <p>
-          <b>product 제품  </b>
+          <b>product</b> 제품  
         </p>
         <p>
-          <b>harm 손상 </b>
+          <b>harm</b> 손상 
         </p>
 
       </div>
@@ -110,7 +110,7 @@
             <td class = "uppertable" ><b>제인 :</b></td>
             <td class = "lowertable" >자연스러운 머리 색깔은 받아들여져야 해 염색이나 탈색은 머리카락이나 두피에 좋지 않아. 파란색, 분홍색, 녹색과 같은 별난 머리 색깔은 만화 인물들에게만 잘 어울려. </td>
           </tr>
-          <tr>
+          <tr style="color:#1565C0;">
             <td class = "uppertable" ><b>탐 :</b></td>
             <td class = "lowertable" >많은 사람들이 그들의 머리를 표현의 상징으로 염색해. 만약 어떤 사람이 파격적인 머리를 선택한다면, 그것은 그들의 선택이야. 또한, 손상 끼치지 않는 헤어 염색 제품들도 있어. </td>
           </tr>
@@ -126,8 +126,6 @@
 
 
   </v-layout>
-</v-container>
-</v-layout>
 </v-container>
 </div>
 
@@ -192,10 +190,7 @@ h3{
 
 }
 
-li{
 
-
-}
 
 body{
 

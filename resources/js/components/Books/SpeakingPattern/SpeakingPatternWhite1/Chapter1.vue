@@ -29,9 +29,8 @@
 
 
           <h2 style="padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Today's topic</h2>
-
-  <hr width="60%">
-               <div style="padding : 10px; line-height: 200%;">
+          <hr width="60%">
+               <div style="padding : 10px; line-height: 200%;" class = "korean">
 
                  <h2>Pattern 1 |</h2>
                   <br />
@@ -109,10 +108,10 @@
           <b>005</b> 이 책 지루한 것 같아 ( book, boring ) <br />
         </p>
         <p>
-          <b>006</b> 이 패턴이 더 좋은 것 같아요.( pattern,better ) <br />
+          <b>006</b> 이 패턴이 더 좋은 것 같아요. (pattern, better) <br />
         </p>
         <p>
-          <b>007</b> 웃는 모습이 예쁜 것 같아요. ( pretty,smiles ) <br />
+          <b>007</b> 웃는 모습이 예쁜 것 같아요. (pretty, smiles) <br />
         </p>
         <p>
           <b>008</b> 이 케이크는 맛있는 것 같아요. ( cake, delicious ) <br />

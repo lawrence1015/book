@@ -23,7 +23,7 @@
     </v-img>
 
 
-          <h3 style="background-color: #a7d7c5;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Reading Practice <span style="font-size:18px">( 선생님의 안내에 따라 문장을 읽어 주세요 )</span>
+          <h3 style="background-color: #a7d7c5;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Reading Practice <br><span class = "korean">( 선생님의 안내에 따라 문장을 읽어 주세요 )</span>
           </h3>
                <div style="padding : 16px;">
 
@@ -36,16 +36,16 @@
 
 
 
-<li style="list-style-type: none;"><u>Ingredient</u> - an element required for something <span style="font-size:16px">재료[성분], 구성 요소</span>
+<li style="list-style-type: none;"><u>Ingredient</u> - an element required for something <span class = "korean">재료[성분], 구성 요소</span>
 </li>
 
-<li style="list-style-type: none;"><u>Sufficient</u> - enough <span style="font-size:16px">충분한</span>
+<li style="list-style-type: none;"><u>Sufficient</u> - enough <span class = "korean">충분한</span>
 </li>
 
-<li style="list-style-type: none;"><u>Flip</u> - turn something over <span style="font-size:16px">홱 뒤집다, 휙 젖히다[젖혀지다], 탁 누르다[돌리다]</span>
+<li style="list-style-type: none;"><u>Flip</u> - turn something over <span class = "korean">홱 뒤집다, 휙 젖히다[젖혀지다], 탁 누르다[돌리다]</span>
 </li>
 
-<li style="list-style-type: none;"><u>Tight schedule</u> - not enough time <span style="font-size:16px">꽉 찬 일정</span>
+<li style="list-style-type: none;"><u>Tight schedule</u> - not enough time <span class = "korean">꽉 찬 일정</span>
 </li>
 
 <p>Fill in the blanks using the words above.
@@ -90,7 +90,7 @@
 </div>
 
 <h3 style="padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 10px; margin-top: 10px; background-color: #a7d7c5;">Translation</h3>
-     <div style="padding : 16px;">
+     <div style="padding : 16px;" class = "korean">
        <p>
          매일 아침, 나는 출근하기 전에 팬케이크를 먹는다.
          나는 일정이 빡빡하고 요리하기 매우 쉽기 때문에 그것들을 좋아한다. 먼저 재료를 준비한다.
@@ -106,8 +106,6 @@
 
        </v-layout>
      </v-container>
-  </v-layout>
-  </v-container>
 </div>
 </template>
 
@@ -161,10 +159,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

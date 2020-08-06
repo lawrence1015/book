@@ -29,7 +29,7 @@
   </div>
 
   <h3  class = "border white--text" style = "border-radius: 0px 0px 70px 0px;" >Topic</h3>
-  <div style = "padding : 16px; line-height: 200%;">
+  <div style = "padding : 16px; line-height: 1.6;">
 
     <table style = "border-collapse: collapse;">
 
@@ -37,7 +37,7 @@
       <td class = "uppertable" ><b>Jane :</b></td>
       <td class = "lowertable" >Celebrities deserve special treatment. Not everyone can become celebrities. Stars live very unique lives as public figures to entertain and captivate commoners. This kind of responsibility is very stressful.</td>
     </tr>
-    <tr>
+    <tr style="color:#1565C0;">
       <td class = "uppertable" ><b>Tom :</b></td>
       <td class = "lowertable" >Celebrities do not deserve better treatment than others. Being famous does not mean you are better than ordinary folks.  All jobs have downsides to them and everyone faces challenges in life.</td>
     </tr>
@@ -58,34 +58,34 @@
       <div style="padding : 16px;">
 
         <p>
-          <b>unique 특별한 </b>
+          <b>unique</b> 특별한 
         </p>
         <p>
-          <b>public figure 유명 인사</b>
+          <b>public figure</b> 유명 인사
         </p>
         <p>
-          <b>captivate 마음을 사로잡다</b>
+          <b>captivate</b> 마음을 사로잡다
         </p>
         <p>
-          <b>commoner 평민</b>
+          <b>commoner</b> 평민
         </p>
         <p>
-          <b>responsibility 책임</b>
+          <b>responsibility</b> 책임
         </p>
         <p>
-          <b>ordinary 평범한</b>
+          <b>ordinary</b> 평범한
         </p>
         <p>
-          <b>folk 사람</b>
+          <b>folk</b> 사람
         </p>
         <p>
-          <b>downside 불리한 면</b>
+          <b>downside</b> 불리한 면
         </p>
         <p>
-          <b>face 직면하다</b>
+          <b>face</b> 직면하다
         </p>
         <p>
-          challenge 도전</b>
+          <b>challenge</b> 도전
         </p>
 
       </div>
@@ -104,15 +104,18 @@
                  width: 100px;">해석</h3>
       <div style="padding : 16px;">
 
+
+        
+
         <table style = "border-collapse: collapse;">
 
           <tr>
             <td class = "uppertable" ><b>제인 :</b></td>
-            <td class = "lowertable" >연예인들은 특별한 대우를 받을 자격이 있어. 모든 사람이 유명인이 될 수 있는 것은 아니야 스타들은 일반인들을 즐겁게 하고 사로잡기 위해 공인으로 매우 독특한 삶을 살아. 이런 종류의 책임은 매우 스트레스가 많아.</td>
+            <td class = "lowertable" style = "word-break: keep-all">연예인들은 특별한 대우를 받을 자격이 있어. 모든 사람이 유명인이 될 수 있는 것은 아니야 스타들은 일반인들을 즐겁게 하고 사로잡기 위해 공인으로 매우 독특한 삶을 살아. 이런 종류의 책임은 매우 스트레스가 많아.</td>
           </tr>
-          <tr>
+          <tr style="color:#1565C0;">
             <td class = "uppertable" ><b>탐 :</b></td>
-            <td class = "lowertable" >연예인들은 다른 사람들보다 더 나은 대우를 받을 자격이 없어. 유명해진다고 해서 보통 사람들보다 낫다는 뜻은 아니야. 모든 직업은 그들에게 단점을 가지고 있으며 모든 사람들은 삶의 도전 과제에 직면해.</td>
+            <td class = "lowertable" style = "word-break: keep-all">연예인들은 다른 사람들보다 더 나은 대우를 받을 자격이 없어. 유명해진다고 해서 보통 사람들보다 낫다는 뜻은 아니야. 모든 직업은 그들에게 단점을 가지고 있으며 모든 사람들은 삶의 도전 과제에 직면해.</td>
           </tr>
       
           </table>
@@ -126,8 +129,6 @@
 
 
   </v-layout>
-</v-container>
-</v-layout>
 </v-container>
 </div>
 
@@ -192,10 +193,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

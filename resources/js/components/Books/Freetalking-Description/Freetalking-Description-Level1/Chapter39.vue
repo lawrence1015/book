@@ -30,7 +30,7 @@
   <div style = "padding : 16px;">
 
       <h3>
-        This is an incredible proof that these two furry animals hate each other, yet show warm affection. Sometimes, enemies are good friends.
+        This is an incredible proof that these two furry animals hate each other, yet show warm affection. Sometimes, enemies can be good friends.
       </h3>
 
       <p>

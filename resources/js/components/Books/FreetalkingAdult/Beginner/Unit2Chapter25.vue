@@ -21,7 +21,7 @@
                            padding-bottom: 10px; 
                            margin-bottom: 12px;  
                            padding-top: 10px; 
-                           background-color: #a7d7c5;">Reading Practice <span style="font-size:18px">( 선생님의 안내에 따라 문장을 읽어 주세요 )</span>
+                           background-color: #a7d7c5;">Reading Practice <br><span class = "korean">( 선생님의 안내에 따라 문장을 읽어 주세요 )</span>
                 </h3>
 
                 <div style="padding : 16px;">
@@ -41,22 +41,22 @@
 
 
 
-                    <li style="list-style-type: none;"><u>Govern(v)</u> - to rule <span style="font-size:18px">통치하다[다스리다], 지배[좌우/통제]하다, 지배하다</span>
+                    <li style="list-style-type: none;"><u>Govern(v)</u> - to rule <span class = "korean">통치하다[다스리다], 지배[좌우/통제]하다, 지배하다</span>
                     </li>
 
-                    <li style="list-style-type: none;"><u>Original(adj)</u> - first and true one <span style="font-size:18px">원래[본래]의, 독창적인, 원본의, 원본, 특이한 사람</span>
+                    <li style="list-style-type: none;"><u>Original(adj)</u> - first and true one <span class = "korean">원래[본래]의, 독창적인, 원본의, 원본, 특이한 사람</span>
                     </li>
 
-                    <li style="list-style-type: none;"><u>Inhabitant(n)</u> - resident; person living in a particular place <span style="font-size:18px">주민[서식 동물]</span>
+                    <li style="list-style-type: none;"><u>Inhabitant(n)</u> - resident; person living in a particular place <span class = "korean">주민[서식 동물]</span>
                     </li>
 
-                    <li style="list-style-type: none;"><u>Bloody(adj)</u> - involving much blood and killing <span style="font-size:18px">피비린내 나는, 유혈이 낭자한, 피투성이의</span>
+                    <li style="list-style-type: none;"><u>Bloody(adj)</u> - involving much blood and killing <span class = "korean">피비린내 나는, 유혈이 낭자한, 피투성이의</span>
                     </li>
 
-                    <li style="list-style-type: none;"><u>Settler(n)</u> - resident in a new place <span style="font-size:18px">정착민</span>
+                    <li style="list-style-type: none;"><u>Settler(n)</u> - resident in a new place <span class = "korean">정착민</span>
                     </li>
 
-                    <li style="list-style-type: none;"><u>Invader(n)</u> - someone who wants to enter and obtain a country by force <span style="font-size:18px">침략군[국]</span>
+                    <li style="list-style-type: none;"><u>Invader(n)</u> - someone who wants to enter and obtain a country by force <span class = "korean">침략군[국]</span>
                     </li>
 
 
@@ -109,7 +109,7 @@
 
                 <h3 style="padding-top: 7px;  margin-left: -18px; margin-right: -18px;  padding-bottom: 10px;  padding-top: 10px; padding-left: 10px; background-color: #a7d7c5; ">Translation</h3>
 
-                <div style="padding : 16px;">
+                <div style="padding : 16px;" class = "korean">
 
                     <p>미국은 50개 주를 관할하는 북아메리카 국가다. 비록 현재 가장 강력한 국가로 알려져 있지만, 항상 그렇지는 않았다. 사실, 미국의 원래 거주자들은 백인이 아니라 인디언 원주민들이었다. 유럽인들은 16세기에야 우연히 그것을 발견한 후에야 미국에 왔다. 스페인, 포르투갈, 프랑스는 모두 미국에 식민지를 건설하려고 했지만 가장 많은 인구를 보낸 곳은 영국이었다. 오랜 세월 동안 원주민들, 유럽 정착민들, 그리고 다른 침략자들 사이에 피비린내 나는 큰 전쟁이 일어났다. America는 발견자인 이탈리아 항해사인 아메리고 베스푸치의 이름을 따서 붙여졌다.
                     </p>

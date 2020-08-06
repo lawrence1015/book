@@ -23,7 +23,7 @@
     </v-img>
 
 
-          <h3 style="background-color: #a7d7c5;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Reading Practice <span style="font-size:18px">( 선생님의 안내에 따라 문장을 읽어 주세요 )</span></h3>
+          <h3 style="background-color: #a7d7c5;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Reading Practice ( 선생님의 안내에 따라 문장을 읽어 주세요 )</h3>
                <div style="padding : 16px;">
 
    <p>People may not know it but scientific researches prove that music has lots of benefits to our health. First, listening to music can help a person feel better. Many people say that listening to their favorite songs or singers can decrease their stress levels or boost their mood. Second, some types of music can help improve focus and concentration. Lastly, music can be an effective treatment in dealing with mental problems because it can be an outlet for emotional expression.
@@ -35,19 +35,19 @@
 
 
 
-<li style="list-style-type: none;"><u>Benefit</u> - something that is good or helpful <span style="font-size:16px">혜택, 이득, 수당[보조금], 특전[수당]; 보험금</span>
+<li style="list-style-type: none;"><u>Benefit</u> - something that is good or helpful 혜택, 이득, 수당[보조금], 특전[수당]; 보험금
 </li>
 
-<li style="list-style-type: none;"><u>Decrease</u> - to make smaller <span style="font-size:16px">줄다[감소하다]; 줄이다[감소시키다], 감소, 하락</span>
+<li style="list-style-type: none;"><u>Decrease</u> - to make smaller 줄다[감소하다]; 줄이다[감소시키다], 감소, 하락
 </li>
 
-<li style="list-style-type: none;"><u>Boost</u> -  to increase or raise <span style="font-size:16px">신장시키다, 북돋우다, 훔치다, 격려, 힘, 부양책</span>
+<li style="list-style-type: none;"><u>Boost</u> -  to increase or raise 신장시키다, 북돋우다, 훔치다, 격려, 힘, 부양책
 </li>
 
-<li style="list-style-type: none;"><u>Mood</u> - state of feelings <span style="font-size:16px">기분, 분위기</span>
+<li style="list-style-type: none;"><u>Mood</u> - state of feelings 기분, 분위기
 </li>
 
-<li style="list-style-type: none;"><u>Outlet</u> - an activity that expresses emotions <span style="font-size:16px">발산[배출]</span>
+<li style="list-style-type: none;"><u>Outlet</u> - an activity that expresses emotions 발산[배출]
 </li>
 
 
@@ -109,7 +109,7 @@ margin-bottom: -10px;">
 </div>
 
 
-<h3 style="padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 10px; margin-top: 10px; background-color: #a7d7c5;">Reading Practice <span style="font-size:18px">( 선생님의 안내에 따라 문장을 읽어 주세요 )</span></h3>
+<h3 style="padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 10px; margin-top: 10px; background-color: #a7d7c5;">Reading Practice ( 선생님의 안내에 따라 문장을 읽어 주세요 )</h3>
      <div style="padding : 16px;">
 
 <p>I have been exposed to music at an early age because both my father and mother are musicians. First, I learned to play the piano when I was four years old. However, it was not very handy so I shifted to the guitar when I was eight. Second, I learned the flute because I got bored with the guitar. After some time, I became uncomfortable with wind instruments and wanted to play the strings. At last, I decided to take up violin lessons and fell in love with it! I just love how beautiful its sound is! Now, I work as a concert violinist.
@@ -122,22 +122,22 @@ margin-bottom: -10px;">
 
 
 
-<li style="list-style-type: none;"><u>Expose</u> - to make accessible to some action or influence <span style="font-size:16px">(보통 때는 가려져 있는 것을) 드러내다 </span>
+<li style="list-style-type: none;"><u>Expose</u> - to make accessible to some action or influence (보통 때는 가려져 있는 것을) 드러내다 
 </li>
 
-<li style="list-style-type: none;"><u>Musician</u> - someone who plays a musical instrument <span style="font-size:16px">음악가, 뮤지션</span>
+<li style="list-style-type: none;"><u>Musician</u> - someone who plays a musical instrument 음악가, 뮤지션
 </li>
 
-<li style="list-style-type: none;"><u>Handy</u> - easy to use <span style="font-size:16px">유용한, 편리한, 가까운[이용하기 편한] 곳에 있는</span>
+<li style="list-style-type: none;"><u>Handy</u> - easy to use 유용한, 편리한, 가까운[이용하기 편한] 곳에 있는
 </li>
 
-<li style="list-style-type: none;"><u>Wind instruments</u> - instruments that make music through breathes <span style="font-size:16px">관악기</span>
+<li style="list-style-type: none;"><u>Wind instruments</u> - instruments that make music through breathes 관악기
 </li>
 
-<li style="list-style-type: none;"><u>Strings</u> - refers to instruments that have strings like the violin and guitar <span style="font-size:16px">현악기, 현악기</span>
+<li style="list-style-type: none;"><u>Strings</u> - refers to instruments that have strings like the violin and guitar 현악기, 현악기
 </li>
 
-<li style="list-style-type: none;"><u>Shift</u> - to exchange for another <span style="font-size:16px">옮기다, 이동하다[되다]; 자세를 바꾸다</span>
+<li style="list-style-type: none;"><u>Shift</u> - to exchange for another 옮기다, 이동하다[되다]; 자세를 바꾸다
 </li>
 
 <p>Fill in the blanks using the words above.
@@ -487,10 +487,7 @@ h3{
 
 }
 
-li{
 
-
-}
 
 body{
 

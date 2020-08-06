@@ -32,7 +32,7 @@
   <div style = "padding : 16px; line-height: 200%;">
 
       <p>
-        =As the idea of privacy-preserving computing develops, so do information volumes and multifaceted nature. Privacy-preserving AI procedures could permit scientists to extricate bits of knowledge from touchy information whenever cost and unpredictability obstructions might be survived. That aggregate is multiple times a bigger number of bytes than the number of stars inside the noticeable universe. Associated sensors, found in everything from reconnaissance cameras to modern plants to wellness trackers, gather troves of touchy information. With the satisfactory security insurances in situ, such information can be a gold dig for AI research. Initial, a system giving client controls and rights on the front-end protects data coming into a database. Second, it requires adequate information insurance, including scrambling information while it's very still or in transit.
+        As the idea of privacy-preserving computing develops, so do information volumes and multifaceted nature. Privacy-preserving AI procedures could permit scientists to extricate bits of knowledge from touchy information whenever cost and unpredictability obstructions might be survived. That aggregate is multiple times a bigger number of bytes than the number of stars inside the noticeable universe. Associated sensors, found in everything from reconnaissance cameras to modern plants to wellness trackers, gather troves of touchy information. With the satisfactory security insurances in situ, such information can be a gold dig for AI research. Initially, a system giving client controls and rights on the front-end protects data coming into a database. Then, it requires adequate information insurance, including scrambling information while it's very still or in transit.
       </p>
 
       <h3 class = "reverseborder white--text" style="padding-top: 7px;
@@ -59,26 +59,23 @@
       <div style="padding : 16px;">
 
         <p>
-          <b>extract</b> <span class = "korean">발췌, 초록, 추출물, 뽑다[얻다], 추출하다, 얻어[뜯어]내다</span>
-        </p>
-        <p>
-          <b>complexity</b> <span class = "korean">복잡성, 복잡함, 복잡한 특징들</span>
-        </p>
-        <p>
-          <b>reconnaissance</b> <span class = "korean">정찰</span>
-        </p>
-        <p>
-          <b>adequate</b> <span class = "korean">충분한[적절한]</span>
-        </p>
-        <p>
           <b>multifaceted</b> <span class = "korean">다면적인</span>
+        </p>
+        <p>
+          <b>extricate</b> <span class = "korean">해방되다[해방시키다], 탈출시키다</span>
         </p>
         <p>
           <b>aggregate</b> <span class = "korean">합계, 총액, 골재, 종합한, 총…, 종합하다</span>
         </p>
         <p>
-          <b>extricate</b> <span class = "korean">해방되다[해방시키다], 탈출시키다</span>
+          <b>reconnaissance</b> <span class = "korean">정찰</span>
         </p>
+        <p>
+          <b>scramble</b> <span class = "korean">재빨리 움직이다.</span>
+        </p>
+        
+        
+        
     
       </div>
 
@@ -106,19 +103,7 @@
       <div style="padding : 16px;">
 
         <p>
-          <b>concept of privacy-preserving computing matures</b> <span class = "korean">개인 정보 보호 컴퓨팅 성숙도의 개념입니다.</span>
-        </p>
-        <p>
-          <b>to extract insights from sensitive data</b> <span class = "korean">중요한 데이터에서 통찰력을 추출합니다.</span>
-        </p>
-        <p>
-          <b>privacy protections in situ</b> <span class = "korean">상황에 따라 개인 정보 보호 기능을 제공합니다.</span>
-        </p>
-        <p>
-          <b>encrypting data while it's at rest or in transit</b> <span class = "korean">유휴 상태이거나 전송 중일 때 데이터를 암호화합니다.</span> 
-        </p>
-        <p>
-          <b>rights on the front-end protect data</b> <span class = "korean">프런트 엔드 보호 데이터에 대한 권한입니다.</span>
+          <b>dig for</b> <span class = "korean">(정보따위를) 애써서 찾다.</span>
         </p>
 
       </div>
@@ -148,13 +133,16 @@
 
         <ol style="padding-right: 20px; padding-top: 10px;">
           <li>
-            In the article what is privacy-preserving can do?
+            In the article, what can privacy-preserving do?<br />
+            이 기사에서 개인 정보 보호 컴퓨팅이 할 수 있는 일은 무엇입니까?<br />
           </li>
           <li>
-            How much do you care about your privacy?
+            How much do you care about your privacy?<br />
+            당신은 얼마나 당신의 사생활에 대해 생각합니까?<br />
           </li>
           <li>
-            Do you think it can really help people secure their personal data? 
+            Do you think it can really help people secure their personal data?<br />
+            당신은 이것이 사람들이 자신의 개인적인 데이터를 지키는데 도움을 준다고 생각합니까?<br />
           </li>
         </ol>
 
@@ -195,10 +183,10 @@
                 <v-card light color="#BEFBFF">
                   <v-card-text class="px-10">
                     <p>
-                      <span class = "korean"><b>개인 정보 보호 기계 학습이 데이터 공유 문제를 극복할 수 있을까요?</b></span>
+                      <span class = "korean"><b>개인 정보 보호 기계 학습이 데이터 공유 문제를 극복할 수 있을까요</b></span>
                     </p>
                     <p>
-                      <span class = "korean">개인 정보 보호 컴퓨팅이라는 개념이 발전함에 따라 정보 볼륨과 다면적인 특성도 발전합니다. 프라이버시를 보존하는 AI 절차를 통해 과학자들은 비용과 예측 불가능한 장애물이 남아있을 때마다 민감한 정보로부터 지식을 얻을 수 있습니다. 이 집계는 눈에 띄는 우주 안에 있는 별의 수보다 몇 배나 더 많은 바이트입니다. 정찰 카메라부터 현대식 식물, 웰니스 추적기에 이르기까지 모든 곳에서 발견되는 관련 센서들은 민감한 정보를 수집합니다. 만족스러운 보안보험이 자리 잡고 있는 상황에서 이런 정보는 AI 연구의 금자탑이 될 수 있습니다. 초기에는 프런트엔드에서 클라이언트를 제어하고 권한을 부여하는 시스템이 데이터베이스에 들어오는 데이터를 보호합니다. 둘째, 매우 고요하거나 이동 중일 때 정보를 허비하는 등 적절한 정보 보험이 필요합니다.
+                      <span class = "korean">프라이버시를 지키는 컴퓨팅의 사고방식이 발전함에 따라 정보량이나 다면적인 성질도 증가하고 있다. 프라이버시를 지키는 AI 절차는 과학자가 비용이나 예측 불가능한 장애물이 생존했을 때마다 접촉한 정보로부터 지식을 끌어낼 수 있도록 한다. 그 총계는 두드러진 우주의 별 수보다 몇 배나 크다. 정찰 카메라부터 근대식 플랜트, 웰니스 트래커 등 모든 것에 나타나는 관련 센서들이 촉각적인 정보를 수집하고 있다. 납득할 수 있는 보안 보험이 포함되어 있기 때문에 AI 연구에 있어서 귀중한 정보가 될 수 있습니다. 우선, 프론트 엔드에서 클라이언트의 제어와 권한을 주는 시스템이 데이터베이스에 착신하는 데이터를 보호한다. 두 번째로, 정보가 그대로이거나 변하는 동안 재빨리 정보를 검색하거나 충분한 양의 정보 보험이 필요하다.
                       </span>
                     </p>  
                   </v-card-text>
@@ -208,7 +196,7 @@
           </v-container>
 
         </p>
-<p>
+<p style = "font-size: small;">
   Image Source: "itworldcanada"
 </p>
 

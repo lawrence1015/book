@@ -29,7 +29,7 @@
   </div>
 
   <h3  class = "border white--text" style = "border-radius: 0px 0px 70px 0px;" >Topic</h3>
-  <div style = "padding : 16px; line-height: 200%;">
+  <div style = "padding : 16px; line-height: 1.6;">
 
     <table style = "border-collapse: collapse;">
 
@@ -37,7 +37,7 @@
       <td class = "uppertable" ><b>Jane :</b></td>
       <td class = "lowertable" >I prefer modern designs for clothes and aesthetics. They are fresh, innovative, and sleek. I think vintage things usually look dirty, tacky, or outdated. We should look towards the future instead of the past.</td>
     </tr>
-    <tr>
+    <tr style="color:#1565C0;">
       <td class = "uppertable" ><b>Tom :</b></td>
       <td class = "lowertable" >Vintage designs have a warm charm that modern designs do not have. They are unique, but modern styles can become stale and dull. Besides, out-of-fashion styles always return as trends, which is why vintage designs will never disappear.</td>
     </tr>
@@ -58,34 +58,34 @@
       <div style="padding : 16px;">
 
         <p>
-          <b>aesthetics 미학 </b>
+          <b>aesthetics</b> 미학 
         </p>
         <p>
-          <b>innovative 획기적인 </b>
+          <b>innovative</b> 획기적인 
         </p>
         <p>
-          <b>sleek 세련된 </b>
+          <b>sleek</b> 세련된 
         </p>
         <p>
-          <b>tacky 싸구려 같은 </b>
+          <b>tacky</b> 싸구려 같은 
         </p>
         <p>
-          <b>outdated 구식인 </b>
+          <b>outdated</b> 구식인 
         </p>
         <p>
-          <b>charm 매력 </b>
+          <b>charm</b> 매력 
         </p>
         <p>
-          <b>unique 독특한 </b>
+          <b>unique</b> 독특한 
         </p>
         <p>
-          <b>stale 신선하지 않은 </b>
+          <b>stale</b> 신선하지 않은 
         </p>
         <p>
-          <b>dull 따분한  </b>
+          <b>dull</b> 따분한  
         </p>
         <p>
-          <b>disappear 사라지다 </b>
+          <b>disappear</b> 사라지다 
         </p>
 
       </div>
@@ -110,7 +110,7 @@
             <td class = "uppertable" ><b>제인 :</b></td>
             <td class = "lowertable" >난 옷과 미학을 위한 모던 디자인이 더 좋아. 그것들은 신선하고, 혁신적이고, 세련됐어. 나는 빈티지한 것들이 대개 더럽고, 싸구려 같고, 구식인 것 같아. 우리는 과거가 아닌 미래를 향해 가야 해.</td>
           </tr>
-          <tr>
+          <tr style="color:#1565C0;">
             <td class = "uppertable" ><b>탐 :</b></td>
             <td class = "lowertable" >빈티지 디자인은 모던한 디자인이 가지고 있지 않은 따뜻한 매력을 가지고 있어. 그것들은 독특하지만, 모던 스타일은 신선하지 않고 따분해 질 수 있어. 게다가 유행을 타지 않는 스타일은 항상 트렌드로 돌아오기 때문에 빈티지 디자인이 결코 사라지지 않을 거야.</td>
           </tr>
@@ -126,8 +126,6 @@
 
 
   </v-layout>
-</v-container>
-</v-layout>
 </v-container>
 </div>
 
@@ -192,10 +190,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

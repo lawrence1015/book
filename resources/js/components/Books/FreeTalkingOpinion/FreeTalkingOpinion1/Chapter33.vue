@@ -29,7 +29,7 @@
   </div>
 
   <h3  class = "border white--text" style = "border-radius: 0px 0px 70px 0px;" >Topic</h3>
-  <div style = "padding : 16px; line-height: 200%;">
+  <div style = "padding : 16px; line-height: 1.6;">
 
     <table style = "border-collapse: collapse;">
 
@@ -37,7 +37,7 @@
       <td class = "uppertable" ><b>Jane :</b></td>
       <td class = "lowertable" >My astrological sign is Scorpio. When I looked up the traits of a typical Scorpio, I was surprised! It felt like I was reading someone’s description of me. This kind of precision can’t be a coincidence!</td>
     </tr>
-    <tr>
+    <tr style="color:#1565C0;">
       <td class = "uppertable" ><b>Tom :</b></td>
       <td class = "lowertable" >Astrology suggests that there is a mystical relationship between astronomical wonders and the human world. Scientists reject astrology because it is not scientific.</td>
     </tr>
@@ -58,40 +58,40 @@
       <div style="padding : 16px;">
 
         <p>
-          <b>sign 별자리 </b>
+          <b>sign</b> 별자리 
         </p>
         <p>
-          <b>Scorpio 전갈자리 </b>
+          <b>Scorpio</b> 전갈자리 
         </p>
         <p>
-          <b>trait 특성</b>
+          <b>trait</b> 특성
         </p>
         <p>
-          <b>typical 전형적인 </b>
+          <b>typical</b> 전형적인 
         </p>
         <p>
-          <b>precision 정확성 </b>
+          <b>precision</b> 정확성 
         </p>
         <p>
-          <b>coincidence 우연의 일치 </b>
+          <b>coincidence</b> 우연의 일치 
         </p>
         <p>
-          <b>suggest 제안하다 </b>
+          <b>suggest</b> 제안하다 
         </p>
         <p>
-          <b>mystical 신령스러운 </b>
+          <b>mystical</b> 신령스러운 
         </p>
         <p>
-          <b>astronomical 천문학의</b>
+          <b>astronomical</b> 천문학의
         </p>
         <p>
-          <b>wonder 경이 </b>
+          <b>wonder</b> 경이 
         </p>
         <p>
-          <b>reject 거부하다 </b>
+          <b>reject</b> 거부하다 
         </p>
         <p>
-          <b>scientific 과학적인</b>
+          <b>scientific</b> 과학적인
         </p>
 
       </div>
@@ -116,9 +116,9 @@
             <td class = "uppertable" ><b>제인 :</b></td>
             <td class = "lowertable" >내 점성술 별자리는 전갈자리야 전형적인 전갈자리의 특징을 찾아봤을 때, 나는 깜짝 놀랐어! 마치 나에 대한 누군가의 설명을 읽고 있는 것 같았어. 이런 정확함은 우연이 될 수 없어!</td>
           </tr>
-          <tr>
+          <tr style="color:#1565C0;">
             <td class = "uppertable" ><b>탐 :</b></td>
-            <td class = "lowertable" >점성술은 천문학적인 경이로움과 인간 세계 사이에 신비로운 관계가 있다는 것을 암시해. 과학자들은 점성술이 과학적이지 않기 때문에 이를 거부해.</td>
+            <td class = "lowertable" style = "word-break: keep-all">점성술은 천문학적인 경이로움과 인간 세계 사이에 신비로운 관계가 있다는 것을 암시해. 과학자들은 점성술이 과학적이지 않기 때문에 이를 거부해.</td>
           </tr>
       
           </table>
@@ -132,8 +132,6 @@
 
 
   </v-layout>
-</v-container>
-</v-layout>
 </v-container>
 </div>
 
@@ -198,10 +196,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

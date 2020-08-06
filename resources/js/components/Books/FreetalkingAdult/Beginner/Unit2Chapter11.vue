@@ -252,19 +252,7 @@ Give the proper verb to complete the following sentences. Observe the proper gra
 
 
 
-
-
-
-
-
  </div>
-
-
-
-
-
-
-
 
 
 
@@ -325,10 +313,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

@@ -36,7 +36,7 @@
        <br />
      </li>
      <li>
-       What are five things that cause pollution? What can be done to eliminate pollution?<br />
+       What are the things that can cause pollution?  What can be done to eliminate pollution?<br />
        <br />
      </li>
      <li>
@@ -80,8 +80,6 @@
 
        </v-layout>
      </v-container>
-  </v-layout>
-  </v-container>
 </div>
 
 
@@ -140,10 +138,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

@@ -23,7 +23,7 @@
     </v-img>
 
 
-          <h3 style="background-color: #a7d7c5;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Reading Practice <span style="font-size:18px">( 선생님의 안내에 따라 문장을 읽어 주세요 )</span>
+          <h3 style="background-color: #a7d7c5;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Reading Practice <br><span class = "korean">( 선생님의 안내에 따라 문장을 읽어 주세요 )</span>
           </h3>
                <div style="padding : 16px;">
 
@@ -36,19 +36,19 @@
 
 
 
-<li style="list-style-type: none;"><u>Exhilarate(v)</u> - to make somebody feel happy and alive <span style="font-size:16px">아주 기쁘게 만들다</span>
+<li style="list-style-type: none;"><u>Exhilarate(v)</u> - to make somebody feel happy and alive <span class = "korean">아주 기쁘게 만들다</span>
 </li>
 
-<li style="list-style-type: none;"><u>Discount(n,v)</u> -  reduce the price of something <span style="font-size:16px">할인, 할인하다, 할인해서 팔다</span>
+<li style="list-style-type: none;"><u>Discount(n,v)</u> -  reduce the price of something <span class = "korean">할인, 할인하다, 할인해서 팔다</span>
 </li>
 
-<li style="list-style-type: none;"><u>Load(v)</u> -  to put something on a vehicle or animal <span style="font-size:16px">짐[화물], 짐의 양[적재량]</span>
+<li style="list-style-type: none;"><u>Load(v)</u> -  to put something on a vehicle or animal <span class = "korean">짐[화물], 짐의 양[적재량]</span>
 </li>
 
-<li style="list-style-type: none;"><u>Whistle(v)</u> -  make sound through the lips <span style="font-size:16px">호각[호루라기] 소리, 휘파람</span>
+<li style="list-style-type: none;"><u>Whistle(v)</u> -  make sound through the lips <span class = "korean">호각[호루라기] 소리, 휘파람</span>
 </li>
 
-<li style="list-style-type: none;"><u>Out of the blue</u> - unexpectedly <span style="font-size:16px">갑자기, 난데없이</span>
+<li style="list-style-type: none;"><u>Out of the blue</u> - unexpectedly <span class = "korean">갑자기, 난데없이</span>
 </li>
 
 <p>Fill in the blanks using the words above.
@@ -94,7 +94,7 @@
 </div>
 
 <h3  style="padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 10px; margin-top: 10px; background-color: #a7d7c5;">Grammar Stop</h3>
-<div style="padding : 16px;">
+<div style="padding : 16px;" class = "korean">
   <p>
     오늘 아침, 나는 식료품을 사러 슈퍼마켓에 갔다. 세일이 있어서 신났다! 나는 고기 제품을 20%, 과일과 야채는 30% 할인을 받았다.
     스낵바가 80% 할인된다는 것을 알았을 때, 나는 정말 행복했다! 나는 그것들을 함께 수레를 한 대 가득 실었다!
@@ -121,79 +121,6 @@ export default {
   data(){
 
     return{
-
-      dialogs:[
-        {
-          name:'F :',
-          speech:"How was your freshmen year? You're in second year now, right?"
-        },
-        {
-          name:'M :',
-          speech:"Yes, that is true. Last year was both tough and awesome at the same time. It was quite hard adjusting to a new school and new people."
-        },
-        {
-          name:'F :',
-          speech:"How did you find your subjects?"
-        },
-        {
-          name:'M :',
-          speech:"Some were difficult but some were enjoyable. My favorite was literature and history."
-        },
-        {
-          name:'F :',
-          speech:"What were the difficult subjects?"
-        },
-        {
-          name:'M :',
-          speech:"Math and programming of course! Those are my weak points!"
-        },
-        {
-          name:'F :',
-          speech:"Wait, what? What's your major again?"
-        },
-        {
-          name:'M :',
-          speech:"I'm now taking up International Studies."
-        },
-        {
-          name:'F :',
-          speech:"I thought you're taking Engineering!"
-        },
-        {
-          name:'M :',
-          speech:"I did last year but I shifted!"
-        },
-      ],
-      dialogs2:[
-        {
-          name:'F :',
-          speech:"Have you heard about the pyramids in Egypt?"
-        },
-        {
-          name:'M :',
-          speech:"Yes, a little.  I have heard they were very big and amazing."
-        },
-        {
-          name:'F :',
-          speech:"That is true! l wonder how the ancient Egyptians  built them. At those times there were no machines. They just cut and carried those stones! They must have weighed a hundred tons each'"
-        },
-        {
-          name:'M :',
-          speech:"They cut them perfectly too.  These pyramids are real architectural wonders! They were built perfectly."
-        },
-        {
-          name:'F :',
-          speech:"Some people said aliens helped the ancient Egyptian civilization! It is quite ridiculous as far as I know, but it is possible!"
-        },
-        {
-          name:'M :',
-          speech:"Aliens! From other planets?"
-        },
-        {
-          name:'F :',
-          speech:"Yes! It took advance technology to build those pyramids!"
-        },
-      ]
 
 
     }

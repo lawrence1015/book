@@ -23,7 +23,7 @@
     </v-img>
 
 
-          <h3 style="background-color: #a7d7c5;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Reading Practice <span style="font-size:18px">( 선생님의 안내에 따라 문장을 읽어 주세요 )</span></h3>
+          <h3 style="background-color: #a7d7c5;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Reading Practice <br><span class = "korean">( 선생님의 안내에 따라 문장을 읽어 주세요 )</span></h3>
                <div style="padding : 16px;">
 
    <p>People may not know it but scientific researches prove that music has lots of benefits to our health. First, listening to music can help a person feel better. Many people say that listening to their favorite songs or singers can decrease their stress levels or boost their mood. Second, some types of music can help improve focus and concentration. Lastly, music can be an effective treatment in dealing with mental problems because it can be an outlet for emotional expression.
@@ -35,19 +35,19 @@
 
 
 
-<li style="list-style-type: none;"><u>Benefit</u> - something that is good or helpful <span style="font-size:16px">혜택, 이득, 수당[보조금], 특전[수당]; 보험금</span>
+<li style="list-style-type: none;"><u>Benefit</u> - something that is good or helpful <span class = "korean">혜택, 이득, 수당[보조금], 특전[수당]; 보험금</span>
 </li>
 
-<li style="list-style-type: none;"><u>Decrease</u> - to make smaller <span style="font-size:16px">줄다[감소하다]; 줄이다[감소시키다], 감소, 하락</span>
+<li style="list-style-type: none;"><u>Decrease</u> - to make smaller <span class = "korean">줄다[감소하다]; 줄이다[감소시키다], 감소, 하락</span>
 </li>
 
-<li style="list-style-type: none;"><u>Boost</u> -  to increase or raise <span style="font-size:16px">신장시키다, 북돋우다, 훔치다, 격려, 힘, 부양책</span>
+<li style="list-style-type: none;"><u>Boost</u> -  to increase or raise <span class = "korean">신장시키다, 북돋우다, 훔치다, 격려, 힘, 부양책</span>
 </li>
 
-<li style="list-style-type: none;"><u>Mood</u> - state of feelings <span style="font-size:16px">기분, 분위기</span>
+<li style="list-style-type: none;"><u>Mood</u> - state of feelings <span class = "korean">기분, 분위기</span>
 </li>
 
-<li style="list-style-type: none;"><u>Outlet</u> - an activity that expresses emotions <span style="font-size:16px">발산[배출]</span>
+<li style="list-style-type: none;"><u>Outlet</u> - an activity that expresses emotions <span class = "korean">발산[배출]</span>
 </li>
 
 
@@ -91,7 +91,7 @@
 </div>
 
 <h3 style="padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 10px; margin-top: 10px; background-color: #a7d7c5;">Translation</h3>
-     <div style="padding : 16px;">
+     <div style="padding : 16px;" class = "korean">
        <p>
          사람들은 그것을 모를 수도 있지만, 과학적인 연구는 음악이 우리의 건강에 많은 이점이 있다는 것을 증명한다.
          첫째로, 음악을 듣는 것은 사람의 기분을 좋게 할 수 있다.
@@ -159,10 +159,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

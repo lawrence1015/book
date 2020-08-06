@@ -16,7 +16,7 @@ margin-bottom: -10px;">
 </div>
 
 
-<h3 style="padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 10px; margin-top: 10px; background-color: #a7d7c5;">Reading Practice <span style="font-size:18px"> ( 선생님의 안내에 따라 문장을 읽어 주세요 )</span></h3>
+<h3 style="padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 10px; margin-top: 10px; background-color: #a7d7c5;">Reading Practice <br><span class = "korean"> ( 선생님의 안내에 따라 문장을 읽어 주세요 )</span></h3>
 
 
 <div style="padding : 16px;">
@@ -38,19 +38,19 @@ margin-bottom: -10px;">
 
 
 
-<li style="list-style-type: none;"><u>Fair(adj)</u> - pale or light-colored <span style="font-size:16px">(피부머리카락이) 옅은 색의, 금발의, 흰 피부의</span>
+<li style="list-style-type: none;"><u>Fair(adj)</u> - pale or light-colored <span class = "korean">(피부머리카락이) 옅은 색의, 금발의, 흰 피부의</span>
 </li>
 
-<li style="list-style-type: none;"><u>Severe(adj)</u> - serious <span style="font-size:16px">극심한, 심각한, 가혹한[혹독한], 엄한, 엄격한, 아주 힘든[어려운]</span>
+<li style="list-style-type: none;"><u>Severe(adj)</u> - serious <span class = "korean">극심한, 심각한, 가혹한[혹독한], 엄한, 엄격한, 아주 힘든[어려운]</span>
 </li>
 
-<li style="list-style-type: none;"><u>Excessive(adj)</u> - too much <span style="font-size:16px">지나친, 과도한</span>
+<li style="list-style-type: none;"><u>Excessive(adj)</u> - too much <span class = "korean">지나친, 과도한</span>
 </li>
 
-<li style="list-style-type: none;"><u>Sweat(v)</u> -  to excrete salty fluid from the skin <span style="font-size:16px">땀, 식은땀, 진땀</span>
+<li style="list-style-type: none;"><u>Sweat(v)</u> -  to excrete salty fluid from the skin <span class = "korean">땀, 식은땀, 진땀</span>
 </li>
 
-<li style="list-style-type: none;"><u>Dehydrate(v)</u> - lose water <span style="font-size:16px">탈수 상태가 되다[되게 하다]</span>
+<li style="list-style-type: none;"><u>Dehydrate(v)</u> - lose water <span class = "korean">탈수 상태가 되다[되게 하다]</span>
 </li>
 
 
@@ -100,7 +100,7 @@ margin-bottom: -10px;">
 </div>
 
 <h3  style="padding-top: 7px;  margin-left: -18px; margin-right: -18px;  padding-bottom: 10px;  padding-top: 10px; padding-left: 10px; background-color: #a7d7c5; ">Translation</h3>
-<div style="padding : 16px;">
+<div style="padding : 16px;" class = "korean">
   <p>
     화창한 날은 밝고 즐겁다! 과학자들은 햇빛은 몸이 튼튼한 뼈를 형성하는 데 도움을 주는 비타민 D를 생산하는데 도움을 주기 때문에 사람들이 더 행복하고 건강하게 느끼도록 도울 수 있다고 말했다. 하지만 햇볕에 너무 오래 있으면 피부가 손상될 수 있다는 것을 알고 있는가? 피부가 희끗희끗한 사람들은 충분한 보호 장치를 사용하지 않으면 심하게 햇볕에 그을릴 수 있다. 햇볕에 타는 것 외에도, 지나친 태양은 눈을 손상시킬 수도 있다. 이래서 모자를 쓰고 우산이나 자외선 차단 로션을 써야 한다. 햇볕이 잘 드는 날에는 땀을 많이 흘리기 때문에 탈수될 수 있으므로 물을 많이 마시는 것도 좋다.
   </p>
@@ -110,8 +110,6 @@ margin-bottom: -10px;">
 
        </v-layout>
      </v-container>
-  </v-layout>
-  </v-container>
 </div>
 </template>
 
@@ -165,10 +163,7 @@ h3{
 
 }
 
-li{
 
-
-}
 
 body{
 

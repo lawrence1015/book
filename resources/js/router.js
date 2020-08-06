@@ -207,6 +207,9 @@ routes: [
 {path: '/freetalking/beginner/Unit3Chapter39', name: 'freetalking_beginner', component: require('./components/Books/FreetalkingAdult/Beginner/Unit3Chapter39.vue').default },
 
 {path: '/freetalking/beginner/chapter40', name: 'freetalking_beginner', component: require('./components/Books/FreetalkingAdult/Beginner/Chapter40.vue').default},
+{path: '/freetalking/beginner/Unit1Chapter40', name: 'freetalking_beginner', component: require('./components/Books/FreetalkingAdult/Beginner/Unit1Chapter40.vue').default },
+{path: '/freetalking/beginner/Unit2Chapter40', name: 'freetalking_beginner', component: require('./components/Books/FreetalkingAdult/Beginner/Unit2Chapter40.vue').default },
+{path: '/freetalking/beginner/Unit3Chapter40', name: 'freetalking_beginner', component: require('./components/Books/FreetalkingAdult/Beginner/Unit3Chapter40.vue').default },
 
 //Intermediatefreetalking
 {path: '/freetalking/intermediate/chapter1', name: 'freetalking_intermediate', component: require('./components/Books/FreetalkingAdult/Intermediate/Chapter1.vue').default},
@@ -416,6 +419,34 @@ routes: [
 {path: '/DialogueBooks/DialogueLevel2/unit27', name: 'Dialogue_Books2', component: require('./components/Books/DialogueBooks/DialogueLevel2/Unit27.vue').default},
 {path: '/DialogueBooks/DialogueLevel2/unit28', name: 'Dialogue_Books2', component: require('./components/Books/DialogueBooks/DialogueLevel2/Unit28.vue').default},
 
+//Dialogue Books Step3
+{path: '/DialogueBooks/DialogueLevelGreen3/unit1', name: 'Dialogue_Books3', component: require('./components/Books/DialogueBooks/DialogueLevelGreen3/Unit1.vue').default},
+{path: '/DialogueBooks/DialogueLevelGreen3/unit2', name: 'Dialogue_Books3', component: require('./components/Books/DialogueBooks/DialogueLevelGreen3/Unit2.vue').default},
+{path: '/DialogueBooks/DialogueLevelGreen3/unit3', name: 'Dialogue_Books3', component: require('./components/Books/DialogueBooks/DialogueLevelGreen3/Unit3.vue').default},
+{path: '/DialogueBooks/DialogueLevelGreen3/unit4', name: 'Dialogue_Books3', component: require('./components/Books/DialogueBooks/DialogueLevelGreen3/Unit4.vue').default},
+{path: '/DialogueBooks/DialogueLevelGreen3/unit5', name: 'Dialogue_Books3', component: require('./components/Books/DialogueBooks/DialogueLevelGreen3/Unit5.vue').default},
+{path: '/DialogueBooks/DialogueLevelGreen3/unit6', name: 'Dialogue_Books3', component: require('./components/Books/DialogueBooks/DialogueLevelGreen3/Unit6.vue').default},
+{path: '/DialogueBooks/DialogueLevelGreen3/unit7', name: 'Dialogue_Books3', component: require('./components/Books/DialogueBooks/DialogueLevelGreen3/Unit7.vue').default},
+{path: '/DialogueBooks/DialogueLevelGreen3/unit8', name: 'Dialogue_Books3', component: require('./components/Books/DialogueBooks/DialogueLevelGreen3/Unit8.vue').default},
+{path: '/DialogueBooks/DialogueLevelGreen3/unit9', name: 'Dialogue_Books3', component: require('./components/Books/DialogueBooks/DialogueLevelGreen3/Unit9.vue').default},
+{path: '/DialogueBooks/DialogueLevelGreen3/unit10', name: 'Dialogue_Books3', component: require('./components/Books/DialogueBooks/DialogueLevelGreen3/Unit10.vue').default},
+{path: '/DialogueBooks/DialogueLevelGreen3/unit11', name: 'Dialogue_Books3', component: require('./components/Books/DialogueBooks/DialogueLevelGreen3/Unit11.vue').default},
+{path: '/DialogueBooks/DialogueLevelGreen3/unit12', name: 'Dialogue_Books3', component: require('./components/Books/DialogueBooks/DialogueLevelGreen3/Unit12.vue').default},
+{path: '/DialogueBooks/DialogueLevelGreen3/unit13', name: 'Dialogue_Books3', component: require('./components/Books/DialogueBooks/DialogueLevelGreen3/Unit13.vue').default},
+{path: '/DialogueBooks/DialogueLevelGreen3/unit14', name: 'Dialogue_Books3', component: require('./components/Books/DialogueBooks/DialogueLevelGreen3/Unit14.vue').default},
+{path: '/DialogueBooks/DialogueLevelGreen3/unit15', name: 'Dialogue_Books3', component: require('./components/Books/DialogueBooks/DialogueLevelGreen3/Unit15.vue').default},
+{path: '/DialogueBooks/DialogueLevelGreen3/unit16', name: 'Dialogue_Books3', component: require('./components/Books/DialogueBooks/DialogueLevelGreen3/Unit16.vue').default},
+{path: '/DialogueBooks/DialogueLevelGreen3/unit17', name: 'Dialogue_Books3', component: require('./components/Books/DialogueBooks/DialogueLevelGreen3/Unit17.vue').default},
+{path: '/DialogueBooks/DialogueLevelGreen3/unit18', name: 'Dialogue_Books3', component: require('./components/Books/DialogueBooks/DialogueLevelGreen3/Unit18.vue').default},
+{path: '/DialogueBooks/DialogueLevelGreen3/unit19', name: 'Dialogue_Books3', component: require('./components/Books/DialogueBooks/DialogueLevelGreen3/Unit19.vue').default},
+{path: '/DialogueBooks/DialogueLevelGreen3/unit20', name: 'Dialogue_Books3', component: require('./components/Books/DialogueBooks/DialogueLevelGreen3/Unit20.vue').default},
+{path: '/DialogueBooks/DialogueLevelGreen3/unit21', name: 'Dialogue_Books3', component: require('./components/Books/DialogueBooks/DialogueLevelGreen3/Unit21.vue').default},
+{path: '/DialogueBooks/DialogueLevelGreen3/unit22', name: 'Dialogue_Books3', component: require('./components/Books/DialogueBooks/DialogueLevelGreen3/Unit22.vue').default},
+{path: '/DialogueBooks/DialogueLevelGreen3/unit23', name: 'Dialogue_Books3', component: require('./components/Books/DialogueBooks/DialogueLevelGreen3/Unit23.vue').default},
+{path: '/DialogueBooks/DialogueLevelGreen3/unit24', name: 'Dialogue_Books3', component: require('./components/Books/DialogueBooks/DialogueLevelGreen3/Unit24.vue').default},
+{path: '/DialogueBooks/DialogueLevelGreen3/unit26', name: 'Dialogue_Books3', component: require('./components/Books/DialogueBooks/DialogueLevelGreen3/Unit26.vue').default},
+{path: '/DialogueBooks/DialogueLevelGreen3/unit27', name: 'Dialogue_Books3', component: require('./components/Books/DialogueBooks/DialogueLevelGreen3/Unit27.vue').default},
+{path: '/DialogueBooks/DialogueLevelGreen3/unit28', name: 'Dialogue_Books3', component: require('./components/Books/DialogueBooks/DialogueLevelGreen3/Unit28.vue').default},
 
 
 //FreeTalking - STEP 1
@@ -749,9 +780,33 @@ routes: [
 {path: '/FreeTalkingOpinion/FreeTalkingOpinion1/chapter74', name: 'FreeTalking_Opinion', component: require('./components/Books/FreeTalkingOpinion/FreeTalkingOpinion1/Chapter74').default},
 {path: '/FreeTalkingOpinion/FreeTalkingOpinion1/chapter75', name: 'FreeTalking_Opinion', component: require('./components/Books/FreeTalkingOpinion/FreeTalkingOpinion1/Chapter75').default},
 
+//FreeTalking - Opinion(LG)
+{path: '/FreeTalking-Opinion-LG/unit1', name: 'FreeTalking_Opinion_LG', component: require('./components/Books/FreeTalking-Opinion-LG/Unit1').default},
+{path: '/FreeTalking-Opinion-LG/unit2', name: 'FreeTalking_Opinion_LG', component: require('./components/Books/FreeTalking-Opinion-LG/Unit2').default},
+{path: '/FreeTalking-Opinion-LG/unit3', name: 'FreeTalking_Opinion_LG', component: require('./components/Books/FreeTalking-Opinion-LG/Unit3').default},
+{path: '/FreeTalking-Opinion-LG/unit4', name: 'FreeTalking_Opinion_LG', component: require('./components/Books/FreeTalking-Opinion-LG/Unit4').default},
+{path: '/FreeTalking-Opinion-LG/unit5', name: 'FreeTalking_Opinion_LG', component: require('./components/Books/FreeTalking-Opinion-LG/Unit5').default},
+{path: '/FreeTalking-Opinion-LG/unit6', name: 'FreeTalking_Opinion_LG', component: require('./components/Books/FreeTalking-Opinion-LG/Unit6').default},
+{path: '/FreeTalking-Opinion-LG/unit7', name: 'FreeTalking_Opinion_LG', component: require('./components/Books/FreeTalking-Opinion-LG/Unit7').default},
+{path: '/FreeTalking-Opinion-LG/unit8', name: 'FreeTalking_Opinion_LG', component: require('./components/Books/FreeTalking-Opinion-LG/Unit8').default},
+{path: '/FreeTalking-Opinion-LG/unit9', name: 'FreeTalking_Opinion_LG', component: require('./components/Books/FreeTalking-Opinion-LG/Unit9').default},
+{path: '/FreeTalking-Opinion-LG/unit10', name: 'FreeTalking_Opinion_LG', component: require('./components/Books/FreeTalking-Opinion-LG/Unit10').default},
+{path: '/FreeTalking-Opinion-LG/unit11', name: 'FreeTalking_Opinion_LG', component: require('./components/Books/FreeTalking-Opinion-LG/Unit11').default},
+{path: '/FreeTalking-Opinion-LG/unit12', name: 'FreeTalking_Opinion_LG', component: require('./components/Books/FreeTalking-Opinion-LG/Unit12').default},
+{path: '/FreeTalking-Opinion-LG/unit13', name: 'FreeTalking_Opinion_LG', component: require('./components/Books/FreeTalking-Opinion-LG/Unit13').default},
+{path: '/FreeTalking-Opinion-LG/unit14', name: 'FreeTalking_Opinion_LG', component: require('./components/Books/FreeTalking-Opinion-LG/Unit14').default},
+{path: '/FreeTalking-Opinion-LG/unit15', name: 'FreeTalking_Opinion_LG', component: require('./components/Books/FreeTalking-Opinion-LG/Unit15').default},
+{path: '/FreeTalking-Opinion-LG/unit16', name: 'FreeTalking_Opinion_LG', component: require('./components/Books/FreeTalking-Opinion-LG/Unit16').default},
+{path: '/FreeTalking-Opinion-LG/unit17', name: 'FreeTalking_Opinion_LG', component: require('./components/Books/FreeTalking-Opinion-LG/Unit17').default},
+{path: '/FreeTalking-Opinion-LG/unit18', name: 'FreeTalking_Opinion_LG', component: require('./components/Books/FreeTalking-Opinion-LG/Unit18').default},
+{path: '/FreeTalking-Opinion-LG/unit19', name: 'FreeTalking_Opinion_LG', component: require('./components/Books/FreeTalking-Opinion-LG/Unit19').default},
+{path: '/FreeTalking-Opinion-LG/unit20', name: 'FreeTalking_Opinion_LG', component: require('./components/Books/FreeTalking-Opinion-LG/Unit20').default},
+
 
 //level test
 {path: '/LevelTest/Adult/AdultBeginner', name: 'Level_test', component: require('./components/Books/LevelTest/Adult/AdultBeginner').default},
+{ path: '/LevelTest/Adult/AdultInt', name: 'Level_test', component: require('./components/Books/LevelTest/Adult/AdultInt').default},
+{ path: '/LevelTest/Adult/AdultAdv', name: 'Level_test', component: require('./components/Books/LevelTest/Adult/AdultAdv').default},
 
 //Interview Example Step 1
 {path: '/Interview-English/Interview-EnglishStep1/chapter1', name: 'Interview_Step1', component: require('./components/Books/Interview-English/Interview-EnglishStep1/Chapter1').default},
@@ -791,6 +846,30 @@ routes: [
 {path: '/TravelEnglish/TravelEnglish1/chapter4', name: 'Travel_English', component: require('./components/Books/TravelEnglish/TravelEnglish1/Chapter4').default},
 {path: '/TravelEnglish/TravelEnglish1/chapter5', name: 'Travel_English', component: require('./components/Books/TravelEnglish/TravelEnglish1/Chapter5').default},
 {path: '/TravelEnglish/TravelEnglish1/chapter6', name: 'Travel_English', component: require('./components/Books/TravelEnglish/TravelEnglish1/Chapter6').default},
+{path: '/TravelEnglish/TravelEnglish1/chapter7', name: 'Travel_English', component: require('./components/Books/TravelEnglish/TravelEnglish1/Chapter7').default},
+{path: '/TravelEnglish/TravelEnglish1/chapter8', name: 'Travel_English', component: require('./components/Books/TravelEnglish/TravelEnglish1/Chapter8').default},
+{path: '/TravelEnglish/TravelEnglish1/chapter9', name: 'Travel_English', component: require('./components/Books/TravelEnglish/TravelEnglish1/Chapter9').default},
+{path: '/TravelEnglish/TravelEnglish1/chapter10', name: 'Travel_English', component: require('./components/Books/TravelEnglish/TravelEnglish1/Chapter10').default},
+{path: '/TravelEnglish/TravelEnglish1/chapter11', name: 'Travel_English', component: require('./components/Books/TravelEnglish/TravelEnglish1/Chapter11').default},
+{path: '/TravelEnglish/TravelEnglish1/chapter12', name: 'Travel_English', component: require('./components/Books/TravelEnglish/TravelEnglish1/Chapter12').default},
+{path: '/TravelEnglish/TravelEnglish1/chapter13', name: 'Travel_English', component: require('./components/Books/TravelEnglish/TravelEnglish1/Chapter13').default},
+{path: '/TravelEnglish/TravelEnglish1/chapter14', name: 'Travel_English', component: require('./components/Books/TravelEnglish/TravelEnglish1/Chapter14').default},
+{path: '/TravelEnglish/TravelEnglish1/chapter15', name: 'Travel_English', component: require('./components/Books/TravelEnglish/TravelEnglish1/Chapter15').default},
+{path: '/TravelEnglish/TravelEnglish1/chapter16', name: 'Travel_English', component: require('./components/Books/TravelEnglish/TravelEnglish1/Chapter16').default},
+{path: '/TravelEnglish/TravelEnglish1/chapter17', name: 'Travel_English', component: require('./components/Books/TravelEnglish/TravelEnglish1/Chapter17').default},
+{path: '/TravelEnglish/TravelEnglish1/chapter18', name: 'Travel_English', component: require('./components/Books/TravelEnglish/TravelEnglish1/Chapter18').default},
+{path: '/TravelEnglish/TravelEnglish1/chapter19', name: 'Travel_English', component: require('./components/Books/TravelEnglish/TravelEnglish1/Chapter19').default},
+{path: '/TravelEnglish/TravelEnglish1/chapter20', name: 'Travel_English', component: require('./components/Books/TravelEnglish/TravelEnglish1/Chapter20').default},
+{path: '/TravelEnglish/TravelEnglish1/chapter21', name: 'Travel_English', component: require('./components/Books/TravelEnglish/TravelEnglish1/Chapter21').default},
+{path: '/TravelEnglish/TravelEnglish1/chapter22', name: 'Travel_English', component: require('./components/Books/TravelEnglish/TravelEnglish1/Chapter22').default},
+{path: '/TravelEnglish/TravelEnglish1/chapter23', name: 'Travel_English', component: require('./components/Books/TravelEnglish/TravelEnglish1/Chapter23').default},
+{path: '/TravelEnglish/TravelEnglish1/chapter24', name: 'Travel_English', component: require('./components/Books/TravelEnglish/TravelEnglish1/Chapter24').default},
+{path: '/TravelEnglish/TravelEnglish1/chapter25', name: 'Travel_English', component: require('./components/Books/TravelEnglish/TravelEnglish1/Chapter25').default},
+{path: '/TravelEnglish/TravelEnglish1/chapter26', name: 'Travel_English', component: require('./components/Books/TravelEnglish/TravelEnglish1/Chapter26').default},
+{path: '/TravelEnglish/TravelEnglish1/chapter27', name: 'Travel_English', component: require('./components/Books/TravelEnglish/TravelEnglish1/Chapter27').default},
+{path: '/TravelEnglish/TravelEnglish1/chapter28', name: 'Travel_English', component: require('./components/Books/TravelEnglish/TravelEnglish1/Chapter28').default},
+{path: '/TravelEnglish/TravelEnglish1/chapter29', name: 'Travel_English', component: require('./components/Books/TravelEnglish/TravelEnglish1/Chapter29').default},
+{path: '/TravelEnglish/TravelEnglish1/chapter30', name: 'Travel_English', component: require('./components/Books/TravelEnglish/TravelEnglish1/Chapter30').default},
 
 //IT Issues
 {path: '/IT-Issues/IT-Issues1/chapter1', name: 'IT_Issues', component: require('./components/Books/IT-Issues/IT-Issues1/Chapter1').default},
@@ -810,9 +889,16 @@ routes: [
 {path: '/IT-Issues/IT-Issues1/unit15', name: 'IT_Issues', component: require('./components/Books/IT-Issues/IT-Issues1/Unit15').default},
 {path: '/IT-Issues/IT-Issues1/unit16', name: 'IT_Issues', component: require('./components/Books/IT-Issues/IT-Issues1/Unit16').default},
 {path: '/IT-Issues/IT-Issues1/unit17', name: 'IT_Issues', component: require('./components/Books/IT-Issues/IT-Issues1/Unit17').default},
+{path: '/IT-Issues/IT-Issues1/unit18', name: 'IT_Issues', component: require('./components/Books/IT-Issues/IT-Issues1/Unit18').default},
+{path: '/IT-Issues/IT-Issues1/unit19', name: 'IT_Issues', component: require('./components/Books/IT-Issues/IT-Issues1/Unit19').default},
+{path: '/IT-Issues/IT-Issues1/unit20', name: 'IT_Issues', component: require('./components/Books/IT-Issues/IT-Issues1/Unit20').default},
 
 
 {path: '/PrototypeBusiness/BusinessStep2/test', name: 'Business_Step2', component: require('./components/Books/PrototypeBusiness/BusinessStep2/test.vue').default},
+
+
+{path: '/Speaking-Pattern-Drills/Speaking-Pattern-Drills1/unit1', name: 'Speaking_Pattern_Drills', component: require('./components/Books/Speaking-Pattern-Drills/Speaking-Pattern-Drills1/Unit1.vue').default},
+
 
 ],
 scrollBehavior (to, from, savedPosition) {

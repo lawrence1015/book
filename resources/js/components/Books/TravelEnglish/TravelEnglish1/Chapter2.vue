@@ -189,7 +189,7 @@ export default {
         },
         {
           name:'Stewardess:',
-          speech:'I do apologize. All seats are filled in at the moment.Here is your seat, 26B. Enjoy the flight.'
+          speech:'I do apologize. All seats are filled in at the moment. Here is your seat, 26B. Enjoy the flight.'
         },
         ],
 

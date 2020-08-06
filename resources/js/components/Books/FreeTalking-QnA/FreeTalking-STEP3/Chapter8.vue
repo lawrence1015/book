@@ -22,6 +22,41 @@
       </v-layout>
     </v-img>
 
+    <h3 style="background-color: #95FF9A;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Q &amp; A</h3>
+               <div style="padding : 16px;">
+
+                 <ol style="margin: 12px;">
+     <li class="mb-2">
+        Give some reasons why people become homeless.
+     </li>
+     <br />
+     <li class="mb-2">
+        Have you ever seen any homeless people on the street?
+        <ul>
+        <li class="mt-2">What do you do when you see them?</li>
+        <li>Have you ever given a homeless person anything? What? Why?</li>
+        </ul>
+     </li>
+     <br />
+     <li class="mb-2">
+         What do you think is the best way to help a homeless person? Give an example.
+     </li>
+     <br />
+     <li class="mb-2">
+         Are there any homeless people in your country?
+        <ul>
+        <li class="mt-2">What does the government do to help them?</li>
+        </ul>
+     </li>
+     <br />
+     <li class="mb-2">
+       If you were the president or leader of your country, how would you end poverty?
+     </li>
+   </ol>
+
+
+               </div>
+
 
           <h3 style="background-color: #95FF9A;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Translation</h3>
                <div style="padding : 16px;">
@@ -57,8 +92,7 @@
 
 
 
-</div>
-
+               </div>
 
        </v-layout>
      </v-container>

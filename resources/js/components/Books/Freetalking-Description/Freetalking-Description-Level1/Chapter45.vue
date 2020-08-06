@@ -91,9 +91,9 @@
                       <b>
                         Who is your hero in your life?<br />
                         <br />
-                        What will you do to be a hero?<br />
+                        What will you do to become a hero?<br />
                         <br />
-                        Is it nice to be a hero? Explain why
+                        Is it nice to be a hero? Explain why.
                       </b>
                     </p>
                   </v-card-text>

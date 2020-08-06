@@ -29,7 +29,7 @@
   </div>
 
   <h3  class = "border white--text" style = "border-radius: 0px 0px 70px 0px;" >Topic</h3>
-  <div style = "padding : 16px; line-height: 200%;">
+  <div style = "padding : 16px; line-height: 1.6;">
 
     <table style = "border-collapse: collapse;">
 
@@ -39,7 +39,7 @@
       It is impractical to take into account every single opinion in a group.
       Going with the option that most people chose allows better representation.</td>
     </tr>
-    <tr>
+    <tr style="color:#1565C0;">
       <td class = "uppertable" ><b>B :</b></td>
       <td class = "lowertable" >I disagree. Majority vote may reflect more people's views.
       However, being a majority doesn't mean being wiser.
@@ -63,31 +63,31 @@
       <div style="padding : 16px;">
 
         <p>
-          <b>majority vote 다수결</b>
+          <b>majority vote</b> 다수결
         </p>
         <p>
-          <b>discuss 토론하다</b>
+          <b>discuss</b> 토론하다
         </p>
         <p>
-          <b>reasonable 합리적인</b>
+          <b>reasonable</b> 합리적인
         </p>
         <p>
-          <b>impractical 비현실적인</b>
+          <b>impractical</b> 비현실적인
         </p>
         <p>
-          <b>opinion 의견</b>
+          <b>opinion</b> 의견
         </p>
         <p>
-          <b>option 선택</b>
+          <b>option</b> 선택
         </p>
         <p>
-          <b>representation 대의 권</b>
+          <b>representation</b> 대의 권
         </p>
         <p>
-          <b>reflect 반영하다</b>
+          <b>reflect</b> 반영하다
         </p>
         <p>
-          <b>minority 소수</b>
+          <b>minority</b> 소수
         </p>
         <br />
         <p style="color: #56AAFF;">
@@ -110,41 +110,31 @@
                  width: 100px;">해석</h3>
       <div style="padding : 16px;">
 
-        <p>
+                      <p class = "korean">
+                        <b>
+                        다수결의 원칙은 결정을 내리는 데 최선의 방법인가?
+                        </b>
+                      </p>
 
-          <v-container grid-list-md text-xs-left>
-            <v-layout row wrap>
+                      <table style = "border-collapse: collapse;">
 
-
-              <v-flex xs12>
-                <v-card light color="#FFE7D5">
-                  <v-card-text class="px-10">
-                    <p>
-                       다수결의 원칙은 결정을 내리는 데 최선의 방법인가?
-                    </p>
-
-                    <ol class="replace" type = "A" style="font-weight: bold;">
-                      <li><span class = "normaltext">
-                        다수결은 의사 결정을 내리기 위한 합리적인 방법이라고 생각해 집단 내의 모든 의견을 고려하는 것은 비현실적이야.
-                        대부분의 사람들이 선택한 선택에 따라 더 나은 표현을 할 수 있어
-                        </span>
-                      </li>
-                      <li><span class = "normaltext">
-                          나는 동의하지 않아, 다수결은 더 많은 사람들의 견해를 반영할지도 몰라.
+                       <tr>
+                        <td class = "uppertable" ><b>A :</b></td>
+                        <td class = "lowertable" style = "word-break: keep-all" >다수결은 의사 결정을 내리기 위한 합리적인 방법이라고 생각해 집단 내의 모든 의견을 고려하는 것은 비현실적이야.
+                        대부분의 사람들이 선택한 선택에 따라 더 나은 표현을 할 수 있어</td>
+                      </tr>
+                      <tr style="color:#1565C0;">
+                        <td class = "uppertable" ><b>B :</b></td>
+                        <td class = "lowertable" style = "word-break: keep-all" >나는 동의하지 않아, 다수결은 더 많은 사람들의 견해를 반영할지도 몰라.
                           그러나 과반수가 된다고 해서 현명해 지는 것은 아니야.
                           그것은 더 많은 사람들이 당신의 의견에 동의한다는 것을 의미해.
-                          때로는 소수의 의견이 더 나은 해결책을 제시하기도 해.</b>
-                      </span>
-                      </li>
-                    </ol>
+                          때로는 소수의 의견이 더 나은 해결책을 제시하기도 해.</td>
+                      </tr>
 
-                  </v-card-text>
-                </v-card>
-              </v-flex>
-            </v-layout>
-          </v-container>
+                    
+                      </table>
 
-        </p>
+        
 
 
       </div>
@@ -154,8 +144,6 @@
 
 
   </v-layout>
-</v-container>
-</v-layout>
 </v-container>
 </div>
 
@@ -220,10 +208,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

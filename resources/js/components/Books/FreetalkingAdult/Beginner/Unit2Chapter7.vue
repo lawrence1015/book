@@ -13,7 +13,7 @@
           </div>
 
 
-          <h3 style="padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 10px; margin-top: 10px; background-color: #a7d7c5;">Reading Practice <span style="font-size:18px">
+          <h3 style="padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 10px; margin-top: 10px; background-color: #a7d7c5;">Reading Practice <br><span class = "korean">
           ( 선생님의 안내에 따라 문장을 읽어 주세요 )</span>
           </h3>
 
@@ -40,22 +40,22 @@
 
 
 
-            <li style="list-style-type: none;"><u>Avid</u> - eager or very interested in something <span style="font-size:16px">열심인[열렬한], 열망하는</span>
+            <li style="list-style-type: none;"><u>Avid</u> - eager or very interested in something <span class = "korean">열심인[열렬한], 열망하는</span>
             </li>
 
-            <li style="list-style-type: none;"><u>Sporty</u> - likes to play sports <span style="font-size:16px">스포츠를 좋아하는[잘하는], 빠르고 날렵한</span>
+            <li style="list-style-type: none;"><u>Sporty</u> - likes to play sports <span class = "korean">스포츠를 좋아하는[잘하는], 빠르고 날렵한</span>
             </li>
 
-            <li style="list-style-type: none;"><u>Athlete</u> - a sports player <span style="font-size:16px">운동을 잘 하는 사람, 운동선수</span>
+            <li style="list-style-type: none;"><u>Athlete</u> - a sports player <span class = "korean">운동을 잘 하는 사람, 운동선수</span>
             </li>
 
-            <li style="list-style-type: none;"><u>Tan</u> - light brown color <span style="font-size:16px">햇볕에 타다[그을리다]; 햇볕에 태우다</span>
+            <li style="list-style-type: none;"><u>Tan</u> - light brown color <span class = "korean">햇볕에 타다[그을리다]; 햇볕에 태우다</span>
             </li>
 
-            <li style="list-style-type: none;"><u>Seaside</u> - near the sea <span style="font-size:16px">해변[바닷가]</span>
+            <li style="list-style-type: none;"><u>Seaside</u> - near the sea <span class = "korean">해변[바닷가]</span>
             </li>
 
-            <li style="list-style-type: none;"><u>Hilarious</u> - very funny <span style="font-size:16px">아주 우스운[재미있는]</span>
+            <li style="list-style-type: none;"><u>Hilarious</u> - very funny <span class = "korean">아주 우스운[재미있는]</span>
             </li>
 
             <p>Fill in the blanks using the words above.
@@ -113,7 +113,7 @@
 
           <h3 style="padding-top: 7px;  margin-left: -18px; margin-right: -18px;  padding-bottom: 10px;  padding-top: 10px; padding-left: 10px; background-color: #a7d7c5; ">Translation</h3>
 
-          <div style="padding : 16px;">
+          <div style="padding : 16px;" class = "korean">
 
             <p>
               나는 언니와 남동생이 있어. 내 여동생은 키가 크고 예쁘다.
@@ -133,8 +133,6 @@
 
       </v-layout>
     </v-container>
-  </v-layout>
-</v-container>
 </div>
 </template>
 
@@ -188,10 +186,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

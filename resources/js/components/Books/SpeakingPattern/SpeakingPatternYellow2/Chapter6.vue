@@ -109,13 +109,13 @@
           <b>205</b> 희망이 없어. ( hope ) <br />
         </p>
         <p>
-          <b>206</b> 희망이 없어. ( hope ) <br />
+          <b>206</b> 그녀가 해내지 못했을 리가 없어요. ( couldn’t, make it ) <br />
         </p>
         <p>
-          <b>207</b> 희망이 없어. ( hope ) <br />
+          <b>207</b> 실수할 여지가 없어요. ( mistakes ) <br />
         </p>
         <p>
-          <b>208</b> 희망이 없어. ( hope ) <br />
+          <b>208</b> 되돌릴 수 없어요. ( turn, back ) <br />
         </p>
 
         <v-container grid-list-md text-xs-left>
@@ -130,9 +130,9 @@
               203 There’s no doubt about it.<br />
               204 There’s no proof of that.<br />
               205 There’s no hope.<br />
-              206 There’s no hope.<br />
-              207 There’s no hope.<br />
-              208 There’s no hope.<br />
+              206 There’s no way she couldn’t make it.<br />
+              207 There’s no room for mistakes.<br />
+              208 There’s no turning back.<br />
             </v-card-text>
           </v-card>
         </v-flex>

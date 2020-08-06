@@ -23,7 +23,7 @@
     </v-img>
 
 
-          <h3 style="background-color: #a7d7c5;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Reading Practice <span style="font-size:18px">( 선생님의 안내에 따라 문장을 읽어 주세요 )</span></h3>
+          <h3 style="background-color: #a7d7c5;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Reading Practice ( 선생님의 안내에 따라 문장을 읽어 주세요 )</h3>
                <div style="padding : 16px;">
 
 <p>Pets are companion animals. Humans keep them for friendship rather than for economic reasons. Most people's consideration for choosing pets are attractiveness and playfulness. For instance, many people like to keep cute and cuddly animals as friends. Some people like to keep active pets. The two most common domestic companions are of course the cat and the dog. However, some people like to keep exotic pets like snakes or spiders.
@@ -35,19 +35,19 @@
 
 
 
-<li style="list-style-type: none;"><u>Companion(n)</u> -  something or someone who stays close <span style="font-size:16px">동반자, 동행, 친구[벗]</span>
+<li style="list-style-type: none;"><u>Companion(n)</u> -  something or someone who stays close 동반자, 동행, 친구[벗]
 </li>
 
-<li style="list-style-type: none;"><u>Economic(adj)</u> -  refers to money and economy <span style="font-size:16px">경제의, 경제성이 있는</span>
+<li style="list-style-type: none;"><u>Economic(adj)</u> -  refers to money and economy 경제의, 경제성이 있는
 </li>
 
-<li style="list-style-type: none;"><u>Cuddly(adj)</u> -   nice to hug <span style="font-size:16px">꼭 껴안고 싶은, 껴안을 수 있게 만든</span>
+<li style="list-style-type: none;"><u>Cuddly(adj)</u> -   nice to hug 꼭 껴안고 싶은, 껴안을 수 있게 만든
 </li>
 
-<li style="list-style-type: none;"><u>Domestic(adj)</u> -  near or about human homes <span style="font-size:16px">국내의, 가정의, 집안의</span>
+<li style="list-style-type: none;"><u>Domestic(adj)</u> -  near or about human homes 국내의, 가정의, 집안의
 </li>
 
-<li style="list-style-type: none;"><u>Exotic(adj)</u> - unusual and interesting, usually because it comes from or is related to a distant country <span style="font-size:16px">외국의; 이국적인</span>
+<li style="list-style-type: none;"><u>Exotic(adj)</u> - unusual and interesting, usually because it comes from or is related to a distant country 외국의; 이국적인
 </li>
 
 <p>Fill in the blanks using the words above.
@@ -118,7 +118,7 @@ margin-bottom: -10px;">
 </div>
 
 
-<h3  style="padding-top: 7px; margin-left: -18px; margin-right: -18px; padding-left: 10px; margin-top: 10px; padding-bottom: 10px; margin-bottom: 12px;  padding-top: 10px; background-color: #a7d7c5;">Reading Practice <span style="font-size:18px">( 선생님의 안내에 따라 문장을 읽어 주세요 )</span>
+<h3  style="padding-top: 7px; margin-left: -18px; margin-right: -18px; padding-left: 10px; margin-top: 10px; padding-bottom: 10px; margin-bottom: 12px;  padding-top: 10px; background-color: #a7d7c5;">Reading Practice ( 선생님의 안내에 따라 문장을 읽어 주세요 )
 </h3>
 
 <div style="padding : 16px;">
@@ -134,19 +134,19 @@ margin-bottom: -10px;">
 
 
 
-<li style="list-style-type: none;"><u>Remarkable(adj)</u> -  something that should be noticed or praised <span style="font-size:16px">놀랄 만한, 주목할 만한</span>
+<li style="list-style-type: none;"><u>Remarkable(adj)</u> -  something that should be noticed or praised 놀랄 만한, 주목할 만한
 </li>
 
-<li style="list-style-type: none;"><u>Widespread(adj)</u> -  popular <span style="font-size:16px">광범위한, 널리 퍼진</span>
+<li style="list-style-type: none;"><u>Widespread(adj)</u> -  popular 광범위한, 널리 퍼진
 </li>
 
-<li style="list-style-type: none;"><u>Gain(v)</u> -  to get <span style="font-size:16px">하게[얻게] 되다, 얻다, 쌓다[늘리다]</span>
+<li style="list-style-type: none;"><u>Gain(v)</u> -  to get 하게[얻게] 되다, 얻다, 쌓다[늘리다]
 </li>
 
-<li style="list-style-type: none;"><u>Statues(n)</u> -  stone or wood images <span style="font-size:16px">조각상</span>
+<li style="list-style-type: none;"><u>Statues(n)</u> -  stone or wood images 조각상
 </li>
 
-<li style="list-style-type: none;"><u>Loyalty(n)</u> - faithfulness; dedication to a person or thing <span style="font-size:16px">충실, 충성, 충성심</span>
+<li style="list-style-type: none;"><u>Loyalty(n)</u> - faithfulness; dedication to a person or thing 충실, 충성, 충성심
 </li>
 
 <p>Fill in the blanks using the words above.
@@ -204,7 +204,7 @@ margin-bottom: -10px;">
 
 
 
-<h3  style="padding-top: 7px;  margin-left: -18px; margin-right: -18px;  padding-bottom: 10px;  padding-top: 10px; padding-left: 10px; background-color: #a7d7c5; ">Conversation Samples <span style="font-size:18px">(선생님과 역할을 나눠서 연습해보세요)</span></h3>
+<h3  style="padding-top: 7px;  margin-left: -18px; margin-right: -18px;  padding-bottom: 10px;  padding-top: 10px; padding-left: 10px; background-color: #a7d7c5; ">Conversation Samples (선생님과 역할을 나눠서 연습해보세요)</h3>
 
 <div style="padding : 16px;">
 
@@ -472,11 +472,6 @@ p{
 
 h3{
   padding-top: 7px;
-
-}
-
-li{
-
 
 }
 

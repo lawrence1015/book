@@ -23,7 +23,7 @@
     </v-img>
 
 
-          <h3 style="background-color: #a7d7c5;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Reading Practice <span style="font-size:18px">( 선생님의 안내에 따라 문장을 읽어 주세요 )</span></h3>
+          <h3 style="background-color: #a7d7c5;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Reading Practice ( 선생님의 안내에 따라 문장을 읽어 주세요 )</h3>
                <div style="padding : 16px;">
 
 <p>Yesterday was a lovely cloudy day! There were clumps of round white clouds in the blue sky so my family decided to go to the beach. It was the perfect weather for swimming and frolicking in the beach   because we never want to get sunburned. However, the clouds cleared and it was too sunny at noon so we walked back to our cottage to eat. We were talking and laughing when we realized it was getting gloomy outside. Dark clouds have obscured the sun? My parents have to work the next day so we had to drive through the heavy downpour. What a fickle weather that was?
@@ -35,22 +35,22 @@
 
 
 
-<li style="list-style-type: none;"><u>Clumps(n)</u> - in every way, fully <span style="font-size:16px">(사람·사물의) 집단</span>
+<li style="list-style-type: none;"><u>Clumps(n)</u> - in every way, fully (사람·사물의) 집단
 </li>
 
-<li style="list-style-type: none;"><u>Frolic(v) </u> - shy and uncomfortable <span style="font-size:16px">즐겁게 뛰놀다, 놀이[장난]</span>
+<li style="list-style-type: none;"><u>Frolic(v) </u> - shy and uncomfortable 즐겁게 뛰놀다, 놀이[장난]
 </li>
 
-<li style="list-style-type: none;"><u>Gloomy(adj)</u> - small amount or number <span style="font-size:16px">어둑어둑한; 음울한, 우울한</span>
+<li style="list-style-type: none;"><u>Gloomy(adj)</u> - small amount or number 어둑어둑한; 음울한, 우울한
 </li>
 
-<li style="list-style-type: none;"><u>Obscure(v)</u> - reason <span style="font-size:16px">이해하기 힘든, 모호한</span>
+<li style="list-style-type: none;"><u>Obscure(v)</u> - reason 이해하기 힘든, 모호한
 </li>
 
-<li style="list-style-type: none;"><u>Downpour(n)</u> - magnificent <span style="font-size:16px">폭우</span>
+<li style="list-style-type: none;"><u>Downpour(n)</u> - magnificent 폭우
 </li>
 
-<li style="list-style-type: none;"><u>Fickle(adj)</u> - very funny <span style="font-size:16px">변덕스러운, 변화가 심한</span>
+<li style="list-style-type: none;"><u>Fickle(adj)</u> - very funny 변덕스러운, 변화가 심한
 </li>
 
 <p>Fill in the blanks using the words above.
@@ -115,7 +115,7 @@ margin-bottom: -10px;">
 </div>
 
 
-<h3 style="padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 10px; margin-top: 10px; background-color: #a7d7c5;">Reading Practice <span style="font-size:18px"> ( 선생님의 안내에 따라 문장을 읽어 주세요 )</span></h3>
+<h3 style="padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 10px; margin-top: 10px; background-color: #a7d7c5;">Reading Practice  ( 선생님의 안내에 따라 문장을 읽어 주세요 )</h3>
 
 
 <div style="padding : 16px;">
@@ -140,19 +140,19 @@ margin-bottom: -10px;">
 
 
 
-<li style="list-style-type: none;"><u>Fair(adj)</u> - pale or light-colored  <span style="font-size:16px">(피부머리카락이) 옅은 색의, 금발의, 흰 피부의</span>
+<li style="list-style-type: none;"><u>Fair(adj)</u> - pale or light-colored  (피부머리카락이) 옅은 색의, 금발의, 흰 피부의
 </li>
 
-<li style="list-style-type: none;"><u>Severe(adj)</u> - serious <span style="font-size:16px">극심한, 심각한, 가혹한[혹독한], 엄한, 엄격한, 아주 힘든[어려운]</span>
+<li style="list-style-type: none;"><u>Severe(adj)</u> - serious 극심한, 심각한, 가혹한[혹독한], 엄한, 엄격한, 아주 힘든[어려운]
 </li>
 
-<li style="list-style-type: none;"><u>Excessive(adj)</u> - too much <span style="font-size:16px">지나친, 과도한</span>
+<li style="list-style-type: none;"><u>Excessive(adj)</u> - too much 지나친, 과도한
 </li>
 
-<li style="list-style-type: none;"><u>Sweat(v)</u> -  to excrete salty fluid from the skin <span style="font-size:16px">땀, 식은땀, 진땀</span>
+<li style="list-style-type: none;"><u>Sweat(v)</u> -  to excrete salty fluid from the skin 땀, 식은땀, 진땀
 </li>
 
-<li style="list-style-type: none;"><u>Dehydrate(v)</u> - lose water <span style="font-size:16px">탈수 상태가 되다[되게 하다]</span>
+<li style="list-style-type: none;"><u>Dehydrate(v)</u> - lose water 탈수 상태가 되다[되게 하다]
 </li>
 
 
@@ -444,8 +444,6 @@ Study the sentences on the right box.
 
        </v-layout>
      </v-container>
-  </v-layout>
-  </v-container>
 </div>
 </template>
 
@@ -499,10 +497,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

@@ -85,9 +85,9 @@
                         <br />
                         What do you think is the most popular brand of gadget these days?<br />
                         <br />
-                        Why do you think we need to take care of our electronic gadget?<br />
+                        Why do you think we need to take care of our electronic gadgets?<br />
                         <br />
-                        What are the benefits of electronic gadgets for people?<br />
+                        What are the benefits of electronic gadgets to people?<br />
                       </b>
                     </p>
                   </v-card-text>

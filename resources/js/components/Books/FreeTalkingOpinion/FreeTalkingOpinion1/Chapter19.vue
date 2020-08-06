@@ -29,7 +29,7 @@
   </div>
 
   <h3  class = "border white--text" style = "border-radius: 0px 0px 70px 0px;" >Topic</h3>
-  <div style = "padding : 16px; line-height: 200%;">
+  <div style = "padding : 16px; line-height: 1.6;">
 
     <table style = "border-collapse: collapse;">
 
@@ -39,7 +39,7 @@
       If celebrities want to become more famous, they shouldn't be afraid of opening their private lives to the public.
       They also need to learn to take criticism.</td>
     </tr>
-    <tr>
+    <tr style="color:#1565C0;">
       <td class = "uppertable" ><b>B :</b></td>
       <td class = "lowertable" >People should admire a celebrity's talent, not his or her private life.
       Celebrities need some privacy, just like normal people.
@@ -62,31 +62,31 @@
       <div style="padding : 16px;">
 
         <p>
-          <b>afraid 두려워하는</b>
+          <b>afraid</b> 두려워하는
         </p>
         <p>
-          <b>public 일반 사람들, 대중</b>
+          <b>public</b> 일반 사람들, 대중
         </p>
         <p>
-          <b>criticism 비난</b>
+          <b>criticism</b> 비난
         </p>
         <p>
-          <b>admire 감탄하며 바라보다</b>
+          <b>admire</b> 감탄하며 바라보다
         </p>
         <p>
-          <b>talent 재능</b>
+          <b>talent</b> 재능
         </p>
         <p>
-          <b>privacy 사생활</b>
+          <b>privacy</b> 사생활
         </p>
         <p>
-          <b>normal 평범한</b>
+          <b>normal</b> 평범한
         </p>
         <p>
-          <b>earn (돈을) 다</b>
+          <b>earn</b> (돈을) 다
         </p>
         <p>
-          <b>expose 드러내다</b>
+          <b>expose</b> 드러내다
         </p>
 
       </div>
@@ -105,41 +105,30 @@
                  width: 100px;">해석</h3>
       <div style="padding : 16px;">
 
-        <p>
-
-          <v-container grid-list-md text-xs-left>
-            <v-layout row wrap>
-
-
-              <v-flex xs12>
-                <v-card light color="#FFE7D5">
-                  <v-card-text class="px-10">
-                    <p>
+                      <p class = "korean">
+                        <b>
                         유명인의 사생활이 대중들에게 공개되어야만 하나요?
-                    </p>
-                    <ol class="replace" type = "A" style="font-weight: bold;">
-                      <li><span class = "normaltext">
-                          유명 인사의 팬은 자신에 대한 모든 것을 알고 싶어합니다.
+                        </b>
+                      </p>
+
+                      <table style = "border-collapse: collapse;">
+
+                       <tr>
+                        <td class = "uppertable" ><b>A :</b></td>
+                        <td class = "lowertable" style = "word-break: keep-all" >유명 인사의 팬은 자신에 대한 모든 것을 알고 싶어합니다.
                           유명 인사가 더 유명 해지고 싶다면 대중에게 사생활을 개방하는 것을 두려워해서는 안됩니다.
-                          그들은 또한 비판을 받는 법을 배울 필요가 있습니다.
-                        </span>
-                      </li>
-                      <li><span class = "normaltext">
-                          사람들은 그들의 사생활이 아닌 유명인의 재능에 감탄해야 합니다.
+                          그들은 또한 비판을 받는 법을 배울 필요가 있습니다.</td>
+                      </tr>
+                      <tr style="color:#1565C0;">
+                        <td class = "uppertable" ><b>B :</b></td>
+                        <td class = "lowertable" style = "word-break: keep-all" >사람들은 그들의 사생활이 아닌 유명인의 재능에 감탄해야 합니다.
                           유명 인사는 평범한 사람들처럼 사생활이 필요 합니다.
                           또한, 그들이 돈을 많이 벌더라도,
-                          그것이 그들의 사생활이 모든 사람들에게 노출되어야 한다는 것을 의미하지는 않습니다..
-                      </span>
-                      </li>
-                    </ol>
+                          그것이 그들의 사생활이 모든 사람들에게 노출되어야 한다는 것을 의미하지는 않습니다..</td>
+                      </tr>
 
-                  </v-card-text>
-                </v-card>
-              </v-flex>
-            </v-layout>
-          </v-container>
-
-        </p>
+                    
+                      </table>
 
 
       </div>
@@ -149,8 +138,6 @@
 
 
   </v-layout>
-</v-container>
-</v-layout>
 </v-container>
 </div>
 
@@ -215,10 +202,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

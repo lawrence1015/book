@@ -31,11 +31,9 @@
   <div style = "padding : 16px; line-height: 200%;">
 
       <p>
-        Organizations can derive a number of benefits from it: optimize operations, control processes automatically, engage more customers, and empower employees.
-        The value of IoT data for organizations as devices connect to the internet and share data is worthless without analysis but with an IoT analytics solution put in place, the data that organizations produce is effectively collected, analyzed, and stored. First, it enhances better human productivity it's is later used to improve day-to-day business operations and help utilize employee time and energy more efficiently. Next, Improved equipment maintenance. Then, Operations optimization and automation can automatically control processes that previously could only be tracked manually. Lastly, Enhanced customer experience and implementation of IoT data analytics can help with this onerous task. IoT data reveals a wealth of customer behaviors and preferences that can be analyzed and used to predict customer needs.
+        Associations can get a few advantages from it: advance tasks, control forms consequently, connect more clients, and engage representatives.
+        The estimation of IoT information for associations as gadgets interface with the web and offer information is useless without examination. However, with an IoT investigation arrangement set up, the information that associations produce is adequately gathered, broken down, and put away. To begin with, it upgrades better human profitability. It is later used to improve everyday business activities and help use representative time and vitality all the more productively. Next, improved gear upkeep. At that point, operations streamlining and computerization can consequently control forms that beforehand must be followed physically. In conclusion, enhanced client experience and execution of IoT information examination can help with this difficult undertaking. IoT information uncovers an abundance of client practices and inclinations that can be investigated and used to anticipate client needs.
       </p>
-
-      <p>*Chief Data Officers (CDOs)</p>
 
       <h3 class = "reverseborder white--text" style="padding-top: 7px;
                                               margin-left: -18px;
@@ -61,25 +59,22 @@
       <div style="padding : 16px;">
 
         <p>
-          <b>derive</b> <span class = "korean">&lt;이익·즐거움 등을&gt; 끌어내다, 얻다, &lt;단어·관습 등이&gt; …에서 비롯되다, &lt;사람이&gt;</span>
+          <b>estimation</b> <span class = "korean">판단[평가</span>
         </p>
         <p>
-          <b>optimize…</b> <span class = "korean">을 최대한 좋게[적합하게] 만들다[활용하다]</span>
+          <b>interface</b> <span class = "korean">interface</span>
         </p>
         <p>
-          <b>worthless</b> <span class = "korean">가치 없는, 쓸모없는, 무가치한, 쓸모없는, 무가치한</span>
+          <b>adequately</b> <span class = "korean">충분히, 적절히</span>
         </p>
         <p>
-          <b>analysis</b> <span class = "korean">분석 연구, 분석</span>
+          <b>profitability</b> <span class = "korean">수익성</span>
         </p>
         <p>
-          <b>utilize</b> <span class = "korean">활용[이용]하다</span>
+          <b>undertake</b> <span class = "korean">착수시키다</span>
         </p>
         <p>
-          <b>onerous</b> <span class = "korean">아주 힘든; 부담되는, 짐스러운</span>
-        </p>
-        <p>
-         <b>predict</b> <span class = "korean">예측[예견]하다</span>
+          <b>abundance</b> <span class = "korean">풍부한</span>
         </p>
 
       </div>
@@ -108,16 +103,22 @@
       <div style="padding : 16px;">
 
         <p>
-          <b>can derive a number of benefits from it</b> <span class = "korean">그것으로부터 많은 이익을 얻을 수 있습니다.</span>
+          <b>put away</b> <span class = "korean">치우다, 정리하다</span>
         </p>
         <p>
-          <b>to improve day-to-day business operations</b> <span class = "korean">일상적인 비즈니스 운영을 개선합니다.</span>
+          <b>be useless without~</b> <span class = "korean">~없이 소용이 없다</span>
         </p>
         <p>
-          <b>could only be tracked manually.</b> <span class = "korean">수동으로만 추적할 수 있습니다</span>
+          <b>To begin with</b> <span class = "korean">먼저</span>
         </p>
         <p>
-          <b>used to predict customer needs.</b> <span class = "korean">고객의 니즈를 예측하는 데 사용됩니다.</span>
+          <b>all the more</b> <span class = "korean">더욱더</span>
+        </p>
+        <p>
+          <b>At that point</b> <span class = "korean">그 시점에서</span>
+        </p>
+        <p>
+          <b>In conclusion</b> <span class = "korean">결론적으로</span>
         </p>
 
       </div>
@@ -147,13 +148,16 @@
 
         <ol style="padding-right: 20px; padding-top: 10px;">
           <li>
-            Do you think the company can really be benefited from IoT?
+            Do you think the company can benefit from IoT?<br />
+            회사는 loT로부터 이점을 얻을 수 있다고 생각합니까?<br />
           </li>
           <li>
-            What are the things that the company can benefit from IoT?
+            What are the things that the company can benefit from IoT?<br />
+            회사가 loT로부터 얻는 이점은 무엇이라고 생각합니까?<br />
           </li>
           <li>
-           How can IoT data analytics become so helpful for the company?
+           How can IoT data analytics become so helpful for the company?<br />
+           회사가 loT로부터 얻는 이점은 무엇이라고 생각합니까?<br />
           </li>
         </ol>
 
@@ -195,15 +199,12 @@
                   <v-card-text class="px-10">
                     <p>
                       <span class = "korean">
-                      <b>귀사는 IoT 데이터 분석의 이점을 어떻게 얻을 수 있습니까?</b>
+                      <b>어떻게 귀사는 IoT 데이터 분석의 이점을 얻을 수 있습니까?</b>
                     </span>
                     </p>
                     <p>
-                      <span class = "korean">조직은 운영 최적화, 프로세스 자동 제어, 더 많은 고객 참여, 직원 역량 강화 등 다양한 이점을 얻을 수 있습니다. 기기가 인터넷에 연결되고 데이터를 공유함에 따라 조직의 IoT 데이터의 가치는 분석 없이는 가치가 없지만 IoT 분석 솔루션을 구축하면 조직에서 생산한 데이터를 효과적으로 수집, 분석 및 저장할 수 있습니다. 첫째, 향상된 인적 생산성을 향상시켜 이후 일상적인 비즈니스 운영을 개선하고 직원 시간과 에너지를 보다 효율적으로 활용할 수 있도록 지원합니다. 다음으로 장비 유지관리가 개선되었습니다. 그러면 Operations 최적화 및 자동화는 이전에 수동으로만 추적할 수 있었던 프로세스를 자동으로 제어할 수 있습니다. 마지막으로, IoT 데이터 분석의 향상된 고객 경험과 구현이 이러한 부담스러운 작업에 도움이 될 수 있습니다. IoT 데이터는 고객의 니즈를 예측하기 위해 분석 및 사용할 수 있는 다양한 고객 행동 및 선호도를 보여줍니다.
+                      <span class = "korean">협회는 작업을 진척시키고, 양식을 통제하고, 더 많은 고객과 소통하고, 대표자들을 참여시켜 몇 가지 이점을 얻을 수 있다. IoT 정보는 웹과 인터페이스로 연결되는 장치로서 이에 대한  IoT 정보의 평가는 견적 심사 없이는 도움이 되지 않는다. 하지만, IoT 조사 체제가 갖추어지면 협회가 만들어내는 정보가 적절히 수집, 분해 및 정리됩니다. 먼저, 이것은 더 나은 인간의 수익성을 향상시킨다. 이후 일상적인 비즈니스 활동을 개선하고 대표 시간과 활력을 더욱 생산적으로 사용할 수 있도록 돕는다. 다음으로, 기어 유지보수를 개선시켜준다. 이 시점에서 운영 효율화와 컴퓨터화는 결과적으로 사전에 물리적으로 준수해야 하는 양식을 제어할 수 있습니다. 결론적으로 IoT 정보 검사의 향상된 클라이언트 경험과 실행은 이러한 어려운 작업에 도움이 될 수 있습니다. IoT 정보는 고객의 요구를 예측하기 위해 조사하고 사용할 수 있는 다양한 고객 관행과 경향을 보여줍니다.
                       </span>
-                    </p>
-                    <p>
-                      <span class = "korean">*최고 데이터 책임자(CDO)입니다.</span>
                     </p>
                   </v-card-text>
                 </v-card>

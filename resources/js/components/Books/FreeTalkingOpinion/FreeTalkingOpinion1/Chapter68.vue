@@ -29,7 +29,7 @@
   </div>
 
   <h3  class = "border white--text" style = "border-radius: 0px 0px 70px 0px;" >Topic</h3>
-  <div style = "padding : 16px; line-height: 200%;">
+  <div style = "padding : 16px; line-height: 1.6;">
 
     <table style = "border-collapse: collapse;">
 
@@ -37,7 +37,7 @@
       <td class = "uppertable" ><b>Jane :</b></td>
       <td class = "lowertable" >The standard for popcorn is to be buttery and salty! It just feels odd to eat popcorn and taste sweetness. That’s like eating a bitter cupcake. How unsettling! Besides, salty popcorn just tastes better.</td>
     </tr>
-    <tr>
+    <tr style="color:#1565C0;">
       <td class = "uppertable" ><b>Tom :</b></td>
       <td class = "lowertable" >Taste is subjective. Some people prefer sweet foods over salty foods. Sweet popcorn such as caramel popcorn is an extremely popular choice. Salty popcorn can be very basic and boring.</td>
     </tr>
@@ -53,42 +53,42 @@
                  margin-right: -18px;
                  padding-left: 10px;
                  padding-bottom: 10px;
-                 padding-top: 0px;
+                 padding-top: 5px;
                  margin-top: 0px;">Vocabulary</h3>
       <div style="padding : 16px;">
 
         <p>
-          <b>standard 기준</b>
+          <b>standard</b> 기준
         </p>
         <p>
-          <b>buttery 버터 맛이 나는 </b>
+          <b>buttery</b> 버터 맛이 나는 
         </p>
         <p>
-          <b>odd 이상한 </b>
+          <b>odd</b> 이상한 
         </p>
         <p>
-          <b>bitter 맛이 쓴 </b>
+          <b>bitter</b> 맛이 쓴 
         </p>
         <p>
-          <b>unsettling 심란하게 하는 </b>
+          <b>unsettling</b> 심란하게 하는 
         </p>
         <p>
-          <b>taste 맛 </b>
+          <b>taste</b> 맛 
         </p>
         <p>
-          <b>subjective 주관적인 </b>
+          <b>subjective</b> 주관적인 
         </p>
         <p>
-          <b>prefer 선호하다 </b>
+          <b>prefer</b> 선호하다 
         </p>
         <p>
-          <b>extremely 극도로 </b>
+          <b>extremely</b> 극도로 
         </p>
         <p>
-          <b>basic 기본적인 </b>
+          <b>basic</b> 기본적인 
         </p>
         <p>
-          <b>boring 지루한 </b>
+          <b>boring</b> 지루한 
         </p>
 
       </div>
@@ -102,7 +102,7 @@
                  margin-right: -18px;
                  padding-left: 10px;
                  padding-bottom: 10px;
-                 padding-top: 0px;              
+                 padding-top: 5px;              
                  margin-top: 0px;
                  width: 100px;">해석</h3>
       <div style="padding : 16px;">
@@ -113,7 +113,7 @@
             <td class = "uppertable" ><b>제인 :</b></td>
             <td class = "lowertable" >팝콘의 기준은 버터 맛이 나는 것과 짠 맛이야! 팝콘을 먹고 달콤함을 맛보는 것은 이상한 느낌일 뿐이야. 그것은 쓴 컵케이크를 먹는 것과 같아 얼마나 심란하게 하는지! 게다가, 짠 팝콘이 더 맛있어. </td>
           </tr>
-          <tr>
+          <tr style="color:#1565C0;">
             <td class = "uppertable" ><b>탐 :</b></td>
             <td class = "lowertable" >맛은 주관적이야 어떤 사람들은 짠 음식보다 단 음식을 더 좋아해 캐러멜 팝콘과 같은 달콤한 팝콘은 매우 인기 있는 선택이야. 짠 팝콘은 매우 기본적이고 지루할 수 있어.</td>
           </tr>
@@ -123,14 +123,31 @@
 
       </div>
 
-    
+    <div style="margin-left: -18px; margin-right: -18px; margin-top: 10px; border-color: #2F4674; border-style: solid; border-width: 2px;">
+      </div>
+      <h3 class = "border white--text"
+          style="border-radius: 0px 0px 70px 0px;
+                 padding-top: 7px;
+                 margin-left: -18px;
+                 margin-right: -18px;
+                 padding-left: 10px;
+                 padding-bottom: 10px;
+                 padding-top: 5px;
+                 margin-top: 0px;">Questions</h3>
+      <div style="padding : 16px;">
+
+        <ol style="margin: 12px;">
+          <li>When was the last the time you ate popcorn?</li>
+          <li>Do you like savory popcorn, or sweet popcorn? Why?</li>
+          <li>Do you prefer savory food over sweet food? What kind of savory food or sweet food do you like?</li>
+        </ol>
+
+      </div>
 
     </div>
 
 
   </v-layout>
-</v-container>
-</v-layout>
 </v-container>
 </div>
 
@@ -195,10 +212,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

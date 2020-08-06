@@ -282,126 +282,7 @@ export default {
   data(){
 
     return{
-      dialogs:[
-        {
-          name:'F :',
-          speech:"Can you fly a plane with no arms?"
-        },
-        {
-          name:'F :',
-          speech:"Of course not. That is not possible."
-        },
-        {
-          name:'F :',
-          speech:"Jessica Cox will definitely prove you wrong! She was born without arms and yet she is now a licensed pilot. She drives a special place called Ercoupe by only using her legs!"
-        },
-        {
-          name:'F :',
-          speech:"That is incredible!"
-        },
-        {
-          name:'F :',
-          speech:"She was also a dancer and a double black belt in taekwondo."
-        },
-        {
-          name:'F :',
-          speech:"Wow, that story certainly proves there are no limits in life."
-        },
-        {
-          name:'F :',
-          speech:"Right! So, you should keep trying to achieve your dreams in life!"
-        },
-      ],
-       dialogs2:[
-        {
-          name:'M :',
-          speech:"Nothing should stop you from reaching your dreams. Have you heard about Liz Murray?"
-        },
-        {
-          name:'M :',
-          speech:"No, I haven't. Is she an actress or a singer?"
-        },
-        {
-          name:'M :',
-          speech:"No. She is a professional speaker. She was born to a very poor family by drug-addicted and HIV-infected parents and yet she was able to graduate from Harvard University."
-        },
-        {
-          name:'M :',
-          speech:"Wow! How was she able to do that?"
-        },
-        {
-          name:'M :',
-          speech:"She got a scholarship. It's amazing, isn't it?"
-        },
-        {
-          name:'M :',
-          speech:"Absolutely. She must have lived a very hard life."
-        },
-        {
-          name:'M :',
-          speech:"Yeah and her life tells us that any person, rich or poor, can achieve success!"
-        },
-       ],
-       translations:[
-        {
-          name:'F :',
-          speech:"팔이 없는 비행기를 조종할 수 있니?"
-        },
-        {
-          name:'F :',
-          speech:"물론 아니지. 그건 불가능해."
-        },
-        {
-          name:'F :',
-          speech:"제시카 콕스는 분명히 네가 틀렸다는 것을 증명할 거야! 그녀는 팔 없이 태어났지만 지금은 조종사 면허가 있어. 그녀는 다리만으로 Ercoupe라고 불리는 특별한 장소를 운전해!"
-        },
-        {
-          name:'F :',
-          speech:"정말 대단해!"
-        },
-        {
-          name:'F :',
-          speech:"그녀는 태권도에서도 무용수였고 태권도 검은띠 보유자였어."
-        },
-        {
-          name:'F :',
-          speech:"와, 그 이야기는 인생에 제한이 없다는 것을 확실히 증명해."
-        },
-        {
-          name:'F :',
-          speech:"맞아! 그러니, 너는 인생에서 꿈을 이루기 위해 계속해서 노력해야 해!"
-        },
-       ],
-        translations1:[
-        {
-          name:'M :',
-          speech:"그 어떤 것도 네가 꿈에 도달하는 것을 막지 못해. 리즈 머레이에 대해 들어봤니?"
-        },
-        {
-          name:'M :',
-          speech:"아니, 난 못 봤어. 그녀는 배우니 가수니?"
-        },
-        {
-          name:'M :',
-          speech:"아니. 그녀는 전문적인 연설가야. 그녀는 마약 중독자와 HIV에 감염된 부모들에 의해 매우 가난한 가정에서 태어났지만 하버드 대학교를 졸업할 수 있었어."
-        },
-        {
-          name:'M :',
-          speech:"와! 어떻게 그녀가 그렇게 할 수 있었니?"
-        },
-        {
-          name:'M :',
-          speech:"그녀는 장학금을 받았어. 놀랍지 않니?"
-        },
-        {
-          name:'M :',
-          speech:"당연하지. 그녀는 틀림없이 매우 힘든 삶을 살았을 거야."
-        },
-        {
-          name:'M :',
-          speech:"그래, 그리고 그녀의 삶은 우리에게 부자든 가난하든 어떤 사람이든 성공을 이룰 수 있다고 말해줘!"
-        },
-        ],
+      
 
 
     }
@@ -444,10 +325,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

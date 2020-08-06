@@ -29,7 +29,7 @@
   </div>
 
   <h3  class = "border white--text" style = "border-radius: 0px 0px 70px 0px;" >Topic</h3>
-  <div style = "padding : 16px; line-height: 200%;">
+  <div style = "padding : 16px; line-height: 1.6;">
 
     <table style = "border-collapse: collapse;">
 
@@ -39,7 +39,7 @@
       Even if a war breaks out, no one will die or be injured.
       Besides, no one will have to be drafted to the army against his will.</td>
     </tr>
-    <tr>
+    <tr style="color:#1565C0;">
       <td class = "uppertable" ><b>B :</b></td>
       <td class = "lowertable" >That is idealistic. However, how can we be sure that governments around the world won't use them against civilians?
       There's only a fine line between a combat robot and a killer robot.</td>
@@ -61,34 +61,34 @@
       <div style="padding : 16px;">
 
         <p>
-          <b>serve (군대에서) 복무하다</b>
+          <b>serve</b> (군대에서) 복무하다
         </p>
         <p>
-          <b>military 군대</b>
+          <b>military</b> 군대
         </p>
         <p>
-          <b>combat 전투</b>
+          <b>combat</b> 전투
         </p>
         <p>
-          <b>fear 두려움</b>
+          <b>fear</b> 두려움
         </p>
         <p>
-          <b>drafted 징집되다</b>
+          <b>drafted</b> 징집되다
         </p>
         <p>
-          <b>idealistic 이상주의적인</b>
+          <b>idealistic</b> 이상주의적인
         </p>
         <p>
-          <b>government 정부</b>
+          <b>government</b> 정부
         </p>
         <p>
-          <b>against ~ 에 반대하여, 맞서</b>
+          <b>against</b> ~ 에 반대하여, 맞서
         </p>
         <p>
-          <b>civilian 민간인</b>
+          <b>civilian</b> 민간인
         </p>
         <p>
-          <b>fine 미세한</b>
+          <b>fine</b> 미세한
         </p>
         <br />
         <p style="color: #56AAFF;">
@@ -114,38 +114,37 @@
                  width: 100px;">해석</h3>
       <div style="padding : 16px;">
 
-        <p>
 
-          <v-container grid-list-md text-xs-left>
-            <v-layout row wrap>
-
-
-              <v-flex xs12>
-                <v-card light color="#FFE7D5">
-                  <v-card-text class="px-10">
-                    <p>
+                      <p class = "korean">
+                        <b>
                         해석 군사용 로봇을 제작해도 괜찮을까?
-                    </p>
-                    <p>
-                    나는 멋진 생각이라고 생각해!
-                    </p>
-                    <p>
-                        우리가 로봇을 전투에 투입할 수 있다면,
+                        </b>
+                      </p>
+
+                      <p class = "korean">
+                        <b>
+                        나는 멋진 생각이라고 생각해!
+                        </b>
+                      </p>
+
+                      <table style = "border-collapse: collapse;">
+
+                       <tr>
+                        <td class = "uppertable" ><b>A :</b></td>
+                        <td class = "lowertable" style = "word-break: keep-all" >우리가 로봇을 전투에 투입할 수 있다면,
                         인간은 더 이상 전쟁의 공포 속에서 살지 않아도 된다 전쟁이 일어나도 아무도 죽거나 다치지 않을 꺼야 게다가,
-                        아무도 그의 의지에 반하여 군대에 징집될 필요가 없을 거야
-                    </p>
-                    <p>
-                      그것은 이상주의적인 거야. 그러나 전 세계의 정부가 민간인을 상대로 그들을 사용하지 않을 것이라고 어떻게 확신 할 수 있니?
-                        전투 로봇과 킬러 로봇 은 종이 한 장 차이야.
-                    </p>
-                  </v-card-text>
-                </v-card>
-              </v-flex>
-            </v-layout>
-          </v-container>
+                        아무도 그의 의지에 반하여 군대에 징집될 필요가 없을 거야</td>
+                      </tr>
+                      <tr style="color:#1565C0;">
+                        <td class = "uppertable" ><b>B :</b></td>
+                        <td class = "lowertable" style = "word-break: keep-all" >그것은 이상주의적인 거야. 그러나 전 세계의 정부가 민간인을 상대로 그들을 사용하지 않을 것이라고 어떻게 확신 할 수 있니?
+                        전투 로봇과 킬러 로봇 은 종이 한 장 차이야.</td>
+                      </tr>
 
-        </p>
+                    
+                      </table>
 
+      
 
       </div>
 
@@ -154,8 +153,6 @@
 
 
   </v-layout>
-</v-container>
-</v-layout>
 </v-container>
 </div>
 
@@ -220,10 +217,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

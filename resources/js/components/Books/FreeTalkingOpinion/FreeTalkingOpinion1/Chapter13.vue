@@ -29,7 +29,7 @@
   </div>
 
   <h3  class = "border white--text" style = "border-radius: 0px 0px 70px 0px;" >Topic</h3>
-  <div style = "padding : 16px; line-height: 200%;">
+  <div style = "padding : 16px; line-height: 1.6;">
 
     <table style = "border-collapse: collapse;">
 
@@ -39,7 +39,7 @@
       Teachers might spread false information or share their personal opinions.
       However, computers do not make errors, and they are accurate.</td>
     </tr>
-    <tr>
+    <tr style="color:#1565C0;">
       <td class = "uppertable" ><b>B :</b></td>
       <td class = "lowertable" >Computers are not able to interact with students.
       They can't help students when they feel discouraged, but teachers can cheer them up.
@@ -63,37 +63,36 @@
       <div style="padding : 16px;">
 
         <p>
-          <b>replace 대신하다</b>
+          <b>replace</b> 대신하다
         </p>
         <p>
-          <b>distract 산만하게 하다</b>
+          <b>distract</b> 산만하게 하다
         </p>
         <p>
-          <b>spread 퍼뜨리다</b>
+          <b>spread</b> 퍼뜨리다
         </p>
         <p>
-          <b>personal 개인의</b>
+          <b>personal</b> 개인의
         </p>
         <p>
-          <b>opinion 의견</b>
+          <b>opinion</b> 의견
+        </p>
+        
+       
+        <p>
+          <b>accurate</b> 정확한
         </p>
         <p>
-          <b>however 하지만</b>
+          <b>interact</b> 소통하다
         </p>
         <p>
-          <b>accurate 정확한</b>
+          <b>discourage</b> 좌절시키다
         </p>
         <p>
-          <b>interact 소통하다</b>
+          <b>cheer up</b> 기분을 띄어주다
         </p>
         <p>
-          <b>discourage 좌절시키다</b>
-        </p>
-        <p>
-          <b>cheer up 기분을 띄어주다</b>
-        </p>
-        <p>
-          <b>limit 제한하다</b>
+          <b>limit</b> 제한하다
         </p>
 
       </div>
@@ -112,41 +111,32 @@
                  width: 100px;">해석</h3>
       <div style="padding : 16px;">
 
-        <p>
-
-          <v-container grid-list-md text-xs-left>
-            <v-layout row wrap>
-
-
-              <v-flex xs12>
-                <v-card light color="#FFE7D5">
-                  <v-card-text class="px-10">
-                    <p>
+                      <p class = "korean">
+                        <b>
                         해석 컴퓨터들이 선생님들을 대신해야 할까?
-                    </p>
-                    <ol class="replace" type = "A" style="font-weight: bold;">
-                      <li><span class = "normaltext">
-                          학생들은 종종 선생님이 무엇을 입고, 무엇을 하고, 말하는지에 의해 주의가 산만해집니다.
+                        </b>
+                      </p>
+
+                      <table style = "border-collapse: collapse;">
+
+                       <tr>
+                        <td class = "uppertable" ><b>A :</b></td>
+                        <td class = "lowertable" style = "word-break: keep-all" >학생들은 종종 선생님이 무엇을 입고, 무엇을 하고, 말하는지에 의해 주의가 산만해집니다.
                           교사들은 잘못된 정보를 퍼뜨리거나 그들의 개인적인 의견을 공유할 수도 있습니다.
-                          그러나 컴퓨터는 오류를 발생시키지 않으며 정확합니다.
-                        </span>
-                      </li>
-                      <li><span class = "normaltext">
-                          컴퓨터는 학생들과 상호 작용할 수 없습니다.
+                          그러나 컴퓨터는 오류를 발생시키지 않으며 정확합니다.</td>
+                      </tr>
+                      <tr style="color:#1565C0;">
+                        <td class = "uppertable" ><b>B :</b></td>
+                        <td class = "lowertable" style = "word-break: keep-all" >컴퓨터는 학생들과 상호 작용할 수 없습니다.
                           그들은 낙담 할 때 학생들을 도울 수 없지만 교사는 학생들을 격려 할 수 있습니다.
                           적극적인 교육은 컴퓨터로 제한 될 것입니다.
-                          선생님들도 우리에게 창의적으로 가르쳐 줄 수 있습니다.
-                      </span>
-                      </li>
-                    </ol>
+                          선생님들도 우리에게 창의적으로 가르쳐 줄 수 있습니다.</td>
+                      </tr>
 
-                  </v-card-text>
-                </v-card>
-              </v-flex>
-            </v-layout>
-          </v-container>
+                    
+                      </table>
 
-        </p>
+      
 
 
       </div>
@@ -156,8 +146,6 @@
 
 
   </v-layout>
-</v-container>
-</v-layout>
 </v-container>
 </div>
 
@@ -222,10 +210,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

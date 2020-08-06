@@ -29,7 +29,7 @@
   </div>
 
   <h3  class = "border white--text" style = "border-radius: 0px 0px 70px 0px;" >Topic</h3>
-  <div style = "padding : 16px; line-height: 200%;">
+  <div style = "padding : 16px; line-height: 1.6;">
 
     <table style = "border-collapse: collapse;">
 
@@ -37,7 +37,7 @@
       <td class = "uppertable" ><b>Jane :</b></td>
       <td class = "lowertable" >Having a single universal language makes sense in our modern world. We are all connected thanks to the internet. For globalization, a universal language is necessary.</td>
     </tr>
-    <tr>
+    <tr style="color:#1565C0;">
       <td class = "uppertable" ><b>Tom :</b></td>
       <td class = "lowertable" >Language is not only about communication. It is also about having a distinct identity. Different languages will remain as long as humans strive for individualism.</td>
     </tr>
@@ -58,37 +58,37 @@
       <div style="padding : 16px;">
 
         <p>
-          <b>make sense 말이 되다 </b>
+          <b>make sense</b> 말이 되다 
         </p>
         <p>
-          <b>modern 현대의 </b>
+          <b>modern</b> 현대의 
         </p>
         <p>
-          <b>connected 연결된 </b>
+          <b>connected</b> 연결된 
         </p>
         <p>
-          <b>globalization 세계화 </b>
+          <b>globalization</b> 세계화 
         </p>
         <p>
-          <b>necessary 필요한 </b>
+          <b>necessary</b> 필요한 
         </p>
         <p>
-          <b>communication 의사소통 </b>
+          <b>communication</b> 의사소통 
         </p>
         <p>
-          <b>distinct 확실한 </b>
+          <b>distinct</b> 확실한 
         </p>
         <p>
-          <b>identity 독자성 </b>
+          <b>identity</b> 독자성 
         </p>
         <p>
-          <b>remain 남다 </b>
+          <b>remain</b> 남다 
         </p>
         <p>
-          <b>strive 분투하다 </b>
+          <b>strive</b> 분투하다 
         </p>
         <p>
-          <b>individualism 개성</b>
+          <b>individualism</b> 개성
         </p>
 
       </div>
@@ -113,7 +113,7 @@
             <td class = "uppertable" ><b>제인 :</b></td>
             <td class = "lowertable" >하나의 보편적인 언어를 갖는 것은 현대 세계에서 이치에 맞아. 우리는 모두 인터넷 덕분에 연결되어 있어. 세계화를 위해서는 보편적인 언어가 필요해</td>
           </tr>
-          <tr>
+          <tr style="color:#1565C0;">
             <td class = "uppertable" ><b>탐 :</b></td>
             <td class = "lowertable" >언어는 단지 의사소통에 관한 것만은 아니야 그것은 또한 뚜렷한 독자성을 갖는 것에 대한 것이지. 인간이 개성을 위해 노력하는 한 다른 언어들은 남아있을 거야.</td>
           </tr>
@@ -129,8 +129,6 @@
 
 
   </v-layout>
-</v-container>
-</v-layout>
 </v-container>
 </div>
 
@@ -195,10 +193,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

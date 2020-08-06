@@ -29,7 +29,7 @@
   </div>
 
   <h3  class = "border white--text" style = "border-radius: 0px 0px 70px 0px;" >Topic</h3>
-  <div style = "padding : 16px;">
+  <div style = "padding : 16px; line-height: 1.6;" >
 
     <table style = "border-collapse: collapse;">
 
@@ -38,7 +38,7 @@
       <td class = "lowertable" >In my opinion, I think with dedication and hard work, we can be successful in all the different fields.
       I believe that "practice makes perfect," because when we practice we can fix all our mistakes and comprehend better.</td>
     </tr>
-    <tr>
+    <tr style="color:#1565C0;">
       <td class = "uppertable" ><b>B :</b></td>
       <td class = "lowertable" >I disagree. I think talent matters. Even you put in a lot of hard work, the
       capacity exists for their intellectual ability.
@@ -61,34 +61,34 @@
       <div style="padding : 16px;">
 
         <p>
-          <b>successful 성공한</b>
+          <b>successful</b> 성공한
         </p>
         <p>
-          <b>dedication 전념, 헌신</b>
+          <b>dedication</b> 전념, 헌신
         </p>
         <p>
-          <b>field 분야 </b>
+          <b>field</b> 분야 
         </p>
         <p>
-          <b>practice 연습</b>
+          <b>practice</b> 연습
         </p>
         <p>
-          <b>fix 고치다.</b>
+          <b>fix</b> 고치다.
         </p>
         <p>
-          <b>comprehend 이해하다</b>
+          <b>comprehend</b> 이해하다
         </p>
         <p>
-          <b>capacity 수용력</b>
+          <b>capacity</b> 수용력
         </p>
         <p>
-          <b>exist 존재하다</b>
+          <b>exist</b> 존재하다
         </p>
         <p>
-          <b>perform 수행하다</b>
+          <b>perform</b> 수행하다
         </p>
         <p>
-          <b>gifted 재능이 있는</b>
+          <b>gifted</b> 재능이 있는
         </p>
         <br />
         <p style="color: #56AAFF;">
@@ -114,39 +114,30 @@
                  width: 100px;">해석</h3>
       <div style="padding : 16px;">
 
-        <p>
-
-          <v-container grid-list-md text-xs-left>
-            <v-layout row wrap>
-
-
-              <v-flex xs12>
-                <v-card light color="#FFE7D5">
-                  <v-card-text class="px-10">
-                    <p>
+                      <p class = "korean">
+                        <b>
                         재능 vs. 노력, 뭐가 더 중요할까?
-                    </p>
-                    <ol class="replace" type = "A" style="font-weight: bold;">
-                      <li><span class = "normaltext">
-                        제 의견으로는 헌신과 노력으로 우리는 모든 분야에서 성공할 수 있다고 생각합니다.
-                          저는 “연습은 완벽으로 이끈다" 라고 생각합니다. 연습 할 때 우리는 모든 실수를 고쳐서 더 잘 이해할 수 있기 때문입니다.
-                        </span>
-                      </li>
-                      <li><span class = "normaltext">
-                        저는 동의하지 않습니다. 저는 재능이 중요하다고 생각합니다.
+                        </b>
+                      </p>
+
+                      <table style = "border-collapse: collapse;">
+
+                       <tr>
+                        <td class = "uppertable" ><b>A :</b></td>
+                        <td class = "lowertable" style = "word-break: keep-all" >제 의견으로는 헌신과 노력으로 우리는 모든 분야에서 성공할 수 있다고 생각합니다.
+                          저는 “연습은 완벽으로 이끈다" 라고 생각합니다. 연습 할 때 우리는 모든 실수를 고쳐서 더 잘 이해할 수 있기 때문입니다.</td>
+                      </tr>
+                      <tr style="color:#1565C0;">
+                        <td class = "uppertable" ><b>B :</b></td>
+                        <td class = "lowertable" style = "word-break: keep-all" >저는 동의하지 않습니다. 저는 재능이 중요하다고 생각합니다.
                           당신이 열심히 노력하더라도, 능력은 그들의 지적 능력을 위해 존재합니다.
-                          당신은 한계에 도달 할 수는 있지만, 재능 있는 사람보다 더 잘 수행 할 수는 없습니다.
-                      </span>
-                      </li>
-                    </ol>
+                          당신은 한계에 도달 할 수는 있지만, 재능 있는 사람보다 더 잘 수행 할 수는 없습니다.</td>
+                      </tr>
 
-                  </v-card-text>
-                </v-card>
-              </v-flex>
-            </v-layout>
-          </v-container>
+                    
+                      </table>
 
-        </p>
+      
 
 
       </div>
@@ -156,8 +147,6 @@
 
 
   </v-layout>
-</v-container>
-</v-layout>
 </v-container>
 </div>
 
@@ -219,11 +208,6 @@ p{
 
 h3{
   padding-top: 7px;
-
-}
-
-li{
-
 
 }
 

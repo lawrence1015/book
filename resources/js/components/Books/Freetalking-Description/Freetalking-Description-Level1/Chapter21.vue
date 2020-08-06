@@ -37,7 +37,7 @@
         They are comfortable with each other and very joyful.
       </h3>
 
-      <h3>The first guy is holding the shoes of a girl who is next to him.</h3>
+      <h3>The first guy is holding the shoes of the girl wearing a silver gown.</h3>
 
       <p>
         <h4>사진에는 6명이 있고 그들은 친구들이다.</h4>

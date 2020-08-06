@@ -28,7 +28,7 @@
 
    <ol style="margin: 12px;">
      <li>
-       Does your conscience bother you if you tell a lie?<br />
+      Does your conscience bother you if you lie?<br />
        <br />
      </li>
      <li>
@@ -55,7 +55,7 @@
 
   <ol style="margin: 12px;">
      <li class="mb-2">
-       거짓말을 하면 양심이 괴롭습니까?
+      거짓말하면 양심이 괴롭니?
      </li>
      <br />
      <li class="mb-2">
@@ -80,8 +80,6 @@
 
        </v-layout>
      </v-container>
-  </v-layout>
-  </v-container>
 </div>
 
 

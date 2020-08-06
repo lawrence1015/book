@@ -30,7 +30,7 @@
   </div>
 
   <h3  class = "border white--text" style = "border-radius: 0px 0px 70px 0px;" >Topic</h3>
-  <div style = "padding : 16px; line-height: 200%;">
+  <div style = "padding : 16px; line-height: 1.6;">
 
     <table style = "border-collapse: collapse;">
 
@@ -38,7 +38,7 @@
       <td class = "uppertable" ><b>Jane :</b></td>
       <td class = "lowertable" >Isn’t Halloween about celebrating evil? Is that a good message for our youth? I don’t think so! Also, feeling obligated to wear a costume is a hassle. Halloween is such a pointless holiday!</td>
     </tr>
-    <tr>
+    <tr style="color:#1565C0;">
       <td class = "uppertable" ><b>Tom :</b></td>
       <td class = "lowertable" >Halloween was originally a religious holiday that honored the dead. Modern festivities like trick-or-treating are nonreligious, so anyone can participate. Kids in Korea deserve a day like Halloween, where they can dress up and have fun.</td>
     </tr>
@@ -59,37 +59,37 @@
       <div style="padding : 16px;">
 
         <p>
-          <b>celebrate 기념하다</b>
+          <b>celebrate</b> 기념하다
         </p>
         <p>
-          <b>evil 악 </b>
+          <b>evil</b> 악 
         </p>
         <p>
-          <b>youth 젊은이 </b>
+          <b>youth</b> 젊은이 
         </p>
         <p>
-          <b>obligated 의무가 있는 </b>
+          <b>obligated</b> 의무가 있는 
         </p>
         <p>
-          <b>costume 복장 </b>
+          <b>costume</b> 복장 
         </p>
         <p>
-          <b>hassle 귀찮은 상황 </b>
+          <b>hassle</b> 귀찮은 상황 
         </p>
         <p>
-          <b>pointless 무의미한 </b>
+          <b>pointless</b> 무의미한 
         </p>
         <p>
-          <b>religious 종교의 </b>
+          <b>religious</b> 종교의 
         </p>
         <p>
-          <b>the dead 죽은 사람 </b>
+          <b>the dead</b> 죽은 사람 
         </p>
         <p>
-          <b>participate 참여하다 </b>
+          <b>participate</b> 참여하다 
         </p>
         <p>
-          <b>deserve 받을 만하다</b>
+          <b>deserve</b> 받을 만하다
         </p>
 
       </div>
@@ -114,7 +114,7 @@
             <td class = "uppertable" ><b>제인 :</b></td>
             <td class = "lowertable" >할로윈은 악을 기념하는 것이 아니니? 우리 젊은이들에게 좋은 메시지일까? 나는 그렇게 생각하지 않아! 또한 의상을 입어야 한다는 의무감을 느끼는 것도 번거롭잖아. 할로윈은 무의미한 휴일이야.</td>
           </tr>
-          <tr>
+          <tr style="color:#1565C0;">
             <td class = "uppertable" ><b>탐 :</b></td>
             <td class = "lowertable" >할로윈은 원래 죽은자를 기리는 종교적인 휴일이었어. 트릭 오어 트릿과 같은 현대의 축제는 종교적이지 않으므로 누구나 참여할 수 있어. 한국의 어린이들은 할로윈처럼 옷을 입고 하루를 즐겁게 즐길 만한 자격이 있어.</td>
           </tr>
@@ -130,8 +130,6 @@
 
 
   </v-layout>
-</v-container>
-</v-layout>
 </v-container>
 </div>
 
@@ -196,10 +194,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

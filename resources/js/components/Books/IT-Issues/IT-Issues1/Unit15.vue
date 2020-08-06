@@ -32,7 +32,11 @@
   <div style = "padding : 16px; line-height: 200%;">
 
       <p>
-        North Carolina State University and Microsoft find that the specialized meetings as of now utilized in employing for some, product building positions test whether an occupation competitor has execution nervousness as opposed to whether the up-and-comer is capable of coding. Researchers led specialized meetings of 48 software engineering students and graduate students. They estimated each examination member's meeting execution by surveying the precision and productivity of each solution. The meetings may likewise be utilized to avoid gatherings or favor explicit employment up-and-comers.
+        A specialized meeting based from one university in the Northside of Carolina is now utilized in employing for some product building positions. It tests whether an occupation competitor has execution nervousness as opposed to whether the up-and-comer is capable of coding it. The researchers led specialized meetings of 48 software engineering students and graduate students. Researchers led specialized meetings of 48 software engineering students and graduate students. They estimated each examination member's meeting execution by surveying the precision and productivity of each solution. The meetings may likewise be utilized to avoid gatherings or favor explicit employment up-and-comers.
+      </p>
+      <br />
+      <p>
+        *up-and-comer: young and energetic
       </p>
 
       <h3 class = "reverseborder white--text" style="padding-top: 7px;
@@ -63,9 +67,6 @@
         </p>
         <p>
           <b>nervousness</b> <span class = "korean">신경과민, 겁, 소심성</span>
-        </p>
-        <p>
-          <b>likewise</b> <span class = "korean">똑같이; 비슷하게, 또한, 마찬가지야[동감이야]</span>
         </p>
         <p>
           <b>explicit</b> <span class = "korean">분명한, 명쾌한, 솔직한, 터놓고 말하는, 명백한; 노골적인</span>
@@ -103,16 +104,16 @@
       <div style="padding : 16px;">
 
         <p>
-          <b>as of now utilized in employing for some</b> <span class = "korean">현재 일부 고용에 활용되고 있습니다.</span>
+          <b>as of now</b> <span class = "korean">지금으로선</span>
         </p>
         <p>
-          <b>to whether the up-and-comer is capable of coding</b> <span class = "korean">코딩이 가능한지 여부를 확인합니다.</span>
+          <b>as opposed to</b> <span class = "korean">~와 대조적으로</span>
         </p>
         <p>
-          <b>estimated each examination member's meeting</b> <span class = "korean">각 시험 구성원의 회의를 추정합니다.</span>
+          <b>whether</b> <span class = "korean">~ (or not) ~인지 아닌지</span>
         </p>
         <p>
-          <b>likewise, be utilized to avoid gatherings</b> <span class = "korean">마찬가지로, 모음을 방지하는 데 사용됩니다</span> 
+          <b>be capable of</b> <span class = "korean">~할 수 있다.</span> 
         </p>
 
       </div>
@@ -142,13 +143,16 @@
 
         <ol style="padding-right: 20px; padding-top: 10px;">
           <li>
-            In a certain interview do you think AI can assess the up-and-comer?
+            In a certain interview do you think AI can assess the up-and-comer?<br />
+            특정 인터뷰에서 당신은 AI가 장래가 유망한 사람을 평가할 수 있다고 생각합니까?<br />
           </li>
           <li>
-            Tech sector sets an effective way to assess the skills of applicants, Do you think it’s appropriate?
+            Tech sector sets an effective way to assess the skills of applicants, do you think it’s appropriate?<br />
+            기술 분야는 지원자들의 능력을 평가하는 효과적인 방법을 정하는데, 적합하다고 생각합니까?<br />
           </li>
           <li>
-            In this research study, they come up with a specific conclusion that it’s good for up-and-comers. Do you agree with it?
+            In this research study, they come up with a specific conclusion that it’s good for up-and-comers, do you agree with it?<br />
+            이 연구에서 업앤커머가 좋다는 결론이 도출되었습니다. 당신은 그것에 동의하나요?<br />
           </li>
         </ol>
 
@@ -189,10 +193,10 @@
                 <v-card light color="#BEFBFF">
                   <v-card-text class="px-10">
                     <p>
-                      <span class = "korean"><b>기술 부문 면접은 소프트웨어 기술이 아닌 불안감을 평가합니다.</b></span>
+                      <span class = "korean"><b>소프트웨어 기술이 아닌 불안감을 평가하는 기술부문 면접</b></span>
                     </p>
                     <p>
-                      <span class = "korean">North Carolina State University와 Microsoft는 현재 전문 회의가 일부 제품 구축 포지션을 채용하는 데 활용되고 있다는 사실을 알게 되었습니다. 업앤코머가 코딩을 할 수 있는지 아닌, 직업 경쟁업체가 실행 신경과민 상태에 있는지 여부를 테스트합니다. 연구자들은 48명의 소프트웨어 공학 학생들과 대학원생들의 전문적인 회의를 이끌었습니다. 그들은 각 솔루션의 정밀도와 생산성을 조사하여 각 검사 구성원의 회의 실행을 추정했습니다. 마찬가지로 회의는 모임을 피하거나 명시적인 고용 업앤코머를 선호하기 위해 사용될 수 있습니다.
+                      <span class = "korean">현재 전문회의는 몇몇 제품을 사용하여 유망한 사람이 코딩할 수 있는지 여부와 대조적으로 직업 경쟁사가  경영에 예민한지 여부를 테스트할 때 활용되고 있다. 연구자는 48명의 소프트웨어공학 학생과 대학원생으로 구성된 전문회의를 주재했다. 그들은 각 솔루션의 정밀도와 생산성을 조사해 각 시험 멤버의 회의 실행을 추정했다. 회의 역시 집회를 회피하거나 노골적인 고용의 장래가 유망한 사람을 우대하기 위해 이용된다.
                       </span>
                     </p>  
                   </v-card-text>

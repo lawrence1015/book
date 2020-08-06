@@ -31,9 +31,9 @@
   <div style = "padding : 16px; line-height: 200%;">
 
       <p>
-        Big data has powered the world these days so companies are now forced to seek experts in big data consulting, capable of harnessing complex data processing. Here are the 5 predictions from experts for 2020-2025.<br>
-        First, Data volumes will continue to increase and migrate to the cloud. Second, Machine learning will continue to change the landscape. Next, Data scientists and CDOs will be in high demand. Then, Privacy will remain a hot issue and Finally, Fast data and actionable data will come to the forefront.<br>
-        Most experts agree that big data will mean a big value. It will give rise to new job categories and even entire departments responsible for data management in large organizations.<br>
+        Enormous information has fueled the globe nowadays so organizations are currently compelled to appear for specialists in extensive information counseling, equipped for outfitting complex information preparation. Here are the 5 forecasts from specialists for 2020-2025.<br>
+        To begin with, data volumes will proceed to increment and move to the cloud. Second, Machine Learning will continue changing the scene. Next, data researchers and CDOs are going to be wanted. At that time, privacy will stay a stock. Lastly, fast and essential information will head to the line.<br>
+        Most specialists concur that giant information will mean a serious worth. It'll offer ascent to new position classes and even whole divisions chargeable for the knowledge to the board in enormous associations.<br>
       </p>
 
       <p>*Chief Data Officers (CDOs)</p>
@@ -62,22 +62,22 @@
       <div style="padding : 16px;">
 
         <p>
-          <b>seek</b> <span class = "korean">찾다, 구하다, 추구하다, 청하다, 구하다, …하려고 하다</span>
+          <b>enormous</b> <span class = "korean">막대한, 거대한</span>
         </p>
         <p>
-          <b>forefront</b> <span class = "korean">중심, 가장 중요한 위치, 맨 앞; 선두, 중심 , 가장 중요한 위치[지위]</span>
+          <b>chargeable</b> <span class = "korean">청구되는, 과세되는</span>
         </p>
         <p>
           <b>privacy</b> <span class = "korean">혼자 있는 상태, 사생활[자기 생활], 사생활[프라이버시]</span>
         </p>
         <p>
-          <b>expert</b> <span class = "korean">전문가, 전문가의, 전문적인; 숙련된</span>
+          <b>Essential</b> <span class = "korean">필수적인; 극히 중요한</span>
         </p>
         <p>
-          <b>harness</b> <span class = "korean">마구, 벨트[용구], 마구를 채우다[마구로 연결하다]</span>
+          <b>ascent</b> <span class = "korean">올라감, 상승</span>
         </p>
         <p>
-          <b>landscape</b> <span class = "korean">풍경, 풍경화, 가로로 긴 배치, 풍경 모드, 조경을 하다</span>
+          <b>Board</b> <span class = "korean">이사회</span>
         </p>
 
       </div>
@@ -106,16 +106,10 @@
       <div style="padding : 16px;">
 
         <p>
-          <b>continues to increase and migrate to the cloud.</b> <span class = "korean">에서는 계속 증가하여 클라우드로 마이그레이션합니다.</span>
+          <b>equipped for</b> <span class = "korean">~을 위해 준비된</span>
         </p>
         <p>
-          <b>learning will continue to change the landscape.</b> <span class = "korean">학습은 계속해서 풍경을 바꿀 것입니다.</span>
-        </p>
-        <p>
-          <b>will be in high demand.</b> <span class = "korean">수요가 많을 것입니다.</span>
-        </p>
-        <p>
-          <b>will come to the forefront.</b> <span class = "korean">선두에 서게 될 것입니다.</span>
+          <b>be compelled to</b> <span class = "korean">할 수 없이 ~하다</span>
         </p>
 
       </div>
@@ -145,13 +139,16 @@
 
         <ol style="padding-right: 20px; padding-top: 10px;">
           <li>
-            Among this prediction which do you think most likely will happen in the future?
+            Among these predictions, which do you think most likely will happen in the future?<br />
+            다음 예측 중, 어떠한 예측이 미래에 일어날 가능성이 크다고 생각합니까?<br />
           </li>
           <li>
-            What is your own prediction about Big Data?
+            What are your predictions about Big Data?<br />
+            빅 데이터에 대한 예측은 어떻게 되십니까?<br />
           </li>
           <li>
-            What do you think are the high demands for Big Data?
+            What do you think are the high demands for Big Data?<br />
+            빅 데이터의 높은 수요는 무엇이라고 생각합니까? <br />
           </li>
         </ol>
 
@@ -193,15 +190,15 @@
                   <v-card-text class="px-10">
                     <p>
                       <span class = "korean">
-                      <b>빅데이터의 미래: 2020년부터 2025년까지 전문가로부터 5가지 예측</b>
+                      <b>2020-2025: 전문가에 기반한 5가지 예측</b>
                     </span>
                     </p>
                     <p>
-                      <span class = "korean">오늘날 빅 데이터가 세계를 주도하고 있기 때문에 기업들은 복잡한 데이터 처리를 활용할 수 있는 빅 데이터 컨설팅 분야의 전문가를 찾을 수밖에 없습니다. 2020년부터 2025년까지 전문가들의 5가지 예측을 들어보겠습니다. 첫째, 데이터 볼륨은 계속 증가하여 클라우드로 이송됩니다. 둘째, 머신러닝은 계속해서 판도를 바꿀 것입니다. 다음으로, 데이터 과학자와 CDO의 수요가 높을 것입니다. 그러면 개인 정보 보호가 여전히 뜨거운 이슈로 남을 것이고 마지막으로 빠른 데이터와 실행 가능한 데이터가 전면에 등장할 것입니다. 대부분의 전문가는 빅 데이터가 큰 가치를 의미한다는 데 동의합니다. 이를 통해 새로운 업무 범주와 대규모 조직에서 데이터 관리를 담당하는 부서 전체가 생겨날 것입니다.
+                      <span class = "korean">오늘날 막대한 정보가 전 세계를 들끓고 있기 때문에 조직은 복잡한 정보 준비를 갖추기 위해 광범위한 정보 상담에 전문가로서 참가하지 않을 수 없게 되었다. 2020년부터 2025년의 스페셜리스트를 통한 5가지 예측은 다음과 같습니다. 먼저 데이터 양이 증가하여 클라우드 체제로 변화할 것입니다. 두번째, 기계학습은 장면을 계속 바꿀 것 입니다.이 때, 개인정보 보호보다 빠른 정보와 중요한 정보가 더 중요하게 여겨질 것입니다. 대부분의 전문가는 거대 정보는 중대한 가치가 있음을 인정하고 있습니다. 그것은 거대한 단체의 이사회에 지식의 책임을 지는 새로운 직종과 부문 전체로의 승격을 가져올 것입니다.                        
                       </span>
                     </p>
                     <p>
-                      <span class = "korean">*최고 데이터 책임자(CDO)입니다.</span>
+                      <span class = "korean">*CDO : 최고 데이터 책임자</span>
                     </p>
                   </v-card-text>
                 </v-card>

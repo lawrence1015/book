@@ -30,7 +30,7 @@
   <div style = "padding : 16px;">
 
       <h3>
-        There are men in uniform standing firmly outside their designated posts. They are observing the surroundings carefully to ensure the stability of the palace.
+        There are men in uniform standing firmly outside their designated posts. They are observing the surroundings carefully to ensure the security of the palace.
       </h3>
 
       <p>
@@ -66,7 +66,7 @@
         </p>
 
         <p>
-          <b>Stability 안정, 안정성[감]</b>
+          <b>Security  보안, 경비, 안보, 방위</b>
         </p>
 
         <p>

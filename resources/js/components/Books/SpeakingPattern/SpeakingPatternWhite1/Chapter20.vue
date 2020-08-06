@@ -22,7 +22,7 @@
     background-color: rgba(255, 231, 255, 0.64);
     border:0px solid #9B4F95;
     -webkit-border-radius: 30px;
-    border-radius: 30px;" class="black--text">~인지 아닌지 아니?
+    border-radius: 30px;" class="black--text">Do you know if…?  ~인지 아닌지 아니? 
   </h1>
       </v-layout>
     </v-img>
@@ -31,7 +31,7 @@
           <h2 style="padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Today's topic</h2>
 
   <hr width="60%">
-               <div style="padding : 10px; line-height: 200%;">
+               <div style="padding : 10px; line-height: 200%;" class = "korean">
 
                  <h2>Pattern 20 |  </h2>
                   <br />
@@ -109,13 +109,13 @@
           <b>157</b> 이 영화 재미있는지 아닌지 알아? ( movie, interesting ) <br />
         </p>
         <p>
-          <b>158</b>  <br />
+          <b>158</b> 우리가 시청을 통과했는지 아세요? ( pass, City Hall ) <br />
         </p>
         <p>
-          <b>159</b>  <br />
+          <b>159</b> 크리스마스 이브에 일해야 하는지 아세요? ( work on, Christmas Eve) <br />
         </p>
         <p>
-          <b>160</b>  <br />
+          <b>160</b> 당신은 그가 알코올 중독자인지 아나요? ( if, alcoholic ) <br />
         </p>
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
@@ -126,12 +126,12 @@
             <v-card-text class="px-10" style="color:#d9e7cd;">
               153 Do you know if we’re getting raises?<br />
               154 Do you know if Jane’s coming?<br />
-              155 Do you know if the show starts at 7:00<br />
+              155 Do you know if the show starts at 7:00?<br />
               156 Do you know if Jim has any allergies?<br />
-              157 Do you know if this movie is interesting or not<br />
-              158 <br />
-              159 <br />
-              160 <br />
+              157 Do you know if this movie is interesting or not?<br />
+              158 Do you know if we've passed City Hall?<br />
+              159 Do you know if we have to work on Christmas Eve? <br />
+              160 Do you know if he's alcoholic?<br />
             </v-card-text>
           </v-card>
         </v-flex>

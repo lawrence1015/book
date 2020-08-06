@@ -29,7 +29,7 @@
   </div>
 
   <h3  class = "border white--text" style = "border-radius: 0px 0px 70px 0px;" >Topic</h3>
-  <div style = "padding : 16px; line-height: 200%;">
+  <div style = "padding : 16px; line-height: 1.6;">
 
     <table style = "border-collapse: collapse;">
 
@@ -38,7 +38,7 @@
       <td class = "lowertable" >Recycling is such a hassle! Why should the law require us to do such tedious work?
       People who recycle can receive awards, but you shouldn't force others to do it, too.</td>
     </tr>
-    <tr>
+    <tr style="color:#1565C0;">
       <td class = "uppertable" ><b>B :</b></td>
       <td class = "lowertable" >Our planet is in a state of crisis due to the environment.
       We cannot be lenient with eco-friendly laws.
@@ -61,37 +61,37 @@
       <div style="padding : 16px;">
 
         <p>
-          <b>Mandatory 법에 정해진</b>
+          <b>Mandatory</b> 법에 정해진
         </p>
         <p>
-          <b>hassle 귀찮은 일</b>
+          <b>hassle</b> 귀찮은 일
         </p>
         <p>
-          <b>require 요구하다</b>
+          <b>require</b> 요구하다
         </p>
         <p>
-          <b>tedious 지루한</b>
+          <b>tedious</b> 지루한
         </p>
         <p>
-          <b>award 보상</b>
+          <b>award</b> 보상
         </p>
         <p>
-          <b>force 강요하다</b>
+          <b>force</b> 강요하다
         </p>
         <p>
-          <b>crisis 위기</b>
+          <b>crisis</b> 위기
         </p>
         <p>
-          <b>environment 환경</b>
+          <b>environment</b> 환경
         </p>
         <p>
-          <b>lenient 관대한</b>
+          <b>lenient</b> 관대한
         </p>
         <p>
-          <b>eco-friendly 친환경적인</b>
+          <b>eco-friendly</b> 친환경적인
         </p>
         <p>
-          <b>pollution 오염</b>
+          <b>pollution</b> 오염
         </p>
         <br />
         <p style="color: #56AAFF;">
@@ -114,39 +114,29 @@
                  width: 100px;">해석</h3>
       <div style="padding : 16px;">
 
-        <p>
-
-          <v-container grid-list-md text-xs-left>
-            <v-layout row wrap>
-
-
-              <v-flex xs12>
-                <v-card light color="#FFE7D5">
-                  <v-card-text class="px-10">
-                    <p>
+                      <p class = "korean">
+                        <b>
                         재활용은 법으로 요구되어야 하나요?
-                    </p>
-                    <ol class="replace" type = "A" style="font-weight: bold;">
-                      <li><span class = "normaltext">
-                          재활용은 정말 번거로워! 법이 왜 우리에게 그렇게 지루한 일을 하라고 요구해야 하는 거야?
-                          재활용을 하는 사람들은 상을 받을 수 있지만, 다른 사람들에게도 그것을 하도록 강요해서는 안되지.
-                        </span>
-                      </li>
-                      <li><span class = "normaltext">
-                          우리 지구는 환경 때문에 위기에 처해 있어 우리는 친환경 법에 관대할 수 없어.
-                          재활용은 법에 의해 요구되어야 하는데, 왜냐하면 모든 사람들은 오염을 줄이는데 도움을 줘야 하기 때문이야.
-                      </span>
-                      </li>
-                    </ol>
+                        </b>
+                      </p>
 
-                  </v-card-text>
-                </v-card>
-              </v-flex>
-            </v-layout>
-          </v-container>
+                      <table style = "border-collapse: collapse;">
 
-        </p>
+                       <tr>
+                        <td class = "uppertable" ><b>A :</b></td>
+                        <td class = "lowertable" style = "word-break: keep-all" >재활용은 정말 번거로워! 법이 왜 우리에게 그렇게 지루한 일을 하라고 요구해야 하는 거야?
+                          재활용을 하는 사람들은 상을 받을 수 있지만, 다른 사람들에게도 그것을 하도록 강요해서는 안되지.</td>
+                      </tr>
+                      <tr style="color:#1565C0;">
+                        <td class = "uppertable" ><b>B :</b></td>
+                        <td class = "lowertable" style = "word-break: keep-all" >우리 지구는 환경 때문에 위기에 처해 있어 우리는 친환경 법에 관대할 수 없어.
+                          재활용은 법에 의해 요구되어야 하는데, 왜냐하면 모든 사람들은 오염을 줄이는데 도움을 줘야 하기 때문이야.</td>
+                      </tr>
 
+                    
+                      </table>
+
+        
 
       </div>
 
@@ -155,8 +145,6 @@
 
 
   </v-layout>
-</v-container>
-</v-layout>
 </v-container>
 </div>
 
@@ -221,10 +209,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

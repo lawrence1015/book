@@ -29,7 +29,7 @@
   </div>
 
   <h3  class = "border white--text" style = "border-radius: 0px 0px 70px 0px;" >Topic</h3>
-  <div style = "padding : 16px; line-height: 200%;">
+  <div style = "padding : 16px; line-height: 1.6;">
 
     <table style = "border-collapse: collapse;">
 
@@ -37,7 +37,7 @@
       <td class = "uppertable" ><b>Jane :</b></td>
       <td class = "lowertable" >Exercising in the morning is better than doing it in the evening. People tend to get an energy boost for the day when they exercise in the morning. There is also the benefit of an increased metabolism.</td>
     </tr>
-    <tr>
+    <tr style="color:#1565C0;">
       <td class = "uppertable" ><b>Tom :</b></td>
       <td class = "lowertable" > A study showed that evening exercises help people relax and sleep better. It is also an opportunity for people who come from school or work to relieve stress. Olympic athlete Usain Bolt prefers exercising in the evening, too.</td>
     </tr>
@@ -53,39 +53,39 @@
                  margin-right: -18px;
                  padding-left: 10px;
                  padding-bottom: 10px;
-                 padding-top: 0px;
+                 padding-top: 5px;
                  margin-top: 0px;">Vocabulary</h3>
       <div style="padding : 16px;">
 
         <p>
-          <b>tend 경향이 있다</b>
+          <b>tend</b> 경향이 있다
         </p>
         <p>
-          <b>boost 증가</b>
+          <b>boost</b> 증가
         </p>
         <p>
-          <b>benefit 혜택 </b>
+          <b>benefit</b> 혜택 
         </p>
         <p>
-          <b>increased 상승된 </b>
+          <b>increased</b> 상승된 
         </p>
         <p>
-          <b>metabolism 신진대사 </b>
+          <b>metabolism</b> 신진대사 
         </p>
         <p>
-          <b>relax 긴장을 풀다 </b>
+          <b>relax</b> 긴장을 풀다 
         </p>
         <p>
-          <b>opportunity 기회 </b>
+          <b>opportunity</b> 기회 
         </p>
         <p>
-          <b>relieve 없애 주다 </b>
+          <b>relieve</b> 없애 주다 
         </p>
         <p>
-          <b>athlete 운동선수 </b>
+          <b>athlete</b> 운동선수 
         </p>
         <p>
-          <b>prefer 선호하다 </b>
+          <b>prefer</b> 선호하다 
         </p>
 
       </div>
@@ -99,7 +99,7 @@
                  margin-right: -18px;
                  padding-left: 10px;
                  padding-bottom: 10px;
-                 padding-top: 0px;              
+                 padding-top: 5px;              
                  margin-top: 0px;
                  width: 100px;">해석</h3>
       <div style="padding : 16px;">
@@ -110,7 +110,7 @@
             <td class = "uppertable" ><b>제인 :</b></td>
             <td class = "lowertable" >아침에 운동하는 것이 저녁에 하는 것보다 더 좋아. 사람들은 아침에 운동 할 때 에너지가 증가하는 경향이 있어 신진대사의 증가의 이점도 있어.</td>
           </tr>
-          <tr>
+          <tr style="color:#1565C0;">
             <td class = "uppertable" ><b>탐 :</b></td>
             <td class = "lowertable" >한 연구는 저녁 운동은 사람들이 휴식을 취하고 더 잘 자도록 돕는다는 걸 보여줬어 또한 학교나 직장에서 오는 사람들이 스트레스를 해소 할 수 있는 기회이기도 해 올림픽 운동 선수 우사 인 볼트도 저녁에 운동을 선호해. </td>
           </tr>
@@ -120,14 +120,31 @@
 
       </div>
 
-    
+    <div style="margin-left: -18px; margin-right: -18px; margin-top: 10px; border-color: #2F4674; border-style: solid; border-width: 2px;">
+      </div>
+      <h3 class = "border white--text"
+          style="border-radius: 0px 0px 70px 0px;
+                 padding-top: 7px;
+                 margin-left: -18px;
+                 margin-right: -18px;
+                 padding-left: 10px;
+                 padding-bottom: 10px;
+                 padding-top: 5px;
+                 margin-top: 0px;">Questions</h3>
+      <div style="padding : 16px;">
+
+        <ol style="margin: 12px;">
+          <li>Do you like exercising? Why or why not?</li>
+          <li>What type of exercise do you do?</li>
+          <li>Which do you prefer - exercising in the morning or in the evening? Why?</li>
+        </ol>
+
+      </div>
 
     </div>
 
 
   </v-layout>
-</v-container>
-</v-layout>
 </v-container>
 </div>
 
@@ -192,10 +209,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

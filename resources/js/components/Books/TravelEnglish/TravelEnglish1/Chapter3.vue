@@ -105,7 +105,7 @@
             Do you have to pay for the extra charge when you change your drink?
           </li>
           <li>
-            When you book your flight do you also include in-flight meals?
+            When you book your flight, do you also include in-flight meals?
           </li>
         </ol>
         <h4>EXPRESSIONS</h4>
@@ -174,7 +174,7 @@ export default {
         dialogs:[
         {
           name:'Stewardess:',
-          speech:'Here`s your meal Sir.'
+          speech:'Here’s your meal Sir.'
         },
         {
           name:'Matt:',
@@ -182,7 +182,7 @@ export default {
         },
         {
           name:'Stewardess:',
-          speech:'I`m sorry Sir but this is already the menu indicated for your meal when you booked your flight. If you want, you can change it, but we just have to add an extra charge for that.'
+          speech:'I’m sorry Sir but this is already the menu indicated for your meal when you booked your flight. If you want, you can change it, but we just have to add an extra charge for that.'
         },
         {
           name:'Matt:',
@@ -202,7 +202,7 @@ export default {
         },
         {
           name:'Matt:',
-          speech:'OK, that`s fine. That would be all. Thank you.'
+          speech:'OK, that’s fine. That would be all. Thank you.'
         },
         ],
 

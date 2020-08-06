@@ -86,7 +86,7 @@
                         <br />
                         How many people are waiting in the subway station?<br />
                         <br />
-                        What people usually do while waiting?<br />
+                        What do people usually do while waiting?<br />
                         <br />
                         What is the weather on that day?
                       </b>

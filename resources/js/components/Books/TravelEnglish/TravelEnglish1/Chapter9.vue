@@ -6,7 +6,7 @@
   
         <v-layout column>
           <v-img
-          src="//live.staticflickr.com/5537/11261399165_8d8577a05b_4k.jpg" style="max-width: 100%; display:block; height: auto;">
+          src="https://sx-content-labs.sixt.io/_processed_/2/2/csm_airport-transfer_1_86c6f1c624.jpg" style="max-width: 100%; display:block; height: auto;">
   
           <v-layout
           align-end
@@ -31,7 +31,7 @@
   
       <table style = "border-collapse: collapse;">
       
-        <tr v-for="dialog in dialogs">
+        <tr v-for="dialog in dialogs" :key ="dialog" >
           <td class = "uppertable" >{{dialog.name}}</td>
           <td class = "lowertable" >{{dialog.speech}}</td>
         </tr>
@@ -133,7 +133,7 @@
   
               <table style = "border-collapse: collapse;">
   
-                <tr v-for="translation in translations">
+                <tr v-for="translation in translations" :key ="translation">
                   <td class = "uppertable" >{{translation.name}}</td>
                   <td class = "lowertable" >{{translation.speech}}</td>
                 </tr>
@@ -148,8 +148,6 @@
   
   
     </v-layout>
-  </v-container>
-  </v-layout>
   </v-container>
   </div>
   
@@ -182,7 +180,7 @@
           },
           {
             name:'Matt',
-            speech:'No, It`s OK. I just need to know where the taxi stand is.'
+            speech:'No, It’s OK. I just need to know where the taxi stand is.'
           },
           {
             name:'Transport Agent:',
@@ -194,11 +192,11 @@
           },
           {
             name:'Transport Agent:',
-            speech:'I`m sorry Sir but only the taxi driver can answer your question.'
+            speech:'I’m sorry Sir but only the taxi driver can answer your question.'
           },
           {
             name:'Matt',
-            speech:'I`ll just find a taxi because I`m not really in a hurry. Thank you.'
+            speech:'I’ll just find a taxi because I’m not really in a hurry. Thank you.'
           },
           {
             name:'Transport Agent:',
@@ -285,20 +283,13 @@
   
   }
   
-  li{
-  
-  
-  }
   
   body{
   
     font-size: 16px;
   }
   
-  .underline {
-  
-  
-  }
+ 
   
   .border {
     position: relative;

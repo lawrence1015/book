@@ -109,13 +109,13 @@
           <b>181</b> 계획에 변경이 생겼어 ( change, plan ) <br />
         </p>
         <p>
-          <b>182</b>  <br />
+          <b>182</b> 그들 사이에 갈등이 있었습니다. ( conflict, between )<br />
         </p>
         <p>
-          <b>183</b>  <br />
+          <b>183</b> 발전이 있었습니다. ( improvement )<br />
         </p>
         <p>
-          <b>184</b>  <br />
+          <b>184</b> 착오가 있었습니다. ( mistake ) <br />
         </p>
 
         <v-container grid-list-md text-xs-left>
@@ -130,9 +130,9 @@
               179 There has been little time to prepare.<br />
               180 There has been a misunderstanding. <br />
               181 There has been a change in the plan.<br />
-              182 <br />
-              183 <br />
-              184 <br />
+              182 There has been a conflict between them.<br />
+              183 There has been an improvement.<br />
+              184 There has been a  mistake.<br />
             </v-card-text>
           </v-card>
         </v-flex>

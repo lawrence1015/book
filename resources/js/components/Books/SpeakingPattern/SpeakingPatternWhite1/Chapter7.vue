@@ -31,7 +31,7 @@
           <h2 style="padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Today's topic</h2>
 
   <hr width="60%">
-               <div style="padding : 10px; line-height: 200%;">
+               <div style="padding : 10px; line-height: 200%;" class = "korean">
 
                  <h2>Pattern 7 |  </h2>
                   <br />
@@ -94,7 +94,7 @@
         <br />
 
         <p>
-          <b>049</b> 오늘 너무 추운 것 같지 않아? ( too, cold, ) <br />
+          <b>049</b> 오늘 너무 추운 것 같지 않아? ( too, cold ) <br />
         </p>
         <p>
           <b>050</b> 그거 대단한 것 같지 않니? ( amazing ) <br />

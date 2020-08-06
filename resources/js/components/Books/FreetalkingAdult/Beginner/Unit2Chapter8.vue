@@ -15,7 +15,7 @@ margin-bottom: -10px;">
 </div>
 
 
-<h3  style="padding-top: 7px; margin-left: -18px; margin-right: -18px; padding-left: 10px; margin-top: 10px; padding-bottom: 10px; margin-bottom: 12px;  padding-top: 10px; background-color: #a7d7c5;">Reading Practice <span style="font-size:18px">( 선생님의 안내에 따라 문장을 읽어 주세요 ) </span>
+<h3  style="padding-top: 7px; margin-left: -18px; margin-right: -18px; padding-left: 10px; margin-top: 10px; padding-bottom: 10px; margin-bottom: 12px;  padding-top: 10px; background-color: #a7d7c5;">Reading Practice <br><span class = "korean">( 선생님의 안내에 따라 문장을 읽어 주세요 ) </span>
 </h3>
 
 <div style="padding : 16px;">
@@ -38,19 +38,19 @@ The king was amazed at their friendship! He withdrew his punishment and made the
 
 
 
-<li style="list-style-type: none;"><u>Arrest(v)</u> - to capture someone for legal custody <span style="font-size:16px">체포하다, 막다[저지하다]</span>
+<li style="list-style-type: none;"><u>Arrest(v)</u> - to capture someone for legal custody <span class = "korean">체포하다, 막다[저지하다]</span>
 </li>
 
-<li style="list-style-type: none;"><u>Insult(v)</u> - to say or do something rude to someone <span style="font-size:16px">모욕하다</span>
+<li style="list-style-type: none;"><u>Insult(v)</u> - to say or do something rude to someone <span class = "korean">모욕하다</span>
 </li>
 
-<li style="list-style-type: none;"><u>Beg(v)</u> - ask something from somebody in a humbling way <span style="font-size:16px">간청[애원]하다, 구걸하다</span>
+<li style="list-style-type: none;"><u>Beg(v)</u> - ask something from somebody in a humbling way <span class = "korean">간청[애원]하다, 구걸하다</span>
 </li>
 
-<li style="list-style-type: none;"><u>Volunteer(v)</u> - do something by choice <span style="font-size:16px">자원[자진]하다; 자원 봉사로 하다</span>
+<li style="list-style-type: none;"><u>Volunteer(v)</u> - do something by choice <span class = "korean">자원[자진]하다; 자원 봉사로 하다</span>
 </li>
 
-<li style="list-style-type: none;"><u>Filthy(adj)</u> - extremely dirty <span style="font-size:16px">아주 더러운, 추잡한, 심술이 난, 성질 고약한</span>
+<li style="list-style-type: none;"><u>Filthy(adj)</u> - extremely dirty <span class = "korean">아주 더러운, 추잡한, 심술이 난, 성질 고약한</span>
 </li>
 
 <p>Fill in the blanks using the words above.
@@ -104,7 +104,7 @@ The king was amazed at their friendship! He withdrew his punishment and made the
 
 <h3  style="padding-top: 7px;  margin-left: -18px; margin-right: -18px;  padding-bottom: 10px;  padding-top: 10px; padding-left: 10px; background-color: #a7d7c5; ">Translation</h3>
 
-<div style="padding : 16px;">
+<div style="padding : 16px;" class = "korean">
 
 <p>
   데이몬과 피디아스라는 두 친구에 대한 고대 그리스 이야기가 있었다. 그들은 같은 마을에서 자랐고 어린 시절의 친구였다. 어느 날 그들이 시라큐스를 방문했을 때, 피디아스는 왕을 모욕했기 때문에 체포되었다. 그는 죽임을 당할 예정이었으나 왕에게 가족들에게 작별의 기회를 달라고 간청했다. 물론 왕은 그가 돌아오지 않을 것을 우려하여 그에게 일시적인 자유를 허락하지 않았다. 데이몬은 자진해서 그의 자리를 대신했다. 피디아스가 한 달 안에 돌아올 수 없다면 데이몬은 그 자리에서 죽어야 한다. 왕은 이것에 놀랐다. 그는 데이몬이 자신을 희생하는 것이 매우 어리석다고 생각했다. 한편 피디아스는 집으로 돌아가 가족들과 작별 인사를 했다. 한 달이 지났고 데이몬이 거의 죽을 뻔하자 피디아스는 더럽고 낡아빠진 옷을 입고 도착했다. 왕은 그들의 우정에 놀랐다! 그는 형벌을 철회하고, 그들을 궁중의 신하로 삼았다.
@@ -116,8 +116,6 @@ The king was amazed at their friendship! He withdrew his punishment and made the
 
        </v-layout>
      </v-container>
-  </v-layout>
-  </v-container>
 </div>
 </template>
 
@@ -171,10 +169,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

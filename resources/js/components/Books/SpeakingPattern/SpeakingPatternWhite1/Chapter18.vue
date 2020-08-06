@@ -31,7 +31,7 @@
           <h2 style="padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Today's topic</h2>
 
   <hr width="60%">
-               <div style="padding : 10px; line-height: 200%;">
+               <div style="padding : 10px; line-height: 200%;" korean = "korean">
 
                  <h2>Pattern 18 |  </h2>
                   <br />
@@ -109,13 +109,13 @@
           <b>141</b> 왜 바닥이 젖었는지 아니? ( floor, wet ) <br />
         </p>
         <p>
-          <b>142</b>  <br />
+          <b>142</b> 문이 왜 잠겨 있는지 아세요? (lock) <br />
         </p>
         <p>
-          <b>143</b>  <br />
+          <b>143</b> 제가 왜 진짜 사냥꾼이 됐는지 아세요? ( become, hunter ) <br />
         </p>
         <p>
-          <b>144</b>  <br />
+          <b>144</b> 일본인들은 왜 생선 먹는 것을 좋아하는지 아세요? ( eat, fish ) <br />
         </p>
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
@@ -129,9 +129,9 @@
               139 Do you know why he’s angry?<br />
               140 Do you know why she left the company?<br />
               141 Do you know why the floor is wet?<br />
-              142 <br />
-              143 <br />
-              144 <br />
+              142 Do you know why the door is locked?<br />
+              143 Do you know why I really became a hunter?<br />
+              144 Do you know why does Japanese like eating fish?<br />
             </v-card-text>
           </v-card>
         </v-flex>

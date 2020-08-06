@@ -29,7 +29,7 @@
   </div>
 
   <h3  class = "border white--text" style = "border-radius: 0px 0px 70px 0px;" >Topic</h3>
-  <div style = "padding : 16px; line-height: 200%;">
+  <div style = "padding : 16px; line-height: 1.6;">
 
     <table style = "border-collapse: collapse;">
 
@@ -39,7 +39,7 @@
       Without animal testing, we wouldn't have safe medication. We shouldn't test new products on humans.
       If using animals to test products is wrong, then we should also stop eating meat.</td>
     </tr>
-    <tr>
+    <tr style="color:#1565C0;">
       <td class = "uppertable" ><b>B :</b></td>
       <td class = "lowertable" >Meat is part of a balanced diet. But animal testing causes pain intentionally to animals.
       They should be free in the wild, not in a laboratory.
@@ -62,34 +62,34 @@
       <div style="padding : 16px;">
 
         <p>
-          <b>survive 살아남다</b>
+          <b>survive</b> 살아남다
         </p>
         <p>
-          <b>chicken pox 수두</b>
+          <b>chicken pox</b> 수두
         </p>
         <p>
-          <b>rabies 광견병</b>
+          <b>rabies</b> 광견병
         </p>
         <p>
-          <b>smallpox 천연두</b>
+          <b>smallpox</b> 천연두
         </p>
         <p>
-          <b>without ~ 없이</b>
+          <b>withou</b>t ~ 없이
         </p>
         <p>
-          <b>medication 약</b>
+          <b>medication</b> 약
         </p>
         <p>
-          <b>diet 식사</b>
+          <b>diet</b> 식사
         </p>
         <p>
-          <b>intentionally 고의로 </b>
+          <b>intentionally</b> 고의로 
         </p>
         <p>
-          <b>laboratory 실험실</b>
+          <b>laboratory</b> 실험실
         </p>
         <p>
-          <b>apply 적합하다.</b>
+          <b>apply</b> 적합하다.
         </p>
 
       </div>
@@ -108,41 +108,33 @@
                  width: 100px;">해석</h3>
       <div style="padding : 16px;">
 
-        <p>
-
-          <v-container grid-list-md text-xs-left>
-            <v-layout row wrap>
-
-
-              <v-flex xs12>
-                <v-card light color="#FFE7D5">
-                  <v-card-text class="px-10">
-                    <p>
+                      <p class = "korean">
+                        <b>
                         해석 회사들은 새 상품을 시험하기 위해 동물들을 사용해야만 할까?
-                    </p>
-                    <ol class="replace" type = "A" style="font-weight: bold;">
-                      <li><span class = "normaltext">
-                          백신 덕분에, 많은 사람들이 수두, 광견병, 천연두에서 살아 남았습니다.
+                        </b>
+                      </p>
+
+                      <table style = "border-collapse: collapse;">
+
+                       <tr>
+                        <td class = "uppertable" ><b>A :</b></td>
+                        <td class = "lowertable" style = "word-break: keep-all" >백신 덕분에, 많은 사람들이 수두, 광견병, 천연두에서 살아 남았습니다.
                           동물 실험이 없었다면, 우리는 안전한 약을 가질 수 없었을 것입니다.
                           우리는 인간에게 새로운 제품을 시험해서는 안됩니다.
-                          만약 제품을 시험하기 위해 동물을 사용하는 것이 잘못되었다면, 우리는 또한 고기를 먹는 것을 멈춰야 합니다.
-                        </span>
-                      </li>
-                      <li><span class = "normaltext">
-                          고기는 균형 잡힌 식단의 일부입니다.
+                          만약 제품을 시험하기 위해 동물을 사용하는 것이 잘못되었다면, 우리는 또한 고기를 먹는 것을 멈춰야 합니다.</td>
+                      </tr>
+                      <tr style="color:#1565C0;">
+                        <td class = "uppertable" ><b>B :</b></td>
+                        <td class = "lowertable" style = "word-break: keep-all" >고기는 균형 잡힌 식단의 일부입니다.
                           하지만 동물 실험은 의도적으로 동물들에게 고통을 유발합니다.
                           그들은 실험실이 아니라 야생에서 자유로워야 합니다.
-                          게다가, 인간과 동물이 다르기 때문에 동물 실험의 결과가 항상 인간에게 적용되는 것은 아닙니다.
-                      </span>
-                      </li>
-                    </ol>
-                  </v-card-text>
-                </v-card>
-              </v-flex>
-            </v-layout>
-          </v-container>
+                          게다가, 인간과 동물이 다르기 때문에 동물 실험의 결과가 항상 인간에게 적용되는 것은 아닙니다.</td>
+                      </tr>
 
-        </p>
+                    
+                      </table>
+
+      
 
 
       </div>
@@ -152,8 +144,6 @@
 
 
   </v-layout>
-</v-container>
-</v-layout>
 </v-container>
 </div>
 
@@ -218,10 +208,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

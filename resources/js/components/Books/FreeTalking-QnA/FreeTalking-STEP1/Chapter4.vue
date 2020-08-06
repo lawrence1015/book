@@ -36,7 +36,7 @@
        <br />
      </li>
      <li>
-       Think about your last job interview. Tell about your experience. What questions did the employer ask you?<br />
+       Think about your last job interview. What questions did the employer ask you? Talk about your experience. <br />
        <br />
      </li>
      <li>
@@ -63,7 +63,7 @@
      </li>
      <br />
      <li class="mb-2">
-       당신의 마지막 취업 면접을 생각해 보세요. 당신의 경험에 대해 말해보세요. 고용주가 당신에게 어떤 질문을 했나요?
+      지난번 취업 면접을 생각해 봐. 고용주가 당신에게 어떤 질문을 했는가? 네 경험에 대해 말해봐.
      </li>
      <br />
      <li class="mb-2">

@@ -80,9 +80,9 @@
                         <br />
                         How much does it cost to have an apartment in Korea?<br />
                         <br />
-                        What type of apartment most people prefer? Why?<br />
+                        What type of apartment do most people prefer? Why?<br />
                         <br />
-                        Do you think it's good to have a good interior in our apartment? Why?<br />
+                        Do you think it's good to have a good interior in your apartment? Why?<br />
                         <br />
                         The apartment may look spacious in what color? Why?<br />
                       </b>

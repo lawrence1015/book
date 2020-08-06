@@ -29,7 +29,7 @@
   </div>
 
   <h3  class = "border white--text" style = "border-radius: 0px 0px 70px 0px;" >Topic</h3>
-  <div style = "padding : 16px; line-height: 200%;">
+  <div style = "padding : 16px; line-height: 1.6;">
 
     <table style = "border-collapse: collapse;">
 
@@ -37,7 +37,7 @@
       <td class = "uppertable" ><b>Jane :</b></td>
       <td class = "lowertable" >I don’t want to sound disrespectful or rude. Honestly, elderly people should know their standing. They need to retire and rest so that younger people have more opportunities to work.</td>
     </tr>
-    <tr>
+    <tr style="color:#1565C0;">
       <td class = "uppertable" ><b>Tom :</b></td>
       <td class = "lowertable" >Being an elder doesn’t mean you’re incapable of working or financially stable enough to retire. These days, many elderly people need to work to survive. Stop ageism and think sensibly!</td>
     </tr>
@@ -58,37 +58,37 @@
       <div style="padding : 16px;">
 
         <p>
-          <b>disrespectful 무례한</b>
+          <b>disrespectful</b> 무례한
         </p>
         <p>
-          <b>rude 버릇없는</b>
+          <b>rude</b> 버릇없는
         </p>
         <p>
-          <b>honestly 솔직히</b>
+          <b>honestly</b> 솔직히
         </p>
         <p>
-          <b>standing 지위 </b>
+          <b>standing</b> 지위 
         </p>
         <p>
-          <b>opportunities 기회들 | (opportunity의 복수)</b>
+          <b>opportunities</b> 기회들 | (opportunity의 복수)
         </p>
         <p>
-          <b>incapable 할 수 없는 </b>
+          <b>incapable</b> 할 수 없는 
         </p>
         <p>
-          <b>financially 재정적으로 </b>
+          <b>financially</b> 재정적으로 
         </p>
         <p>
-          <b>stable 안정된 </b>
+          <b>stable</b> 안정된 
         </p>
         <p>
-          <b>survive 살아남다 </b>
+          <b>survive</b> 살아남다 
         </p>
         <p>
-          <b>ageism 노인 차별</b>
+          <b>ageism</b> 노인 차별
         </p>
         <p>
-          <b>sensibly 지각 있게</b>
+          <b>sensibly</b> 지각 있게
         </p>
 
       </div>
@@ -106,16 +106,17 @@
                  margin-top: 0px;
                  width: 100px;">해석</h3>
       <div style="padding : 16px;">
+      
 
         <table style = "border-collapse: collapse;">
 
           <tr>
             <td class = "uppertable" ><b>제인 :</b></td>
-            <td class = "lowertable" >나는 무례하거나 버릇없이 말하고 싶지 않아. 솔직히, 노인들은 자신의 지위를 알아야 해. 그들은 은퇴하고 쉬어야 젊은 사람들이 더 많은 일을 할 수 있어.</td>
+            <td class = "lowertable" style = "word-break: keep-all">나는 무례하거나 버릇없이 말하고 싶지 않아. 솔직히, 노인들은 자신의 지위를 알아야 해. 그들은 은퇴하고 쉬어야 젊은 사람들이 더 많은 일을 할 수 있어.</td>
           </tr>
-          <tr>
+          <tr style="color:#1565C0;">
             <td class = "uppertable" ><b>탐 :</b></td>
-            <td class = "lowertable" >노인들이라고 해서 은퇴할 수 있을 정도로 일을 할 능력이 없거나 경제적으로 안정적이라는 뜻은 아니야. 요즘, 많은 노인들이 살아남기 위해서는 일을 해야 해. 나이 차별을 멈추고 지각 있게 생각해!</td>
+            <td class = "lowertable" style = "word-break: keep-all">노인들이라고 해서 은퇴할 수 있을 정도로 일을 할 능력이 없거나 경제적으로 안정적이라는 뜻은 아니야. 요즘, 많은 노인들이 살아남기 위해서는 일을 해야 해. 나이 차별을 멈추고 지각 있게 생각해!</td>
           </tr>
       
           </table>
@@ -129,8 +130,6 @@
 
 
   </v-layout>
-</v-container>
-</v-layout>
 </v-container>
 </div>
 
@@ -195,10 +194,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

@@ -30,7 +30,7 @@
   <div style = "padding : 16px;">
 
       <h3>
-        The picture shows different weather such as sunny, cloudy, windy, and rainy.
+        The picture shows different weathers such as sunny, cloudy, windy, and rainy.
       </h3>
 
       <h3>

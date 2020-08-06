@@ -31,7 +31,7 @@
           <h2 style="padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Today's topic</h2>
 
   <hr width="60%">
-               <div style="padding : 10px; line-height: 200%;">
+               <div style="padding : 10px; line-height: 200%;" class = "korean">
 
                  <h2>Pattern 28 | ~하는 사람은 아무도 없어 </h2>
                   <br />
@@ -109,13 +109,13 @@
           <b>221</b> 그 일에 더 적합한 사람은 아무도 없어요. ( better, job ) <br />
         </p>
         <p>
-          <b>222</b>  <br />
+          <b>222</b> 당신 주위에는 속삭이지 않는 사람이 없어요. <br />
         </p>
         <p>
-          <b>223</b>  <br />
+          <b>223</b> 칸에 아무도 없어요. <br />
         </p>
         <p>
-          <b>224</b>  <br />
+          <b>224</b> 여기 톰과 저 말고는 아무도 없어요. <br />
         </p>
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
@@ -129,9 +129,9 @@
               219 There’s no one I want to date.<br />
               220 There’s no one here by that name.<br />
               221 There’s no one better than that job.<br />
-              222 <br />
-              223 <br />
-              224 <br />
+              222 There's no one around you who doesn't whisper.<br />
+              223 There's no one in the compartment.<br />
+              224 There's no one here besides Tom and me.<br />
             </v-card-text>
           </v-card>
         </v-flex>

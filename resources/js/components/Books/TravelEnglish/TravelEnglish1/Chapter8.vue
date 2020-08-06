@@ -6,7 +6,7 @@
   
         <v-layout column>
           <v-img
-          src="//live.staticflickr.com/5537/11261399165_8d8577a05b_4k.jpg" style="max-width: 100%; display:block; height: auto;">
+          src="https://image.freepik.com/free-photo/hands-holding-banknotes_176474-7111.jpg" style="max-width: 100%; display:block; height: auto;">
   
           <v-layout
           align-end
@@ -167,7 +167,7 @@
           dialogs:[
           {
             name:'Matt',
-            speech:'Hello. I`d like to exchange my money to US dollars.'
+            speech:'Hello. I’d like to exchange my money to US dollars.'
           },
           {
             name:'Clerk:',

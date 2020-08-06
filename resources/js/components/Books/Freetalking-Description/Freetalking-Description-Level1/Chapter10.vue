@@ -81,7 +81,7 @@
                       <b>
                         Why should all Korean men go to military training?<br />
                         <br />
-                        What will happen if a Korean guy refuses to go on military training?<br />
+                        What will happen if a Korean man refuses to go on military training?<br />
                         <br />
                         Where do you think they are?<br />
                         <br />

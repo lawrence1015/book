@@ -23,7 +23,7 @@
     </v-img>
 
 
-          <h3 style="background-color: #a7d7c5;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Reading Practice <span style="font-size:18px">( 선생님의 안내에 따라 문장을 읽어 주세요 )</span> </h3>
+          <h3 style="background-color: #a7d7c5;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Reading Practice ( 선생님의 안내에 따라 문장을 읽어 주세요 ) </h3>
                <div style="padding : 16px;">
 
 <p>Cindy and Jas are very excited for next month! They can't wait for it! They won a trip for two at a raffle promo of a big mall. For two weeks, they will tour to some Asian countries. They will have a stopover in Japan first and eat some very nice sushi. They will travel to the Philippines next and they will visit some very beautiful places there like Palawan and Boracay. Their next stop will be in Thailand and they will definitely visit the ancient Buddhist temples.  Finally, they will explore Singapore and they will swim at Sentosa beach!
@@ -35,19 +35,19 @@
 
 
 
-<li style="list-style-type: none;"><u>Raffle(n)</u> -  an even where numbered tickets are drawn at random to win prizes <span style="font-size:16px">래플(특정 프로젝트기관의 기금 모금을 위한 복권)</span>
+<li style="list-style-type: none;"><u>Raffle(n)</u> -  an even where numbered tickets are drawn at random to win prizes 래플(특정 프로젝트기관의 기금 모금을 위한 복권)
 </li>
 
-<li style="list-style-type: none;"><u>Promo(n) </u> - something to promote a product <span style="font-size:16px">판촉[홍보]용의</span>
+<li style="list-style-type: none;"><u>Promo(n) </u> - something to promote a product 판촉[홍보]용의
 </li>
 
-<li style="list-style-type: none;"><u>Stop(n)</u> - a place to visit on the way <span style="font-size:16px">멈춤, 중단; (잠시) 머묾</span>
+<li style="list-style-type: none;"><u>Stop(n)</u> - a place to visit on the way 멈춤, 중단; (잠시) 머묾
 </li>
 
-<li style="list-style-type: none;"><u>Definitely(adv)</u> - certainly, exactly <span style="font-size:16px">분명히[틀림없이]; 절대, 확실히, 분명히</span>
+<li style="list-style-type: none;"><u>Definitely(adv)</u> - certainly, exactly 분명히[틀림없이]; 절대, 확실히, 분명히
 </li>
 
-<li style="list-style-type: none;"><u>Explore(v)</u> - travel for discovery, investigate <span style="font-size:16px">답사[탐사/탐험]하다, 탐구[분석]하다</span>
+<li style="list-style-type: none;"><u>Explore(v)</u> - travel for discovery, investigate 답사[탐사/탐험]하다, 탐구[분석]하다
 </li>
 
 <p>Fill in the blanks using the words above.
@@ -111,7 +111,7 @@ margin-bottom: -10px;">
 </div>
 
 
-<h3  style="padding-top: 7px; margin-left: -18px; margin-right: -18px; padding-left: 10px; margin-top: 10px; padding-bottom: 10px; margin-bottom: 12px;  padding-top: 10px; background-color: #a7d7c5;">Reading Practice <span style="font-size:18px"> ( 선생님의 안내에 따라 문장을 읽어 주세요 )</span>
+<h3  style="padding-top: 7px; margin-left: -18px; margin-right: -18px; padding-left: 10px; margin-top: 10px; padding-bottom: 10px; margin-bottom: 12px;  padding-top: 10px; background-color: #a7d7c5;">Reading Practice  ( 선생님의 안내에 따라 문장을 읽어 주세요 )
 </h3>
 
 <div style="padding : 16px;">
@@ -130,22 +130,22 @@ margin-bottom: -10px;">
 
 
 
-<li style="list-style-type: none;"><u>Afford(v)</u> - be able to buy something <span style="font-size:16px">여유[형편]가 되다, 제공하다</span>
+<li style="list-style-type: none;"><u>Afford(v)</u> - be able to buy something 여유[형편]가 되다, 제공하다
 </li>
 
-<li style="list-style-type: none;"><u>Fancy(adj)</u> - expensive <span style="font-size:16px">(생활 방식 등이) 값비싼[고급의]</span>
+<li style="list-style-type: none;"><u>Fancy(adj)</u> - expensive (생활 방식 등이) 값비싼[고급의]
 </li>
 
-<li style="list-style-type: none;"><u>Lounge(v)</u> - lie or sit lazily <span style="font-size:16px">느긋하게 서[앉아/누워] 있다</span>
+<li style="list-style-type: none;"><u>Lounge(v)</u> - lie or sit lazily 느긋하게 서[앉아/누워] 있다
 </li>
 
-<li style="list-style-type: none;"><u>Phenomenal(adj)</u> -  remarkable and impressive <span style="font-size:16px">경이적인, 경탄스러운</span>
+<li style="list-style-type: none;"><u>Phenomenal(adj)</u> -  remarkable and impressive 경이적인, 경탄스러운
 </li>
 
-<li style="list-style-type: none;"><u>Quota(n)</u> - a share of something that a person should give or receive <span style="font-size:16px">한도[할당], 몫[할당량]</span>
+<li style="list-style-type: none;"><u>Quota(n)</u> - a share of something that a person should give or receive 한도[할당], 몫[할당량]
 </li>
 
-<li style="list-style-type: none;"><u>Dreary(adj)</u> - gloomy; unexciting <span style="font-size:16px">음울한; 따분한</span>
+<li style="list-style-type: none;"><u>Dreary(adj)</u> - gloomy; unexciting 음울한; 따분한
 </li>
 
 
@@ -198,7 +198,7 @@ margin-bottom: -10px;">
     </p>
   </div>
 
-<h3  style="padding-top: 7px;  margin-left: -18px; margin-right: -18px;  padding-bottom: 10px;  padding-top: 10px; padding-left: 10px; background-color: #a7d7c5; ">Conversation Samples <span style="font-size:18px">(선생님과 역할을 나눠서 연습해보세요)</span></h3>
+<h3  style="padding-top: 7px;  margin-left: -18px; margin-right: -18px;  padding-bottom: 10px;  padding-top: 10px; padding-left: 10px; background-color: #a7d7c5; ">Conversation Samples (선생님과 역할을 나눠서 연습해보세요)</h3>
 
 <div style="padding : 16px;">
 

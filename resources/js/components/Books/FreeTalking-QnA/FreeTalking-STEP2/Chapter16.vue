@@ -44,7 +44,7 @@
        <br />
      </li>
      <li>
-       What would you do if you found out your friend cheated on a medical exam, and now your friend is going to be a surgeon? Would you tell? Why or why not?<br />
+       What would you do if you found out your friend cheated on a medical exam, and now your friend is going to be a surgeon? Would you tell on them? Why or why not?<br />
      </li>
    </ol>
 
@@ -80,8 +80,6 @@
 
        </v-layout>
      </v-container>
-  </v-layout>
-  </v-container>
 </div>
 
 
@@ -140,10 +138,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

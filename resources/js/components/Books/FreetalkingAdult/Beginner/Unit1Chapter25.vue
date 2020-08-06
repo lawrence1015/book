@@ -19,7 +19,7 @@
             <h3 style="background-color: #a7d7c5;   
                        padding-top : 10px;  
                        padding-left : 10px; 
-                       padding-bottom: 10px;">Reading Practice <span style="font-size:18px">( 선생님의 안내에 따라 문장을 읽어 주세요 )</span></h3>
+                       padding-bottom: 10px;">Reading Practice <br><span style="font-size:18px">( 선생님의 안내에 따라 문장을 읽어 주세요 )</span></h3>
             <div style="padding : 16px;">
 
                 <p>A country refers to a single state that has its own independent government. There are currently countries in the world. Every country belongs to a continent. A continent refers to a continuous unit of land. There are seven
@@ -97,7 +97,7 @@
 
                 <h3 style="padding-top: 7px;  margin-left: -18px; margin-right: -18px;  padding-bottom: 10px;  padding-top: 10px; padding-left: 10px; background-color: #a7d7c5; ">Translation</h3>
 
-                <div style="padding : 16px;">
+                <div style="padding : 16px;" class = "korean">
 
                     <p>국가는 독자적인 정부를 가진 단일 국가를 말한다. 현재 세계에는 나라들이 있다. 모든 나라는 대륙에 속한다. 대륙은 땅의 연속적인 단위를 말한다. 아시아, 아프리카, 유럽, 호주, 북미, 남미, 남극 대륙 등 7개 대륙이 있다. 가장 큰 곳은 세계 전체 국토 면적의 30%를 차지하는 아시아다. 아시아는 한국, 중국, 일본, 필리핀, 인도, 사우디아라비아, 이집트 그리고 심지어 러시아의 일부 지역 그리고 다른 많은 나라들을 포함한다.
                     </p>

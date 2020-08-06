@@ -23,7 +23,7 @@
     </v-img>
 
 
-          <h3 style="background-color: #a7d7c5;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Reading Practice <span style="font-size:18px">( 선생님의 안내에 따라 문장을 읽어 주세요 )</span></h3>
+          <h3 style="background-color: #a7d7c5;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Reading Practice ( 선생님의 안내에 따라 문장을 읽어 주세요 )</h3>
                <div style="padding : 16px;">
 
 <p>One of the most popular superheroes of all time would definitely be Batman. Created in 1939 by DC comics, the fictional Batman is the secret identity of Bruce Wayne, an American billionaire. He witnessed the murder of his parents as a boy and swore to revenge on the criminals because of the injustice that he received. To many, he has been a favorite because he does not possess superpowers but only uses his intellect, wealth, technology and martial arts skills to protect the ordinary citizens of Gotham
@@ -35,22 +35,22 @@ City. He vastly and hastily gained popularity after his character was introduced
 <div style="padding : 16px;">
 
 
-<li style="list-style-type: none;"><u>Definitely(adv)</u> -  surely <span style="font-size:16px">분명히[틀림없이]; 절대, 확실히, 분명히</span>
+<li style="list-style-type: none;"><u>Definitely(adv)</u> -  surely 분명히[틀림없이]; 절대, 확실히, 분명히
 </li>
 
-<li style="list-style-type: none;"><u>Swore(v)</u> -   to promise <span style="font-size:16px">맹세하다, 선서[맹세]하다</span>
+<li style="list-style-type: none;"><u>Swore(v)</u> -   to promise 맹세하다, 선서[맹세]하다
 </li>
 
-<li style="list-style-type: none;"><u>Revenge(n)</u> -  punishment for a harm done by somebody <span style="font-size:16px">복수, 보복, 설욕</span>
+<li style="list-style-type: none;"><u>Revenge(n)</u> -  punishment for a harm done by somebody 복수, 보복, 설욕
 </li>
 
-<li style="list-style-type: none;"><u>Intellect(n)</u> -   intelligence <span style="font-size:16px">지적 능력, 지력, 지적 능력이 뛰어난 사람</span>
+<li style="list-style-type: none;"><u>Intellect(n)</u> -   intelligence 지적 능력, 지력, 지적 능력이 뛰어난 사람
 </li>
 
-<li style="list-style-type: none;"><u>Vastly(adv)</u> - widely <span style="font-size:16px">대단히, 엄청나게</span>
+<li style="list-style-type: none;"><u>Vastly(adv)</u> - widely 대단히, 엄청나게
 </li>
  
-<li style="list-style-type: none;"><u>Hastily(adv)</u> - very fast <span style="font-size:16px">급히, 서둘러서, 허둥지둥; 성급하게, 경솔하게</span>
+<li style="list-style-type: none;"><u>Hastily(adv)</u> - very fast 급히, 서둘러서, 허둥지둥; 성급하게, 경솔하게
 </li>
 
 <p>Fill in the blanks using the words above.
@@ -222,7 +222,7 @@ B. Change the following words into their adverb forms and make a sentence for ea
             padding-bottom: 10px;  
             padding-top: 10px; 
             padding-left: 10px; 
-            background-color: #a7d7c5; ">Conversation Samples <span style="font-size:18px">(선생님과 역할을 나눠서 연습해보세요)</span>
+            background-color: #a7d7c5; ">Conversation Samples (선생님과 역할을 나눠서 연습해보세요)
             </h3>
 
 <div style="padding : 16px;">

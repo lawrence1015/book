@@ -88,7 +88,7 @@
                         <br />
                         What can you see on the table?<br />
                         <br />
-                        What do think they are doing?
+                        What do you think are they doing?
                       </b>
                     </p>
                   </v-card-text>

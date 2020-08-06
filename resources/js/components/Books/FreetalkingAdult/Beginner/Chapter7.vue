@@ -16,7 +16,7 @@
         </v-img>
 
 
-        <h3 style="background-color: #a7d7c5;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Reading Practice <span style="font-size:18px">( 선생님의 안내에 따라 문장을 읽어 주세요 )</span></h3>
+        <h3 style="background-color: #a7d7c5;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Reading Practice ( 선생님의 안내에 따라 문장을 읽어 주세요 )</h3>
         <div style="padding : 16px;">
 
           <p>My father is tall and thin. He has dark brown hair. He wears large, round glasses and a serious look on his face. When you get to know him better, he is actually very Jolly and funny. He likes to put on pastel shirts and khaki
@@ -32,19 +32,19 @@
 
 
 
-            <li style="list-style-type: none;"><u>Jolly</u> - friendly and cheerful <span style="font-size:16px">행복한, 쾌활한, 즐거운, 아주, 관광</span>
+            <li style="list-style-type: none;"><u>Jolly</u> - friendly and cheerful 행복한, 쾌활한, 즐거운, 아주, 관광
             </li>
 
-            <li style="list-style-type: none;"><u>Pastel</u> - pale in color <span style="font-size:16px">파스텔[은은한] 색조</span>
+            <li style="list-style-type: none;"><u>Pastel</u> - pale in color 파스텔[은은한] 색조
             </li>
 
-            <li style="list-style-type: none;"><u>Khaki</u> - brownish yellow <span style="font-size:16px">카키색 천, 카키색</span>
+            <li style="list-style-type: none;"><u>Khaki</u> - brownish yellow 카키색 천, 카키색
             </li>
 
-            <li style="list-style-type: none;"><u>Stout</u> - soft curls; shaped like waves <span style="font-size:16px">통통한, 튼튼한</span>
+            <li style="list-style-type: none;"><u>Stout</u> - soft curls; shaped like waves 통통한, 튼튼한
             </li>
 
-            <li style="list-style-type: none;"><u>Outgoing</u> - confident and friendly in social situations <span style="font-size:16px">외향적인, 사교적인</span>
+            <li style="list-style-type: none;"><u>Outgoing</u> - confident and friendly in social situations 외향적인, 사교적인
             </li>
 
             <p>Fill in the blanks using the words above.
@@ -224,8 +224,8 @@
           </div>
 
 
-          <h3 style="padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 10px; margin-top: 10px; background-color: #a7d7c5;">Reading Practice <span style="font-size:18px">
-          ( 선생님의 안내에 따라 문장을 읽어 주세요 )</span>
+          <h3 style="padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 10px; margin-top: 10px; background-color: #a7d7c5;">Reading Practice 
+          ( 선생님의 안내에 따라 문장을 읽어 주세요 )
           </h3>
 
 
@@ -251,22 +251,22 @@
 
 
 
-            <li style="list-style-type: none;"><u>Avid</u> - eager or very interested in something <span style="font-size:16px">열심인[열렬한], 열망하는</span>
+            <li style="list-style-type: none;"><u>Avid</u> - eager or very interested in something 열심인[열렬한], 열망하는
             </li>
 
-            <li style="list-style-type: none;"><u>Sporty</u> - likes to play sports <span style="font-size:16px">스포츠를 좋아하는[잘하는], 빠르고 날렵한</span>
+            <li style="list-style-type: none;"><u>Sporty</u> - likes to play sports 스포츠를 좋아하는[잘하는], 빠르고 날렵한
             </li>
 
-            <li style="list-style-type: none;"><u>Athlete</u> - a sports player <span style="font-size:16px">운동을 잘 하는 사람, 운동선수</span>
+            <li style="list-style-type: none;"><u>Athlete</u> - a sports player 운동을 잘 하는 사람, 운동선수
             </li>
 
-            <li style="list-style-type: none;"><u>Tan</u> - light brown color <span style="font-size:16px">햇볕에 타다[그을리다]; 햇볕에 태우다</span>
+            <li style="list-style-type: none;"><u>Tan</u> - light brown color 햇볕에 타다[그을리다]; 햇볕에 태우다
             </li>
 
-            <li style="list-style-type: none;"><u>Seaside</u> - near the sea <span style="font-size:16px">해변[바닷가]</span>
+            <li style="list-style-type: none;"><u>Seaside</u> - near the sea 해변[바닷가]
             </li>
 
-            <li style="list-style-type: none;"><u>Hilarious</u> - very funny <span style="font-size:16px">아주 우스운[재미있는]</span>
+            <li style="list-style-type: none;"><u>Hilarious</u> - very funny 아주 우스운[재미있는]
             </li>
 
             <p>Fill in the blanks using the words above.
@@ -336,35 +336,20 @@
 
           </div>
 
-          <h3 style="padding-top: 7px;  margin-left: -18px; margin-right: -18px;  padding-bottom: 10px;  padding-top: 10px; padding-left: 10px; background-color: #a7d7c5; ">Conversation samples <span style="font-size:16px">(선생님과 역할을 나눠서 연습해보세요)</span></h3>
+          <h3 style="padding-top: 7px;  margin-left: -18px; margin-right: -18px;  padding-bottom: 10px;  padding-top: 10px; padding-left: 10px; background-color: #a7d7c5; ">Conversation samples (선생님과 역할을 나눠서 연습해보세요)</h3>
 
           <div style="padding : 16px;">
 
-            <p>
-              <b>M</b>: Tell me about your family.
-              <br>
-              <b>F</b>: My family has four members: my father, mother, brother and me.
-              <br>
-              <b>M</b>: What is your father like?
-              <br>
-              <b>F</b>: He is a handsome man. People may think he is not friendly because he looks very serious but he is actually very kind! He likes to read English books.
-              <br>
-              <b>M</b>: How about your mother?
-              <br>
-              <b>F</b>: Oh! She is a loud and funny woman! She is not very pretty but she is smart. Maybe, she’s smarter than my dad!
-              <br>
-              <b>M</b>: How about your brother?
-              <br>
-              <b>F</b>: He is still very young. He likes to draw on our walls with crayons. That drives my parents crazy!
-              <br>
-              <b>M</b>: You seem to have a happy family!
-              <br>
-              <b>F</b>: Oh yes! Sometimes we have misunderstandings but I surely love them!
-            </p>
+  <table style = "border-collapse: collapse;">
 
+    <tr v-for="dialog in dialogs" :key="dialog">
+      <td class = "uppertable" ><b>{{dialog.name}}</b></td>
+      <td class = "lowertable" >{{dialog.speech}}</td>
+    </tr>
+
+  </table>
+         
           </div>
-
-
 
           <h3 style="padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 10px; margin-top: 10px; background-color: #a7d7c5;">You're on the Limelight!</h3>
           <div style="padding : 16px;">
@@ -411,35 +396,18 @@
 
           <div style="padding : 16px;">
 
-            <p>
-              <b>M</b>: 네 가족에 대해 말해줘.
-              <br>
-              <b>F</b>: 우리 가족은 아빠, 엄마, 오빠, 나 이렇게 4명이야.
-              <br>
-              <b>M</b>: 네 아버지는 어떤 분이셔?
-              <br>
-              <b>F</b>: 그는 잘생긴 남자야. 사람들은 그가 매우 진지해 보이기 때문에 친절하지 않다고 생각할지도 모르지만, 사실 그는 매우 친절해! 그는 영어책 읽는 것을 좋아해.
-              <br>
-              <b>M</b>: 너희 어머니는 어떠셔?
-              <br>
-              <b>F</b>: 오! 그녀는 시끄럽고 재미있는 여자야! 그녀는 별로 예쁘지는 않지만 똑똑해.
-                        어쩌면, 그녀는 우리 아빠보다 더 똑똑할지도 몰라!
-              <br>
-              <b>M</b>: 네 형은 어때?
-              <br>
-              <b>F</b>: 그는 아직 매우 어리다. 그는 크레용으로 우리 벽에 그림을 그리는 것을 좋아한다. 그게 우리 부모님을 미치게 해!
-              <br>
-              <b>M</b>: 넌 행복한 가정을 꾸린 것 같아!
-              <br>
-              <b>F</b>: 오, 그래! 가끔 우리는 언쟁을 하지만 나는 그들을 정말 사랑해!
-            </p>
+      <table style = "border-collapse: collapse;">
+
+        <tr v-for="translation in translations" :key="translation">
+          <td class = "uppertable" ><b>{{translation.name}}</b></td>
+          <td class = "lowertable" >{{translation.speech}}</td>
+        </tr>
+
+      </table>
+
+        
 
           </div>
-
-
-
-
-
 
 
 
@@ -449,16 +417,8 @@
 
 
 
-
-
-
-
-
-
       </v-layout>
     </v-container>
-  </v-layout>
-</v-container>
 </div>
 </template>
 
@@ -470,6 +430,90 @@ export default {
   data() {
 
     return {
+      dialogs:[
+        {
+          name:'M :',
+          speech:"Tell me about your family."
+        },
+        {
+          name:'F :',
+          speech:"My family has four members: my father, mother, brother and me."
+        },
+        {
+          name:'M :',
+          speech:"What is your father like?"
+        },
+        {
+          name:'F :',
+          speech:"He is a handsome man. People may think he is not friendly because he looks very serious but he is actually very kind! He likes to read English books."
+        },
+        {
+          name:'M :',
+          speech:"How about your mother?"
+        },
+        {
+          name:'F :',
+          speech:"Oh! She is a loud and funny woman! She is not very pretty but she is smart. Maybe, she’s smarter than my dad!"
+        },
+        {
+          name:'M :',
+          speech:"How about your brother?"
+        },
+        {
+          name:'F :',
+          speech:"He is still very young. He likes to draw on our walls with crayons. That drives my parents crazy!"
+        },
+        {
+          name:'M :',
+          speech:"You seem to have a happy family!"
+        },
+        {
+          name:'F :',
+          speech:"Oh yes! Sometimes we have misunderstandings but I surely love them!"
+        },
+      ],
+      translations:[
+       {
+          name:'M :',
+          speech:"네 가족에 대해 말해줘."
+        },
+        {
+          name:'F :',
+          speech:"우리 가족은 아빠, 엄마, 오빠, 나 이렇게 4명이야."
+        },
+        {
+          name:'M :',
+          speech:"네 아버지는 어떤 분이셔?"
+        },
+        {
+          name:'F :',
+          speech:"그는 잘생긴 남자야. 사람들은 그가 매우 진지해 보이기 때문에 친절하지 않다고 생각할지도 모르지만, 사실 그는 매우 친절해! 그는 영어책 읽는 것을 좋아해."
+        },
+        {
+          name:'M :',
+          speech:"너희 어머니는 어떠셔?"
+        },
+        {
+          name:'F :',
+          speech:"오! 그녀는 시끄럽고 재미있는 여자야! 그녀는 별로 예쁘지는 않지만 똑똑해. 어쩌면, 그녀는 우리 아빠보다 더 똑똑할지도 몰라!"
+        },
+        {
+          name:'M :',
+          speech:"네 형은 어때?"
+        },
+        {
+          name:'F :',
+          speech:"그는 아직 매우 어리다. 그는 크레용으로 우리 벽에 그림을 그리는 것을 좋아한다. 그게 우리 부모님을 미치게 해!"
+        },
+        {
+          name:'M :',
+          speech:"넌 행복한 가정을 꾸린 것 같아!"
+        },
+        {
+          name:'F :',
+          speech:"오, 그래! 가끔 우리는 언쟁을 하지만 나는 그들을 정말 사랑해!"
+        },
+      ]
 
 
     }
@@ -512,10 +556,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

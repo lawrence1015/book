@@ -29,7 +29,7 @@
   </div>
 
   <h3  class = "border white--text" style = "border-radius: 0px 0px 70px 0px;" >Topic</h3>
-  <div style = "padding : 16px; line-height: 200%;">
+  <div style = "padding : 16px; line-height: 1.6;">
 
     <table style = "border-collapse: collapse;">
 
@@ -37,7 +37,7 @@
       <td class = "uppertable" ><b>Jane :</b></td>
       <td class = "lowertable" >Feng shui is a bunch of nonsense. Do people really think moving furniture around will suddenly create huge life changes? It is not a science or art, but simply a fad!</td>
     </tr>
-    <tr>
+    <tr style="color:#1565C0;">
       <td class = "uppertable" ><b>Tom :</b></td>
       <td class = "lowertable" >Feng shui is thousands of years old. It is very complex and should not be called a trend about moving furniture. Do your research about feng shui and its relation to quantum physics.</td>
     </tr>
@@ -58,34 +58,34 @@
       <div style="padding : 16px;">
 
         <p>
-          <b>nonsense 말도 안 되는 것 </b>
+          <b>nonsense</b> 말도 안 되는 것 
         </p>
         <p>
-          <b>furniture 가구</b>
+          <b>furniture</b> 가구
         </p>
         <p>
-          <b>suddenly 갑자기 </b>
+          <b>suddenly</b> 갑자기 
         </p>
         <p>
-          <b>science 과학</b>
+          <b>science</b> 과학
         </p>
         <p>
-          <b>fad 유행 </b>
+          <b>fad</b> 유행 
         </p>
         <p>
-          <b>complex 복잡한</b>
+          <b>complex</b> 복잡한
         </p>
         <p>
-          <b>trend 동향, 추세 </b>
+          <b>trend</b> 동향, 추세 
         </p>
         <p>
-          <b>research 연구 </b>
+          <b>research</b> 연구 
         </p>
         <p>
-          <b>relation 관계 </b>
+          <b>relation</b> 관계 
         </p>
         <p>
-          <b>quantum physics 양자 물리학</b>
+          <b>quantum physics</b> 양자 물리학
         </p>
 
       </div>
@@ -110,7 +110,7 @@
             <td class = "uppertable" ><b>제인 :</b></td>
             <td class = "lowertable" >풍수는 말도 안 되는 소리야. 사람들은 정말로 가구를 이리저리 옮기는 것이 갑자기 큰 삶의 변화를 일으킬 거라고 생각하니? 그것은 과학이나 예술이 아니라 단지 유행일 뿐이야!</td>
           </tr>
-          <tr>
+          <tr style="color:#1565C0;">
             <td class = "uppertable" ><b>탐 :</b></td>
             <td class = "lowertable" >풍수는 수천 년 된 거야. 그것은 매우 복잡하고 가구를 옮기는 것에 관한 유행이라고 불려서는 안 돼. 풍수와 양자 물리학의 관계에 대한 조사를 해 봐.</td>
           </tr>
@@ -126,8 +126,6 @@
 
 
   </v-layout>
-</v-container>
-</v-layout>
 </v-container>
 </div>
 
@@ -192,10 +190,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

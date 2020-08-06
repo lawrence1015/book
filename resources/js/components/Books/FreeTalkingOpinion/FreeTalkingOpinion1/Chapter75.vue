@@ -6,7 +6,7 @@
 
       <v-layout column>
         <v-img
-        src="https://previews.123rf.com/images/peshkovaolga/peshkovaolga1902/peshkovaolga190200071/117277356-fresh-raw-ingredients-for-healthy-cooking-vegetables-fruit-seeds-cereals-beans-spices-superfoods-her.jpg" style="max-width: 100%; display:block; height: auto;">
+        src="https://images.pexels.com/photos/1458694/pexels-photo-1458694.jpeg" style="max-width: 100%; display:block; height: auto;">
 
         <v-layout
         align-end
@@ -29,7 +29,7 @@
   </div>
 
   <h3  class = "border white--text" style = "border-radius: 0px 0px 70px 0px;" >Topic</h3>
-  <div style = "padding : 16px; line-height: 200%;">
+  <div style = "padding : 16px; line-height: 1.6;">
 
     <table style = "border-collapse: collapse;">
 
@@ -37,7 +37,7 @@
       <td class = "uppertable" ><b>Jane :</b></td>
       <td class = "lowertable" >You should eat more raw vegetables because they preserve more vitamins and minerals. They also taste better because they are fresh and crisp. Cooked vegetables can taste soggy and oily. </td>
     </tr>
-    <tr>
+    <tr style="color:#1565C0;">
       <td class = "uppertable" ><b>Tom :</b></td>
       <td class = "lowertable" >Vegetables like carrots, spinach, mushrooms, and cabbage give more antioxidants when they are cooked. The heat from cooking helps break down the vegetables’ cell walls. This helps the body take in more nutrients. </td>
     </tr>
@@ -58,34 +58,34 @@
       <div style="padding : 16px;">
 
         <p>
-          <b>preserve 보존하다  </b>
+          <b>preserve</b> 보존하다  
         </p>
         <p>
-          <b>taste 맛이 ~하다[나다]  </b>
+          <b>taste</b> 맛이 ~하다[나다]  
         </p>
         <p>
-          <b>crisp 바삭바삭한  </b>
+          <b>crisp</b> 바삭바삭한  
         </p>
         <p>
-          <b>soggy 질척한 </b>
+          <b>soggy</b> 질척한 
         </p>
         <p>
-          <b>oily 기름 맛이 나는 </b>
+          <b>oily</b> 기름 맛이 나는 
         </p>
         <p>
-          <b>antioxidant 산화 방지제 </b>
+          <b>antioxidant</b> 산화 방지제 
         </p>
         <p>
-          <b>heat 열기 </b>
+          <b>heat</b> 열기 
         </p>
         <p>
-          <b>break down 부수다 </b>
+          <b>break down</b> 부수다 
         </p>
         <p>
-          <b>cell 세포 </b>
+          <b>cell</b> 세포 
         </p>
         <p>
-          <b>nutrient 영양분 </b>
+          <b>nutrient</b> 영양분 
         </p>
 
       </div>
@@ -110,7 +110,7 @@
             <td class = "uppertable" ><b>제인 :</b></td>
             <td class = "lowertable" >생야채는 더 많은 비타민과 미네랄을 보존하기 때문에 더 많이 먹어야 해. 그것들은 또한 신선하고 바삭바삭하기 때문에 맛이 더 좋아. 요리된 야채는 질척하고 기름진 맛을 느낄 수 있어.</td>
           </tr>
-          <tr>
+          <tr style="color:#1565C0;">
             <td class = "uppertable" ><b>탐 :</b></td>
             <td class = "lowertable" >당근, 시금치, 버섯, 양배추 같은 야채는 요리되면 더 많은 항산화제를 제공해. 요리로 인한 열은 야채의 세포벽을 부수는데 도움이 된다. 이것은 신체가 더 많은 영양분을 섭취하도록 도와줘.</td>
           </tr>
@@ -126,8 +126,6 @@
 
 
   </v-layout>
-</v-container>
-</v-layout>
 </v-container>
 </div>
 
@@ -192,10 +190,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

@@ -6,7 +6,7 @@
   
         <v-layout column>
           <v-img
-          src="https://marketplace.canva.com/MADGv8BGwhs/7/screen_2x/canva-woman-wearing-blue-top-beside-table-MADGv8BGwhs.jpg" style="max-width: 100%; display:block; height: auto;">
+          src="https://image.freepik.com/free-photo/alarm-clock-hundred-dollar-currency-notes-wooden-textured-background_23-2147943439.jpg" style="max-width: 100%; display:block; height: auto;">
   
           <v-layout
           align-end

@@ -31,10 +31,10 @@
   <div style = "padding : 16px; line-height: 200%;">
 
       <p>
-        Applications could occupy less room on your telephone, on account of another 'streaming' programming that 'streams' information and code assets to an application from a cloud server when essential, which permits the application to utilize just the space it needs. 
+        Applications could expend less room on your telephone, by the righteousness of another 'spilling' programming that 'streams' information and code assets for an application from a cloud server when key, which permits the application to utilize just the space it needs.  
       </p>
 
-      <p>Netflix’s motion pictures aren't put away on a PC. They are gushed to you as you are watching them. In light of Bagchi's group's investigation, "AppStreamer '' spares in any event 85% of extra room on an Android. It constantly rearranges information between an application and a cloud server without interfering with the game. The distinctions in gaming experience went unnoticed by the members. The specialists will introduce their discoveries Feb. 18 at the seventeenth International Conference on Embedded Wireless Systems and Networks in Lyon, France. It has been chosen as one of the main three papers.
+      <p>Netflix’s motion pictures aren't put away on a PC. They are gushed to you as you are watching them. In light of Bagchi's group's investigation, "AppStreamer '' spares in any event 85% of extra room on an Android. It constantly rearranges information between an application and a cloud server without interfering with the game. The distinctions in gaming experience went unnoticed by the members. The specialists will introduce their disclosures 18th of February at the seventeenth International Conference on Embedded Wireless Systems and Networks in Lyon, France.
       </p>
 
       <h3 class = "reverseborder white--text" style="padding-top: 7px;
@@ -61,25 +61,19 @@
       <div style="padding : 16px;">
 
         <p>
-          <b>streamin</b> <span class = "korean">흐름, 원형질 유동, 능력별 학급 편성</span>
+          <b>expand</b> <span class = "korean">(시간, 비용을) 쏟다, 들이다</span>
         </p>
         <p>
-          <b>software</b> <span class = "korean">소프트웨어</span>
+          <b>righteousness</b> <span class = "korean">정의, 정직</span>
         </p>
         <p>
-          <b>allow</b> <span class = "korean">허락하다; 용납하다</span>
+          <b>utilize</b> <span class = "korean">활용하다, 이용하다</span>
         </p>
         <p>
-          <b>seamlessly</b> <span class = "korean">이음매가 없이; 균일하게.</span>
+          <b>gush</b> <span class = "korean">쏟아내다</span>
         </p>
         <p>
-          <b>shuffle</b> <span class = "korean">발을 끌며 걷다, 이리저리 움직이다, 섞다, 이리저리 바꾸다, 정리하다</span>
-        </p>
-        <p>
-          <b>storage</b> <span class = "korean">저장, 보관; 저장고, 보관소, 저장, 창고[위탁] 보관</span>
-        </p>
-        <p>
-          <b>unnoticed</b> <span class = "korean">눈에 띄지 않는, 간과되는</span>
+          <b>disclosure</b> <span class = "korean">밝히다, 드러내다</span>
         </p>
 
       </div>
@@ -108,19 +102,13 @@
       <div style="padding : 16px;">
 
         <p>
-          <b>seamlessly shuffles data between</b> <span class = "korean">데이터를 서로 원활하게 섞습니다.</span>
+          <b>put something away</b> <span class = "korean">(다 쓰고 난 물건을 보관 장소에)넣다, 치우다</span>
         </p>
         <p>
-          <b>differences in the gaming experience</b> <span class = "korean">게임 경험의 차이점입니다.</span>
+          <b>Interfere with</b> <span class = "korean">간섭하다, 방해하다</span>
         </p>
         <p>
-          <b>as one of the top three papers</b> <span class = "korean">3대 신문 중 하나로서요.</span> 
-        </p>
-        <p>
-          <b>streamed to you</b> <span class = "korean">당신에게 스트리밍했습니다.</span>
-        </p>
-        <p>
-          <b>saves at least 85% of storage space</b> <span class = "korean">스토리지 공간을 85% 이상 절약합니다.</span> 
+          <b>In light of</b> <span class = "korean">~에 비추어/ 드러내어</span> 
         </p>
 
       </div>
@@ -150,13 +138,16 @@
 
         <ol style="padding-right: 20px; padding-top: 10px;">
           <li>
-            Do you also like online streaming? 
+            Do you like online streaming? <br />
+            온라인 스트리밍을 좋아하십니까?<br />
           </li>
           <li>
-            What can you say about the Netflix application? 
+            What can you say about the Netflix application? <br />
+            넷플릭스 어플리케이션에 대해 어떻게 생각하십니까?<br />
           </li>
           <li>
-            How many percent can “AppStreamer" save in our storage space? 
+            How much percent can “AppStreamer" save in our storage space?<br />
+            “App Streamer”를 통해 당신의 저장공간을 얼마나 절약할 수 있습니까?<br />
           </li>
         </ol>
 
@@ -198,13 +189,13 @@
                   <v-card-text class="px-10">
                     <p>
                       <span class = "korean">
-                      <b>새로운 '스트리밍' 소프트웨어 덕분에 앱이 전화기에서 공간을 덜 차지할 수 있습니다.</b></span>
+                      <b>새로운 스트리밍 소프트웨어 덕분에 앱은 휴대폰 용량을 줄일 수 있다.</b></span>
                     </p>
                     <p>
-                      <span class = "korean">필요한 경우 클라우드 서버에서 애플리케이션에 정보를 '스프레임'하고 자산을 코딩하는 또 다른 '스필링' 프로그래밍으로 인해 애플리케이션은 전화기에 공간을 덜 차지하게 됩니다. 따라서 애플리케이션은 필요한 공간만 활용할 수 있습니다.</span>
+                      <span class = "korean">애플리케이션은 클라우드 서버로부터 애플리케이션 정보를 '스트리밍'하여 애플리케이션에 필요한 공간만을 이용할 수 있도록 하여 또 하나의 '송신' 프로그래밍이 정당화되기 때문에 당신의 핸드폰의 용량을 줄일 수 있습니다.</span>
                     </p>
                     <p>
-                      <span class = "korean">넷플릭스의 영화들은 실제로 PC에 저장되어 있지 않습니다. 당신이 그들을 보고 있을 때 그들은 당신에게 달려들었습니다. Bagchi 그룹의 조사에 비추어 볼 때, "AppStreamer"는 어떤 경우에도 Android에서 85%의 추가 공간을 제공합니다. 게임 간섭 없이 애플리케이션과 클라우드 서버 간에 정보를 일관되게 재구성합니다. 게임 경험에서의 차이점은 회원들이 눈치채지 못하게 되었습니다. 이 전문가들은 2월 18일 프랑스 리옹에서 열리는 제17회 임베디드 무선 시스템 및 네트워크 국제 컨퍼런스에서 그들의 발견을 소개할 예정입니다. 그것은 주요 3개 신문 중 하나로 선정되었습니다.
+                      <span class = "korean">넷플릭스 동영상은 PC에는 저장되어 있지 않지만 당신이 보는 동안 화면은 쏟아져 나옵니다.  Bagchi의 그룹 조사를 바탕으로 "App Streamer"는 Android의 85%의 여분의 공간을 확보하고 있습니다. 애플리케이션과 클라우드 서버 사이에서 게임에 간섭하지 않고 항상 정보를 재배치합니다. 이 차이는 게임을 하는 동안 멤버에게는 눈치채지 못합니다. 전문가들은 2월 18일에 프랑스 리옹에서 개최되는 제17회 임베디드 무선 시스템과 네트워크에 관한 국제회의에서 그 공개 내용을 소개합니다.
                       </span>
                     </p>
                   </v-card-text>

@@ -88,7 +88,7 @@
                         <br />
                         Do you have any idea where we can find Burj  Khalifa Tower?<br />
                         <br />
-                        Aside from the building what else can you see in that picture?
+                        Aside from the building, what else can you see in that picture?
                       </b>
                     </p>
                   </v-card-text>

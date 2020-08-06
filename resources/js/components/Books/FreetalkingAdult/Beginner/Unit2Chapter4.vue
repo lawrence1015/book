@@ -17,7 +17,7 @@ margin-bottom: -10px;">
 </div>
 
 
-<h3 style="padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 10px; margin-top: 10px; background-color: #a7d7c5;">Reading Practice <span style="font-size:18px">( 선생님의 안내에 따라 문장을 읽어 주세요 )</span></h3>
+<h3 style="padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 10px; margin-top: 10px; background-color: #a7d7c5;">Reading Practice <br><span class = "korean">( 선생님의 안내에 따라 문장을 읽어 주세요 )</span></h3>
      <div style="padding : 16px;">
 
 <p>The summer of 1998 brought pleasant memories to me. 
@@ -31,19 +31,19 @@ margin-bottom: -10px;">
 
 
 
-<li style="list-style-type: none;"><u>Stroll</u> - to walk with no apparent aim <span style="font-size:16px">거닐다, 산책하다 </span>
+<li style="list-style-type: none;"><u>Stroll</u> - to walk with no apparent aim <span class = "korean">거닐다, 산책하다 </span>
 </li>
 
-<li style="list-style-type: none;"><u>Shelter</u> - a protective <span style="font-size:16px">(인간 생활의 세 가지 기본 요소 중) 주거지</span>
+<li style="list-style-type: none;"><u>Shelter</u> - a protective <span class = "korean">(인간 생활의 세 가지 기본 요소 중) 주거지</span>
 </li>
 
-<li style="list-style-type: none;"><u>Abandoned</u> - not owned or taken care of <span style="font-size:16px">버려진, 유기된, 방종한, 제멋대로인</span>
+<li style="list-style-type: none;"><u>Abandoned</u> - not owned or taken care of <span class = "korean">버려진, 유기된, 방종한, 제멋대로인</span>
 </li>
 
-<li style="list-style-type: none;"><u>Howl</u> -  a loud noise like the cry of a dog <span style="font-size:16px">울다[울부짖다], 울부짖다[법석을 떨다], 윙윙거리다</span>
+<li style="list-style-type: none;"><u>Howl</u> -  a loud noise like the cry of a dog <span class = "korean">울다[울부짖다], 울부짖다[법석을 떨다], 윙윙거리다</span>
 </li>
 
-<li style="list-style-type: none;"><u>Creak</u> - a high-pitched screeching sound <span style="font-size:16px">삐걱거리다, 삐걱거리는 소리</span>
+<li style="list-style-type: none;"><u>Creak</u> - a high-pitched screeching sound <span class = "korean">삐걱거리다, 삐걱거리는 소리</span>
 </li>
 
 <p>Fill in the blanks using the words above.
@@ -96,7 +96,7 @@ margin-bottom: -10px;">
 </div>
 
 <h3 style="padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 10px; margin-top: 10px; background-color: #a7d7c5;">Translation</h3>
-     <div style="padding : 16px;">
+     <div style="padding : 16px;" class = "korean">
        <p>
          1998년 여름은 나에게 즐거운 추억을 가져다 주었다. 내가 가장 좋아하는 사촌들이 한 달을 함께 휴가를 보내던 때였다. 우리는 바닷가 근처에 살았기 때문에 바다에서 수영을 하고 조개를 모았다. 우리는 햇볕 아래에서 너무 많은 시간을 보내서 한 달이 지나자 게처럼 빨개졌다. 어느 날 우리가 해변을 산책하고 있는 동안 비가 내리기 시작했고 가장 가까운 대피소는 오래된 버려진 집이었다. 안은 매우 어둡고 먼지가 자욱했다. 바람이 울부짖고 바닥이 삐걱거렸다. 내 사촌 중 한 명이 하얀 유령을 봤다고 소리를 질렀다. 비가 멈췄을때, 우리는 가능한 한 빨리 집에 갔다. 사흘 후, 우리는 아침에 그 집 안으로 들어갔다. 우리는 벽에서 낡은 하얀 천을 발견했다. 우리는 소리내어 웃었고 더 이상 유령을 믿지 않았다.
        </p>
@@ -107,8 +107,6 @@ margin-bottom: -10px;">
 
        </v-layout>
      </v-container>
-  </v-layout>
-  </v-container>
 </div>
 </template>
 
@@ -162,10 +160,7 @@ h3{
 
 }
 
-li{
 
-
-}
 
 body{
 

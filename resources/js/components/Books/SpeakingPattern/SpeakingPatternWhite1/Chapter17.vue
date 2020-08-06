@@ -31,7 +31,7 @@
           <h2 style="padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Today's topic</h2>
 
   <hr width="60%">
-               <div style="padding : 10px; line-height: 200%;">
+               <div style="padding : 10px; line-height: 200%;" class = "korean">
 
                  <h2>Pattern 17 |  </h2>
                   <br />
@@ -109,13 +109,13 @@
           <b>133</b> 지금 몇시인지 알아? ( time, it ) <br />
         </p>
         <p>
-          <b>134</b>  <br />
+          <b>134</b> 이게 얼마가 드는지 아세요? ( will, cost ) <br />
         </p>
         <p>
-          <b>135</b>  <br />
+          <b>135</b> 지금 몇 시인지 아세요? ( time, is ) <br />
         </p>
         <p>
-          <b>136</b>  <br />
+          <b>136</b> 당신은 그녀가 무엇을 원하는지 아나요? ( feels, after ) <br />
         </p>
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
@@ -129,9 +129,9 @@
               131 Do you know what this means<br />
               132 Do you know what Lydia said<br />
               133 Do you know what time is it now?<br />
-              134 <br />
-              135 <br />
-              136 <br />
+              134 Do you know what this will cost?<br />
+              135 Do you know what time it is?<br />
+              136 Do you know what she feels after?<br />
             </v-card-text>
           </v-card>
         </v-flex>

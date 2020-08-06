@@ -23,7 +23,7 @@
     </v-img>
 
 
-          <h3 style="background-color: #a7d7c5;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Reading Practice <span style="font-size:18px">( 선생님의 안내에 따라 문장을 읽어 주세요 )</span></h3>
+          <h3 style="background-color: #a7d7c5;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Reading Practice ( 선생님의 안내에 따라 문장을 읽어 주세요 )</h3>
                <div style="padding : 16px;">
 
    <p>Although I live in California now, I grew up in Gwangju. As a kid, I played in the fields and drew the mountains with my friends. My mother cooked very well and she ran a small cafe for tourists. She brewed very delicious tea every day. My father was a History professor at Chosun University. He told me a lot of stories about the world. He toured me often to the magnificent historical temples there. I had a happy childhood. It feels nostalgic to think about it sometimes.
@@ -35,16 +35,16 @@
 
 
 
-<li style="list-style-type: none;"><u>Brew</u> - to boil leaves and other ingredients in water to make tea or beer <span style="font-size:16px">(커피차를) 끓이다[만들다], (맥주를) 양조하다</span>
+<li style="list-style-type: none;"><u>Brew</u> - to boil leaves and other ingredients in water to make tea or beer (커피차를) 끓이다[만들다], (맥주를) 양조하다
 </li>
 
-<li style="list-style-type: none;"><u>Memory</u> - something that is remembered <span style="font-size:16px">기억(력)</span>
+<li style="list-style-type: none;"><u>Memory</u> - something that is remembered 기억(력)
 </li>
 
-<li style="list-style-type: none;"><u>Magnificent</u> - beautiful and impressive <span style="font-size:16px">참으로 아름다운[감명 깊은/훌륭한]</span>
+<li style="list-style-type: none;"><u>Magnificent</u> - beautiful and impressive 참으로 아름다운[감명 깊은/훌륭한]
 </li>
 
-<li style="list-style-type: none;"><u>Nostalgia</u> - bittersweet feelings when thinking of the past; a longing <span style="font-size:16px">향수</span>
+<li style="list-style-type: none;"><u>Nostalgia</u> - bittersweet feelings when thinking of the past; a longing 향수
 </li>
 
 <p>Fill in the blanks using the words above.
@@ -104,7 +104,7 @@ margin-bottom: -10px;">
 </div>
 
 
-<h3 style="padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 10px; margin-top: 10px; background-color: #a7d7c5;">Reading Practice <span style="font-size:18px">( 선생님의 안내에 따라 문장을 읽어 주세요 )</span></h3>
+<h3 style="padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 10px; margin-top: 10px; background-color: #a7d7c5;">Reading Practice ( 선생님의 안내에 따라 문장을 읽어 주세요 )</h3>
      <div style="padding : 16px;">
 
 <p>The summer of 1998 brought pleasant memories to me. It was the time when my favorite cousins spent a month to live with us for vacation. Because we lived near the beach, we swam in the sea and collected seashells. We spent too much time under the sun that we were as red as a crab after a month. One day while we were strolling at the beach it began to rain and the nearest shelter was an old abandoned house. It was very dark and dusty inside. The wind howled and the floor creaked. One of my cousins screamed that she saw a white ghost. When the rain stopped, we went home as fast as we could. After three days, we went back to that house in the morning. We found an old white cloth on the wall. We laughed aloud and never believed in ghosts anymore.
@@ -117,19 +117,19 @@ margin-bottom: -10px;">
 
 
 
-<li style="list-style-type: none;"><u>Stroll</u> - to walk with no apparent aim <span style="font-size:16px">거닐다, 산책하다 </span>
+<li style="list-style-type: none;"><u>Stroll</u> - to walk with no apparent aim 거닐다, 산책하다 
 </li>
 
-<li style="list-style-type: none;"><u>Shelter</u> - a protective <span style="font-size:16px">(인간 생활의 세 가지 기본 요소 중) 주거지</span>
+<li style="list-style-type: none;"><u>Shelter</u> - a protective (인간 생활의 세 가지 기본 요소 중) 주거지
 </li>
 
-<li style="list-style-type: none;"><u>Abandoned</u> - not owned or taken care of <span style="font-size:16px">버려진, 유기된, 방종한, 제멋대로인</span>
+<li style="list-style-type: none;"><u>Abandoned</u> - not owned or taken care of 버려진, 유기된, 방종한, 제멋대로인
 </li>
 
-<li style="list-style-type: none;"><u>Howl</u> -  a loud noise like the cry of a dog <span style="font-size:16px">울다[울부짖다], 울부짖다[법석을 떨다], 윙윙거리다</span>
+<li style="list-style-type: none;"><u>Howl</u> -  a loud noise like the cry of a dog 울다[울부짖다], 울부짖다[법석을 떨다], 윙윙거리다
 </li>
 
-<li style="list-style-type: none;"><u>Creak</u> - a high-pitched screeching sound <span style="font-size:16px">삐걱거리다, 삐걱거리는 소리</span>
+<li style="list-style-type: none;"><u>Creak</u> - a high-pitched screeching sound 삐걱거리다, 삐걱거리는 소리
 </li>
 
 <p>Fill in the blanks using the words above.
@@ -395,8 +395,6 @@ margin-bottom: -10px;">
 
        </v-layout>
      </v-container>
-  </v-layout>
-  </v-container>
 </div>
 </template>
 
@@ -450,10 +448,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

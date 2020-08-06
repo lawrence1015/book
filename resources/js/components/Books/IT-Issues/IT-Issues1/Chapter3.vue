@@ -31,7 +31,7 @@
   <div style = "padding : 16px; line-height: 200%;">
 
       <p>
-        Researchers are beginning to realize the potential for channeling these torrents of data into actionable information that can be used to identify needs &amp; provide services for the benefit of low-income populations. The large portion of data comes from the interactions over mobile devices being used by people in the developing world - people whose needs and habits have been poorly understood until now. Learn Big Data and you'll know what people want.
+        Researchers are beginning to realize the potential for channeling torrents of data into action. Analysts  are starting to understand the potential for diverting these downpours of information into noteworthy data that can be utilized to distinguish needs and offer types of assistance to assist low-salary populaces. The huge part of information originates from the connections over cell phones being utilized by individuals in the creating scene - individuals whose necessities and propensities have been ineffectively comprehended as of not long ago. Learn Big Data and you'll realize what individuals need.
       </p>
 
       <h3 class = "reverseborder white--text" style="padding-top: 7px;
@@ -61,13 +61,19 @@
           <b>potential</b> <span class = "korean">가능성이 있는, 잠재적인, 가능성, 잠재력, 퍼텐셜</span>
         </p>
         <p>
-          <b>channeling</b> <span class = "korean">급류, 마구 쏟아짐[퍼부음], 빗발침</span>
+          <b>noteworthy</b> <span class = "korean">주목할 만한</span>
         </p>
         <p>
-          <b>torrents</b> <span class = "korean">채널링, 홈조각 장식</span>
+          <b>populace</b> <span class = "korean">대중들, 서민들</span>
         </p>
         <p>
-          <b>interactions</b> <span class = "korean">상호 작용, 상호의 영향; [컴퓨터] 대화, 상호 작용</span>
+          <b>propensity</b> <span class = "korean">경향,성향</span>
+        </p>
+        <p>
+          <b>originate</b> <span class = "korean">비롯되다, 유래하다</span>
+        </p>
+        <p>
+          <b>comprehend</b> <span class = "korean">이해하다</span>
         </p>
 
       </div>
@@ -96,16 +102,13 @@
       <div style="padding : 16px;">
 
         <p>
-          <b>potential for channeling</b> <span class = "korean">채널링의 잠재력입니다.</span>
+          <b>a potential for</b> <span class = "korean">~의 가능성</span>
         </p>
         <p>
-          <b>these torrents of data into actionable information</b> <span class = "korean">이러한 데이터의 급류를 실행 가능한 정보로 변환합니다.</span>
+          <b>divert A into B</b> <span class = "korean">A를 B로 변환시키다</span>
         </p>
         <p>
-          <b>to identify needs &amp; provide services for the benefit of low-income populations.</b> <span class = "korean">필요한 사항을 파악하고 저소득층의 이익을 위한 서비스를 제공합니다.</span>
-        </p>
-        <p>
-          <b>You’ll know what people want.</b> <span class = "korean">사람들이 무엇을 원하는지 알게 될 거예요.</span>
+          <b>as of ...</b> <span class = "korean">현재로</span>
         </p>
 
       </div>
@@ -135,13 +138,16 @@
 
         <ol style="padding-right: 20px; padding-top: 10px;">
           <li>
-            What do researchers realize about Big Data?
+            What do researchers realize about Big Data?<br/>
+            빅 데이터에 대해 연구자들이 깨달은 것은 무엇입니까?<br/>
           </li>
           <li>
-            Where does the large portion of data come from?
+            Where does the large portion of data come from?<br />
+            많은 양의 데이터는 어디로부터 올까요?<br />
           </li>
           <li>
-            What can you say to the impact of Big Data on International development?
+            What can you say to the impact of Big Data on international development?<br />
+            빅 데이터가 국제 개발에 미치는 영향은 무엇이라고 생각합니까?<br />
           </li>
         </ol>
 
@@ -183,12 +189,12 @@
                   <v-card-text class="px-10">
                     <p>
                       <span class = "korean">
-                      <b>빅 데이터, 빅 임팩트: 국제 발전을 위한 새로운 가능성</b>
+                      <b>빅 데이터 접근 방식을 통한 국제 개발의 새로운 가능성</b>
                     </span>
                     </p>
                     <p>
                       <span class = "korean">
-                      연구자들은 이러한 급증하는 데이터를 활용 가능한 정보로 전환하여 저소득층의 이익을 위한 서비스를 제공할 수 있는 가능성을 깨닫기 시작했습니다.데이터의 많은 부분은 개발 도상국의 사람들이 사용하는 모바일 장치에 대한 상호 작용에서 비롯됩니다. 즉, 지금까지 필요와 습관을 제대로 이해하지 못하고 있는 사람들입니다. 빅 데이터를 학습하면 사람들이 무엇을 원하는지 알 수 있습니다.
+                        분석가들은 이 같은 침체된 정보를 주목할 만한 데이터에 유용할 수 있는 가능성에 대해 이해하기 시작했다.이러한 데이터는 요구를 식별하기 위해서 활용되어 저급여층을 지원하기 위해서 다양한 종류의 지원을 제공할 수 있다. 정보의 대부분은 휴대전화를 통한 연결이 개인에 의해 이용되고 있는 것에서 유래했다.-최근 들어 필요성이나 경향을 효과적으로 이해하지 못하고 있는 개인. 빅데이터를 배우면 개인의 요구를 알 수 있다.
                       </span>
                     </p>
                   </v-card-text>

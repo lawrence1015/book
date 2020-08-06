@@ -31,7 +31,7 @@
           <h2 style="padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Today's topic</h2>
 
   <hr width="60%">
-               <div style="padding : 10px; line-height: 200%;">
+               <div style="padding : 10px; line-height: 200%;" class = "korean" >
 
                  <h2>Pattern 11 |  </h2>
                   <br />
@@ -108,13 +108,13 @@
           <b>085</b> 난 네가 내 여동생을 사랑했다는 거 알아. (love, sister) <br />
         </p>
         <p>
-          <b>086</b> 커피는 어떠세요? ( like, coffee ) <br />
+          <b>086</b> 사랑이 뭔지 알아요. (what, love) <br />
         </p>
         <p>
-          <b>087</b> 이 양복 어떠세요? ( like, suit ) <br />
+          <b>087</b> 두 분 다 잘 알고 있습니다. (both, well) <br />
         </p>
         <p>
-          <b>088</b> 결혼 생활은 어떠세요? ( like, being married ) <br />
+          <b>088</b> 그녀가 농담하는 거 알아요. (she, joke) <br />
         </p>
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>

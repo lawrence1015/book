@@ -34,7 +34,7 @@
         There are two kinds of neural systems: convolutional neural systems (CNN) and repetitive neural systems (RNN). 
       </p>
 
-      <p>The fundamental contrast among CNN and RNN is the capacity to process worldly data or information that comes in arrangements, for example, a sentence for instance. Additionally, convolutional neural systems and repetitive neural systems are utilized for totally various purposes, and there are contrasts in the structures of the neural systems themselves to fit those diverse use cases. 
+      <p>The fundamental contrast among CNN and RNN is the capacity to process worldly data or information that comes in arrangements, like a sentence for example. Additionally, convolutional neural systems and repetitive neural systems are utilized for totally various purposes, and there are contrasts in the structures of the neural systems themselves to fit those diverse use cases. 
       </p>
 
       <p>
@@ -69,16 +69,19 @@
       <div style="padding : 16px;">
 
         <p>
-          <b>recurrent</b> <span class = "korean">되풀이되는, 반복되는, 재발되는</span>
+          <b>fundamental</b> <span class = "korean">근본[본질]적인, 핵심적인</span>
         </p>
         <p>
-          <b>temporal</b> <span class = "korean">현세적인, 속세의, 시간의; 시간의 제약을 받는, 관자놀이께의</span>
+          <b>worldly</b> <span class = "korean">세속적인, 속세의, 세상을 많이 아는</span>
         </p>
         <p>
-          <b>filter</b> <span class = "korean">필터, 여과 장치, 여광기[여파기], 필터, 좌회전[우회전] 신호</span>
+          <b>repetitive</b> <span class = "korean">반복적인, 반복되는</span>
         </p>
         <p>
-          <b>reuse</b> <span class = "korean">재사용하다</span>
+          <b>various</b> <span class = "korean">여러 가지의, 각양각색의</span>
+        </p>
+        <p>
+          <b>succession</b> <span class = "korean">연속, 잇따름, 연쇄</span>
         </p>
 
       </div>
@@ -110,7 +113,10 @@
           <b>in sequence</b> <span class = "korean">다음으로, 차례차례로</span>
         </p>
         <p>
-          <b>use case</b> <span class = "korean">유스케이스</span>
+          <b>utilize for</b> <span class = "korean">~을 위해 이용하다.</span>
+        </p>
+        <p>
+          <b>focus on</b> <span class = "korean">~에 집중하다.</span>
         </p>
 
       </div>
@@ -140,13 +146,16 @@
 
         <ol style="padding-right: 20px; padding-top: 10px;">
           <li>
-            What is the main difference between CNN and RNN?
+            What is the main difference between CNN and RNN?<br />
+            CNN과 RNN의 가장 큰 차이점은 무엇입니까?<br />
           </li>
           <li>
-            To transform data, what do CNNs employ?
+            To transform data, what do CNNs employ?<br />
+            데이터를 변형시키기 위해, CNN은 무엇을 이용합니까?<br />
           </li>
           <li>
-            What do RNNs use to generate the next output in a series? 
+            What do RNNs use to generate the next output in a series?<br />
+            RNN은 다음 출력을 생성하기 위해 무엇을 사용합니까?<br />
           </li>
         </ol>
 
@@ -191,14 +200,18 @@
                       <b>CNN과 RNN의 차이점은 무엇입니까?</b></span>
                     </p>
                     <p>
-                      <span class = "korean">신경계에는 두 가지 종류가 있습니다: 콘볼루션 신경계(CNN)와 반복 신경계(RNN)입니다.
+                      <span class = "korean">신경계에는 두 가지 종류가 있습니다: 합성곱 신경망(CNN)와 순환 신경망(RNN)입니다.
                       </span>
                     </p>
                     <p>
-                      <span class = "korean">CNN과 RNN의 근본적인 대비는 예를 들어 문장과 같이 배열되어 있는 세속적인 데이터나 정보를 처리하는 능력입니다. 또한, 경련 신경 시스템과 반복 신경 시스템은 완전히 다양한 용도로 활용됩니다. 그리고 신경 시스템 자체의 구조에는 이러한 다양한 사용 사례에 맞도록 대비가 되어 있습니다.</span>
+                      <span class = "korean">CNN과 RNN의 근본적인 차이는 글처럼 배열되어 있는 세속적인 데이터 혹은  정보를 처리하는 능력입니다. 또한, 합성곱 신경망과 순환 신경망은 완전히 다른 목적으로 이용되며 신경계 자체의 구조에는 이들 다양한 용도에 맞춘 차이가 있습니다.</span>
                     </p>
                     <p>
-                      <span class = "korean">CNN은 정보를 바꾸기 위해 경련층 내부의 채널을 활용합니다. 그러나, RNN은 다른 정보로부터의 개시 용량을 재사용함으로써 약정에서 다음과 같은 산출량을 산출하는 승계 작업에 초점을 맞춥니다.</span>
+                      <span class = "korean">CNN은 정보를 바꾸기 위해 혁명적인 레이어 내의 채널을 이용해 정보를 바꿉니다.그러나, RNN은 다른 정보로부터의 개시 용량을 재사용함으로써 약정에서 다음과 같은 산출량을 산출하는 승계 작업에 초점을 맞춥니다.</span>
+                    </p>
+                    <p>
+                      <span class = "korean">*CNN: 합성곱 신경망</span>
+                      <span class = "korean">*RNN: 순환 신경망</span>
                     </p>
                   </v-card-text>
                 </v-card>
@@ -207,7 +220,7 @@
           </v-container>
 
         </p>
-<p>
+<p style = "font-size: small;">
   Image Source: "medium"
 </p>
 

@@ -31,7 +31,7 @@
           <h2 style="padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Today's topic</h2>
 
   <hr width="60%">
-               <div style="padding : 10px; line-height: 200%;">
+               <div style="padding : 10px; line-height: 200%;" class = "korean">
 
                  <h2>Pattern 27 |  </h2>
                   <br />
@@ -109,13 +109,13 @@
           <b>213</b> 그 녀석은 마음에 드는 구석이 하나도 없어. ( like, about ) <br />
         </p>
         <p>
-          <b>214</b>  <br />
+          <b>214</b> 제가 당신을 위해 할 수 있는 일은 아무것도 없어요. ( do, for you ) <br />
         </p>
         <p>
-          <b>215</b>  <br />
+          <b>215</b> 제게 남은 건 아무것도 없어요. ( nothing, left ) <br />
         </p>
         <p>
-          <b>216</b>  <br />
+          <b>216</b> 제가 할 수 있는 말은 없어요. ( can, say ) <br />
         </p>
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
@@ -129,9 +129,9 @@
               211 There’s nothing to be afraid of.<br />
               212 There’s nothing to worry about.<br />
               213 There’s nothing to like about him.<br />
-              214 <br />
-              215 <br />
-              216 <br />
+              214 There’s nothing I can do for you.<br />
+              215 There’s nothing left for me.<br />
+              216 There’s nothing I can say.<br />
             </v-card-text>
           </v-card>
         </v-flex>

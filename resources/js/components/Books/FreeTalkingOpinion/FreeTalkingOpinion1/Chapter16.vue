@@ -29,7 +29,7 @@
   </div>
 
   <h3  class = "border white--text" style = "border-radius: 0px 0px 70px 0px;" >Topic</h3>
-  <div style = "padding : 16px; line-height: 200%;">
+  <div style = "padding : 16px; line-height: 1.6;">
 
     <table style = "border-collapse: collapse;">
 
@@ -39,7 +39,7 @@
       You can see how your friends are doing through social media, too.
       Naturally, we get fewer chances to step outside and physically meet people.</td>
     </tr>
-    <tr>
+    <tr style="color:#1565C0;">
       <td class = "uppertable" ><b>B :</b></td>
       <td class = "lowertable" >Smartphones are helpful in finding good tourist spots and restaurants.
       They also help you to contact people easily.
@@ -62,28 +62,28 @@
       <div style="padding : 16px;">
 
         <p>
-          <b>sociable 사람들과 어울리기 좋아하는</b>
+          <b>sociable</b> 사람들과 어울리기 좋아하는
         </p>
         <p>
-          <b>naturally 자연스럽게</b>
+          <b>naturally</b> 자연스럽게
         </p>
         <p>
-          <b>few 적은</b>
+          <b>few</b> 적은
         </p>
         <p>
-          <b>physically 실제로</b>
+          <b>physically</b> 실제로
         </p>
         <p>
-          <b>tourist spot 관광명소</b>
+          <b>tourist spot</b> 관광명소
         </p>
         <p>
-          <b>contact 연락하다</b>
+          <b>contact</b> 연락하다
         </p>
         <p>
-          <b>matter 중요하다</b>
+          <b>matter</b> 중요하다
         </p>
         <p>
-          <b>personality 성격..</b>
+          <b>personality</b> 성격..
         </p>
 
       </div>
@@ -102,42 +102,31 @@
                  width: 100px;">해석</h3>
       <div style="padding : 16px;">
 
-        <p>
-
-          <v-container grid-list-md text-xs-left>
-            <v-layout row wrap>
-
-
-              <v-flex xs12>
-                <v-card light color="#FFE7D5">
-                  <v-card-text class="px-10">
-                    <p>
+                      <p class = "korean">
+                        <b>
                         스마트폰은 사람들이 다른 사람들과 덜 어울리게 하나요?
-                    </p>
-                    <ol class="replace" type = "A" style="font-weight: bold;">
-                      <li><span class = "normaltext">
-                          스마트폰으로, 여러분은 온라인 쇼핑을 할 수 있고 심지어 온라인 뱅킹도 할 수 있습니다.
+                        </b>
+                      </p>
+
+                      <table style = "border-collapse: collapse;">
+
+                       <tr>
+                        <td class = "uppertable" ><b>A :</b></td>
+                        <td class = "lowertable" style = "word-break: keep-all" >스마트폰으로, 여러분은 온라인 쇼핑을 할 수 있고 심지어 온라인 뱅킹도 할 수 있습니다.
                           여러분은 또 소설 미디어를 통해 친구들이 어떻게 지내고 있는지 볼 수도 있습니다.
-                          자연스럽게 우리는 밖에 나가서 사람들을 신체적으로 만날 확률이 줄어 듭니다.
-                        </span>
-                      </li>
-                      <li><span class = "normaltext">
-                        스마트폰은 좋은 관광지와 레스토랑을 찾는 데 도움이 됩니다.
+                          자연스럽게 우리는 밖에 나가서 사람들을 신체적으로 만날 확률이 줄어 듭니다.</td>
+                      </tr>
+                      <tr style="color:#1565C0;">
+                        <td class = "uppertable" ><b>B :</b></td>
+                        <td class = "lowertable" style = "word-break: keep-all" >스마트폰은 좋은 관광지와 레스토랑을 찾는 데 도움이 됩니다.
                           또한 사람들에게 쉽게 연락 할 수 있도록 도와줍니다.
-                          중요한 것은 스마트 폰이 아니라 개인의 성격입니다.
-                      </span>
-                      </li>
-                    </ol>
+                          중요한 것은 스마트 폰이 아니라 개인의 성격입니다.</td>
+                      </tr>
 
-                  </v-card-text>
-                </v-card>
-              </v-flex>
-            </v-layout>
-          </v-container>
+                    
+                      </table>
 
-        </p>
-
-
+       
       </div>
 
 
@@ -145,8 +134,6 @@
 
 
   </v-layout>
-</v-container>
-</v-layout>
 </v-container>
 </div>
 
@@ -211,10 +198,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

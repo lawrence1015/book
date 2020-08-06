@@ -14,7 +14,7 @@ margin-bottom: -10px;">
 </div>
 
 
-<h3 style="padding-top: 7px;  margin-left: 0px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 10px; margin-top: 10px; background-color: #a7d7c5;">Reading Practice <span style="font-size:18px">( 선생님의 안내에 따라 문장을 읽어주세요 )</span></h3>
+<h3 style="padding-top: 7px;  margin-left: 0px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 10px; margin-top: 10px; background-color: #a7d7c5;">Reading Practice <br><span class = "korean">( 선생님의 안내에 따라 문장을 읽어주세요 )</span></h3>
      <div style="padding : 16px;">
 
 <p>Our art professor told us that colors reflect one's personality. I was very curious and interested so I searched the Internet for information. I learned that colors really tell a person's character! My favorite color is green. According to the website, people who like green are those who want to love and be loved.
@@ -48,16 +48,16 @@ margin-bottom: -10px;">
 
 
 
-<li style="list-style-type: none;"><u>Curious</u> -  to be interested <span style="font-size:16px">궁금한; 호기심이 많은 (=inquisitive)</span>
+<li style="list-style-type: none;"><u>Curious</u> -  to be interested <span class = "korean">궁금한; 호기심이 많은 (=inquisitive)</span>
 </li>
 
-<li style="list-style-type: none;"><u>Personality</u> - the behavioral, mental and emotional characteristics of a person <span style="font-size:16px">성격, 인격, (매력적이고 흥미로운) 개성</span>
+<li style="list-style-type: none;"><u>Personality</u> - the behavioral, mental and emotional characteristics of a person <span class = "korean">성격, 인격, (매력적이고 흥미로운) 개성</span>
 </li>
 
-<li style="list-style-type: none;"><u>Sociable</u> - friendly <span style="font-size:16px">사람들과 어울리기 좋아하는, 사교적인, 붙임성 있는</span>
+<li style="list-style-type: none;"><u>Sociable</u> - friendly <span class = "korean">사람들과 어울리기 좋아하는, 사교적인, 붙임성 있는</span>
 </li>
 
-<li style="list-style-type: none;"><u>Cheerful</u> - happy and energetic <span style="font-size:16px">발랄한, 쾌활한</span>
+<li style="list-style-type: none;"><u>Cheerful</u> - happy and energetic <span class = "korean">발랄한, 쾌활한</span>
 </li>
 
 <p>
@@ -112,7 +112,7 @@ margin-bottom: -10px;">
 </div>
 
 <h3 style="padding-top: 7px;  margin-left: 0px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 10px; margin-top: 10px; background-color: #a7d7c5;">Translation</h3>
-     <div style="padding : 16px;">
+     <div style="padding : 16px;" class = "korean">
 
        <p>
          우리 미술 교수님은 색은 사람의 성격을 반영한다고 하셨다. 나는 매우 궁금하고 흥미가 있어서 인터넷에서 정보를 찾아보았다. 나는 색이 정말 사람의 성격을 말해준다는 것을 배웠다. 내가 가장 좋아하는 색깔은 초록색이다. 웹사이트에 따르면, 초록색을 좋아하는 사람들은 사랑하고 사랑받고 싶은 사람들이다.
@@ -153,8 +153,6 @@ margin-bottom: -10px;">
 
        </v-layout>
      </v-container>
-  </v-layout>
-  </v-container>
 </div>
 </template>
 
@@ -208,10 +206,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

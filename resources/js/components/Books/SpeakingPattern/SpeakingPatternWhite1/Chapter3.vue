@@ -31,7 +31,7 @@
           <h2 style="padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Today's topic</h2>
 
   <hr width="60%">
-               <div style="padding : 10px; line-height: 200%;">
+               <div style="padding : 10px; line-height: 200%;" class = "korean">
 
                  <h2>Pattern 3 | </h2>
                   <br />
@@ -109,7 +109,7 @@
           <b>021</b> 춤을 배울까 생각 중이야. ( learn, how to dance ) <br />
         </p>
         <p>
-          <b>022</b> 병원에 가 볼까 생각 중이에요. ( visit ) <br />
+          <b>022</b> 병원에 가 볼까 생각 중이에요. ( hospital ) <br />
         </p>
         <p>
           <b>023</b> 저는 내년에 그와 결혼할 생각이에요. ( marry ) <br />
@@ -129,7 +129,7 @@
               019 I’m thinking about getting plastic surgery.<br />
               020 I’m thinking about what you said. <br />
               021 I’m thinking about learning how to dance.<br />
-              022 I'm thinking about visiting a doctor.<br />
+              022 I'm thinking about going to the hospital.<br />
               023 I’m thinking about marrying him next year.<br />
               024 I'm thinking about baking a chocolate cake.<br />
             </v-card-text>

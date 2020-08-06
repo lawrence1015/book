@@ -29,7 +29,7 @@
   </div>
 
   <h3  class = "border white--text" style = "border-radius: 0px 0px 70px 0px;" >Topic</h3>
-  <div style = "padding : 16px; line-height: 200%;">
+  <div style = "padding : 16px; line-height: 1.6;">
 
     <table style = "border-collapse: collapse;">
 
@@ -37,7 +37,7 @@
       <td class = "uppertable" ><b>Jane :</b></td>
       <td class = "lowertable" >Live broadcasts are more exciting and authentic than pre-filmed broadcasts. When watching something live, you feel like you’re there. Pre-filmed broadcasts are stale because they are too edited.</td>
     </tr>
-    <tr>
+    <tr style="color:#1565C0;">
       <td class = "uppertable" ><b>Tom :</b></td>
       <td class = "lowertable" >Many mistakes happen during live broadcasts, so they can get messy. They can also drag on and get boring. Pre-filmed broadcasts guarantee consistent quality and pacing.</td>
     </tr>
@@ -58,37 +58,37 @@
       <div style="padding : 16px;">
 
         <p>
-          <b>exciting 흥미진진한 </b>
+          <b>exciting</b> 흥미진진한 
         </p>
         <p>
-          <b>authentic 진짜인 </b>
+          <b>authentic</b> 진짜인 
         </p>
         <p>
-          <b>stale 신선미가 없는 </b>
+          <b>stale</b> 신선미가 없는 
         </p>
         <p>
-          <b>edited 편집된 </b>
+          <b>edited</b> 편집된 
         </p>
         <p>
-          <b>mistake 실수 </b>
+          <b>mistake</b> 실수 
         </p>
         <p>
-          <b>messy 엉망인 </b>
+          <b>messy</b> 엉망인 
         </p>
         <p>
-          <b>drag on 질질 끌다 </b>
+          <b>drag on</b> 질질 끌다 
         </p>
         <p>
-          <b>guarantee 보장하다 </b>
+          <b>guarantee</b> 보장하다 
         </p>
         <p>
-          <b>consistent 일관성 있는 </b>
+          <b>consistent</b> 일관성 있는 
         </p>
         <p>
-          <b>quality 질 </b>
+          <b>quality</b> 질 
         </p>
         <p>
-          <b>pacing 진행 </b>
+          <b>pacing</b> 진행 
         </p>
 
       </div>
@@ -113,7 +113,7 @@
             <td class = "uppertable" ><b>제인 :</b></td>
             <td class = "lowertable" >생방송은 사전 녹화 방송보다 더 흥미진진하고 진실한 방송이야. 생생한 것을 볼 때 볼 때, 너는 마치 그곳에 있는 것처럼 느껴. 사전 녹화 방송은 편집이 너무 신선미가 없어. </td>
           </tr>
-          <tr>
+          <tr style="color:#1565C0;">
             <td class = "uppertable" ><b>탐 :</b></td>
             <td class = "lowertable" >생방송 중에 많은 실수들이 일어나기 때문에, 그것들은 엉망이 될 수 있어. 그들은 또한 질질 끌며 지루해질 수 있지. 사전 녹화 방송은 일관된 품질과 진행을 보장해. </td>
           </tr>
@@ -129,8 +129,6 @@
 
 
   </v-layout>
-</v-container>
-</v-layout>
 </v-container>
 </div>
 
@@ -192,11 +190,6 @@ p{
 
 h3{
   padding-top: 7px;
-
-}
-
-li{
-
 
 }
 

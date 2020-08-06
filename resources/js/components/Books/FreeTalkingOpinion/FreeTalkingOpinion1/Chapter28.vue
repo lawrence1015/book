@@ -29,7 +29,7 @@
   </div>
 
   <h3  class = "border white--text" style = "border-radius: 0px 0px 70px 0px;" >Topic</h3>
-  <div style = "padding : 16px; line-height: 200%;">
+  <div style = "padding : 16px; line-height: 1.6;">
 
     <table style = "border-collapse: collapse;">
 
@@ -37,7 +37,7 @@
       <td class = "uppertable" ><b>Jane :</b></td>
       <td class = "lowertable" >We shouldn’t be allowed to get our ears pierced, because most kids can’t maintain clean, healthy earlobes. All of my friends who got their ears pierced eventually got infections. So gross!</td>
     </tr>
-    <tr>
+    <tr style="color:#1565C0;">
       <td class = "uppertable" ><b>Tom :</b></td>
       <td class = "lowertable" >Anyone of any age who gets a body modification should know the responsibility that comes with it. Responsible students should be allowed to freely express themselves through piercings.</td>
     </tr>
@@ -58,34 +58,34 @@
       <div style="padding : 16px;">
 
         <p>
-          <b>maintain 관리하다</b>
+          <b>maintain</b> 관리하다
         </p>
         <p>
-          <b>earlobe 귓불</b>
+          <b>earlobe</b> 귓불
         </p>
         <p>
-          <b>eventually 결국</b>
+          <b>eventually</b> 결국
         </p>
         <p>
-          <b>infection 전염병</b>
+          <b>infection</b> 전염병
         </p>
         <p>
-          <b>gross 징그러운</b>
+          <b>gross</b> 징그러운
         </p>
         <p>
-          <b>modification 개조</b>
+          <b>modification</b> 개조
         </p>
         <p>
-          <b>responsibility 책무, 책임</b>
+          <b>responsibility</b> 책무, 책임
         </p>
         <p>
-          <b>responsible 책임감 있는</b>
+          <b>responsible</b> 책임감 있는
         </p>
         <p>
-          <b>freely 자유롭게</b>
+          <b>freely</b> 자유롭게
         </p>
         <p>
-          <b>express 표현하다</b>
+          <b>express</b> 표현하다
         </p>
 
       </div>
@@ -104,15 +104,17 @@
                  width: 100px;">해석</h3>
       <div style="padding : 16px;">
 
+        
+
         <table style = "border-collapse: collapse;">
 
           <tr>
             <td class = "uppertable" ><b>제인 :</b></td>
-            <td class = "lowertable" >대부분의 아이들이 깨끗하고 건강한 귓볼을 유지할 수 없기 때문에, 우리는 귀를 뚫는 것을 허용해서는 안 돼. 귀를 뚫은 내 친구들은 결국 모두 감염이 되었어. 정말 징그러워! </td>
+            <td class = "lowertable" style = "word-break: keep-all">대부분의 아이들이 깨끗하고 건강한 귓볼을 유지할 수 없기 때문에, 우리는 귀를 뚫는 것을 허용해서는 안 돼. 귀를 뚫은 내 친구들은 결국 모두 감염이 되었어. 정말 징그러워! </td>
           </tr>
-          <tr>
+          <tr style="color:#1565C0;">
             <td class = "uppertable" ><b>탐 :</b></td>
-            <td class = "lowertable" >신체를 개조하는 받는 모든 연령대의 사람들은 그것에 수반되는 책임을 알아야 해. 책임감 있는 학생들은 귀를 뚫는 것을 통해 자유롭게 자신을 표현할 수 있도록 해야 해.</td>
+            <td class = "lowertable" style = "word-break: keep-all">신체를 개조하는 받는 모든 연령대의 사람들은 그것에 수반되는 책임을 알아야 해. 책임감 있는 학생들은 귀를 뚫는 것을 통해 자유롭게 자신을 표현할 수 있도록 해야 해.</td>
           </tr>
       
           </table>
@@ -126,8 +128,6 @@
 
 
   </v-layout>
-</v-container>
-</v-layout>
 </v-container>
 </div>
 
@@ -189,11 +189,6 @@ p{
 
 h3{
   padding-top: 7px;
-
-}
-
-li{
-
 
 }
 

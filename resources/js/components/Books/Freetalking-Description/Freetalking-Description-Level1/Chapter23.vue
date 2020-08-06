@@ -30,7 +30,7 @@
   <div style = "padding : 16px;">
 
       <h3>
-        The first and second babies are playing while the third baby is touching the head of the second baby.
+        The first and second babies are playing while the third baby is touching the face of the second baby.
       </h3>
 
       <h3>

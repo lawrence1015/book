@@ -31,7 +31,7 @@
   <h3  class = "border white--text" style = "border-radius: 0px 0px 70px 0px;" >Topic</h3>
 
 
-  <div style = "padding : 16px; line-height: 200%;">
+  <div style = "padding : 16px; line-height: 1.6;">
 
     <table style = "border-collapse: collapse;">
 
@@ -42,7 +42,7 @@
       I think she is very disrespectful, and I want to tell the teacher when she comes back.
       You should always be on time for class!</td>
     </tr>
-    <tr>
+    <tr style="color:#1565C0;">
       <td class = "uppertable" ><b>B :</b></td>
       <td class = "lowertable" >I think that we should just relax and let the substitute take care of it.
       By telling on another person, all we do is make ourselves look bad.
@@ -65,23 +65,23 @@
       <div style="padding : 16px;">
 
         <p>
-          <b>tell on 고자질 하다</b>
+          <b>tell on</b> 고자질 하다
         </p>
 
         <p>
-          <b>certain 어떤</b>
+          <b>certain</b> 어떤
         </p>
 
         <p>
-          <b>substitute 대안, 대체</b>
+          <b>substitute</b> 대안, 대체
         </p>
 
         <p>
-          <b>disrespectful 무례한</b>
+          <b>disrespectful</b> 무례한
         </p>
 
         <p>
-          <b>get in trouble with ~ ~로 곤란 에 빠지다</b>
+          <b>get in trouble with</b> ~ ~로 곤란 에 빠지다
         </p>
 
       </div>
@@ -100,42 +100,36 @@
                  width: 100px;">해석</h3>
       <div style="padding : 16px;">
 
-        <p>
-
-          <v-container grid-list-md text-xs-left>
-            <v-layout row wrap>
-
-
-              <v-flex xs12>
-                <v-card light color="#FFE7D5">
-                  <v-card-text class="px-10">
-                    <p>
+                      <p class = "korean">
+                        <b>
                         해석 다른 사람에게 일러야 하나요?
-                    </p>
-                    <ol class="replace" type = "A" style="font-weight: bold;">
-                      <li><span class = "normaltext">
-                        나는 우리 반에서 어떤 여자애를 좋아하지 않아요.
-                          그녀는 항상 어떤 일이 있을 때 늦게 와요. 나는 그녀가 매우 무례해서 그녀가 돌아왔을 때, 선생님께 말하고 싶어요.
-                          여러분은 항상 수업에 제시간에 와야만 합니다!!
-                        </span>
-                      </li>
-                      <li><span class = "normaltext">
-                        나는 우리가 좀 느긋해져야 하고 다른 방법으로 그 일이 다뤄져야 한다고 생각해.
-                          다른 사람에 대해 고자질 하는 것으로 우리가 하는 모든 일이 우리 자신을 좋지 않게 보이게 만들 뿐이야.
-                          그녀는 그녀의 나쁜 행동으로 곤란에 빠질거야.</b>
-                      </span>
-                      </li>
-                    </ol>
-                    <p>
-                      우리는 다른 사람을 일러야 할까요?
-                    </p>
-                  </v-card-text>
-                </v-card>
-              </v-flex>
-            </v-layout>
-          </v-container>
+                        </b>
+                      </p>
 
-        </p>
+                      <table style = "border-collapse: collapse;">
+
+                       <tr>
+                        <td class = "uppertable" ><b>A :</b></td>
+                        <td class = "lowertable" style = "word-break: keep-all" >나는 우리 반에서 어떤 여자애를 좋아하지 않아요.
+                          그녀는 항상 어떤 일이 있을 때 늦게 와요. 나는 그녀가 매우 무례해서 그녀가 돌아왔을 때, 선생님께 말하고 싶어요.
+                          여러분은 항상 수업에 제시간에 와야만 합니다!!</td>
+                      </tr>
+                      <tr style="color:#1565C0;">
+                        <td class = "uppertable" ><b>B :</b></td>
+                        <td class = "lowertable" style = "word-break: keep-all" >나는 우리가 좀 느긋해져야 하고 다른 방법으로 그 일이 다뤄져야 한다고 생각해.
+                          다른 사람에 대해 고자질 하는 것으로 우리가 하는 모든 일이 우리 자신을 좋지 않게 보이게 만들 뿐이야.
+                          그녀는 그녀의 나쁜 행동으로 곤란에 빠질거야.</td>
+                      </tr>
+
+                    
+                      </table>
+
+
+                      <p class = "korean">
+                        우리는 다른 사람을 일러야 할까요?
+                      </p>
+
+        
 
 
       </div>
@@ -145,8 +139,6 @@
 
 
   </v-layout>
-</v-container>
-</v-layout>
 </v-container>
 </div>
 
@@ -211,10 +203,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

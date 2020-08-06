@@ -31,7 +31,7 @@
           <h2 style="padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Today's topic</h2>
 
   <hr width="60%">
-               <div style="padding : 10px; line-height: 200%;">
+               <div style="padding : 10px; line-height: 200%;" class = "korean">
 
                  <h2>Pattern 5 | </h2>
                   <br />
@@ -109,13 +109,13 @@
           <b>037</b> 난 그 싱크대를 고칠까 계속 생각하고 있었어. ( fix, sink ) <br />
         </p>
         <p>
-          <b>038</b> 돈을 입금할까 생각 중이에요. ( deposit,money ) <br />
+          <b>038</b> 돈을 입금할까 생각 중이에요. ( deposit, money ) <br />
         </p>
         <p>
-          <b>039</b> 그 노래를 녹음할까 생각 중이에요. ( record,song ) <br />
+          <b>039</b> 그 노래를 녹음할까 생각 중이에요. ( record, song ) <br />
         </p>
         <p>
-          <b>040</b> 임신할까 생각 중이에요. ( get,pregnant ) <br />
+          <b>040</b> 아이를 가질까 생각 중이에요. ( have, baby ) <br />
         </p>
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
@@ -131,7 +131,7 @@
               037  I’ve been thinking about fixing the sink.<br />
               038  I've been thinking about depositing money.<br />
               039  I've been thinking about recording that song.<br />
-              040  I've been thinking about getting pregnant.<br />
+              040  I've been thinking about having a baby.<br />
             </v-card-text>
           </v-card>
         </v-flex>

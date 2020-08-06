@@ -29,7 +29,7 @@
   </div>
 
   <h3  class = "border white--text" style = "border-radius: 0px 0px 70px 0px;" >Topic</h3>
-  <div style = "padding : 16px; line-height: 200%;">
+  <div style = "padding : 16px; line-height: 1.6;">
 
     <table style = "border-collapse: collapse;">
 
@@ -39,7 +39,7 @@
       Nowadays, people are getting more selfish and living less grateful lives.
       I think spending some quality time away from a busy life will be helpful in gaining confidence and self-esteem.</td>
     </tr>
-    <tr>
+    <tr style="color:#1565C0;">
       <td class = "uppertable" ><b>B :</b></td>
       <td class = "lowertable" >I totally agree with you.
       I have recently joined a volunteering organization in my neighborhood to help disabled people.
@@ -62,34 +62,34 @@
       <div style="padding : 16px;">
 
         <p>
-          <b>participate in 참여하다</b>
+          <b>participate</b> in 참여하다
         </p>
         <p>
-          <b>selfish 제멋대로의</b>
+          <b>selfish</b> 제멋대로의
         </p>
         <p>
-          <b>grateful 감사하는</b>
+          <b>grateful</b> 감사하는
         </p>
         <p>
-          <b>busy 바쁜</b>
+          <b>busy</b> 바쁜
         </p>
         <p>
-          <b>gain 얻다</b>
+          <b>gain</b> 얻다
         </p>
         <p>
-          <b>self-esteem 자존감</b>
+          <b>self-esteem</b> 자존감
         </p>
         <p>
-          <b>volunteer 봉사</b>
+          <b>volunteer</b> 봉사
         </p>
         <p>
-          <b>organization 단체</b>
+          <b>organization</b> 단체
         </p>
         <p>
-          <b>rewarding 보람이 있는</b>
+          <b>rewarding</b> 보람이 있는
         </p>
         <p>
-          <b>experience 경험</b>
+          <b>experience</b> 경험
         </p>
         <br />
         <p style="color: #56AAFF;">
@@ -115,40 +115,33 @@
                  width: 100px;">해석</h3>
       <div style="padding : 16px;">
 
-        <p>
 
-          <v-container grid-list-md text-xs-left>
-            <v-layout row wrap>
-
-
-              <v-flex xs12>
-                <v-card light color="#FFE7D5">
-                  <v-card-text class="px-10">
-                    <p>
+                      <p class = "korean">
+                        <b>
                         봉사활동에 참여해야 할까요?
-                    </p>
-                    <ol class="replace" type = "A" style="font-weight: bold;">
-                      <li><span class = "normaltext">
-                        우리 모두는 자원 봉사와 사회 사업에 참여 해야 한다고 생각해.
+                        </b>
+                      </p>
+
+                      <table style = "border-collapse: collapse;">
+
+                       <tr>
+                        <td class = "uppertable" ><b>A :</b></td>
+                        <td class = "lowertable" style = "word-break: keep-all" >우리 모두는 자원 봉사와 사회 사업에 참여 해야 한다고 생각해.
                           요즘 사람들은 점점 이기적으로 생활하고 덜 감사하는 삶을 살고 있어.
-                          바쁜 삶에서 벗어나 좋은 시간을 보내면 자신감과 자부심을 얻는 데 도움이 될 거야.
-                        </span>
-                      </li>
-                      <li><span class = "normaltext">
-                        나도 완전히 너에게 동의해.
+                          바쁜 삶에서 벗어나 좋은 시간을 보내면 자신감과 자부심을 얻는 데 도움이 될 거야.</td>
+                      </tr>
+                      <tr style="color:#1565C0;">
+                        <td class = "uppertable" ><b>B :</b></td>
+                        <td class = "lowertable" style = "word-break: keep-all" >나도 완전히 너에게 동의해.
                           나는 최근 장애인을 돕기 위해 이웃 에있는 자원 봉사 단체에 가입했어..
-                          매우 보람 있는 경험 이었고 저는 제 인생의 단순한 것들에 감사하게 되었어.</b>
-                      </span>
-                      </li>
-                    </ol>
+                          매우 보람 있는 경험 이었고 저는 제 인생의 단순한 것들에 감사하게 되었어.</td>
+                      </tr>
 
-                  </v-card-text>
-                </v-card>
-              </v-flex>
-            </v-layout>
-          </v-container>
+                    
+                      </table>
 
-        </p>
+
+                   
 
 
       </div>
@@ -158,8 +151,6 @@
 
 
   </v-layout>
-</v-container>
-</v-layout>
 </v-container>
 </div>
 
@@ -221,11 +212,6 @@ p{
 
 h3{
   padding-top: 7px;
-
-}
-
-li{
-
 
 }
 

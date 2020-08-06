@@ -29,7 +29,7 @@
   </div>
 
   <h3  class = "border white--text" style = "border-radius: 0px 0px 70px 0px;" >Topic</h3>
-  <div style = "padding : 16px; line-height: 200%;">
+  <div style = "padding : 16px; line-height: 1.6;">
 
     <table style = "border-collapse: collapse;">
 
@@ -37,7 +37,7 @@
       <td class = "uppertable" ><b>Jane :</b></td>
       <td class = "lowertable" >Some people think dreams are visions of the future or messages from otherworldly figures. I don’t believe in that hocus pocus! Dreams are random and serve no real purpose in the real world.</td>
     </tr>
-    <tr>
+    <tr style="color:#1565C0;">
       <td class = "uppertable" ><b>Tom :</b></td>
       <td class = "lowertable" >According to scientists, studies suggest dreams help with memory processing, psychological and emotion balancing, and preparing for upcoming challenges. Dreams are important because they are another extension of our lives.</td>
     </tr>
@@ -58,40 +58,40 @@
       <div style="padding : 16px;">
 
         <p>
-          <b>vision 환상 </b>
+          <b>vision</b> 환상 
         </p>
         <p>
-          <b>otherworldly 내세의 </b>
+          <b>otherworldly</b> 내세의 
         </p>
         <p>
-          <b>hocus pocus 터무니없는 말 </b>
+          <b>hocus pocus</b> 터무니없는 말 
         </p>
         <p>
-          <b>random 무작위의</b>
+          <b>random</b> 무작위의
         </p>
         <p>
-          <b>purpose 목적 </b>
+          <b>purpose</b> 목적 
         </p>
         <p>
-          <b>memory 기억력 </b>
+          <b>memory</b> 기억력 
         </p>
         <p>
-          <b>process 처리하다 </b>
+          <b>process</b> 처리하다 
         </p>
         <p>
-          <b>psychological 정신의 </b>
+          <b>psychological</b> 정신의 
         </p>
         <p>
-          <b>balance 균형을 잡다 </b>
+          <b>balance</b> 균형을 잡다 
         </p>
         <p>
-          <b>upcoming 다가오는 </b>
+          <b>upcoming</b> 다가오는 
         </p>
         <p>
-          <b>challenge 도전 </b>
+          <b>challenge</b> 도전 
         </p>
         <p>
-          <b>extension 연장</b>
+          <b>extension</b> 연장
         </p>
 
       </div>
@@ -116,7 +116,7 @@
             <td class = "uppertable" ><b>제인 :</b></td>
             <td class = "lowertable" >어떤 사람들은 꿈이 미래에 대한 비전이라고 생각하거나 다른 세상의 인물들로부터의 메시지라고 생각해. 난 그 터무니없는 말을 믿지 않아! 꿈은 무작위적이고 현실세계에서 진정한 목적에 도움이 되지 않아.</td>
           </tr>
-          <tr>
+          <tr style="color:#1565C0;">
             <td class = "uppertable" ><b>탐 :</b></td>
             <td class = "lowertable" >과학자들에 따르면, 연구 결과가 꿈이 기억 처리, 심리적, 감정적 균형 조정, 그리고 다가오는 도전에 대비하는 데 도움이 된다는 것을 시사해. 꿈은 우리 삶의 또 다른 연장선이기 때문에 중요해.</td>
           </tr>
@@ -132,8 +132,6 @@
 
 
   </v-layout>
-</v-container>
-</v-layout>
 </v-container>
 </div>
 
@@ -198,10 +196,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

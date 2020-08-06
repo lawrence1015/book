@@ -43,7 +43,7 @@
        <br />
      </li>
      <li class="mb-2">
-       Is the Korean culture becoming too Americanized?<br />
+       Is Korean culture becoming too Americanized?<br />
        <br />
      </li>
      <li class="mb-2">
@@ -73,7 +73,7 @@
      </li>
      <br />
      <li class="mb-2">
-       한국 문화가 너무 미국화되고 있나요?
+      한국 문화는 너무 미국화되고 있는 것일까?
    </li>
    <br />
    <li class="mb-2">
@@ -86,8 +86,6 @@
 
        </v-layout>
      </v-container>
-  </v-layout>
-  </v-container>
 </div>
 
 

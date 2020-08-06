@@ -31,7 +31,7 @@
   <div style = "padding : 16px; line-height: 200%;">
 
       <p>
-        Teleportation is conceivable in the subatomic universe of quantum mechanics yet not in the manner regularly appeared on TV. In the quantum world, teleportation includes the transportation of data, as opposed to the transportation of issues. In New exploration, it's as of now conceivable to perform teleportation between electrons. Bits are transistors found in a run of the mill PC, so Quantum teleportation is significant for transmitting data in quantum figuring. The fundamental idea of quantum is ensnarement and we have this Entangled Pair of Electrons and 'Creepy activity a good ways off' 
+        Teleportation is conceivable in the subatomic universe of quantum mechanics yet not in the manner regularly appeared on TV. In the quantum world, teleportation includes the transportation of data, as opposed to the transportation of issues. In New exploration, it's as of now conceivable to perform teleportation between electrons. Bits are transistors found in a run of the mill PC, so Quantum teleportation is significant for transmitting data in quantum figuring. The fundamental idea of quantum is ensnarement and we have this Entangled Pair of Electrons and 'Creepy activity a good ways off.
       </p>
 
       <p>To show the quantum teleportation utilizing electrons, they built up a specific method 'snare trading'.
@@ -105,16 +105,16 @@
       <div style="padding : 16px;">
 
         <p>
-          <b>but not in the way typically shown on TV.</b> <span class = "korean">TV에서 흔히 볼 수 있는 방식은 아닙니다.</span>
+          <b>as opposed to</b> <span class = "korean">~와 대조적으로</span>
         </p>
         <p>
-          <b>'entanglement swapping'</b> <span class = "korean">'엔텐셜 스와핑'입니다.</span>
+          <b>as of now</b> <span class = "korean">지금으로선</span>
         </p>
         <p>
-          <b>transmitting information in quantum computing.</b> <span class = "korean">양자 컴퓨팅에서 정보를 전송합니다.</span>
+          <b>in a run of</b> <span class = "korean">의 연달아</span>
         </p>
         <p>
-          <b>it's already possible to</b> <span class = "korean">는 것은 이미 가능합니다.</span>
+          <b>the idea of</b> <span class = "korean">~의 아이디어, 생각</span>
         </p>
 
       </div>
@@ -144,13 +144,16 @@
 
         <ol style="padding-right: 20px; padding-top: 10px;">
           <li>
-            What can you think of when you hear the word teleportation?
+            What can you think of when you hear the word teleportation?<br />
+            순간이동에 대해 들으면 무엇이 생각납니까?<br />
           </li>
           <li>
-            Do you have any idea about 'Quantum Teleportation'?
+            Do you have any idea about 'Quantum Teleportation'?<br />
+            'Quantum Teleportation'에 대해 알고있습니까?<br />
           </li>
           <li>
-            In the Quantum world, what do they transmit? 
+            In the Quantum world, what do they transmit?<br />
+            양자세계에서 무엇을 송신합니까?<br />
           </li>
         </ol>
 
@@ -209,7 +212,7 @@
           </v-container>
 
         </p>
-<p>
+<p style = "font-size: small;">
   Image Source: "enterrasolutions"
 </p>
 

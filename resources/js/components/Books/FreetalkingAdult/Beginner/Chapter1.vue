@@ -23,7 +23,7 @@
     </v-img>
 
 
-          <h3 style="background-color: #a7d7c5;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Reading Practice <span style="font-size:18px">( 선생님의 안내에 따라 문장을 읽어 주세요 )</span></h3>
+          <h3 style="background-color: #a7d7c5;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Reading Practice <br><span class = "korean">( 선생님의 안내에 따라 문장을 읽어 주세요 )</span></h3>
                <div style="padding : 16px;">
 
    <p>A. <br />
@@ -100,7 +100,7 @@
  </li>
 
  <h3 style="padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 10px; margin-top: 10px; background-color: #a7d7c5;">Translation</h3>
-      <div style="padding : 16px;">
+      <div style="padding : 16px;" class = "korean">
 
         <p>A.<br />
           내 이름은 제니 김입니다. 저는 한국인입니다. 나는 부산 북구에 살고 있습니다. 나이는 24살 입니다. 나는 대학생입니다. 나의 전공은 경영학입니다. 저의 취미는 영화감상과 독서 입니다.

@@ -68,10 +68,13 @@
           <b>multitask</b> <span class = "korean">다중 작업[처리]을 하다, 동시에 여러 가지 일을 하다</span>
         </p>
         <p>
-          <b>approach</b> <span class = "korean">다가가다[오다], 접촉하다, 말을 하다, 육박하다[근접하다]</span>
+          <b>interdisciplinary</b> <span class = "korean">학제간의</span>
         </p>
         <p>
-          <b>multiple</b> <span class = "korean">많은, 다수[복수]의; 다양한, 복합적인, 배수</span>
+          <b>consolidate</b> <span class = "korean">통합하다</span>
+        </p>
+        <p>
+          <b>instructive</b> <span class = "korean">유익한</span>
         </p>
 
       </div>
@@ -100,13 +103,13 @@
       <div style="padding : 16px;">
 
         <p>
-         <b>take an interdisciplinary approach</b> <span class = "korean">학제간 접근 방식을 취합니다.</span>
+         <b>depend on</b> <span class = "korean">~에 달려있다, ~에 의존하다.</span>
         </p>
         <p>
-         <b>relied on conventional Ai Training methods.</b> <span class = "korean">기존의 AI 훈련 방법에 의존했습니다.</span>
+         <b>deal with</b> <span class = "korean">~을 다루다, 처리하다.</span>
         </p>
         <p>
-         <b>opens the door to incorporate the</b> <span class = "korean">도어를 열고 다음을 통합합니다.</span>
+         <b>make way for something</b> <span class = "korean">을 위해 길을 터주다</span>
         </p>
 
       </div>
@@ -136,13 +139,16 @@
 
         <ol style="padding-right: 20px; padding-top: 10px;">
           <li>
-            What is Multitask learning?
+            What is Multitask learning?<br />
+            ‘Multitask learning’이란 무엇인가요?<br />
           </li>
           <li>
-            Why is it 10 percent more accurate compared to other methods? 
+            Why is it 10 percent more accurate compared to other methods? <br />
+            다른 방법들과 비교했을때 왜 다중작업은 10%더 정확할까요?
           </li>
           <li>
-            How can it improve a student's ability?? 
+            How can it improve a student's ability?<br />
+            학생들의 능력을 향상시키기 위해서 어떻게 할 수 있을까요?<br />
           </li>
         </ol>
 
@@ -184,17 +190,17 @@
                   <v-card-text class="px-10">
                     <p>
                       <span class = "korean">
-                      <b>도움이 필요한 학생을 식별하는 AI의 능력을 향상시킵니다.</b></span>
+                      <b>도움이 필요한 학생을 식별하는 AI의 능력을 향상</b></span>
                     </p>
                     <p>
                       <span class = "korean">다중 작업 학습은 하나의 모델이 여러 작업을 수행하도록 요청하는 접근 방식입니다.
                       </span>
                     </p>
                     <p>
-                      <span class = "korean">과학자들은 다양한 작업 모델의 성능이 일반적인 AI 준비 전략에 의존하는 다른 모델보다 약 10% 정도 더 정확하다는 것을 발견했습니다.</span>
+                      <span class = "korean">과학자들은 다양한 작업 모델의 성능이 일반적인 AI 준비 전략에 의존하는 다른 모델보다 약 10% 정도 더 정확하다는 것을 발견했습니다.과학자들은 다양한 작업 모델의 성능이 일반적인 AI 준비 전략에 의존하는 다른 모델보다 약 10% 정도 더 정확하다는 것을 발견했습니다.</span>
                     </p>
                     <p>
-                      <span class = "korean">이 연구는 뇌 연구의 이 부분을 AI에 대처하기 위한 심오한 학습과 AI 방법을 결합하는 학제간 전략을 채택하고 있습니다. 또한 예측 불가능한 입증 방법을 교육적 프로그래밍으로 통합할 수 있는 길을 만들 수 있습니다. 특히 언더스터디의 요구를 조정하는 교육적 프로그래밍을 통해 더욱 그렇습니다.</span>
+                      <span class = "korean">이 연구는 뇌 연구의 이 부분을 AI에 대한 깊은 학습과 AI의 대처법과 연계시키는 학제적 전략을 채택하고 있다. 마찬가지로 예측 불가능한 설명수법을 특히 언더스터디의 요구를 조정하는 유익한 프로그래밍에 통합하는 길을 만든다.</span>
                     </p>
                   </v-card-text>
                 </v-card>

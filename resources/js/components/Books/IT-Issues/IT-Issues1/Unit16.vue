@@ -32,7 +32,7 @@
   <div style = "padding : 16px; line-height: 200%;">
 
       <p>
-        IoT inside irresistible ailment the study of disease transmission is a rising field of examination, anyway the pervasive accessibility of shrewd innovations, just as expanded dangers of irresistible malady spread through the globalization and interconnectedness of the world requires its utilization for foreseeing, forestalling, and controlling rising irresistible sicknesses. Thinking about the current circumstance in China, The combined role of IoT and related new technologies might shape early recognition of outbreaks and prevent the spread of zoonotic infectious diseases including the COVID-19, if potential steps are taken to enhance and utilize the data. IoT based shrewd infection reconnaissance frameworks can be a significant forward leap in endeavors to control the current pandemic.
+        IoT inside irresistible ailment: the study of disease transmission is a rising field of examination, anyway the pervasive accessibility of shrewd innovations, just as expanded dangers of irresistible malady spread through the globalization and interconnectedness of the world requires its utilization for foreseeing, forestalling, and controlling rising irresistible sicknesses. Thinking about the current circumstance in China, the combined role of IoT and related new technologies might shape early recognition of outbreaks and prevent the spread of zoonotic infectious diseases including the COVID-19, if potential steps are taken to enhance and utilize the data. IoT based shrewd infection reconnaissance frameworks can be a significant forward leap in endeavors to control the current pandemic.
       </p>
 
       <h3 class = "reverseborder white--text" style="padding-top: 7px;
@@ -76,6 +76,12 @@
         <p>
           <b>zoonotic</b> <span class = "korean">동물원성 감염증의.</span>
         </p>
+        <p>
+          <b>reconnaissance</b> <span class = "korean">정찰</span>
+        </p>
+        <p>
+          <b>endeavor</b> <span class = "korean">노력</span>
+        </p>
     
       </div>
 
@@ -103,16 +109,10 @@
       <div style="padding : 16px;">
 
         <p>
-          <b>as of now utilized in employing for some</b> <span class = "korean">현재 일부 고용에 활용되고 있습니다.</span>
+          <b>just as…</b> <span class = "korean">...처럼</span>
         </p>
         <p>
-          <b>to whether the up-and-comer is capable of coding</b> <span class = "korean">코딩이 가능한지 여부를 확인합니다.</span>
-        </p>
-        <p>
-          <b>estimated each examination member's meeting</b> <span class = "korean">각 시험 구성원의 회의를 추정합니다.</span>
-        </p>
-        <p>
-          <b>likewise, be utilized to avoid gatherings</b> <span class = "korean">마찬가지로, 모음을 방지하는 데 사용됩니다</span> 
+          <b>take a step</b> <span class = "korean">조치를 취하다</span> 
         </p>
 
       </div>
@@ -142,13 +142,16 @@
 
         <ol style="padding-right: 20px; padding-top: 10px;">
           <li>
-            In your own opinion, Is it possible to solve COVID19 with the help of IoT?
+            In your own opinion, is it possible to solve COVID19 with the help of IoT?<br />
+            loT의 도움으로 COVID19를 해결할 수 있다고 생각하십니까?<br />
           </li>
           <li>
-            How technology can be of help in solving this issue?
+            How technology can be of help in solving this issue?<br />
+            어떻게 기술이 이 문제를 해결할 수 있을까요?<br />
           </li>
           <li>
-            If you were given a chance to make a prevention in Covid19 with the help of IoT, What you do?
+            If you were given a chance to make a prevention in Covid19 with the help of IoT, what would you do?<br />
+            IoT의 도움으로 Covid19를 예방할 수 있는 기회가 주어진다면 어떻게 하시겠습니까?<br />
           </li>
         </ol>
 

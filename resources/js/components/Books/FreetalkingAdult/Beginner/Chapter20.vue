@@ -23,7 +23,7 @@
     </v-img>
 
 
-          <h3 style="background-color: #a7d7c5;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Reading Practice <span style="font-size:18px">( 선생님의 안내에 따라 문장을 읽어 주세요 )</span></h3>
+          <h3 style="background-color: #a7d7c5;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Reading Practice ( 선생님의 안내에 따라 문장을 읽어 주세요 )</h3>
                <div style="padding : 16px;">
 
 <p>Walt Disney will remain as one of the most popular and inspiring people to ever live in this world. He is best known as an American director, producer and animator. Before he became highly successful, he was first a boy in a poor family of four brothers and one sister. Throughout his life, he continued to keep and develop his interest in drawing and performing.  He met many failures in his life. He had been rejected several times when he was still starting out.  In the end, because of his persistence, he had given the world the gift of animation, optimism and imagination. Disney's life will always serve as a story of inspiration.
@@ -35,19 +35,19 @@
 
 
 
-<li style="list-style-type: none;"><u>Reject(v)</u> -  to turn down; to not accept <span style="font-size:16px">거부[거절]하다, 거부하다[불합격시키다]</span>
+<li style="list-style-type: none;"><u>Reject(v)</u> -  to turn down; to not accept 거부[거절]하다, 거부하다[불합격시키다]
 </li>
 
-<li style="list-style-type: none;"><u>Persistence(n)</u> -   to continue despite hardships <span style="font-size:16px">고집, 지속됨</span>
+<li style="list-style-type: none;"><u>Persistence(n)</u> -   to continue despite hardships 고집, 지속됨
 </li>
 
-<li style="list-style-type: none;"><u>Optimism(n)</u> -  positive thinking <span style="font-size:16px">낙관론, 낙관[낙천]주의</span>
+<li style="list-style-type: none;"><u>Optimism(n)</u> -  positive thinking 낙관론, 낙관[낙천]주의
 </li>
 
-<li style="list-style-type: none;"><u>Inspiration(n)</u> -   something that provides motivation <span style="font-size:16px">영감, 영감[자극]을 주는 사람[것]</span>
+<li style="list-style-type: none;"><u>Inspiration(n)</u> -   something that provides motivation 영감, 영감[자극]을 주는 사람[것]
 </li>
 
-<li style="list-style-type: none;"><u>Inspiring(adj)</u> - giving inspiration <span style="font-size:16px">고무[격려/자극]하는</span>
+<li style="list-style-type: none;"><u>Inspiring(adj)</u> - giving inspiration 고무[격려/자극]하는
 </li>
 
 <p>Fill in the blanks using the words above.
@@ -102,7 +102,7 @@
   </p>
   </div>
 
-<h3  style="padding-top: 7px;  margin-left: -18px; margin-right: -18px;  padding-bottom: 10px;  padding-top: 10px; padding-left: 10px; background-color: #a7d7c5; ">Conversation Samples <span style="font-size:18px">(선생님과 역할을 나눠서 연습해보세요)</span>
+<h3  style="padding-top: 7px;  margin-left: -18px; margin-right: -18px;  padding-bottom: 10px;  padding-top: 10px; padding-left: 10px; background-color: #a7d7c5; ">Conversation Samples (선생님과 역할을 나눠서 연습해보세요)
 </h3>
 
 <div style="padding : 16px;">
@@ -595,11 +595,6 @@ p{
 
 h3{
   padding-top: 7px;
-
-}
-
-li{
-
 
 }
 

@@ -6,7 +6,7 @@
   
         <v-layout column>
           <v-img
-          src="//live.staticflickr.com/5537/11261399165_8d8577a05b_4k.jpg" style="max-width: 100%; display:block; height: auto;">
+          src="https://ksyu.files.wordpress.com/2014/04/immigration-officer.jpg" style="max-width: 100%; display:block; height: auto;">
   
           <v-layout
           align-end
@@ -175,7 +175,7 @@
           },
           {
             name:'Matt',
-            speech:'I`m coming from Seoul.'
+            speech:'I’m coming from Seoul.'
           },
           {
             name:'Immigration officer:',
@@ -183,7 +183,7 @@
           },
           {
             name:'Matt',
-            speech:'I`m here on a trip'
+            speech:'I’m here on a trip'
           },
           {
             name:'Immigration officer:',
@@ -191,7 +191,7 @@
           },
           {
             name:'Matt',
-            speech:'I`ll be staying for three weeks.'
+            speech:'I’ll be staying for three weeks.'
           },
           {
             name:'Immigration officer:',
@@ -199,7 +199,7 @@
           },
           {
             name:'Matt',
-            speech:'I`ll be staying at a hotel.'
+            speech:'I’ll be staying at a hotel.'
           },
           {
             name:'Immigration officer:',

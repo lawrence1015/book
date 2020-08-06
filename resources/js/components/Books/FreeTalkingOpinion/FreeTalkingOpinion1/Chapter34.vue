@@ -29,7 +29,7 @@
   </div>
 
   <h3  class = "border white--text" style = "border-radius: 0px 0px 70px 0px;" >Topic</h3>
-  <div style = "padding : 16px; line-height: 200%;">
+  <div style = "padding : 16px; line-height: 1.6;">
 
     <table style = "border-collapse: collapse;">
 
@@ -37,7 +37,7 @@
       <td class = "uppertable" ><b>Jane :</b></td>
       <td class = "lowertable" >Being humble is unhealthy because it makes you belittle yourself. Why should I soften myself for other People? Humility is a useless trait that makes us weak.</td>
     </tr>
-    <tr>
+    <tr style="color:#1565C0;">
       <td class = "uppertable" ><b>Tom :</b></td>
       <td class = "lowertable" >Many people confuse humility with low self-esteem. Being humble means being authentic. It means being honest with yourself and others. Humble people are self-aware and try to see the good in everyone, including themselves.</td>
     </tr>
@@ -58,34 +58,34 @@
       <div style="padding : 16px;">
 
         <p>
-          <b>belittle 하찮게 만들다</b>
+          <b>belittle</b> 하찮게 만들다
         </p>
         <p>
-          <b>soften 약화시키다 </b>
+          <b>soften</b> 약화시키다 
         </p>
         <p>
-          <b>useless 쓸모 없는 </b>
+          <b>useless</b> 쓸모 없는 
         </p>
         <p>
-          <b>trait 특성 </b>
+          <b>trait</b> 특성 
         </p>
         <p>
-          <b>weak 약한 </b>
+          <b>weak</b> 약한 
         </p>
         <p>
-          <b>confuse 혼동하다 </b>
+          <b>confuse</b> 혼동하다 
         </p>
         <p>
-          <b>self-esteem 자부심 </b>
+          <b>self-esteem</b> 자부심 
         </p>
         <p>
-          <b>authentic 진정한 </b>
+          <b>authentic</b> 진정한 
         </p>
         <p>
-          <b>honest 정직한 </b>
+          <b>honest</b> 정직한 
         </p>
         <p>
-          <b>self-aware 자기를 인식하는</b>
+          <b>self-aware</b> 자기를 인식하는
         </p>
 
       </div>
@@ -110,7 +110,7 @@
             <td class = "uppertable" ><b>제인 :</b></td>
             <td class = "lowertable" >겸손해지는 것은 자신을 비하하게 하기 때문에 건강에 좋지 않아. 왜 내가 다른 사람들을 위해 나 자신을 약하게 해야 하니? 겸손은 우리를 약하게 만드는 쓸모 없는 특성이야</td>
           </tr>
-          <tr>
+          <tr style="color:#1565C0;">
             <td class = "uppertable" ><b>탐 :</b></td>
             <td class = "lowertable" >많은 사람들은 겸손과 낮은 자존감을 혼동하지. 겸손하다는 것은 진실한 것을 의미해. 그것은 자신과 다른 사람들에게 솔직하다는 것을 뜻해. 겸손한 사람들은 자각을 하고 자신을 포함한 모든 사람들의 좋은 점을 보려고 노력하지.</td>
           </tr>
@@ -126,8 +126,6 @@
 
 
   </v-layout>
-</v-container>
-</v-layout>
 </v-container>
 </div>
 
@@ -192,10 +190,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

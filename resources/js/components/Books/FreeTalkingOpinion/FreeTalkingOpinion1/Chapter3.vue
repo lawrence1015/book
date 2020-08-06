@@ -29,10 +29,12 @@
   </div>
 
   <h3  class = "border white--text" style = "border-radius: 0px 0px 70px 0px;" >Topic</h3>
-  <div style = "padding : 16px; line-height: 200%;">
+  <div style = "padding : 16px; line-height: 1.6;">
 
     <p>
+      <b>
       Two People Discuss If They Should Push People While Waiting In Line.
+      </b>
     </p>
 
     <table style = "border-collapse: collapse;">
@@ -43,7 +45,7 @@
       When people started to wait in line to get out, someone pushed me out of the way!
       I couldn't believe it. It ruined my morning!</td>
     </tr>
-    <tr>
+    <tr style="color:#1565C0;">
       <td class = "uppertable" ><b>B :</b></td>
       <td class = "lowertable" >That is terrible! Sometimes it is hard to wait patiently in such a busy place,
       but people should still keep public order.</td>
@@ -65,27 +67,27 @@
       <div style="padding : 16px;">
 
         <p>
-          <b>push 밀다</b>
+          <b>push</b> 밀다
         </p>
 
         <p>
-          <b>in line 일렬로, 일직선으로</b>
+          <b>in line</b> 일렬로, 일직선으로
         </p>
 
         <p>
-          <b>ride 타다</b>
+          <b>ride</b> 타다
         </p>
 
         <p>
-          <b>subway 지하철</b>
+          <b>subway</b> 지하철
         </p>
 
         <p>
-          <b>get out 나가다</b>
+          <b>get out</b> 나가다
         </p>
 
         <p>
-          <b>ruin 망치다</b>
+          <b>ruin</b> 망치다
         </p>
         <br />
         <p style="color: #56AAFF;">
@@ -108,41 +110,31 @@
                  width: 100px;">해석</h3>
       <div style="padding : 16px;">
 
-        <p>
 
-          <v-container grid-list-md text-xs-left>
-            <v-layout row wrap>
-
-
-              <v-flex xs12>
-                <v-card light color="#FFE7D5">
-                  <v-card-text class="px-10">
-                    <p>
+                      <p class = "korean">
+                        <b>
                         줄 서서 기다릴 때 다른 사람들을 밀어도 될까요?
                         두 명의 사람들이 줄 서서 기다리는 동안 사람들을 밀쳐도 되는지 토론을 합니다.
-                    </p>
+                        </b>
+                      </p>
 
-                    <ol class="replace" type = "A" style="font-weight: bold;">
-                      <li><span class = "normaltext">
-                          오늘 아침 정말 짜증났어요. 지하철을 타고 있었어요.
+                      <table style = "border-collapse: collapse;">
+
+                       <tr>
+                        <td class = "uppertable" ><b>A :</b></td>
+                        <td class = "lowertable" style = "word-break: keep-all" >오늘 아침 정말 짜증났어요. 지하철을 타고 있었어요.
                           지하철이 사람들로 꽉 차 있었습니다. 사람들이 나가기 위해 줄을 서서 기다리기 시작했을 때 누군가가 나를 밀쳐냈습니다!
-                          믿을 수가 없었어요. 내 아침을 망쳐버렸습니다.
-                        </span>
-                      </li>
-                      <li><span class = "normaltext">
-                        정말 최악이네요! 그렇게 바쁜 장소에서 참을성 있게 기다리는 것은 어려워요.
-                          하지만 사람들은 공중질서를 잘 지켜야 합니다.</b>
-                      </span>
-                      </li>
-                    </ol>
+                          믿을 수가 없었어요. 내 아침을 망쳐버렸습니다.</td>
+                      </tr>
+                      <tr style="color:#1565C0;">
+                        <td class = "uppertable" ><b>B :</b></td>
+                        <td class = "lowertable" style = "word-break: keep-all" >정말 최악이네요! 그렇게 바쁜 장소에서 참을성 있게 기다리는 것은 어려워요.
+                          하지만 사람들은 공중질서를 잘 지켜야 합니다.</td>
+                      </tr>
 
-                  </v-card-text>
-                </v-card>
-              </v-flex>
-            </v-layout>
-          </v-container>
+                      </table>
 
-        </p>
+        
 
 
       </div>
@@ -152,8 +144,6 @@
 
 
   </v-layout>
-</v-container>
-</v-layout>
 </v-container>
 </div>
 
@@ -218,10 +208,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

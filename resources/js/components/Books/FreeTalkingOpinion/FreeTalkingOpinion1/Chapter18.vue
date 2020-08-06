@@ -29,7 +29,7 @@
   </div>
 
   <h3  class = "border white--text" style = "border-radius: 0px 0px 70px 0px;" >Topic</h3>
-  <div style = "padding : 16px; line-height: 200%;">
+  <div style = "padding : 16px; line-height: 1.6;">
 
     <table style = "border-collapse: collapse;">
 
@@ -40,7 +40,7 @@
       Without it, nobody would feel happy, because they wouldn't be able to fulfill their basic needs.
       You don't want to sleep on the streets in the cold weather.</td>
     </tr>
-    <tr>
+    <tr style="color:#1565C0;">
       <td class = "uppertable" ><b>B :</b></td>
       <td class = "lowertable" >You may feel secure by having money, but money itself does not define happiness.
       Not all poor people are miserable.
@@ -64,34 +64,34 @@
       <div style="padding : 16px;">
 
         <p>
-          <b>living 생활</b>
+          <b>living</b> 생활
         </p>
         <p>
-          <b>enough 충분한</b>
+          <b>enough</b> 충분한
         </p>
         <p>
-          <b>without ~ 없이</b>
+          <b>without</b> ~ 없이
         </p>
         <p>
-          <b>fulfill 채우다</b>
+          <b>fulfill</b> 채우다
         </p>
         <p>
-          <b>secure 안심하는</b>
+          <b>secure</b> 안심하는
         </p>
         <p>
-          <b>define 정의하다</b>
+          <b>define</b> 정의하다
         </p>
         <p>
-          <b>miserable 비참한</b>
+          <b>miserable</b> 비참한
         </p>
         <p>
-          <b>depend 의지하다</b>
+          <b>depend</b> 의지하다
         </p>
         <p>
-          <b>tool 도구</b>
+          <b>tool</b> 도구
         </p>
         <p>
-          support 유지하다.
+          <b>support</b> 유지하다.
         </p>
         <br />
         <p style="color: #56AAFF;">
@@ -114,41 +114,33 @@
                  width: 100px;">해석</h3>
       <div style="padding : 16px;">
 
-        <p>
 
-          <v-container grid-list-md text-xs-left>
-            <v-layout row wrap>
-
-
-              <v-flex xs12>
-                <v-card light color="#FFE7D5">
-                  <v-card-text class="px-10">
-                    <p>
+                      <p class = "korean">
+                        <b>
                         해석 돈이 모두를 행복하게 할 수 있나요?
-                    </p>
-                    <ol class="replace" type = "A" style="font-weight: bold;">
-                      <li><span class = "normaltext">
-                          사람들은 생계를 유지하기 위해 돈이 필요합니다.
+                        </b>
+                      </p>
+
+                      <table style = "border-collapse: collapse;">
+
+                       <tr>
+                        <td class = "uppertable" ><b>A :</b></td>
+                        <td class = "lowertable" style = "word-break: keep-all" >사람들은 생계를 유지하기 위해 돈이 필요합니다.
                           우리는 충분한 돈으로 무엇이든 살 수 있습니다. 그것 없이는, 아무도 행복하지 않을 것입니다.
                           왜냐하면 그들은 그들의 기본적인 필요를 성취 할 수 없기 때문입니다.
-                          당신은 추운 날씨에 거리에서 자고 싶지 않을 거예요.
-                        </span>
-                      </li>
-                      <li><span class = "normaltext">
-                        돈이 있으면 안심할 수 있지만, 돈 자체가 행복을 정의하지는 않습니다.
+                          당신은 추운 날씨에 거리에서 자고 싶지 않을 거예요.</td>
+                      </tr>
+                      <tr style="color:#1565C0;">
+                        <td class = "uppertable" ><b>B :</b></td>
+                        <td class = "lowertable" style = "word-break: keep-all" >돈이 있으면 안심할 수 있지만, 돈 자체가 행복을 정의하지는 않습니다.
                           모든 가난한 사람들이 비참하지는 않습니다. 사람들은 행복하기 위해 돈에 의존해서는 안됩니다.
-                          그것은 단지 자신의 인생을 지원하는 도구 일뿐입니다.
-                      </span>
-                      </li>
-                    </ol>
+                          그것은 단지 자신의 인생을 지원하는 도구 일뿐입니다.</td>
+                      </tr>
 
-                  </v-card-text>
-                </v-card>
-              </v-flex>
-            </v-layout>
-          </v-container>
+                    
+                      </table>
 
-        </p>
+        
 
 
       </div>
@@ -158,8 +150,6 @@
 
 
   </v-layout>
-</v-container>
-</v-layout>
 </v-container>
 </div>
 
@@ -224,10 +214,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

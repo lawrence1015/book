@@ -351,8 +351,6 @@
 
        </v-layout>
      </v-container>
-  </v-layout>
-  </v-container>
 </div>
 </template>
 
@@ -407,10 +405,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

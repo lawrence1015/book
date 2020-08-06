@@ -23,7 +23,7 @@
     </v-img>
 
 
-          <h3 style="background-color: #a7d7c5;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Reading Practice <span style="font-size:18px">( 선생님의 안내에 따라 문장을 읽어 주세요 )</span></h3>
+          <h3 style="background-color: #a7d7c5;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Reading Practice ( 선생님의 안내에 따라 문장을 읽어 주세요 )</h3>
                <div style="padding : 16px;">
 
    <p>Colors are very important. The world would look very boring without any colors. Everything will be in gray even the flowers, the trees, and the sky! Can you imagine that? Colors can change your mood and attract your attention. Colors also bring up different meanings for people. For example, the color red can mean love or hatred depending on the person. Blue can mean peace or sorrow.
@@ -35,19 +35,19 @@
 
 
 
-<li style="list-style-type: none;"><u>Boring</u> - not interesting or special <span style="font-size:16px">재미없는, 지루한</span>
+<li style="list-style-type: none;"><u>Boring</u> - not interesting or special 재미없는, 지루한
 </li>
 
-<li style="list-style-type: none;"><u>Hatred</u> - intense dislike; hate <span style="font-size:16px">증오[혐오](감)</span>
+<li style="list-style-type: none;"><u>Hatred</u> - intense dislike; hate 증오[혐오](감)
 </li>
 
-<li style="list-style-type: none;"><u>Sorrow</u> - sadness <span style="font-size:16px">(큰) 슬픔, 비애 (=grief)</span>
+<li style="list-style-type: none;"><u>Sorrow</u> - sadness (큰) 슬픔, 비애 (=grief)
 </li>
 
-<li style="list-style-type: none;"><u>Symbolize</u> - to mean or represent <span style="font-size:16px">상징하다</span>
+<li style="list-style-type: none;"><u>Symbolize</u> - to mean or represent 상징하다
 </li>
 
-<li style="list-style-type: none;"><u>Jealousy</u> - to want something that another person owns <span style="font-size:16px">질투[시기](심), 시샘</span>
+<li style="list-style-type: none;"><u>Jealousy</u> - to want something that another person owns 질투[시기](심), 시샘
 </li>
 
 <p>
@@ -120,7 +120,7 @@ margin-bottom: -10px;">
 </div>
 
 
-<h3 style="padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 10px; margin-top: 10px; background-color: #a7d7c5;">Reading Practice <span style="font-size:18px">( 선생님의 안내에 따라 문장을 읽어주세요 )</span></h3>
+<h3 style="padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 10px; margin-top: 10px; background-color: #a7d7c5;">Reading Practice ( 선생님의 안내에 따라 문장을 읽어주세요 )</h3>
      <div style="padding : 16px;">
 
 <p>Our art professor told us that colors reflect one's personality. I was very curious and interested so I searched the Internet for information. I learned that colors really tell a person's character! My favorite color is green. According to the website, people who like green are those who want to love and be loved.
@@ -154,16 +154,16 @@ margin-bottom: -10px;">
 
 
 
-<li style="list-style-type: none;"><u>Curious</u> -  to be interested <span style="font-size:16px">궁금한; 호기심이 많은 (=inquisitive)</span>
+<li style="list-style-type: none;"><u>Curious</u> -  to be interested 궁금한; 호기심이 많은 (=inquisitive)
 </li>
 
-<li style="list-style-type: none;"><u>Personality</u> - the behavioral, mental and emotional characteristics of a person <span style="font-size:16px">성격, 인격, (매력적이고 흥미로운) 개성</span>
+<li style="list-style-type: none;"><u>Personality</u> - the behavioral, mental and emotional characteristics of a person 성격, 인격, (매력적이고 흥미로운) 개성
 </li>
 
-<li style="list-style-type: none;"><u>Sociable</u> - friendly <span style="font-size:16px">사람들과 어울리기 좋아하는, 사교적인, 붙임성 있는</span>
+<li style="list-style-type: none;"><u>Sociable</u> - friendly 사람들과 어울리기 좋아하는, 사교적인, 붙임성 있는
 </li>
 
-<li style="list-style-type: none;"><u>Cheerful</u> - happy and energetic <span style="font-size:16px">발랄한, 쾌활한</span>
+<li style="list-style-type: none;"><u>Cheerful</u> - happy and energetic 발랄한, 쾌활한
 </li>
 
 <p>

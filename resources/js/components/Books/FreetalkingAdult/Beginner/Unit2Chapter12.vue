@@ -191,78 +191,7 @@ export default {
 
     return{
 
-      dialogs:[
-        {
-          name:'F :',
-          speech:"How was your freshmen year? You're in second year now, right?"
-        },
-        {
-          name:'M :',
-          speech:"Yes, that is true. Last year was both tough and awesome at the same time. It was quite hard adjusting to a new school and new people."
-        },
-        {
-          name:'F :',
-          speech:"How did you find your subjects?"
-        },
-        {
-          name:'M :',
-          speech:"Some were difficult but some were enjoyable. My favorite was literature and history."
-        },
-        {
-          name:'F :',
-          speech:"What were the difficult subjects?"
-        },
-        {
-          name:'M :',
-          speech:"Math and programming of course! Those are my weak points!"
-        },
-        {
-          name:'F :',
-          speech:"Wait, what? What's your major again?"
-        },
-        {
-          name:'M :',
-          speech:"I'm now taking up International Studies."
-        },
-        {
-          name:'F :',
-          speech:"I thought you're taking Engineering!"
-        },
-        {
-          name:'M :',
-          speech:"I did last year but I shifted!"
-        },
-      ],
-      dialogs2:[
-        {
-          name:'F :',
-          speech:"Have you heard about the pyramids in Egypt?"
-        },
-        {
-          name:'M :',
-          speech:"Yes, a little.  I have heard they were very big and amazing."
-        },
-        {
-          name:'F :',
-          speech:"That is true! l wonder how the ancient Egyptians  built them. At those times there were no machines. They just cut and carried those stones! They must have weighed a hundred tons each'"
-        },
-        {
-          name:'M :',
-          speech:"They cut them perfectly too.  These pyramids are real architectural wonders! They were built perfectly."
-        },
-        {
-          name:'F :',
-          speech:"Some people said aliens helped the ancient Egyptian civilization! It is quite ridiculous as far as I know, but it is possible!"
-        },
-        {
-          name:'M :',
-          speech:"Aliens! From other planets?"
-        },
-        {
-          name:'F :',
-          speech:"Yes! It took advance technology to build those pyramids!"
-        },
-      ]
+      
 
 
     }

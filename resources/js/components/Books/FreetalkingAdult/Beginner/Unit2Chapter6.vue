@@ -16,7 +16,7 @@ margin-bottom: -10px;">
 </div>
 
 
-<h3 style="padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 10px; margin-top: 10px; background-color: #a7d7c5;">Reading Practice <span style="font-size:18px">( 선생님의 안내에 따라 문장을 읽어 주세요 )</span></h3>
+<h3 style="padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 10px; margin-top: 10px; background-color: #a7d7c5;">Reading Practice <br><span class = "korean">( 선생님의 안내에 따라 문장을 읽어 주세요 )</span></h3>
      <div style="padding : 16px;">
 
 <p>Do you know what halo-halo is? It is a delicious and colorful dessert that I tried during my stay in the Philippines last summer vacation. It is very delightful and nutritious food. First, you have to prepare crushed ice and put it in a glass or a bowl. Second, you just add a variety of ingredients like sweetened banana, beans, coconut and melon strips, yam paste, sugar, and others. Third, to boost the flavor, milk is poured and a scoop of ice cream is added on the top! It is called halo-halo because the word "halo" means “mix" and to enjoy it, all you have to do is mix the ingredients with your spoon! Isn't it very simple and easy to make?
@@ -29,19 +29,19 @@ margin-bottom: -10px;">
 
 
 
-<li style="list-style-type: none;"><u>Delightful</u> - pleasing and enjoyable <span style="font-size:16px">정말 기분 좋은[마음에 드는]</span>
+<li style="list-style-type: none;"><u>Delightful</u> - pleasing and enjoyable <span class = "korean">정말 기분 좋은[마음에 드는]</span>
 </li>
 
-<li style="list-style-type: none;"><u>Nutritious</u> - healthy <span style="font-size:16px">영양분이 많은, 영양가가 높은</span>
+<li style="list-style-type: none;"><u>Nutritious</u> - healthy <span class = "korean">영양분이 많은, 영양가가 높은</span>
 </li>
 
-<li style="list-style-type: none;"><u>Crushed</u> - to grind into smaller pieces <span style="font-size:16px">으깨진</span>
+<li style="list-style-type: none;"><u>Crushed</u> - to grind into smaller pieces <span class = "korean">으깨진</span>
 </li>
 
-<li style="list-style-type: none;"><u>Variety</u> -  different and many <span style="font-size:16px">여러 가지, 갖가지, 각양각색, 다양성, 품종[종류]</span>
+<li style="list-style-type: none;"><u>Variety</u> -  different and many <span class = "korean">여러 가지, 갖가지, 각양각색, 다양성, 품종[종류]</span>
 </li>
 
-<li style="list-style-type: none;"><u>Boost</u> - to increase <span style="font-size:16px">신장시키다, 북돋우다</span>
+<li style="list-style-type: none;"><u>Boost</u> - to increase <span class = "korean">신장시키다, 북돋우다</span>
 </li>
 
 <p>Fill in the blanks using the words above.
@@ -90,7 +90,7 @@ margin-bottom: -10px;">
 </div>
 
 <h3 style="padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 10px; margin-top: 10px; background-color: #a7d7c5;">Translation</h3>
-     <div style="padding : 16px;">
+     <div style="padding : 16px;" class = "korean">
        <p>
          헤일로할로가 뭔지 아세요? 그것은 지난 여름 방학에 필리핀에 머무는 동안 먹어본 맛있고 다채로운 디저트입니다. 그것은 매우 즐겁고 영양가 있는 음식입니다. 먼저 으깨진 얼음을 준비하여 잔이나 그릇에 담아야 합니다. 둘째, 달인 바나나, 콩, 코코넛과 멜론 조각, 야마자, 설탕, 그리고 다른 것들과 같은 다양한 재료들을 넣습니다. 셋째, 맛을 돋우기 위해 우유를 붓고 위에 아이스크림 한 주걱을 얹습니다! '할로'란 말은 '믹스'를 의미하기 때문에 헤일로할로(halo-halo)라고 불리는데, 그것을 즐기기 위해서는 숟가락으로 재료를 섞기만 하면 됩니다! 아주 간단하고 쉽게 만들 수 있지 않은가요?
        </p>
@@ -101,8 +101,6 @@ margin-bottom: -10px;">
 
        </v-layout>
      </v-container>
-  </v-layout>
-  </v-container>
 </div>
 </template>
 
@@ -156,10 +154,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

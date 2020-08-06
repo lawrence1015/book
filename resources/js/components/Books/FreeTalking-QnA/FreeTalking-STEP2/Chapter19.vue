@@ -32,7 +32,7 @@
        <br />
      </li>
      <li>
-       In the summer, which place do you prefer-the mountains or the sea?<br />
+       Where do you want to go to the most? In the summer, which place do you prefer, the mountain or the sea?<br />
        <br />
      </li>
      <li>
@@ -81,8 +81,6 @@
 
        </v-layout>
      </v-container>
-  </v-layout>
-  </v-container>
 </div>
 
 
@@ -141,10 +139,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

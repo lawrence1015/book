@@ -29,7 +29,7 @@
   </div>
 
   <h3  class = "border white--text" style = "border-radius: 0px 0px 70px 0px;" >Topic</h3>
-  <div style = "padding : 16px; line-height: 200%;">
+  <div style = "padding : 16px; line-height: 1.6;">
 
     <table style = "border-collapse: collapse;">
 
@@ -37,7 +37,7 @@
       <td class = "uppertable" ><b>Jane :</b></td>
       <td class = "lowertable" >If you are too nice to people, they will start Looking down on you! Do you want people to perceive you as pathetic? We live in a dog-eat-dog world. Be tough!</td>
     </tr>
-    <tr>
+    <tr style="color:#1565C0;">
       <td class = "uppertable" ><b>Tom :</b></td>
       <td class = "lowertable" >There is a difference between being nice and being a pushover. Being sweet and caring are valuable traits. As long as you know how to be assertive, you can be as nice as you want.</td>
     </tr>
@@ -58,34 +58,34 @@
       <div style="padding : 16px;">
 
         <p>
-          <b>perceive 여기다</b>
+          <b>perceive</b> 여기다
         </p>
         <p>
-          <b>pathetic 한심한</b>
+          <b>pathetic</b> 한심한
         </p>
         <p>
-          <b>dog-eat-dog 남에게 지지 않으려는</b>
+          <b>dog-eat-dog</b> 남에게 지지 않으려는
         </p>
         <p>
-          <b>tough 강인한 </b>
+          <b>tough</b> 강인한 
         </p>
         <p>
-          <b>difference 차이</b>
+          <b>difference</b> 차이
         </p>
         <p>
-          <b>pushover 만만한 사람 </b>
+          <b>pushover</b> 만만한 사람 
         </p>
         <p>
-          <b>caring 배려하는 </b>
+          <b>caring</b> 배려하는 
         </p>
         <p>
-          <b>valuable 소중한 </b>
+          <b>valuable</b> 소중한 
         </p>
         <p>
-          <b>trait 특성 </b>
+          <b>trait</b> 특성 
         </p>
         <p>
-          <b>assertive 자신의 생각을 분명히 말하는</b>
+          <b>assertive</b> 자신의 생각을 분명히 말하는
         </p>
 
       </div>
@@ -110,9 +110,9 @@
             <td class = "uppertable" ><b>제인 :</b></td>
             <td class = "lowertable" >만약 네가 사람들에게 너무 친절하다면, 그들은 너를 무시하기 시작할 거야! 사람들이 널 한심하다고 느끼길 바라니? 우리는 남에게 지지 않으려는 세상에 살고 있어. 강인해져!</td>
           </tr>
-          <tr>
+          <tr style="color:#1565C0;">
             <td class = "uppertable" ><b>탐 :</b></td>
-            <td class = "lowertable" >착하게 행동하는 것과 만만하게 행동하는 것에는 차이가 있어. 상냥하고 배려하는 것은 가치 있는 특성이야. 당당해지는 법을 아는 한, 얼마든지 착해 질 수 있어.</td>
+            <td class = "lowertable" style = "word-break: keep-all">착하게 행동하는 것과 만만하게 행동하는 것에는 차이가 있어. 상냥하고 배려하는 것은 가치 있는 특성이야. 당당해지는 법을 아는 한, 얼마든지 착해 질 수 있어.</td>
           </tr>
       
           </table>
@@ -126,8 +126,6 @@
 
 
   </v-layout>
-</v-container>
-</v-layout>
 </v-container>
 </div>
 
@@ -192,10 +190,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

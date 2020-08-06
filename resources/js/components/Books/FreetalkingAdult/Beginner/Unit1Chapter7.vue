@@ -16,7 +16,7 @@
         </v-img>
 
 
-        <h3 style="background-color: #a7d7c5;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Reading Practice <span style="font-size:18px">( 선생님의 안내에 따라 문장을 읽어 주세요 )</span></h3>
+        <h3 style="background-color: #a7d7c5;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Reading Practice <br><span class = "korean">( 선생님의 안내에 따라 문장을 읽어 주세요 )</span></h3>
         <div style="padding : 16px;">
 
           <p>My father is tall and thin. He has dark brown hair. He wears large, round glasses and a serious look on his face. When you get to know him better, he is actually very Jolly and funny. He likes to put on pastel shirts and khaki
@@ -32,19 +32,19 @@
 
 
 
-            <li style="list-style-type: none;"><u>Jolly</u> - friendly and cheerful <span style="font-size:16px">행복한, 쾌활한, 즐거운, 아주, 관광</span>
+            <li style="list-style-type: none;"><u>Jolly</u> - friendly and cheerful <span class = "korean">행복한, 쾌활한, 즐거운, 아주, 관광</span>
             </li>
 
-            <li style="list-style-type: none;"><u>Pastel</u> - pale in color <span style="font-size:16px">파스텔[은은한] 색조</span>
+            <li style="list-style-type: none;"><u>Pastel</u> - pale in color <span class = "korean">파스텔[은은한] 색조</span>
             </li>
 
-            <li style="list-style-type: none;"><u>Khaki</u> - brownish yellow <span style="font-size:16px">카키색 천, 카키색</span>
+            <li style="list-style-type: none;"><u>Khaki</u> - brownish yellow <span class = "korean">카키색 천, 카키색</span>
             </li>
 
-            <li style="list-style-type: none;"><u>Stout</u> - soft curls; shaped like waves <span style="font-size:16px">통통한, 튼튼한</span>
+            <li style="list-style-type: none;"><u>Stout</u> - soft curls; shaped like waves <span class = "korean">통통한, 튼튼한</span>
             </li>
 
-            <li style="list-style-type: none;"><u>Outgoing</u> - confident and friendly in social situations <span style="font-size:16px">외향적인, 사교적인</span>
+            <li style="list-style-type: none;"><u>Outgoing</u> - confident and friendly in social situations <span class = "korean">외향적인, 사교적인</span>
             </li>
 
             <p>Fill in the blanks using the words above.
@@ -95,7 +95,7 @@
           </div>
 
           <h3 style="padding-top: 7px;  margin-left: -18px; margin-right: -18px;  padding-bottom: 10px;  padding-top: 10px; padding-left: 10px; background-color: #a7d7c5; ">Translation</h3>
-          <div style="padding : 16px;">
+          <div style="padding : 16px;" class = "korean">
             <p>
               아버지는 키가 크고 말랐다. 그는 짙은 갈색 머리를 가지고 있다. 크고 둥근 안경을 쓰고 진지한 표정을 짓고 있다. 네가 그를 더 잘 알게 되면, 그는 사실 매우 유쾌하고 재미있다. 그는 평상시에는 파스텔 셔츠와 카키색 바지를 즐겨 입는다.
                반면에 어머니는 통통한 여자다. 그녀는 동그란 얼굴에 큰 갈색 눈을 가지고 있다. 그녀의 머리는 짧고 웨이브가 있다.
@@ -219,8 +219,6 @@
 
       </v-layout>
     </v-container>
-  </v-layout>
-</v-container>
 </div>
 </template>
 
@@ -274,10 +272,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

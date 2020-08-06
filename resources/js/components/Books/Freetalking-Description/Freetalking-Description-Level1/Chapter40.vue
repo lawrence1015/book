@@ -19,7 +19,7 @@
         width: 100%;
         padding-top : 10px;
         padding-left : 10px;
-        padding-bottom: 10px;">Rice
+        padding-bottom: 10px;">Eiffel Tower
       </h1>
     </v-layout>
   </v-img>

@@ -29,7 +29,7 @@
   </div>
 
   <h3  class = "border white--text" style = "border-radius: 0px 0px 70px 0px;" >Topic</h3>
-  <div style = "padding : 16px; line-height: 200%;">
+  <div style = "padding : 16px; line-height: 1.6;">
 
     <table style = "border-collapse: collapse;">
 
@@ -39,7 +39,7 @@
       For example, it can translate languages. In addition, Al robots can do jobs that are too dangerous for humans.
       We can send them to space missions.</td>
     </tr>
-    <tr>
+    <tr style="color:#1565C0;">
       <td class = "uppertable" ><b>B :</b></td>
       <td class = "lowertable" >I think Al also has downsides to it. Al can learn on its own.
       It learns quickly and continuously.
@@ -62,34 +62,34 @@
       <div style="padding : 16px;">
 
         <p>
-          <b>believe 믿다</b>
+          <b>believe</b> 믿다
         </p>
         <p>
-          <b>translate 번역하다</b>
+          <b>translate</b> 번역하다
         </p>
         <p>
-          <b>language 언어</b>
+          <b>language</b> 언어
         </p>
         <p>
-          <b>dangerous 위험한</b>
+          <b>dangerous</b> 위험한
         </p>
         <p>
-          <b>send 보내다</b>
+          <b>send</b> 보내다
         </p>
         <p>
-          <b>space 우주</b>
+          <b>space</b> 우주
         </p>
         <p>
-          <b>mission 임무</b>
+          <b>mission</b> 임무
         </p>
         <p>
-          <b>downside 불리한 면</b>
+          <b>downside</b> 불리한 면
         </p>
         <p>
-          <b>continuously 계속해서</b>
+          <b>continuously</b> 계속해서
         </p>
         <p>
-          <b>replace 대신하다</b>
+          <b>replace</b> 대신하다
         </p>
 
       </div>
@@ -108,41 +108,31 @@
                  width: 100px;">해석</h3>
       <div style="padding : 16px;">
 
-        <p>
-
-          <v-container grid-list-md text-xs-left>
-            <v-layout row wrap>
-
-
-              <v-flex xs12>
-                <v-card light color="#FFE7D5">
-                  <v-card-text class="px-10">
-                    <p>
+                      <p class = "korean">
+                        <b>
                         인공 지능은 우리의 삶을 더 좋게 만들까, 더 나쁘게 만들까?
-                    </p>
-                    <ol class="replace" type = "A" style="font-weight: bold;">
-                      <li><span class = "normaltext">
-                          저는 AI(인공지능)가 우리의 삶을 더 좋게 변화시킬 것이라고 믿습니다.
+                        </b>
+                      </p>
+
+                      <table style = "border-collapse: collapse;">
+
+                       <tr>
+                        <td class = "uppertable" ><b>A :</b></td>
+                        <td class = "lowertable" style = "word-break: keep-all" >저는 AI(인공지능)가 우리의 삶을 더 좋게 변화시킬 것이라고 믿습니다.
                           예를 들어 언어를 번역 할 수 있습니다. 또한 AI 로봇은 인간에게 너무 위험한 작업을 수행 할 수 있습니다.
-                          우리는 그들을 우주 임무에 보낼 수 있습니다.
-                        </span>
-                      </li>
-                      <li><span class = "normaltext">
-                        저는 AI는 또한 그것에 단점이 있다고 생각합니다.
+                          우리는 그들을 우주 임무에 보낼 수 있습니다.</td>
+                      </tr>
+                      <tr style="color:#1565C0;">
+                        <td class = "uppertable" ><b>B :</b></td>
+                        <td class = "lowertable" style = "word-break: keep-all" >저는 AI는 또한 그것에 단점이 있다고 생각합니다.
                         AI 은 독자적으로 학습 할 수 있습니다.
-                        그것은 빠르고 지속적으로 학습합니다 너무 똑똑해지면 많은 작업이 AI 로봇으로 대체 될 수 있습니다.
-                      </span>
-                      </li>
-                    </ol>
+                        그것은 빠르고 지속적으로 학습합니다 너무 똑똑해지면 많은 작업이 AI 로봇으로 대체 될 수 있습니다.</td>
+                      </tr>
 
-                  </v-card-text>
-                </v-card>
-              </v-flex>
-            </v-layout>
-          </v-container>
+                    
+                      </table>
 
-        </p>
-
+    
 
       </div>
 
@@ -151,8 +141,6 @@
 
 
   </v-layout>
-</v-container>
-</v-layout>
 </v-container>
 </div>
 
@@ -217,10 +205,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

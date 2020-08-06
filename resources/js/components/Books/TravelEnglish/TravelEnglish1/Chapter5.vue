@@ -6,7 +6,7 @@
   
         <v-layout column>
           <v-img
-          src="//live.staticflickr.com/5537/11261399165_8d8577a05b_4k.jpg" style="max-width: 100%; display:block; height: auto;">
+          src="https://i.dailymail.co.uk/i/pix/2016/12/21/10/3B8ECA7800000578-0-image-a-6_1482316492220.jpg" style="max-width: 100%; display:block; height: auto;">
   
           <v-layout
           align-end

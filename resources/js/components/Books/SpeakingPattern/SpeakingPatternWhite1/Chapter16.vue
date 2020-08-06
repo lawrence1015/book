@@ -22,7 +22,7 @@
     background-color: rgba(255, 231, 255, 0.64);
     border:0px solid #9B4F95;
     -webkit-border-radius: 30px;
-    border-radius: 30px;" class="black--text">~를 아니?
+    border-radius: 30px;" class="black--text">Do you know?  ~를 아니?
   </h1>
       </v-layout>
     </v-img>
@@ -31,7 +31,7 @@
           <h2 style="padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Today's topic</h2>
 
   <hr width="60%">
-               <div style="padding : 10px; line-height: 200%;">
+               <div style="padding : 10px; line-height: 200%;" class = "korean">
 
                  <h2>Pattern 16 |  </h2>
                   <br />
@@ -109,13 +109,13 @@
           <b>125</b> 너 내 이메일 주소 알아? ( e-mail address ) <br />
         </p>
         <p>
-          <b>126</b>  <br />
+          <b>126</b> 당신은 이 단어의 뜻을 알고 있나요? ( meaning, word )  <br />
         </p>
         <p>
-          <b>127</b>  <br />
+          <b>127</b> 안전벨트 매는 법 아세요? ( fasten, seat belt ) <br />
         </p>
         <p>
-          <b>128</b>  <br />
+          <b>128</b> 컴퓨터를 다룰 줄 아세요? ( manipulate, computer ) <br />
         </p>
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
@@ -129,9 +129,9 @@
               123 Do you know he’s engaged?<br />
               124 Do you know anything about him?<br />
               125 Do you know my e-mail address?<br />
-              126 <br />
-              127 <br />
-              128 <br />
+              126 Do you know the meaning of this word?<br />
+              127 Do you know how to fasten your seat belt?<br />
+              128 Do you know how to manipulate a computer?<br />
             </v-card-text>
           </v-card>
         </v-flex>

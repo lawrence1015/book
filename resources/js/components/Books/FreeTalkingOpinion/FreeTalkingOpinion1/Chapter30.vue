@@ -29,7 +29,7 @@
   </div>
 
   <h3  class = "border white--text" style = "border-radius: 0px 0px 70px 0px;" >Topic</h3>
-  <div style = "padding : 16px; line-height: 200%;">
+  <div style = "padding : 16px; line-height: 1.6;">
 
     <table style = "border-collapse: collapse;">
 
@@ -37,7 +37,7 @@
       <td class = "uppertable" ><b>Jane :</b></td>
       <td class = "lowertable" >If there’s something you want to achieve, you have to work really hard for it. People are more resilient than they think, so a lack of sleep from studying, practicing, or working is not bad!</td>
     </tr>
-    <tr>
+    <tr style="color:#1565C0;">
       <td class = "uppertable" ><b>Tom :</b></td>
       <td class = "lowertable" >“All work and no play makes Jack a dull boy” is a popular proverb about the needed balance of productivity and rest. Even machines often break from overexertion. Too much of anything is bad!</td>
     </tr>
@@ -58,43 +58,43 @@
       <div style="padding : 16px;">
 
         <p>
-          <b>overexertion 지나친 노력 </b>
+          <b>overexertion</b> 지나친 노력 
         </p>
         <p>
-          <b>achieve 성취하다 </b>
+          <b>achieve</b> 성취하다 
         </p>
         <p>
-          <b>resilient 회복력 있는</b>
+          <b>resilient</b> 회복력 있는
         </p>
         <p>
-          <b>lack 부족</b>
+          <b>lack</b> 부족
         </p>
         <p>
-          <b>study 공부하다</b>
+          <b>study</b> 공부하다
         </p>
         <p>
-          <b>practice 연습하다</b>
+          <b>practice</b> 연습하다
         </p>
         <p>
-          <b>dull 재미없는 </b>
+          <b>dull</b> 재미없는 
         </p>
         <p>
-          <b>proverb 속담 </b>
+          <b>proverb</b> 속담 
         </p>
         <p>
-          <b>needed 필요한 </b>
+          <b>needed</b> 필요한 
         </p>
         <p>
-          <b>balance 균형 </b>
+          <b>balance</b> 균형 
         </p>
         <p>
-          <b>productivity 생산성 </b>
+          <b>productivity</b> 생산성 
         </p>
         <p>
-          <b>rest 휴식 </b>
+          <b>rest</b> 휴식 
         </p>
         <p>
-          <b>break 고장나다</b>
+          <b>break</b> 고장나다
         </p>
 
       </div>
@@ -113,15 +113,16 @@
                  width: 100px;">해석</h3>
       <div style="padding : 16px;">
 
+
         <table style = "border-collapse: collapse;">
 
           <tr>
             <td class = "uppertable" ><b>제인 :</b></td>
-            <td class = "lowertable" >이루고 싶은 것이 있다면, 그것을 위해 정말 열심히 노력해야 해. 사람들은 생각보다 회복력이 좋기 때문에 공부, 연습 또는 일에서 오는 수면 부족은 나쁘지 않아!</td>
+            <td class = "lowertable" style = "word-break: keep-all">이루고 싶은 것이 있다면, 그것을 위해 정말 열심히 노력해야 해. 사람들은 생각보다 회복력이 좋기 때문에 공부, 연습 또는 일에서 오는 수면 부족은 나쁘지 않아!</td>
           </tr>
-          <tr>
+          <tr style="color:#1565C0;">
             <td class = "uppertable" ><b>탐 :</b></td>
-            <td class = "lowertable" >"일만 하고 놀지 않으면 잭을 재미 없는 소년으로 만든다"는 생산성과 휴식에 필요한 균형에 대한 유명한 속담이야. 심지어 기계들도 종종 지나치게 사용하면 고장이나. 무엇이든 과도한 것은 나빠!</td>
+            <td class = "lowertable" style = "word-break: keep-all">"일만 하고 놀지 않으면 잭을 재미 없는 소년으로 만든다"는 생산성과 휴식에 필요한 균형에 대한 유명한 속담이야. 심지어 기계들도 종종 지나치게 사용하면 고장이나. 무엇이든 과도한 것은 나빠!</td>
           </tr>
       
           </table>
@@ -135,8 +136,6 @@
 
 
   </v-layout>
-</v-container>
-</v-layout>
 </v-container>
 </div>
 
@@ -198,11 +197,6 @@ p{
 
 h3{
   padding-top: 7px;
-
-}
-
-li{
-
 
 }
 

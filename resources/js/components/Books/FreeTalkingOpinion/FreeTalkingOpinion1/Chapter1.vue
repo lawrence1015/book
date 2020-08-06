@@ -115,50 +115,33 @@
                  width: 100px;">해석</h3>
       <div style="padding : 16px;">
 
-        <p>
+        
 
-          <v-container grid-list-md text-xs-left>
-            <v-layout row wrap>
-
-
-              <v-flex xs12>
-                <v-card light flat>
-                  <v-card-text class="px-10" style="line-height: 200%;">
-
-                      <p>
+                      <p class = "korean">
                         <b>
                         내가 먼저 잡담을 시작해야 할까요?
                         </b>
                       </p>
-                    <ol class="replace" type = "A" style="font-weight: bold; line-height: 1.6">
-                      <li><span class = "normaltext">
-                        나는 어제 내 친구의 생일 파티에 갔는데 진짜 스트레스를 많이 받았어.<br />
-                        나는 그곳의 많은 사람들을 잘 몰랐고 서먹서먹한 분위기를 깨기 위해 무슨 말을 해야 할 지 몰랐어.<br />
-                        그런데 한 소녀가 내가 힘들어 하는 걸 알고 잡담을 하기 시작했어.<br />
-                        주제들은 지난 주에 그녀가 봤던 야구경기와 같은 작은 것들이었지만, 그 후에 더 편해졌어.<br />
-                        그녀의 사려 깊은 행동에 대해 너무 고맙게 생각해!<br />
-                        </span>
-                      </li>
-                      <br>
-                      <li style="color:#1565C0;"><span class = "normaltext">
-                        아… 진짜 어색한 경험이었겠네!<br />
+
+                      <table style = "border-collapse: collapse;">
+
+                       <tr>
+                        <td class = "uppertable" ><b>A :</b></td>
+                        <td class = "lowertable" style = "word-break: keep-all" >나는 어제 내 친구의 생일 파티에 갔는데 진짜 스트레스를 많이 받았어.
+                        나는 그곳의 많은 사람들을 잘 몰랐고 서먹서먹한 분위기를 깨기 위해 무슨 말을 해야 할 지 몰랐어.
+                        그런데 한 소녀가 내가 힘들어 하는 걸 알고 잡담을 하기 시작했어.
+                        주제들은 지난 주에 그녀가 봤던 야구경기와 같은 작은 것들이었지만, 그 후에 더 편해졌어.
+                        그녀의 사려 깊은 행동에 대해 너무 고맙게 생각해!</td>
+                      </tr>
+                      <tr style="color:#1565C0;">
+                        <td class = "uppertable" ><b>B :</b></td>
+                        <td class = "lowertable" style = "word-break: keep-all" >아… 진짜 어색한 경험이었겠네!
                         아마도 너는 네 스스로 다음에 잡담을 시작해야 할 것 같아. 도움이 될 거야.
-                        <p>우리가 잡담을 먼저 시작해야 할까요?</p>
-                      </span>
-                      </li>
-                    </ol>
+                        <p>우리가 잡담을 먼저 시작해야 할까요?</p></td>
+                      </tr>
 
+                      </table>
 
-
-                  </v-card-text>
-                </v-card>
-              </v-flex>
-            </v-layout>
-          </v-container>
-
-
-
-        </p>
 
 
       </div>

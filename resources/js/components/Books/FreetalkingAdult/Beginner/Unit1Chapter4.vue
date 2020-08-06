@@ -23,7 +23,7 @@
     </v-img>
 
 
-          <h3 style="background-color: #a7d7c5;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Reading Practice <span style="font-size:18px">( 선생님의 안내에 따라 문장을 읽어 주세요 )</span></h3>
+          <h3 style="background-color: #a7d7c5;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Reading Practice <br><span class = "korean">( 선생님의 안내에 따라 문장을 읽어 주세요 )</span></h3>
                <div style="padding : 16px;">
 
    <p>Although I live in California now, I grew up in Gwangju. As a kid, I played in the fields and drew the mountains with my friends. My mother cooked very well and she ran a small cafe for tourists. She brewed very delicious tea every day. My father was a History professor at Chosun University. He told me a lot of stories about the world. He toured me often to the magnificent historical temples there. I had a happy childhood. It feels nostalgic to think about it sometimes.
@@ -35,16 +35,16 @@
 
 
 
-<li style="list-style-type: none;"><u>Brew</u> - to boil leaves and other ingredients in water to make tea or beer <span style="font-size:16px">(커피차를) 끓이다[만들다], (맥주를) 양조하다</span>
+<li style="list-style-type: none;"><u>Brew</u> - to boil leaves and other ingredients in water to make tea or beer <span class = "korean">(커피차를) 끓이다[만들다], (맥주를) 양조하다</span>
 </li>
 
-<li style="list-style-type: none;"><u>Memory</u> - something that is remembered <span style="font-size:16px">기억(력)</span>
+<li style="list-style-type: none;"><u>Memory</u> - something that is remembered <span class = "korean">기억(력)</span>
 </li>
 
-<li style="list-style-type: none;"><u>Magnificent</u> - beautiful and impressive <span style="font-size:16px">참으로 아름다운[감명 깊은/훌륭한]</span>
+<li style="list-style-type: none;"><u>Magnificent</u> - beautiful and impressive <span class = "korean">참으로 아름다운[감명 깊은/훌륭한]</span>
 </li>
 
-<li style="list-style-type: none;"><u>Nostalgia</u> - bittersweet feelings when thinking of the past; a longing <span style="font-size:16px">향수</span>
+<li style="list-style-type: none;"><u>Nostalgia</u> - bittersweet feelings when thinking of the past; a longing <span class = "korean">향수</span>
 </li>
 
 <p>Fill in the blanks using the words above.
@@ -87,7 +87,7 @@
 </div>
 
 <h3 style="padding-top: 7px;  margin-left: -18px; margin-right: -18px; padding-left: 10px; padding-bottom: 10px;  padding-top: 10px; margin-top: 10px; background-color: #a7d7c5;">Translation</h3>
-     <div style="padding : 16px;">
+     <div style="padding : 16px;" class = "korean">
        <p>
          지금은 캘리포니아에 살고 있지만 광주에서 자랐다. 어렸을 때, 나는 들판에서 놀았고 친구들과 산을 그렸다.
          어머니는 요리를 아주 잘하셔서 관광객들을 위한 작은 카페를 운영하셨다. 그녀는 매일 매우 맛있는 차를 끓였다.
@@ -100,8 +100,6 @@
 
        </v-layout>
      </v-container>
-  </v-layout>
-  </v-container>
 </div>
 </template>
 
@@ -155,10 +153,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

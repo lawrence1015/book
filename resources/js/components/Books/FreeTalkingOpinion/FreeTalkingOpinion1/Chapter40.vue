@@ -29,7 +29,7 @@
   </div>
 
   <h3  class = "border white--text" style = "border-radius: 0px 0px 70px 0px;" >Topic</h3>
-  <div style = "padding : 16px; line-height: 200%;">
+  <div style = "padding : 16px; line-height: 1.6;">
 
     <table style = "border-collapse: collapse;">
 
@@ -37,7 +37,7 @@
       <td class = "uppertable" ><b>Jane :</b></td>
       <td class = "lowertable" >Computer and video games take too long to complete and require too much dedication. Mobile games are better because you can play them casually and conveniently stop whenever you want.</td>
     </tr>
-    <tr>
+    <tr style="color:#1565C0;">
       <td class = "uppertable" ><b>Tom :</b></td>
       <td class = "lowertable" >Mobile games usually use “freemium” methods to make money. That means they lure in people to play for free and then tempt them into buying extra features. Mobile gamers usually spend too much money for low-quality content.</td>
     </tr>
@@ -58,34 +58,34 @@
       <div style="padding : 16px;">
 
         <p>
-          <b>complete 완료하다 </b>
+          <b>complete</b> 완료하다 
         </p>
         <p>
-          <b>require 필요하다 </b>
+          <b>require</b> 필요하다 
         </p>
         <p>
-          <b>dedication 헌신 </b>
+          <b>dedication</b> 헌신 
         </p>
         <p>
-          <b>casually 무심히</b>
+          <b>casually</b> 무심히
         </p>
         <p>
-          <b>conveniently 편리하게 </b>
+          <b>conveniently</b> 편리하게 
         </p>
         <p>
-          <b>method 방법 </b>
+          <b>method</b> 방법 
         </p>
         <p>
-          <b>lure 유인하다 </b>
+          <b>lure</b> 유인하다 
         </p>
         <p>
-          <b>tempt 유도하다 </b>
+          <b>tempt</b> 유도하다 
         </p>
         <p>
-          <b>extra 추가의 </b>
+          <b>extra</b> 추가의 
         </p>
         <p>
-          <b>feature 특징</b>
+          <b>feature</b> 특징
         </p>
 
       </div>
@@ -110,7 +110,7 @@
             <td class = "uppertable" ><b>제인 :</b></td>
             <td class = "lowertable" >컴퓨터와 비디오 게임은 완료하는 데 너무 오래 걸리고 헌신을 너무 많이 해야 해 모바일 게임은 무심하게 할 수 있고 원할 때 언제든지 편리하게 정지할 수 있기 때문에 더 좋아.</td>
           </tr>
-          <tr>
+          <tr style="color:#1565C0;">
             <td class = "uppertable" ><b>탐 :</b></td>
             <td class = "lowertable" >모바일 게임은 보통 돈을 벌기 위해 "프리미엄" 방법을 써. 이것은 그들이 사람들을 무료로 게임을 유인한 다음 그들이 추가 기능을 구매하도록 유혹한다는 것을 의미 해 모바일 게이머들은 보통 저품질 컨텐츠에 너무 많은 돈을 소비해.</td>
           </tr>
@@ -126,8 +126,6 @@
 
 
   </v-layout>
-</v-container>
-</v-layout>
 </v-container>
 </div>
 
@@ -192,10 +190,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

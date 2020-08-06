@@ -44,7 +44,7 @@
        <br />
      </li>
      <li>
-       You are a judge. What punishment do you give for stealing? Why?<br />
+       You are a judge, what punishment do you give for stealing? Why?<br />
      </li>
    </ol>
 
@@ -80,8 +80,6 @@
 
        </v-layout>
      </v-container>
-  </v-layout>
-  </v-container>
 </div>
 
 
@@ -140,10 +138,7 @@ h3{
 
 }
 
-li{
 
-
-}
 
 body{
 

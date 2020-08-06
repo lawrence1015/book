@@ -23,7 +23,7 @@
     </v-img>
 
 
-    <h3 style="background-color: #a7d7c5;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Reading Practice <span style="font-size:18px">( 선생님의 안내에 따라 문장을 읽어 주세요 )</span></h3>
+    <h3 style="background-color: #a7d7c5;   padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Reading Practice <br><span class = "korean">( 선생님의 안내에 따라 문장을 읽어 주세요 )</span></h3>
          <div style="padding : 16px;">
 
 <p>There is a saying "No man is an island."  
@@ -42,22 +42,22 @@
 
 
 
-<li style="list-style-type: none;"><u>Entirely </u> - in every way, fully <span style="font-size:16px">전적으로, 완전히, 전부</span>
+<li style="list-style-type: none;"><u>Entirely </u> - in every way, fully <span class = "korean">전적으로, 완전히, 전부</span>
 </li>
 
-<li style="list-style-type: none;"><u>Awkward </u> - shy and uncomfortable <span style="font-size:16px">어색한, 서투른</span>
+<li style="list-style-type: none;"><u>Awkward </u> - shy and uncomfortable <span class = "korean">어색한, 서투른</span>
 </li>
 
-<li style="list-style-type: none;"><u>Handful </u> - small amount or number <span style="font-size:16px">몇 안 되는 수</span>
+<li style="list-style-type: none;"><u>Handful </u> - small amount or number <span class = "korean">몇 안 되는 수</span>
 </li>
 
 <li style="list-style-type: none;"><u>Tan</u> - reason
 </li>
 
-<li style="list-style-type: none;"><u>Cause </u> - magnificent <span style="font-size:16px">이유, 까닭, 사유, 근거</span>
+<li style="list-style-type: none;"><u>Cause </u> - magnificent <span class = "korean">이유, 까닭, 사유, 근거</span>
 </li>
 
-<li style="list-style-type: none;"><u>Splendid </u> - very funny <span style="font-size:16px">정말 좋은[멋진], 훌륭한, 아주 인상적인[아름다운]</span>
+<li style="list-style-type: none;"><u>Splendid </u> - very funny <span class = "korean">정말 좋은[멋진], 훌륭한, 아주 인상적인[아름다운]</span>
 </li>
 
 
@@ -108,7 +108,7 @@
 </div>
 
 <h3  style="padding-top: 7px;  margin-left: -18px; margin-right: -18px;  padding-bottom: 10px;  padding-top: 10px; padding-left: 10px; background-color: #a7d7c5; ">Translation</h3>
-<div style="padding : 16px;">
+<div style="padding : 16px;" class = "korean">
 
   <p>
     "아무도 혼자인 사람은 없다"는 말이 있다.
@@ -126,8 +126,6 @@
 
        </v-layout>
      </v-container>
-  </v-layout>
-  </v-container>
 </div>
 </template>
 
@@ -181,10 +179,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

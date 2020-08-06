@@ -29,7 +29,7 @@
   </div>
 
   <h3  class = "border white--text" style = "border-radius: 0px 0px 70px 0px;" >Topic</h3>
-  <div style = "padding : 16px; line-height: 200%;">
+  <div style = "padding : 16px; line-height: 1.6;">
 
     <table style = "border-collapse: collapse;">
 
@@ -37,7 +37,7 @@
       <td class = "uppertable" ><b>Jane :</b></td>
       <td class = "lowertable" >The rain can be relaxing, especially when you hear it while getting ready to sleep. On rainy days, people can enjoy indoor activities, like board games. The rain is important for many plants to flourish, too. </td>
     </tr>
-    <tr>
+    <tr style="color:#1565C0;">
       <td class = "uppertable" ><b>Tom :</b></td>
       <td class = "lowertable" >Snow is a rare sight in many places. So when it snows, it is a pleasant treat. With snow, you can make snowmen, snowballs, snow angels, and igloos. You can also go snowboarding! </td>
     </tr>
@@ -53,39 +53,39 @@
                  margin-right: -18px;
                  padding-left: 10px;
                  padding-bottom: 10px;
-                 padding-top: 0px;
+                 padding-top: 5px;
                  margin-top: 0px;">Vocabulary</h3>
       <div style="padding : 16px;">
 
         <p>
-          <b>relaxing 마음을 느긋하게 해 주는 </b>
+          <b>relaxing</b> 마음을 느긋하게 해 주는 
         </p>
         <p>
-          <b>especially 특히 </b>
+          <b>especially</b> 특히 
         </p>
         <p>
-          <b>indoor 실내의 </b>
+          <b>indoor</b> 실내의 
         </p>
         <p>
-          <b>activities 활동들 | activity의 복수 </b>
+          <b>activities</b> 활동들 | <b>activity</b> 의 복수 
         </p>
         <p>
-          <b>important 중요한</b>
+          <b>important</b> 중요한
         </p>
         <p>
-          <b>flourish 잘 자라다 </b>
+          <b>flourish</b> 잘 자라다 
         </p>
         <p>
-          <b>rare 드문 </b>
+          <b>rare</b> 드문 
         </p>
         <p>
-          <b>sight (눈에 보이는) 광경[모습] </b>
+          <b>sight</b> (눈에 보이는) 광경[모습] 
         </p>
         <p>
-          <b>pleasant 쾌적한 </b>
+          <b>pleasant</b> 쾌적한 
         </p>
         <p>
-          <b>treat 특별한 것 </b>
+          <b>treat</b> 특별한 것 
         </p>
 
       </div>
@@ -99,7 +99,7 @@
                  margin-right: -18px;
                  padding-left: 10px;
                  padding-bottom: 10px;
-                 padding-top: 0px;              
+                 padding-top: 5px;              
                  margin-top: 0px;
                  width: 100px;">해석</h3>
       <div style="padding : 16px;">
@@ -110,7 +110,7 @@
             <td class = "uppertable" ><b>제인 :</b></td>
             <td class = "lowertable" >비는 마음을 느긋하게 해 줄 수 있는데, 특히 네가 잠잘 준비를 하는 동안 (비 오는 소리를)들었을 때 마음을 느긋하게 해줘. 비가 오는 날에는 사람들은 보드 게임과 같은 실내 활동을 즐길 수 있어. 비는 많은 식물들이 잘 자라게 하기 위해서도 중요해.</td>
           </tr>
-          <tr>
+          <tr style="color:#1565C0;">
             <td class = "uppertable" ><b>탐 :</b></td>
             <td class = "lowertable" >눈은 많은 곳에서 보기 드문 광경이야. 그래서 눈이 오면 쾌적하고 특별한 거야.. 눈으로 눈사람, 눈덩이, 눈천사, 이글루를 만들 수 있어. 스노우보드 타러 갈 수도 있어!</td>
           </tr>
@@ -120,14 +120,31 @@
 
       </div>
 
-    
+    <div style="margin-left: -18px; margin-right: -18px; margin-top: 10px; border-color: #2F4674; border-style: solid; border-width: 2px;">
+      </div>
+      <h3 class = "border white--text"
+          style="border-radius: 0px 0px 70px 0px;
+                 padding-top: 7px;
+                 margin-left: -18px;
+                 margin-right: -18px;
+                 padding-left: 10px;
+                 padding-bottom: 10px;
+                 padding-top: 5px;
+                 margin-top: 0px;">Questions</h3>
+      <div style="padding : 16px;">
+
+        <ol style="margin: 12px;">
+          <li>Which do you prefer - rain or snow? Why?</li>
+          <li>When do rainy days come in Korea? How about snow?</li>
+          <li>What activities can you do on rainy days? How about on snowy days?</li>
+        </ol>
+
+      </div>
 
     </div>
 
 
   </v-layout>
-</v-container>
-</v-layout>
 </v-container>
 </div>
 
@@ -192,10 +209,6 @@ h3{
 
 }
 
-li{
-
-
-}
 
 body{
 

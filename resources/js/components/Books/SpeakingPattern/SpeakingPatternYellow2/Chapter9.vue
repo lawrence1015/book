@@ -32,7 +32,7 @@
           <h2 style="padding-top : 10px;  padding-left : 10px; padding-bottom: 10px;">Today's topic</h2>
 
   <hr width="60%">
-               <div style="padding : 10px; line-height: 200%;">
+               <div style="padding : 10px; line-height: 200%;" class = "korean">
 
                  <h2>Pattern 29 |  </h2>
                   <br />
@@ -110,13 +110,13 @@
           <b>229</b> 영화 볼 시간이 없어.( see, movie ) <br />
         </p>
         <p>
-          <b>230</b> <br />
+          <b>230</b> 시간이 없어요!<br />
         </p>
         <p>
-          <b>231</b> <br />
+          <b>231</b> 낭비할 시간이 없어요!<br />
         </p>
         <p>
-          <b>232</b> <br />
+          <b>232</b> 지체할 시간이 없어요!<br />
         </p>
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
@@ -130,9 +130,9 @@
               227 There’s no time to relax.<br />
               228 There’s no time to have dinner.<br />
               229 There’s no time to see a movie.<br />
-              230 <br />
-              231 <br />
-              232 <br />
+              230 There's no time to spare!<br />
+              231 There's no time to waste!<br />
+              232 There's no time to linger!<br />
             </v-card-text>
           </v-card>
         </v-flex>

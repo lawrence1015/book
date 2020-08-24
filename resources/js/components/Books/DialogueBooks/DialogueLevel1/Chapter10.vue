@@ -52,7 +52,7 @@
         <div style="padding : 16px;">
 
         <p>
-          <u>Fill the blanks. Always answer with a whole sentence</u><br />
+          <u>Fill the blanks. Always answer with a whole sentence.</u><br />
           (빈칸에 알맞은 말을 채우세요. 답은 항상 전체 문장으로 말해주세요)
         </p>
 
@@ -61,11 +61,11 @@
             Some people <u> &emsp; &emsp; &emsp; </u> waiting <u> &emsp; &emsp; &emsp; </u> a bus on a chair.<br />
           </li>
           <li>
-            He <u> &emsp; &emsp; &emsp; </u> <u> &emsp; &emsp; &emsp; </u> coffee into a small white cup. <br />
+            He <u> &emsp; &emsp; &emsp; </u>  <u> &emsp; &emsp; &emsp; </u> coffee into a small white cup. <br />
                 (pour) <br />
           </li>
           <li>
-            We <u> &emsp; &emsp; &emsp; </u> <u> &emsp; &emsp; &emsp; </u> Kimchi in November or December. <br />
+            We <u> &emsp; &emsp; &emsp; </u>  <u> &emsp; &emsp; &emsp; </u> Kimchi in November or December. <br />
                 (make) <br />
           </li>
         </ol>

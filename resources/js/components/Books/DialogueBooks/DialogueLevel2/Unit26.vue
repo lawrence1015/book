@@ -190,7 +190,7 @@ export default {
         },
         {
           name:'D:',
-          speech:'Are you a student here?'
+          speech:'Yes. It’s my first day.'
         },
         {
           name:'C:',

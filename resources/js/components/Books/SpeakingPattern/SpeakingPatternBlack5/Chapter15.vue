@@ -65,7 +65,7 @@
           <p style="box-sizing: 2;">
             A : 이 지도는 헷갈려.<br />
             B : 내 생각엔 저기 동쪽 길로 가야 될 것 같아.<br />
-            A : <mark style="background-color: #a7d7c5; color: #d9e7cd;"></mark><br />
+            A : <mark style="background-color: #a7d7c5; color: #d9e7cd;">You have a good sense of direction.</mark><br />
             B : 예전에 보이스카우트였거든<br />
 
             *confusing  (복잡하여) 헷갈리는
@@ -131,9 +131,9 @@
               755 You have a good sense of direction<br />
               756 You have a good sense of smell.<br />
               757 You have a good sense of timing.<br />
-              758 You have a good sense of timing.<br />
-              759 You have a good sense of timing.<br />
-              760 You have a good sense of timing.<br />
+              758 You have a good sense of right and wrong.<br />
+              759 You have a good sense of responsibility.<br />
+              760 You have a good sense of balance.<br />
             </v-card-text>
           </v-card>
         </v-flex>

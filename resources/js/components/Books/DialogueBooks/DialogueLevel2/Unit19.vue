@@ -64,7 +64,7 @@
           <br />
             - How much is the …? <br />
         </ol>
-        br />
+        <br />
         <v-container grid-list-md text-xs-center>
           <v-layout wrap align-content-center>
           

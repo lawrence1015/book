@@ -130,9 +130,9 @@
               763 Thank you for the compliment.<br />
               764 Thank you for the ride.<br />
               765 Thank you for not smoking.<br />
-              766 <br />
-              767 <br />
-              768 <br />
+              766 Thank you for your time.<br />
+              767 Thank you for remembering my birthday.<br />
+              768 Thank you for visiting me.<br />
             </v-card-text>
           </v-card>
         </v-flex>

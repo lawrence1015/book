@@ -130,9 +130,9 @@
               691 I hate it when my car won’t start.<br />
               692 I hate it when you disagree with me.<br />
               693 I hate it when I have to hurry.<br />
-              694 <br />
-              695 <br />
-              696 <br />
+              694 I hate it when someone yells at me.<br />
+              695 I hate it when we argue.<br />
+              696 I hate it when John hides my things.<br />
             </v-card-text>
           </v-card>
         </v-flex>

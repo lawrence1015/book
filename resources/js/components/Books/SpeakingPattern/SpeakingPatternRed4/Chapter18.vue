@@ -129,9 +129,9 @@
               619 I’m nervous about speaking in public.<br />
               620 I’m nervous about finishing in time.<br />
               621 I’m nervous about testifying.<br />
-              622 <br />
-              623 <br />
-              624 <br />
+              622 I’m nervous about the job interview.<br />
+              623 I’m nervous about the test results.<br />
+              624 I’m nervous about cutting classes.<br />
             </v-card-text>
           </v-card>
         </v-flex>

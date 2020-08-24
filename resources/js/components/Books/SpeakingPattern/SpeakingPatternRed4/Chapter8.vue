@@ -129,9 +129,9 @@
               539 It’s nice to hear your voice again.<br />
               540 It’s nice to be back home.<br />
               541 It’s nice to know that you are there for me.<br />
-              542 <br />
-              543 <br />
-              544 <br />
+              542 It’s nice to meet you.<br />
+              543 It’s nice to have a friend like you.<br />
+              544 It’s nice to be able to dance again.<br />
             </v-card-text>
           </v-card>
         </v-flex>

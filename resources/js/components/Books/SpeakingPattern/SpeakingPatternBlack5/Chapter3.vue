@@ -57,7 +57,7 @@
 
           <br />
           <p style="line-height: 2;">
-            A : We’re going to Paris the summer.<br />
+            A : We’re going to Paris this summer.<br />
             B : Lucky you. I’d love to see the Louvre.<br />
             A : Really?<br />
             B : Oh, yeah. <b>난 르네상스 예술에 빠졌거든.</b>
@@ -126,9 +126,9 @@
               659 I’m into alternative rock music.<br />
               660 I’m into Renaissance art. <br />
               661 I’m into scuba diving.<br />
-              662 <br />
-              663 <br />
-              664 <br />
+              662 I’m into extreme sports lately.<br />
+              663 I’m into non-fiction books.<br />
+              664 I’m into sci-fi movies.<br />
             </v-card-text>
           </v-card>
         </v-flex>

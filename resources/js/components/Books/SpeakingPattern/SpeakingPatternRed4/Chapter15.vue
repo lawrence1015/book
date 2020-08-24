@@ -131,9 +131,9 @@
               595 No wonder Jenny flunked the test.<br />
               596 No wonder you didn’t go.<br />
               597 No wonder the police arrested him.<br />
-              598 <br />
-              599 <br />
-              600 <br />
+              598 No wonder you came looking for me.<br />
+              599 No wonder he got the highest score.<br />
+              600 No wonder the children are excited.<br />
             </v-card-text>
           </v-card>
         </v-flex>

@@ -129,9 +129,9 @@
               787 It’s very good of you to see me off.<br />
               788 It’s very thoughtful of you to send flowers.<br />
               789 It’s very thoughtful of you to help the old woman.<br />
-              790 <br />
-              791 <br />
-              792 <br />
+              790 It’s very generous of you to give us these materials.<br />
+              791 It’s very kind of you to help us in this project.<br />
+              792 It’s very helpful of you to do the laundry.<br />
             </v-card-text>
           </v-card>
         </v-flex>

@@ -19,7 +19,7 @@
         width: 100%;
         padding-top : 10px;
         padding-left : 10px;
-        padding-bottom: 10px;">Is Eating in Public Rude?
+        padding-bottom: 10px;">[08/31] Is Eating in Public Rude?
       </h1>
       </transition>
     </v-layout>

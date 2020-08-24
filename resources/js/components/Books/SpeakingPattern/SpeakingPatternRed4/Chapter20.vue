@@ -129,9 +129,9 @@
               635 It’s so frustrating to go on job interviews!<br />
               636 It’s so frustrating that I don’t have much money.<br />
               637 It’s so frustrating he didn't understand me.<br />
-              638 <br />
-              639 <br />
-              640 <br />
+              638 It’s so frustrating having to go to that party.<br />
+              639 It’s so frustrating knowing how terrible the situation is.<br />
+              640 It’s so frustrating not being able to come up with a decision.<br />
             </v-card-text>
           </v-card>
         </v-flex>

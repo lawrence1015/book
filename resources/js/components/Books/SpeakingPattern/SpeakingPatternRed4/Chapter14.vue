@@ -130,9 +130,9 @@
               587 I was shocked when she told me that.<br />
               588 I was shocked that she had a baby.<br />
               589 I was shocked no one knew about that.<br />
-              590 <br />
-              591 <br />
-              592 <br />
+              590 I was shocked at how patient she can be.<br />
+              591 I was shocked by the sudden news.<br />
+              592 I was shocked to know that I passed.<br />
             </v-card-text>
           </v-card>
         </v-flex>

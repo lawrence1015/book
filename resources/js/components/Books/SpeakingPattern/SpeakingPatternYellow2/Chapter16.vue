@@ -129,9 +129,9 @@
               283 Is there any way to find out?<br />
               284 Is there any way to make it better?<br />
               285 Is there any way to help me?<br />
-              286 <br />
-              287 <br />
-              288 <br />
+              286 Is there any way we could improve this?<br />
+              287 Is there any way to get free tickets?<br />
+              288 Is there any way I can avail the promo?<br />
             </v-card-text>
           </v-card>
         </v-flex>

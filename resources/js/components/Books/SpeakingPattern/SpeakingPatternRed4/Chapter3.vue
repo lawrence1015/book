@@ -125,11 +125,14 @@
           <v-flex xs12>
           <v-card light color="#a7d7c5">
             <v-card-text class="px-10" style="color:#d9e7cd;">
-              335 I’m absolutely thrilled.<br />
-              336 I’m absolutely sure.<br />
-              337 I’m absolutely exhausted.<br />
-              338 I’m absolutely behind you on this. <br />
-              339 I’m absolutely crazy about sweets.<br />
+              497 I’m absolutely thrilled.<br />
+              498 I’m absolutely sure.<br />
+              499 I’m absolutely exhausted.<br />
+              500 I’m absolutely behind you on this. <br />
+              501 I’m absolutely crazy about sweets.<br />
+              502 I'm absolutely fine. <br />
+              503 I’m absolutely terrified.<br />
+              504 I’m absolutely confident about this. <br />
             </v-card-text>
           </v-card>
         </v-flex>

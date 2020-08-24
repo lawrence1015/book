@@ -130,9 +130,9 @@
               235 There’s no need to thank me.<br />
               236 There’s no need to worry about Julie.<br />
               237 There’s no need to apologize.<br />
-              238 <br />
-              239 <br />
-              240 <br />
+              238 There’s no need to say that.<br />
+              239 There’s no need to wait for me.<br />
+              240 There’s no need to be angry at him.<br />
             </v-card-text>
           </v-card>
         </v-flex>

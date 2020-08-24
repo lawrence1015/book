@@ -19,7 +19,7 @@
         width: 100%;
         padding-top : 10px;
         padding-left : 10px;
-        padding-bottom: 10px;">Is It Okay to Tell White Lies?
+        padding-bottom: 10px;">[09/04] Is It Okay to Tell White Lies?
       </h1>
       </transition>
     </v-layout>

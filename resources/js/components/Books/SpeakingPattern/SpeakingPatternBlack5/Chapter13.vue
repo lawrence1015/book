@@ -33,7 +33,7 @@
   <hr width="60%">
                <div style="padding : 10px; line-height: 200%;">
 
-                 <h2>Pattern 93 | 넌 참~하구나 </h2>
+                 <h2>Pattern 93 |  </h2>
                   <br />
                   <h3>You’re so…</h3>
                     <br />
@@ -128,9 +128,9 @@
               739 You’re so talented.<br />
               740 You’re so creative.<br />
               741 You’re so funny.<br />
-              742 <br />
-              743 <br />
-              744 <br />
+              742 You’re so adorable.<br />
+              743 You’re so kind to me.<br />
+              744 You’re so generous.<br />
             </v-card-text>
           </v-card>
         </v-flex>

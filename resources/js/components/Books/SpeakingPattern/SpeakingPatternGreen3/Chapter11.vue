@@ -129,9 +129,9 @@
               403 How about meeting on Friday?<br />
               404 How about getting a perm?<br />
               405 How about going to the movie?<br />
-              406 <br />
-              407 <br />
-              408 <br />
+              406 How about buying a new phone?<br />
+              407 How about seeing a doctor?<br />
+              408 How about you?<br />
             </v-card-text>
           </v-card>
         </v-flex>

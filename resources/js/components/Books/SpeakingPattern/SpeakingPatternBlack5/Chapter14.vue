@@ -130,9 +130,9 @@
               747 You’re a good writer.<br />
               748 You’re a good talker.<br />
               749 You’re a good student.<br />
-              750 <br />
-              751 <br />
-              752 <br />
+              750 You’re a good singer.<br />
+              751 You’re a good father to us.<br />
+              752 You’re a good person.<br />
             </v-card-text>
           </v-card>
         </v-flex>

@@ -129,9 +129,9 @@
               675 I don’t like the way he treats his wife.<br />
               676 I don’t like the way this furniture is arranged.<br />
               677 I don’t like the way they take advantage of us.<br />
-              678 <br />
-              679 <br />
-              680 <br />
+              678 I don’t like the way you cook steak.<br />
+              679 I don’t like the way these products are packaged.<br />
+              680 I don’t like the way Jenny treats us.<br />
             </v-card-text>
           </v-card>
         </v-flex>

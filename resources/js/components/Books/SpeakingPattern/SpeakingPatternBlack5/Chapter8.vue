@@ -130,9 +130,9 @@
               699 Are you interested in joining us for dinner?<br />
               700 Are you interested in splitting the cost?<br />
               701 Are you interested in reading a novel?<br />
-              702 <br />
-              703 <br />
-              704 <br />
+              702 Are you interested in purchasing that phone?<br />
+              703 Are you interested in basketball?<br />
+              704 Are you interested in managing your family’s store?<br />
             </v-card-text>
           </v-card>
         </v-flex>

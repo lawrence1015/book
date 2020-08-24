@@ -129,9 +129,9 @@
               371 Don’t you wanna learn how to drive?<br />
               372 Don’t you wanna wear your sunglasses?<br />
               373 Don’t you wanna go there?<br />
-              374 <br />
-              375 <br />
-              376 <br />
+              374 Don’t you wanna watch this show?<br />
+              375 Don’t you wanna eat some more?<br />
+              376 Don’t you wanna see the band perform?<br />
             </v-card-text>
           </v-card>
         </v-flex>

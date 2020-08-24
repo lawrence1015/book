@@ -52,7 +52,7 @@
         <div style="padding : 16px;">
 
         <p>
-          <u>Fill the blanks. Always answer with a whole sentence</u><br />
+          <u>Fill the blanks. Always answer with a whole sentence.</u><br />
           (빈칸에 알맞은 말을 채우세요. 답은 항상 전체 문장으로 말해주세요)
         </p>
 
@@ -65,7 +65,7 @@
             2. <u> &emsp; &emsp; &emsp; </u> a gray hair on my head. <br />
             내 머리 위에 회색 머리카락이 있습니다.
           </li>
-          <li>Is <u> &emsp; &emsp; &emsp; </u> a cafeteria in the building?
+          <li>Is <u> &emsp; &emsp; &emsp; </u> a cafeteria in the building? <br />
             그 건물 안에는 식당이 있습니까?
           </li>
         </ol>

@@ -132,9 +132,9 @@
               347 I’d like to enlarge this picture.<br />
               348 I’d like to apologize.<br />
               349 I’d like to  keep a journal.<br />
-              350 <br />
-              351 <br />
-              352 <br />
+              350 I’d like to go with you.<br />
+              351 I’d like to ask for your permission.<br />
+              352 I’d like to see you try.<br />
             </v-card-text>
           </v-card>
         </v-flex>

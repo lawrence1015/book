@@ -128,7 +128,27 @@
 
       </div>
 
+     <div style="margin-left: -18px; margin-right: -18px; margin-top: 10px; border-color: #2F4674; border-style: solid; border-width: 2px;">
+      </div>
+      <h3 class = "border white--text"
+          style="border-radius: 0px 0px 70px 0px;
+                 padding-top: 7px;
+                 margin-left: -18px;
+                 margin-right: -18px;
+                 padding-left: 10px;
+                 padding-bottom: 10px;
+                 padding-top: 5px;
+                 margin-top: 0px;">Questions</h3>
+      <div style="padding : 16px;">
+
+        <ol style="margin: 12px;">
+          <li>Do you believe that we can judge someone’s character by their appearance? Why or why not?</li>
+          <li>According to the people you know, what is the usual first impression of you? Do you agree? Why or why not?</li>
+          <li>What was your first impression of your best friend? Was your judgement right after getting to know them?</li>
+        </ol>
+
     
+      </div>
 
     </div>
 

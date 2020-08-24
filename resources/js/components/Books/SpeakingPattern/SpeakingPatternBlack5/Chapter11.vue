@@ -60,7 +60,7 @@
             A : Where are you from?<br />
             B : I just arrived from France.<br />
             A : I thought so. <b>억양이 멋지네요.</b><br />
-            B : My accent
+            B : My accent?
           <p style="line-height: 2;">
             A : 어디에서 왔어요?<br />
             B : 방금 프랑스에서 도착했어요.<br />
@@ -128,9 +128,9 @@
               723 I like your new hairstyle.<br />
               724 I like your accent.<br />
               725 I like your attitude.<br />
-              726 <br />
-              727 <br />
-              728 <br />
+              726 I like your shoes.<br />
+              727 I like your positivity.<br />
+              728 I like your music preferences.<br />
             </v-card-text>
           </v-card>
         </v-flex>

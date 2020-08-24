@@ -130,9 +130,9 @@
               331 I just wanted to say hi.<br />
               332 I just wanted to surprise you.<br />
               333 I just wanted to get out of there.<br />
-              334 <br />
-              335 <br />
-              336 <br />
+              334 I just wanted to apologize.<br />
+              335 I just wanted to see you.<br />
+              336 I just wanted to get there safely.<br />
             </v-card-text>
           </v-card>
         </v-flex>

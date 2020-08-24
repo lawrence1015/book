@@ -19,7 +19,7 @@
         width: 100%;
         padding-top : 10px;
         padding-left : 10px;
-        padding-bottom: 10px;">Are Mukbangs Dangerous?
+        padding-bottom: 10px;">[08/25] Are Mukbangs Dangerous?
       </h1>
       </transition>
     </v-layout>

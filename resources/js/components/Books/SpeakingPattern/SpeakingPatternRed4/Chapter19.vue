@@ -130,9 +130,9 @@
               627 I’m disappointed that you feel that way.<br />
               628 I’m disappointed that we won’t get a vacation.<br />
               629 I’m disappointed that it is not good enough.<br />
-              630 <br />
-              631 <br />
-              632 <br />
+              630 I’m disappointed that you didn’t tell me.<br />
+              631 I’m disappointed that I did not do well on the test.<br />
+              632 I’m disappointed that she chose vanilla over chocolate.<br />
             </v-card-text>
           </v-card>
         </v-flex>

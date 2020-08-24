@@ -19,7 +19,7 @@
         width: 100%;
         padding-top : 10px;
         padding-left : 10px;
-        padding-bottom: 10px;">Should Christmas Presents Be Mandatory?
+        padding-bottom: 10px;">[08/14] Should Christmas Presents Be Mandatory?
       </h1>
       </transition>
     </v-layout>

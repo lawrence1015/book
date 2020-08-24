@@ -132,9 +132,9 @@
               779 I’d really appreciate it if you could stop by here.<br />
               780 I’d really appreciate it if you could keep this quiet.<br />
               781 I’d really appreciate it if you could ask me questions.<br />
-              782 <br />
-              783 <br />
-              784 <br />
+              782 I’d really appreciate it if you could share your ideas with me.<br />
+              783 I’d really appreciate it if you could reply to my inquiry.<br />
+              784 I’d really appreciate it if you could come by and spend time with us.<br />
             </v-card-text>
           </v-card>
         </v-flex>

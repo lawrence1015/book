@@ -57,7 +57,7 @@
 
           <br />
           <p style="line-height: 2;">
-            A : We have to get the car fixed.<br />
+            A : Wow, there are a lot of people here.<br />
             B : <b>줄을 서는 게 좋겠어.</b><br />
             A : What if we can’t get concert tickets?<br />
             B : We’ll just have to try.
@@ -131,9 +131,9 @@
               435 We’d better get in line.<br />
               436 We’d better keep our eyes open.<br />
               437 We’d better stop seeing each other.<br />
-              438 <br />
-              439 <br />
-              440 <br />
+              438 We’d better hurry before the rain pours.<br />
+              439 We’d better fix this mess.<br />
+              440 We’d better go home.<br />
             </v-card-text>
           </v-card>
         </v-flex>

@@ -233,7 +233,7 @@ export default {
         },
         {
           name:'A:',
-          speech:'Yes, I do. I like baseball very much.'
+          speech:'There’s a good game this Saturday. Do you want to go?'
         },
         {
           name:'B:',

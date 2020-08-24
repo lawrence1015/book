@@ -185,7 +185,7 @@ export default {
         },
         {
           name:'Peg:',
-          speech:'Look, the water only drips during the rainy season, and it only drips in the living room. The rest of the apartment is dry.Why didn’t you think of that before you came here?'
+          speech:'Look, the water only drips during the rainy season, and it only drips in the living room. The rest of the apartment is dry. Why didn’t you think of that before you came here?'
         },
         {
           name:'Bob:',

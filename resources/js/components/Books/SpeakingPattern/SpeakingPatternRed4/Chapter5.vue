@@ -130,9 +130,9 @@
               515 This is totally what I wanted.<br />
               516 This is totally stupid.<br />
               517 This is totally ridiculous.<br />
-              518 <br />
-              519 <br />
-              520 <br />
+              518 This is totally cool.<br />
+              519 This is totally out of my league.<br />
+              520 This is totally fine with me.<br />
             </v-card-text>
           </v-card>
         </v-flex>

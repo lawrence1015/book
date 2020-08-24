@@ -131,9 +131,9 @@
               483 I’m kind of depressed.<br />
               484 I’m kind of feeling sorry for him.<br />
               485 I’m kind of being in a hurry.<br />
-              486 <br />
-              487 <br />
-              488 <br />
+              486 I’m kind of used to it now.<br />
+              487 I’m kind of nervous about the presentation.<br />
+              488 I’m kind of confused.<br />
             </v-card-text>
           </v-card>
         </v-flex>

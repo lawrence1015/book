@@ -130,9 +130,9 @@
               467 I suggest we don’t tell our boss.<br />
               468 I suggest we throw a party.<br />
               469 I suggest we save room for dessert.<br />
-              470 <br />
-              471 <br />
-              472 <br />
+              470 I suggest we rest for now.<br />
+              471 I suggest we start our presentation now.<br />
+              472 I suggest we meet again tomorrow.<br />
             </v-card-text>
           </v-card>
         </v-flex>

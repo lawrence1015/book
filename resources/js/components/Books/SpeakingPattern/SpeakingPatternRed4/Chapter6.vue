@@ -129,9 +129,9 @@
               523 I’m happy with the result.<br />
               524 I’m happy with all of you.<br />
               525 I’m happy with your performance.<br />
-              526 <br />
-              527 <br />
-              528 <br />
+              526 I’m happy with what we have.<br />
+              527 I’m happy with my choice.<br />
+              528 I’m happy with what you’ve accomplished.<br />
             </v-card-text>
           </v-card>
         </v-flex>

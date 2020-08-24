@@ -130,9 +130,9 @@
               363 Do you want to come with me?<br />
               364 Do you want to grab a bite?<br />
               365 Do you want to hear my story?<br />
-              366 <br />
-              367 <br />
-              368 <br />
+              366 Do you want to stay for a while?<br />
+              367 Do you want to eat first?<br />
+              368 Do you want to hear me sing?<br />
             </v-card-text>
           </v-card>
         </v-flex>

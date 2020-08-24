@@ -62,7 +62,7 @@
               Emily는 그녀의 졸업으로 무슨 종류의 선물을 원합니까?
           </li>
           <li>
-            <u> &emsp; &emsp; &emsp; </u> she wants earrings? <br />
+            <u> &emsp; &emsp; &emsp; </u> she want earrings? <br />
               그녀는 귀걸이를 원합니까?
           </li>
           <li>

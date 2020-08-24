@@ -128,7 +128,7 @@
               026 I was thinking about calling you.<br />
               027 I was thinking about going to the mall.<br />
               028 I was thinking about getting a motorcycle. <br />
-              029 I was thinking about going back to the school.<br />
+              029 I was thinking about going back to school.<br />
               030 I was thinking about memorizing a poem.<br />
               031 I was thinking about playing the guitar.<br />
               032 I was thinking about practicing that dance step.<br />

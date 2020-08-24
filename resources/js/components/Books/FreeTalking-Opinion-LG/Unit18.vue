@@ -19,7 +19,7 @@
         width: 100%;
         padding-top : 10px;
         padding-left : 10px;
-        padding-bottom: 10px;">Pianos Versus Guitars
+        padding-bottom: 10px;">[09/03] Pianos Versus Guitars
       </h1>
       </transition>
     </v-layout>

@@ -19,7 +19,7 @@
         width: 100%;
         padding-top : 10px;
         padding-left : 10px;
-        padding-bottom: 10px;">Spontaneous Action Versus Planned Action
+        padding-bottom: 10px;">[08/26] Spontaneous Action Versus Planned Action
       </h1>
       </transition>
     </v-layout>

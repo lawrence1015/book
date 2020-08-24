@@ -33,7 +33,7 @@
   <hr width="60%">
                <div style="padding : 10px; line-height: 200%;" class = "korean">
 
-                 <h2>Pattern 14 | 뭘 ~할지 모르겠어 </h2>
+                 <h2>Pattern 14 |  </h2>
                   <br />
                   <h3>I don’t know what…</h3>
                     <br />

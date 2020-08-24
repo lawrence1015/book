@@ -130,28 +130,16 @@
               267 Is there anyone who has been to Italy?<br />
               268 Is there anyone who can speak Japanese?<br />
               269 Is there anyone who has seen what happened?<br />
-              270 <br />
-              271 <br />
-              272 <br />
+              270 Is there anyone who would like to try?<br />
+              271 Is there anyone you would like to meet?<br />
+              272 Is there anyone out there?<br />
             </v-card-text>
           </v-card>
         </v-flex>
       </v-layout>
       </v-container>
         <br />
-  <v-container grid-list-md text-xs-left>
-      <v-layout row wrap>
-
-
-          <v-flex xs12>
-          <v-card light color="#FFE7FF">
-            <v-card-text class="px-10">
-
-            </v-card-text>
-          </v-card>
-        </v-flex>
-      </v-layout>
-  </v-container>
+ 
 
 </div>
 

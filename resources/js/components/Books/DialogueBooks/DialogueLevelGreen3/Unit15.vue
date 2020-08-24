@@ -65,7 +65,7 @@
                 <v-img src="images/dialogue-unit15-letter.jpg" />
                 <v-card-text>
                 Letters/mail<br>
-                There are a lot of letters in the cars mail box.
+                There are a lot of letters in the mail box.
                 </v-card-text>
 
               </v-card>
@@ -76,7 +76,7 @@
 
                 <v-img src="images/dialogue-unit15-tank.jpg" />
                 <v-card-text>
-                box gas/tank<br>
+                gas/tank<br>
                 There’s only a little gas in the tank.
                 </v-card-text>
 
@@ -90,7 +90,7 @@
                 <v-img src="images/dialogue-unit15-parking-lot.jpg" />
                 <v-card-text>
                 cars/parking lot<br>
-                There are only a few in the parking lot.
+                There are only a few cars in the parking lot.
                 </v-card-text>
 
               </v-card>

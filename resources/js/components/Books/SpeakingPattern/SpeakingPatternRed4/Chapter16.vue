@@ -129,9 +129,9 @@
               603 I’m afraid of going out alone at night.<br />
               604 I’m afraid of showing my feelings.<br />
               605 I’m afraid of ghosts.<br />
-              606 <br />
-              607 <br />
-              608 <br />
+              606 I’m afraid of flying cockroaches.<br />
+              607 I’m afraid of my mom.<br />
+              608 I’m afraid of losing this game.<br />
             </v-card-text>
           </v-card>
         </v-flex>

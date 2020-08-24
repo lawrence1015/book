@@ -128,9 +128,9 @@
               083 I know how to make Tom laugh.<br />
               084 I know how you feel.<br />
               085 I know that you loved my sister.<br />
-              086 How do you like your coffee?<br />
-              087 How do you like this suit?<br />
-              088 How do you like married life?<br />
+              086 I know what love is.<br />
+              087 I know you both well.<br />
+              088 I know she is joking.<br />
             </v-card-text>
           </v-card>
         </v-flex>

@@ -58,13 +58,13 @@
         <div style="padding : 16px;">
 
         <p>
-          <u>Fill the blanks. Always answer with a whole sentence</u><br />
+          <u>Fill the blanks. Always answer with a whole sentence.</u><br />
           (빈칸에 알맞은 말을 채우세요. 답은 항상 전체 문장으로 말해주세요)<br />
         </p>
 
         <ol style="margin: 12px;">
           <li>
-            How <u> &emsp; &emsp; &emsp; </u> <u> &emsp; &emsp; &emsp; </u> these shoes? <u> &emsp; &emsp; &emsp; </u> are twenty-five dollars.<br />
+            How <u> &emsp; &emsp; &emsp; </u>  <u> &emsp; &emsp; &emsp; </u> these shoes? <u> &emsp; &emsp; &emsp; </u> are twenty-five dollars.<br />
                 (이 신발은 얼마입니까? 25달입니다.)<br />
           </li>
           <li>

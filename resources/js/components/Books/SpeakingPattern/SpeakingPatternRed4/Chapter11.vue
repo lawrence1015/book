@@ -33,7 +33,7 @@
   <hr width="60%">
                <div style="padding : 10px; line-height: 200%;">
 
-                 <h2>Pattern 71 | ~해서 놀랐어 </h2>
+                 <h2>Pattern 71 |  </h2>
                   <br />
                   <h3>I was surprised to…</h3>
                     <br />
@@ -128,9 +128,9 @@
               563 I was surprised to see the results.<br />
               564 I was surprised to be selected.<br />
               565 I was surprised to see you with a girl.<br />
-              566 <br />
-              567 <br />
-              568 <br />
+              566 I was surprised to hear from you again.<br />
+              567 I was surprised to see you out here alone.<br />
+              568 I was surprised to find out what happened.<br />
             </v-card-text>
           </v-card>
         </v-flex>

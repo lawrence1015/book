@@ -72,12 +72,13 @@
 
         <ol style="margin: 12px;">
           <li>
-            KFC는 어디에 있습니까? 음반사옆에 있습니다. <br />
-                Where is KFC? It's <u> &emsp; &emsp; &emsp; </u> <u> &emsp; &emsp; &emsp; </u> the record shop. <br />
+            
+             <br />
+                Where is KFC? It's <u> &emsp; &emsp; &emsp; </u>    <u> &emsp; &emsp; &emsp; </u> the record shop. <br />
           </li>
           <li>
             식당은 어디에 있습니까? 서점 맞은 편에 있습니다.<br />
-                Where is the restaurant? It's <u> &emsp; &emsp; &emsp; </u> <u> &emsp; &emsp; &emsp; </u> the bookstore.<br />
+                Where is the restaurant? It's <u> &emsp; &emsp; &emsp; </u>   <u> &emsp; &emsp; &emsp; </u> the bookstore.<br />
           </li>
           <li>
             서점은 어디에 있습니까? 신발가게와 우체국 사이에 있습니다. <br />

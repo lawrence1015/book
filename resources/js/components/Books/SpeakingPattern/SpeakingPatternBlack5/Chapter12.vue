@@ -126,9 +126,9 @@
               731 I like the way you treat me.<br />
               732 I like the way you sing.<br />
               733 I like the way you handle this situation.<br />
-              734 <br />
-              735 <br />
-              736 <br />
+              734 I like the way you care about other people’s feelings.<br />
+              735 I like the way you look at me.<br />
+              736 I like the way you dress.<br />
             </v-card-text>
           </v-card>
         </v-flex>

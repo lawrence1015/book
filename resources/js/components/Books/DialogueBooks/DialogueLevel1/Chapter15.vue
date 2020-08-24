@@ -52,7 +52,7 @@
         <div style="padding : 16px;">
 
         <p>
-          <u>Fill the blanks. Always answer with a whole sentence</u><br />
+          <u>Fill the blanks. Always answer with a whole sentence.</u><br />
           (빈칸에 알맞은 말을 채우세요. 답은 항상 전체 문장으로 말해주세요)
         </p>
 
@@ -228,7 +228,7 @@ export default {
         },
         {
           name:'Eva:',
-          speech:'Our house is in downtown.'
+          speech:'Our house is downtown.'
         },
         ],
 

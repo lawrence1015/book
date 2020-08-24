@@ -19,7 +19,7 @@
         width: 100%;
         padding-top : 10px;
         padding-left : 10px;
-        padding-bottom: 10px;">Does Cold Weather Cause Colds?
+        padding-bottom: 10px;">[08/10] Does Cold Weather Cause Colds?
       </h1>
       </transition>
     </v-layout>

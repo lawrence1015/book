@@ -129,9 +129,9 @@
               611 I’m worried about my grade.<br />
               612 I’m worried about the environment.<br />
               613 I’m worried about my job interview.<br />
-              614 <br />
-              615 <br />
-              616 <br />
+              614 I’m worried about you.<br />
+              615 I’m worried about the future.<br />
+              616 I’m worried about her reaction when she finds out.<br />
             </v-card-text>
           </v-card>
         </v-flex>

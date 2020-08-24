@@ -130,9 +130,9 @@
               715 I don’t care whether it is true or not.<br />
               716 I don’t care how much it costs.<br />
               717 I don’t care what you say.<br />
-              718 <br />
-              719 <br />
-              720 <br />
+              718 I don’t care about the past.<br />
+              719 I don’t care where you’re from, as long as you do your best.<br />
+              720 I don’t care about Mia’s opinion.<br />
             </v-card-text>
           </v-card>
         </v-flex>

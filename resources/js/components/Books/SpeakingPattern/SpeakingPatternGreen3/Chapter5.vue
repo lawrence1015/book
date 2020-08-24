@@ -133,9 +133,9 @@
               355 I’m dying to get started.<br />
               356 I’m dying to hear the news<br />
               357 I’m dying to see her baby.<br />
-              358 <br />
-              359 <br />
-              360 <br />
+              358 I’m dying to finish this project.<br />
+              359 I’m dying to taste that food.<br />
+              360 I’m dying to dye my hair pink.<br />
             </v-card-text>
           </v-card>
         </v-flex>

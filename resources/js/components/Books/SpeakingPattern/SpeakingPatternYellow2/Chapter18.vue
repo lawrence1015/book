@@ -130,7 +130,7 @@
               299 There’s no way I can forgive him.<br />
               300 There’s no way I can do this.<br />
               301 There’s no way I can finish it by tonight.<br />
-              302 <br />
+              302 There’s no way I can accept this.<br />
               303 <br />
               304 <br />
             </v-card-text>

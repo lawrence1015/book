@@ -19,7 +19,7 @@
         width: 100%;
         padding-top : 10px;
         padding-left : 10px;
-        padding-bottom: 10px;">Short Hair Versus Long Hair
+        padding-bottom: 10px;">[08/20] Short Hair Versus Long Hair
       </h1>
       </transition>
     </v-layout>

@@ -130,9 +130,9 @@
               475 May I suggest a specialist?<br />
               476 May I suggest an alternative?<br />
               477 May I suggest an investment?<br />
-              478 <br />
-              479 <br />
-              480 <br />
+              478 May I suggest a different technique?<br />
+              479 May I suggest a book?<br />
+              480 May I suggest we take a break first?<br />
             </v-card-text>
           </v-card>
         </v-flex>

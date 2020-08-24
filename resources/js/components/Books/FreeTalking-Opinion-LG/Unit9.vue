@@ -19,7 +19,7 @@
         width: 100%;
         padding-top : 10px;
         padding-left : 10px;
-        padding-bottom: 10px;">2D Animation Versus 3D Animation
+        padding-bottom: 10px;">[08/21] 2D Animation Versus 3D Animation
       </h1>
       </transition>
     </v-layout>

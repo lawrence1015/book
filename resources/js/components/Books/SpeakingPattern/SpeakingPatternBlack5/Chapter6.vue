@@ -130,9 +130,9 @@
               683 I like it when it’s spicy.<br />
               684 I like it when my coffee is hot.<br />
               685 I like it when you're kind to me.<br />
-              686 <br />
-              687 <br />
-              688 <br />
+              686 I like it when my parents are happy.<br />
+              687 I like it when it’s sunny.<br />
+              688 I like it when you sing that song.<br />
             </v-card-text>
           </v-card>
         </v-flex>

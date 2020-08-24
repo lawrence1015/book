@@ -127,9 +127,9 @@
               419 Let’s keep it to ourselves.<br />
               420 Let’s forget about last night.<br />
               421 Let’s hang out.<br />
-              422 <br />
-              423 <br />
-              424 <br />
+              422 Let’s win this game.<br />
+              423 Let’s go to the beach.<br />
+              424 Let’s invite them for breakfast.<br />
             </v-card-text>
           </v-card>
         </v-flex>

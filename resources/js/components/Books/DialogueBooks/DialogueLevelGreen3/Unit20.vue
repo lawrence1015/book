@@ -250,7 +250,7 @@ export default {
         },
         {
           name:'Gina:',
-          speech:'I don’t think so. There wasn’t much to do. That’s why young people go toNew York.'
+          speech:'I don’t think so. There wasn’t much to do. That’s why young people go to New York.'
         },
         {
           name:'Jeff:',

@@ -129,9 +129,9 @@
               339 I don’t want to go to the gym.<br />
               340 I don’t want to work with her. <br />
               341 I don’t want to talk to the girl.<br />
-              342 <br />
-              343 <br />
-              344 <br />
+              342 I don’t want to scare you.<br />
+              343 I don’t want to eat there.<br />
+              344 I don’t want to disappoint you.<br />
             </v-card-text>
           </v-card>
         </v-flex>

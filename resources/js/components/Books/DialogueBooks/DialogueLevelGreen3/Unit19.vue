@@ -74,7 +74,7 @@
         <p>
           Free response:<br />
             When is your birthday?<br />
-            When is your parents’ birthday?<br/ >
+            When is your parents’ birthday?<br />
             What is your favorite holiday? When is it?<br />
             
 

@@ -109,13 +109,13 @@
           <b>253</b> 식용유 좀 있니? (cooking oil) <br />
         </p>
         <p>
-          <b>254</b>  <br />
+          <b>254</b> 무슨 문제라도 있나요? <br />
         </p>
         <p>
-          <b>255</b>  <br />
+          <b>255</b> 고객으로부터 불만 사항이 있습니까? <br />
         </p>
         <p>
-          <b>256</b>  <br />
+          <b>256</b> 당신과 제임스 사이에 무슨 갈등이 있나요? <br />
         </p>
         <v-container grid-list-md text-xs-left>
       <v-layout row wrap>
@@ -129,9 +129,9 @@
               251 Is there any popcorn left?<br />
               252 Is there any reason to doubt Steve?<br />
               253 Is there any cooking oil?<br />
-              254 <br />
-              255 <br />
-              256 <br />
+              254 Is there any problem?<br />
+              255 Is there any complaint from the customer?<br />
+              256 Is there any conflict between you and James?<br />
             </v-card-text>
           </v-card>
         </v-flex>

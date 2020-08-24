@@ -33,7 +33,7 @@
   <hr width="60%">
                <div style="padding : 10px; line-height: 200%;">
 
-                 <h2>Pattern 73 | 넌 ~를 못 믿을 거야 </h2>
+                 <h2>Pattern 73 |  </h2>
                   <br />
                   <h3>You wouldn’t believe…</h3>
                     <br />
@@ -129,9 +129,9 @@
               579 You wouldn’t believe what I just heard.<br />
               580 You wouldn’t believe Jack’s temper.<br />
               581 You wouldn’t believe what I had to do.<br />
-              582 <br />
-              583 <br />
-              584 <br />
+              582 You wouldn’t believe what she would do for her family.<br />
+              583 You wouldn’t believe how long it takes to get here.<br />
+              584 You wouldn’t believe how often he visits her.<br />
             </v-card-text>
           </v-card>
         </v-flex>

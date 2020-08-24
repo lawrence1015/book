@@ -128,13 +128,13 @@
           <v-card light color="#a7d7c5">
             <v-card-text class="px-10" style="color:#d9e7cd;">
               545 I’d be happy to accompany you.<br />
-              546 I’d be happy to show you around<br />
+              546 I’d be happy to show you around.<br />
               547 I’d be happy to make your dress.<br />
               548 I’d be happy to cover for you tomorrow.<br />
               549 I’d be happy to help you.<br />
-              550 <br />
-              551 <br />
-              552 <br />
+              550 I’d be happy to oblige.<br />
+              551 I’d be happy to sing for you.<br />
+              552 I’d be happy to cook your favourite dish.<br />
             </v-card-text>
           </v-card>
         </v-flex>

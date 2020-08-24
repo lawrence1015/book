@@ -19,7 +19,7 @@
         width: 100%;
         padding-top : 10px;
         padding-left : 10px;
-        padding-bottom: 10px;">Plays Versus Musicals
+        padding-bottom: 10px;">[09/02] Plays Versus Musicals
       </h1>
       </transition>
     </v-layout>

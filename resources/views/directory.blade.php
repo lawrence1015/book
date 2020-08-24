@@ -99,7 +99,7 @@
       <div class="container mt-2 pt-2">
           <div class="card" style="width: 18rem;">
               <div class="card-body">
-                  <a href ="/book#/freetalking/beginner/Unit1Chapter1">Perfect Reading & Talking</a>
+                  <a href ="/book#/freetalking/beginner/Chapter1Unit1">Perfect Reading & Talking</a>
               </div>
           </div>
       </div>
@@ -173,7 +173,7 @@
       <div class="container mt-2 pt-2">
           <div class="card" style="width: 18rem;">
               <div class="card-body">
-                  <a href ="/book#/IT-Issues/IT-Issues1/chapter1">IT Issues</a>
+                  <a href ="/book#/IT-Issues/IT-Issues1/unit1">IT Issues</a>
               </div>
           </div>
       </div>

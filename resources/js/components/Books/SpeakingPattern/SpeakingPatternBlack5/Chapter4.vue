@@ -130,9 +130,9 @@
               667 I don’t like what she’s wearing.<br />
               668 I don’t like going out.<br />
               669 I don’t like what we have to do.<br />
-              670 <br />
-              671 <br />
-              672 <br />
+              670 I don’t like wearing high heels.<br />
+              671 I don’t like cucumbers.<br />
+              672 I don’t like sharing my problems.<br />
             </v-card-text>
           </v-card>
         </v-flex>

@@ -35,7 +35,7 @@
 
                  <h2>Pattern 49 |  </h2>
                   <br />
-                  <h3>There’s no time to…</h3>
+                  <h3>Why do you want to….?</h3>
                     <br />
                     <p>
                     상대방이 ‘왜 ~하기를 원하는지’ 궁금할 때는 why를 써서 이렇게 물어보면 된다. Why do you want to…? 라고 통째로 외워두자.
@@ -131,9 +131,9 @@
               387 Why do you want to have the party here?<br />
               388 Why do you want to stir up trouble?<br />
               389 Why do you want to know about it?<br />
-              390 <br />
-              391 <br />
-              392 <br />
+              390 Why do you want to become a doctor?<br />
+              391 Why do you want to go to that university?<br />
+              392 Why do you want to leave so early?<br />
             </v-card-text>
           </v-card>
         </v-flex>

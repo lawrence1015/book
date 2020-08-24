@@ -129,9 +129,9 @@
               243 Is there a bus stop around here<br />
               244 Is there a problem?<br />
               245 Is there an umbrella in the closet?<br />
-              246 <br />
-              247 <br />
-              248 <br />
+              246 Is there a grocery store nearby?<br />
+              247 Is there someone to receive the parcel?<br />
+              248 Is there something that you want to know?<br />
             </v-card-text>
           </v-card>
         </v-flex>

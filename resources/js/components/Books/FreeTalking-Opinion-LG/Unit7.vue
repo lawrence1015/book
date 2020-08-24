@@ -19,7 +19,7 @@
         width: 100%;
         padding-top : 10px;
         padding-left : 10px;
-        padding-bottom: 10px;">Natural Talent Versus Hard Work
+        padding-bottom: 10px;">[08/19] Natural Talent Versus Hard Work
       </h1>
       </transition>
     </v-layout>

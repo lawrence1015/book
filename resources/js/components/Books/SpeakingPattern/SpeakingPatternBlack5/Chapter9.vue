@@ -33,7 +33,7 @@
   <hr width="60%">
                <div style="padding : 10px; line-height: 200%;">
 
-                 <h2>Pattern 89 | ~에 관심 없어요 </h2>
+                 <h2>Pattern 89 |  </h2>
                   <br />
                   <h3>I’m not interested in….</h3>
                     <br />
@@ -129,9 +129,9 @@
               707 I’m not interested in babysitting.<br />
               708 I’m not interested in keeping secrets.<br />
               709 I’m not interested in you anymore.<br />
-              710 <br />
-              711 <br />
-              712 <br />
+              710 I’m not interested in her offer.<br />
+              711 I’m not interested in heavy drama.<br />
+              712 I’m not interested in a serious argument on this topic.<br />
             </v-card-text>
           </v-card>
         </v-flex>

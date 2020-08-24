@@ -132,9 +132,9 @@
               427 Let’s not jump to conclusions.<br />
               428 Let’s not waste energy.<br />
               429 Let’s not overdo.<br />
-              430 <br />
-              431 <br />
-              432 <br />
+              430 Let’s not forget our responsibilities.<br />
+              431 Let’s not arrive late next time.<br />
+              432 Let’s not go that far.<br />
             </v-card-text>
           </v-card>
         </v-flex>

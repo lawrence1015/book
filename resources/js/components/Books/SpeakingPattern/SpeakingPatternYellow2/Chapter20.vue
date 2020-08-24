@@ -129,28 +129,16 @@
               315 What’s the best way to get there?<br />
               316 What’s the best way to get in touch with you?<br />
               317 What’s the best way to make them laugh?<br />
-              318 <br />
-              319 <br />
-              320 <br />
+              318 What’s the best way to improve my skills?<br />
+              319 What’s the best way to learn English?<br />
+              320 What’s the best way to study for an exam?<br />
             </v-card-text>
           </v-card>
         </v-flex>
       </v-layout>
   </v-container>
         <br />
-  <v-container grid-list-md text-xs-left>
-      <v-layout row wrap>
-
-
-          <v-flex xs12>
-          <v-card light color="#FFE7FF">
-            <v-card-text class="px-10">
-
-            </v-card-text>
-          </v-card>
-        </v-flex>
-      </v-layout>
-  </v-container>
+ 
 
 </div>
 

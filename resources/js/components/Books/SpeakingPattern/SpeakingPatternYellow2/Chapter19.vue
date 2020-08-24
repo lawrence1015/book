@@ -129,9 +129,9 @@
               307 There’s a nicer way to say that.<br />
               308 There’s a better way to get his attention.<br />
               309 There’s a quicker way to boil water.<br />
-              310 <br />
-              311 <br />
-              312 <br />
+              310 There’s a sweeter way to ask her.<br />
+              311 There’s a smarter way to study for the exam.<br />
+              312 There’s a more accurate way to solve that.<br />
             </v-card-text>
           </v-card>
         </v-flex>

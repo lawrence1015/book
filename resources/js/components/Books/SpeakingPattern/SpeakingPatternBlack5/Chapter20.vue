@@ -130,9 +130,9 @@
               795 How nice of you to say so!<br />
               796 How nice of you to pay for everything.<br />
               797 How nice of you to prepare the dinner for me.<br />
-              798 <br />
-              799 <br />
-              800 <br />
+              798 How nice of you to join us in this gathering.<br />
+              799 How nice of you to give free tokens.<br />
+              800 How nice of you to forgive.<br />
             </v-card-text>
           </v-card>
         </v-flex>

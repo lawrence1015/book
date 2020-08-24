@@ -19,7 +19,7 @@
         width: 100%;
         padding-top : 10px;
         padding-left : 10px;
-        padding-bottom: 10px;">Are Regular Visits to the Dentist Necessary?
+        padding-bottom: 10px;">[09/01] Are Regular Visits to the Dentist Necessary?
       </h1>
       </transition>
     </v-layout>

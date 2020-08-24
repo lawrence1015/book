@@ -131,9 +131,9 @@
               395 When do you want to leave<br />
               396 When do you want to meet?<br />
               397 When do you want to go to dinner?<br />
-              398 <br />
-              399 <br />
-              400 <br />
+              398 When do you want to set an appointment<br />
+              399 When do you want to continue our discussion?<br />
+              400 When do you want to start?<br />
             </v-card-text>
           </v-card>
         </v-flex>

@@ -59,13 +59,13 @@
           <p style="line-height: 2;">
             A : <b>너 외식하는 거 좋아해?</b><br />
             B : Yeah, I do.<br />
-            A : Oh, yeah? Where do you usually eat?
+            A : Oh, yeah? Where do you usually eat? <br />
             B : I usually eat at Qdoba.
           </p>
           <p style="line-height: 2;">
             A : <mark style="background-color: #a7d7c5; color: #d9e7cd;">Do you like eating out?</mark><br />
             B : 응.<br />
-            A : 아, 그래? 주로 어디서 먹어?
+            A : 아, 그래? 주로 어디서 먹어? <br />
             B : 주로 큐도바에서 먹어.
           </p>
           <br />
@@ -132,9 +132,9 @@
               643 Do you like eating out?<br />
               644 Do you like helping others?<br />
               645 Do you like singing in the shower?<br />
-              646 <br />
-              647 <br />
-              648 <br />
+              646 Do you like reading books?<br />
+              647 Do you like playing with the dogs?<br />
+              648 Do you like coffee?<br />
             </v-card-text>
           </v-card>
         </v-flex>

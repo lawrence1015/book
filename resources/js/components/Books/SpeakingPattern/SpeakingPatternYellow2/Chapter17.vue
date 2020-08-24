@@ -130,9 +130,9 @@
               291 There’s no way she knows about this.<br />
               292 There’s no way she’s only 25.<br />
               293 There’s no way to get there by Friday.<br />
-              294 <br />
-              295 <br />
-              296 <br />
+              294 There’s no way he could see us from here.<br />
+              295 There’s no way I would do that to you.<br />
+              296 There’s no way we can beat him.<br />
             </v-card-text>
           </v-card>
         </v-flex>

@@ -131,9 +131,9 @@
               491 I’m really starving.<br />
               492 I’m really mad at you.<br />
               493 I’m really sleepy.<br />
-              494 <br />
-              495 <br />
-              496 <br />
+              494 I’m really sorry.<br />
+              495 I’m really happy for you.<br />
+              496 I’m really excited to see you.<br />
             </v-card-text>
           </v-card>
         </v-flex>

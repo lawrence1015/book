@@ -100,7 +100,7 @@
           <b>650</b> 난 새로 온 상사가 마음에 들어. ( new boss ) <br />
         </p>
         <p>
-          <b>651</b> 난 게임하는 걸 좋아해 ( palt, game ) <br />
+          <b>651</b> 난 게임하는 걸 좋아해 ( play, game ) <br />
         </p>
         <p>
           <b>652</b> 난 친구들 만나서 노는 걸 좋아해. ( hang out with ) <br />
@@ -130,9 +130,9 @@
               651 I like to play games.<br />
               652 I like hanging out with my friends.<br />
               653 I like vanilla better than chocolate.<br />
-              654 <br />
-              655 <br />
-              656 <br />
+              654 I like helping other people.<br />
+              655 I like spending time with my siblings.<br />
+              656 I like the changes.<br />
             </v-card-text>
           </v-card>
         </v-flex>

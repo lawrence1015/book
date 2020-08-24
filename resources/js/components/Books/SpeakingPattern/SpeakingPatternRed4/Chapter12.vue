@@ -129,9 +129,9 @@
               571 I can’t believe this is happening.<br />
               572 I can’t believe it’s over between us.<br />
               573 I can’t believe he said that.<br />
-              574 <br />
-              575 <br />
-              576 <br />
+              574 I can’t believe this is real.<br />
+              575 I can’t believe you just did that.<br />
+              576 I can’t believe my eyes.<br />
             </v-card-text>
           </v-card>
         </v-flex>

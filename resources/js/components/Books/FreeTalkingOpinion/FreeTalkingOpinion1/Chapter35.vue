@@ -120,7 +120,27 @@
 
       </div>
 
+     <div style="margin-left: -18px; margin-right: -18px; margin-top: 10px; border-color: #2F4674; border-style: solid; border-width: 2px;">
+      </div>
+      <h3 class = "border white--text"
+          style="border-radius: 0px 0px 70px 0px;
+                 padding-top: 7px;
+                 margin-left: -18px;
+                 margin-right: -18px;
+                 padding-left: 10px;
+                 padding-bottom: 10px;
+                 padding-top: 5px;
+                 margin-top: 0px;">Questions</h3>
+      <div style="padding : 16px;">
+
+        <ol style="margin: 12px;">
+          <li>What do you know about Feng Shui?</li>
+          <li>Do you apply Feng Shui teachings in your daily life? Why or why not?</li>
+          <li>Do you think Feng Shui has a scientific basis? Why or why not?</li>
+        </ol>
+
     
+      </div>
 
     </div>
 

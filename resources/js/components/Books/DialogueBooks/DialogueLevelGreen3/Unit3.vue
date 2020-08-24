@@ -18,7 +18,7 @@
         width: 100%;
         padding-top : 10px;
         padding-left : 10px;
-        padding-bottom: 10px;">In the office
+        padding-bottom: 10px;">Did you get everything?
       </h1>
     </v-layout>
   </v-img>

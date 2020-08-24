@@ -130,9 +130,9 @@
               531 I’m so glad that’s over<br />
               532 I’m so glad to hear that.<br />
               533 I’m so glad that it's sunny today.<br />
-              534 <br />
-              535 <br />
-              536 <br />
+              534 I’m so glad you came.<br />
+              535 I’m so glad you made time to see me.<br />
+              536 I’m so glad we got accepted.<br />
             </v-card-text>
           </v-card>
         </v-flex>

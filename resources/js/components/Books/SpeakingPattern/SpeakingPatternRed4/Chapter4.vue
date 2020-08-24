@@ -130,9 +130,9 @@
               507 It’s a little awkward.<br />
               508 It’s a little far to walk.<br />
               509 It’s a little spooky.<br />
-              510 <br />
-              511 <br />
-              512 <br />
+              510 It’s a little heavy to carry.<br />
+              511 It’s a little late.<br />
+              512 It’s a little bit funny.<br />
             </v-card-text>
           </v-card>
         </v-flex>

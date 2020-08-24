@@ -131,9 +131,9 @@
               555 I’m willing to take that risk.<br />
               556 I’m willing to give it a try.<br />
               557 I’m willing to do anything for you.<br />
-              558 <br />
-              559 <br />
-              560 <br />
+              558 I’m willing to give you a chance.<br />
+              559 I’m willing to admit my mistakes.<br />
+              560 I’m willing to discuss our problems.<br />
             </v-card-text>
           </v-card>
         </v-flex>

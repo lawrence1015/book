@@ -19,7 +19,7 @@
         width: 100%;
         padding-top : 10px;
         padding-left : 10px;
-        padding-bottom: 10px;">Fruits Versus Vegetables
+        padding-bottom: 10px;">[08/27] Fruits Versus Vegetables
       </h1>
       </transition>
     </v-layout>

@@ -66,8 +66,8 @@
             A : 무슨 일이야?<br />
             B : 공항에 가야 하는데 버스를 놓쳤어.<br />
             A : 걱정 마. 내가 태워다줄게.<br />
-            B : 정말? <mark style="background-color: #a7d7c5; color: #d9e7cd;">I appreciate your kindness</mark>
-
+            B : 정말? <mark style="background-color: #a7d7c5; color: #d9e7cd;">I appreciate your kindness</mark><br />
+            <br />
             *give ~a ride  ~를 태워주다.<br />
           </p>
           <br />
@@ -131,9 +131,9 @@
               771 I appreciate your kindness.<br />
               772 I appreciate your concern.<br />
               773 I appreciate your time.<br />
-              774 <br />
-              775 <br />
-              776 <br />
+              774 I appreciate the gesture.<br />
+              775 I appreciate your presence.<br />
+              776 I appreciate this very much.<br />
             </v-card-text>
           </v-card>
         </v-flex>

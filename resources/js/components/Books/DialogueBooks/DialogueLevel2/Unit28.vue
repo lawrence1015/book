@@ -82,7 +82,7 @@
           Free response: <br />
             Where were you yesterday at one o’clock?<br />
             Where were you last Saturday?<br />
-            When were you in the hospital last time?<br />
+            When was the last time you were in a hospital?<br />
         </p>
 
       </div>
